@@ -530,35 +530,102 @@
     </footer>
 
 
+   
+
+        <script>
+     // Hero Section Animations - On Load
+document.addEventListener('DOMContentLoaded', function() {
+    // Check if GSAP is loaded
+    if (typeof gsap === 'undefined') {
+        console.error('GSAP is not loaded. Please include GSAP library.');
+        return;
+    }
+
+    // Set initial states
+    gsap.set('.hero-overlay', { x: '-100%' });
+    gsap.set('.hero-text-content', { opacity: 0, x: -50 });
+    gsap.set('.logo-overlay', { opacity: 0, scale: 0.5 });
+    gsap.set('.angle-container', { opacity: 0, x: 100 });
+
+    // Create timeline that plays immediately
+    const heroTimeline = gsap.timeline({
+        delay: 0.3 // Small delay after page load
+    });
+
+    // Animate left overlay background
+    heroTimeline.to('.hero-overlay', {
+        x: '0%',
+        duration: 1,
+        ease: 'power2.out'
+    })
+    // Animate text content from left
+    .to('.hero-text-content', {
+        opacity: 1,
+        x: 0,
+        duration: 0.8,
+        ease: 'power2.out'
+    }, '-=0.5')
+    // Animate logo overlay
+    .to('.logo-overlay', {
+        opacity: 1,
+        scale: 1,
+        duration: 0.6,
+        ease: 'back.out(1.7)'
+    }, '-=0.4')
+    // Animate right image from right to left
+    .to('.angle-container', {
+        opacity: 1,
+        x: 0,
+        duration: 0.8,
+        ease: 'power2.out'
+    }, '-=0.6');
+});
+    </script>
+
     <script>
-        // Theme Toggle Functionality
-        const themeToggle = document.getElementById('themeToggle');
-        const htmlElement = document.documentElement;
-        const themeIcon = themeToggle.querySelector('i');
-
-        // Check for saved theme preference or default to 'light'
-        const currentTheme = localStorage.getItem('theme') || 'light';
-        htmlElement.setAttribute('data-theme', currentTheme);
-        updateThemeIcon(currentTheme);
-
-        themeToggle.addEventListener('click', () => {
-            const theme = htmlElement.getAttribute('data-theme');
-            const newTheme = theme === 'light' ? 'dark' : 'light';
-
-            htmlElement.setAttribute('data-theme', newTheme);
-            localStorage.setItem('theme', newTheme);
-            updateThemeIcon(newTheme);
+        window.addEventListener("load", () => {
+            document.querySelectorAll(".hero-left").forEach(el => {
+                el.classList.add("animate");
+            });
         });
+    </script>
 
-        function updateThemeIcon(theme) {
-            if (theme === 'dark') {
-                themeIcon.classList.remove('fa-moon');
-                themeIcon.classList.add('fa-sun');
-            } else {
-                themeIcon.classList.remove('fa-sun');
-                themeIcon.classList.add('fa-moon');
-            }
-        }
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
+    <script src="./js/scrollEffect.js"></script>
+    <script src="./js/heroscroll.js"></script>
+    <script src="./js/productScroll.js"></script>
+
+     <script>
+        // Theme Toggle Functionality
+        // const themeToggle = document.getElementById('themeToggle');
+        // const htmlElement = document.documentElement;
+        // const themeIcon = themeToggle.querySelector('i');
+
+        // // Check for saved theme preference or default to 'light'
+        // const currentTheme = localStorage.getItem('theme') || 'light';
+        // htmlElement.setAttribute('data-theme', currentTheme);
+        // updateThemeIcon(currentTheme);
+
+        // themeToggle.addEventListener('click', () => {
+        //     const theme = htmlElement.getAttribute('data-theme');
+        //     const newTheme = theme === 'light' ? 'dark' : 'light';
+
+        //     htmlElement.setAttribute('data-theme', newTheme);
+        //     localStorage.setItem('theme', newTheme);
+        //     updateThemeIcon(newTheme);
+        // });
+
+        // function updateThemeIcon(theme) {
+        //     if (theme === 'dark') {
+        //         themeIcon.classList.remove('fa-moon');
+        //         themeIcon.classList.add('fa-sun');
+        //     } else {
+        //         themeIcon.classList.remove('fa-sun');
+        //         themeIcon.classList.add('fa-moon');
+        //     }
+        // }
 
         // Initialize Hero Swiper with slide effect (sweeping right to left)
         const heroSwiper = new Swiper('.hero-swiper', {
@@ -577,19 +644,6 @@
             },
         });
     </script>
-
-    <script>
-        window.addEventListener("load", () => {
-            document.querySelectorAll(".hero-left").forEach(el => {
-                el.classList.add("animate");
-            });
-        });
-    </script>
-
-    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
-    <script src="./js/scrollEffect.js"></script>
 </body>
 
 </html>
