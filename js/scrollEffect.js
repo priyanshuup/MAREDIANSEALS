@@ -487,23 +487,94 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 
-    gsap.to(".industry-list li", {
+    // gsap.to(".industry-list li", {
+    //     scrollTrigger: {
+    //         trigger: ".industries-serve-section",
+    //         start: "top 70%",
+    //         end: "bottom 60%",
+    //         toggleActions: "play reverse play reverse",
+    //         markers: false
+    //     },
+    //     opacity: 1,
+    //     x: 0,
+    //     duration: 0.6,
+    //     ease: "power3.out",
+    //     stagger: {
+    //         each: 0.12,
+    //         from: "start"
+    //     }
+    // });
+
+    // Set initial states
+    gsap.set('.industries-grid-title', { y: -50, opacity: 0 });
+    gsap.set('.industries-grid-subtitle', { y: -30, opacity: 0 });
+    
+    // Set initial state for all cards
+    gsap.set('.industry-grid-card', { 
+        x: -100,
+        opacity: 0
+    });
+
+    // Create timeline
+    const industriesTimeline = gsap.timeline({
         scrollTrigger: {
-            trigger: ".industries-serve-section",
-            start: "top 70%",
-            end: "bottom 60%",
-            toggleActions: "play reverse play reverse",
-            markers: false
-        },
-        opacity: 1,
-        x: 0,
-        duration: 0.6,
-        ease: "power3.out",
-        stagger: {
-            each: 0.12,
-            from: "start"
+            trigger: '.industries-grid-section',
+            start: 'top 60%',
+            end: 'top 30%',
+            toggleActions: 'play none none reverse',
+            // markers: true, // Uncomment for debugging
         }
     });
+
+    // Animate header
+    industriesTimeline
+        .to('.industries-grid-title', {
+            y: 0,
+            opacity: 1,
+            duration: 0.6,
+            ease: 'power2.out'
+        })
+        .to('.industries-grid-subtitle', {
+            y: 0,
+            opacity: 1,
+            duration: 0.5,
+            ease: 'power2.out'
+        }, '-=0.3');
+
+    // Animate first row (cards 1-4)
+    industriesTimeline.to(['.card-1', '.card-2', '.card-3', '.card-4'], {
+        x: 0,
+        opacity: 1,
+        duration: 0.8,
+        stagger: 0.15,
+        ease: 'power2.out'
+    }, '-=0.2');
+
+    // Animate second row (cards 5-8)
+    industriesTimeline.to(['.card-5', '.card-6', '.card-7', '.card-8'], {
+        x: 0,
+        opacity: 1,
+        duration: 0.8,
+        stagger: 0.15,
+        ease: 'power2.out'
+    }, '-=0.4');
+
+    // Optional: Add subtle floating animation after initial animation
+    ScrollTrigger.create({
+        trigger: '.industries-grid-section',
+        start: 'top 60%',
+        onEnter: () => {
+            gsap.to('.industry-grid-card', {
+                y: -5,
+                duration: 2,
+                ease: 'sine.inOut',
+                stagger: 0.1,
+                repeat: -1,
+                yoyo: true
+            });
+        }
+    });
+
 
 }
 

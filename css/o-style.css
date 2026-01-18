@@ -2868,3 +2868,224 @@ justify-content: center;
 }
 
 
+
+
+/* ============================= */
+/* INDUSTRY LIST */
+/* ============================= */
+
+.industry-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.industry-list li {
+    position: relative;
+    display: flex;
+    align-items: flex-start;
+    color: var(--bg-primary);
+    gap: 18px;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 28px;
+    line-height: 1.4;
+}
+
+/* NUMBER CIRCLE */
+.industry-list li span {
+    position: relative;
+    z-index: 2;
+    width: 38px;
+    height: 38px;
+    min-width: 38px;
+    border-radius: 50%;
+    background: #1f6f91;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 6px 14px rgba(0,0,0,0.3);
+}
+
+/* PERFECTLY ALIGNED VERTICAL LINE */
+.industry-list li::before {
+    content: "";
+    position: absolute;
+    left: 19px;                /* center of circle */
+    top: 38px;                 /* start below circle */
+    width: 2px;
+    height: calc(100% + 28px);
+    background: rgba(255,255,255,0.45);
+}
+
+/* REMOVE LAST LINE */
+.industry-list li:last-child::before {
+    display: none;
+}
+
+/* HOVER EFFECT */
+.industry-list li:hover span {
+    background: #0fb2e2;
+    transform: scale(1.1);
+    transition: 0.3s ease;
+}
+
+
+/* LEFT IMAGE AREA */
+/* Right Images - Ring Layout */
+        .industries-content .about-right {
+            position: relative;
+            height: auto;
+            padding: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            /* background: var(--bg-light); */
+        }
+
+        .industries-content .image-group {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            /* gap: 30px; */
+        }
+
+        .industries-content .main-image-wrapper {
+            position: relative;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .industries-content .main-image {
+            border-radius: 25px;
+            overflow: hidden;
+            /* border: 3px solid var(--accent-color); */
+            /* box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5); */
+        }
+
+        .industries-content .main-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            display: block;
+        }
+
+        .industries-content .image-1 {
+            height: 300px;
+        }
+
+        .industries-content .sub-image {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 350px;
+            height: 240px;
+            border-radius: 25px;
+            overflow: hidden;
+            border: none;
+            /* box-shadow: 0 15px 40px rgba(0, 0, 0, 0.6); */
+            z-index: 3;
+            background: transparent;
+        }
+
+        .industries-content .sub-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+        }
+
+        .industries-content .image-group .image-2 {
+            width: 200px;
+            height: 200px;
+            border-radius: 25px;
+            margin-top: 0;
+            position: relative;
+            bottom: 100px;
+            left: 80px;
+        }
+
+        .industry-list li {
+    opacity: 0;
+    transform: translateX(40px);
+}
+
+
+/* ============================= */
+/* RESPONSIVE */
+/* ============================= */
+
+@media (max-width: 991px) {
+    .industries-content {
+        grid-template-columns: 1fr;
+        gap: 50px;
+    }
+
+    .industries-images {
+        text-align: center;
+    }
+
+    .img-large {
+        margin: 0 auto;
+    }
+
+    .img-small {
+        position: relative;
+        bottom: 0;
+        right: 0;
+        margin: 20px auto 0;
+    }
+}
+
+@media (max-width: 576px) {
+    .industries-header h2 {
+        font-size: 28px;
+    }
+
+    .industry-list li {
+        font-size: 17px;
+        gap: 14px;
+    }
+
+    .industry-list li span {
+        width: 32px;
+        height: 32px;
+        min-width: 32px;
+        font-size: 12px;
+    }
+
+    .industry-list li::before {
+        left: 16px;
+        top: 32px;
+    }
+}
+
+
+#services-why-choose-section{
+    background-image: url("../images/black-bg-all.jpeg");
+    background-position: center;
+    background-size: cover;
+    border-bottom: 15px solid #ffffff;
+}
+
+#services-why-choose-header h2{
+    color: var(--bg-light);
+}
+
+#services-why-choose-header p{
+    color: var(--bg-tertiory);
+    font-size: 20px;
+    font-style: italic;
+}
+#hexagon-container-service-section .hexagon-row .hex-wrapper .hex-label h3{
+    color: var(--bg-light);
+}
