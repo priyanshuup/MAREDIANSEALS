@@ -1,0 +1,317 @@
+{
+  "topBar": {
+    "phone": "+91 9561444777",
+    "email": "info@maredianseals.com",
+    "address": "dhanya sativali, vasai east, vasai",
+    "follow": "关注我们："
+  },
+  "hero": {
+    "slide1": {
+      "title": "以精度与性能密封未来",
+      "desc": "行业领先的机械密封，为苛刻应用中的可靠性和效率而设计。",
+      "cta": "探索产品"
+    },
+    "slide2": {
+      "title": "机械密封解决方案的创新",
+      "desc": "优质密封件为全球工业应用提供最大性能。",
+      "cta": "了解更多"
+    },
+    "products": {
+      "sectionTitle": "先进的密封解决方案",
+      "sectionDesc": "探索我们广泛的机械密封、旋转接头和组件，在最严苛条件下提供一致性能",
+      "items": {
+        "pusher": {
+          "title": "推力密封",
+          "desc": "接触面材料：Stellite、碳、陶瓷、硬质合金、碳化硅、Lecrolloy"
+        },
+        "textile": {
+          "title": "纺织密封",
+          "desc": "接触面材料：Stellite、碳、陶瓷、硬质合金、碳化硅、Lecrolloy"
+        },
+        "singleSpring": {
+          "title": "单弹簧密封",
+          "desc": "接触面材料：Stellite、碳、陶瓷、硬质合金、碳化硅、Lecrolloy"
+        },
+        "multiSpring": {
+          "title": "多弹簧密封",
+          "desc": "接触面材料：Stellite、碳、陶瓷、硬质合金、碳化硅、Lecrolloy"
+        }
+      }
+    },
+    "common": {
+      "readMore": "阅读更多",
+      "enquiry": "立即咨询"
+    },
+    "about": {
+      "title": "关于 FINAL MAREDIAN SEALS",
+      "subtitle": "精密。性能。完美。",
+      "description": "Maredian Seals 由充满激情的工程师和富有远见的技术专家创立，是机械密封技术的可信赖品牌，专注于设计和制造优质密封系统，在苛刻条件下提供无泄漏性能。凭借先进技术和数十年的专业知识，我们服务于包括石化、制药、纺织、食品加工、电力和水处理等行业。",
+      "features": {
+        "precision": "精密工程",
+        "delivery": "准时交付",
+        "custom": "定制解决方案",
+        "reliability": "可靠性与性能"
+      },
+      "learnMore": "了解我们更多"
+    },
+    "industries": {
+      "title": "我们服务的行业",
+      "subtitle": "我们的机械密封在一些最苛刻的工业环境中表现可靠。"
+    },
+    "whyChoose": {
+      "title": "为什么选择 FINAL MAREDIAN SEALS",
+      "items": {
+        "delivery": "快速交付\n与技术支持",
+        "expertise": "验证的工程\n专业知识",
+        "leakproof": "100% 无泄漏\n性能保证",
+        "trusted": "受客户信赖\n遍布各行业",
+        "manufacturing": "精密制造\n标准"
+      }
+    }
+  },
+  "ticker": {
+    "item1": "推力密封",
+    "item2": "单弹簧密封",
+    "item3": "多弹簧密封",
+    "item4": "纺织密封",
+    "item5": "特氟龙波纹管密封",
+    "item6": "金属波纹机械"
+  },
+  "aboutHero": {
+    "slide1": {
+      "title": "工程卓越\n传递密封完整性",
+      "desc": "在 Maredian Seals，我们设计和制造定义可靠性、精密性和性能的机械密封解决方案。",
+      "cta": "探索我们的专长"
+    },
+    "aboutUs": {
+      "title": "关于我们",
+      "tagline": "打造正确。密封紧密。",
+      "paragraph1": "Maredian Seals 以重新定义密封解决方案为愿景成立，是机械密封和密封系统领域的高级制造商、供应商和创新者。",
+      "paragraph2": "我们专注于在最苛刻的工业条件下执行的定制工程密封解决方案。我们的产品精密制造，确保无泄漏性能、耐用性和长使用寿命。",
+      "paragraph3": "凭借技术娴熟的工程师团队、先进制造实践和对质量的高度关注，我们提供解决方案，受到从石化和炼油到制药、食品加工和水处理等行业的信赖。",
+      "images": {
+        "image1": "机械密封产品",
+        "image2": "制造",
+        "image3": "工程师",
+        "image4": "密封产品",
+        "logo": "Maredian 标志"
+      }
+    },
+    "strengths": {
+      "title": "我们的优势：",
+      "tagline": "打造正确。密封紧密。",
+      "items": {
+        "precision": {
+          "title": "精密\n工程",
+          "alt": "精密工程"
+        },
+        "delivery": {
+          "title": "准时\n交付",
+          "alt": "准时交付"
+        },
+        "custom": {
+          "title": "定制\n解决方案",
+          "alt": "定制解决方案"
+        },
+        "reliability": {
+          "title": "可靠性与\n性能",
+          "alt": "可靠性"
+        }
+      }
+    },
+    "coreValues": {
+      "title": "我们的核心价值：",
+      "items": {
+        "innovation": {
+          "title": "创新",
+          "desc": "通过持续研发推进密封技术。",
+          "alt": "创新"
+        },
+        "integrity": {
+          "title": "诚信",
+          "desc": "透明的关系，诚实的承诺。",
+          "alt": "诚信"
+        },
+        "precision": {
+          "title": "精度",
+          "desc": "每一个密封都做到完美。",
+          "alt": "精度"
+        },
+        "sustainability": {
+          "title": "可持续性",
+          "desc": "环保材料与节能实践。",
+          "alt": "可持续性"
+        },
+        "customerFocus": {
+          "title": "以客户为中心",
+          "desc": "围绕您的工业需求设计的解决方案。",
+          "alt": "以客户为中心"
+        }
+      }
+    }
+  },
+  "productPage": {
+    "hero": {
+      "slide1": {
+        "title": "旨在密封。<br>耐用构建。",
+        "desc": "发现我们全系列精密机械密封，专为每个工业应用的耐用性、效率和完全无泄漏性能而打造。",
+        "ctaExplore": "探索产品",
+        "ctaView": "查看全部产品"
+      }
+    },
+    "allProducts": {
+      "title": "Maredian 密封<br>产品范围",
+      "all": "所有产品"
+    },
+    "categories": {
+      "pusher-seals": "推力密封",
+      "single-spring": "单弹簧密封",
+      "multi-spring": "多弹簧密封",
+      "textile-seal": "纺织密封",
+      "teflon-bellow": "特氟龙波纹管密封",
+      "metal-bellow": "金属波纹机械",
+      "boiler-feed": "锅炉给水密封",
+      "split-seals": "分体密封",
+      "high-pressure": "高压密封",
+      "dry-seals": "干式密封",
+      "cartridge-single": "单作用筒式",
+      "cartridge-double": "双作用筒式"
+    },
+    "products": {
+      "readMore": "阅读更多 →",
+      "enquiry": "咨询 →"
+    },
+    "details": {
+      "back": "← 返回产品",
+      "standardStyle": "⚙ 标准款式",
+      "characteristics": "⚙ 密封特性",
+      "operatingLimits": "⚙ 操作极限",
+      "applications": "⚙ 应用"
+    },
+    "productDetails": {
+      "pusher-seals": {
+        "standardStyle": [
+          "接触面材料：Stellite、碳、陶瓷、硬质合金、碳化硅、Lecrolloy",
+          "金属部件：SS 316、SS 304",
+          "次级密封：弹性体、PTFE"
+        ],
+        "characteristics": [
+          "单作用",
+          "不平衡",
+          "内装",
+          "依赖旋转方向"
+        ],
+        "operatingLimits": [
+          "轴直径 D1：10 mm 至 100 mm",
+          "压力 P：0.8 bar (最大)",
+          "温度 t：-20°C 至 +200°C",
+          "速度 V：20 m/sec"
+        ],
+        "applications": [
+          "水泵",
+          "中央供暖循环泵",
+          "化工过程泵",
+          "污水及潜水泵"
+        ]
+      }
+    }
+  },
+  "servicePage": {
+    "hero": {
+      "title": "端到端密封解决方案，<br>为可靠性而设计。",
+      "description": "从设计到交付，我们提供全面的密封服务，确保性能、耐用性和完全无泄漏的可靠性",
+      "cta": "请求咨询",
+      "viewProducts": "查看全部产品"
+    },
+    "industries": {
+      "title": "我们服务的行业",
+      "subtitle": "在多种工业领域提供卓越表现",
+      "items": {
+        "petrochemical": "石化与炼油",
+        "powerPlants": "电力与能源",
+        "oilGas": "石油与天然气",
+        "pharmaceuticals": "制药",
+        "waterTreatment": "水与废水处理",
+        "foodProcessing": "食品及饮料加工",
+        "textile": "纺织及纸浆行业",
+        "moreIndustries": "更多行业..."
+      }
+    }
+  },
+  "contactPage": {
+    "heading": "联系我们",
+    "tagline": "让我们一起打造无泄漏的解决方案。",
+    "headOffice": {
+      "iconAlt": "位置 图标",
+      "title": "总部",
+      "address": "dhanya sativali, vasai east, vasai"
+    },
+    "phone": {
+      "iconAlt": "电话 图标",
+      "title": "联系我们",
+      "number": "+91 9561444777"
+    },
+    "email": {
+      "iconAlt": "邮件 图标",
+      "title": "发送邮件",
+      "address": "info@maredianseals.com"
+    },
+    "workingHours": {
+      "monSatLabel": "星期一 – 星期六：",
+      "monSatTime": "上午 9:00 – 下午 7:00",
+      "sunLabel": "星期日：",
+      "sunTime": "休息"
+    },
+    "social": {
+      "heading": "关注我们的社交媒体：",
+      "facebook": "Facebook",
+      "linkedin": "LinkedIn",
+      "whatsapp": "WhatsApp",
+      "instagram": "Instagram"
+    },
+    "form": {
+      "heading": "咨询表单",
+      "companyNameLabel": "公司名称",
+      "companyNamePlaceholder": "输入您的公司名称",
+      "yourNameLabel": "您的姓名",
+      "yourNamePlaceholder": "输入您的姓名",
+      "contactDetailsLabel": "联系方式",
+      "contactDetailsPlaceholder": "输入电话号码",
+      "emailLabel": "邮箱",
+      "emailPlaceholder": "输入邮箱地址",
+      "productSelectLabel": "产品选择",
+      "productSelectPlaceholder": "输入产品名称",
+      "addressLabel": "地址 / 城市 / 位置",
+      "addressPlaceholder": "输入地址",
+      "questionLabel": "问题或需求",
+      "questionPlaceholder": "输入您的问题或需求",
+      "submitBtn": "发送"
+    },
+    "map": {
+      "iframeAlt": "公司位置地图"
+    }
+  },
+  "footer": {
+    "address": "Dhanya Sativali, Vasai East, Vasai",
+    "follow": "关注我们：",
+    "quickLinks": "快速链接",
+    "productsTitle": "我们的产品",
+    "links": {
+      "home": "首页",
+      "about": "关于我们",
+      "products": "产品",
+      "services": "服务",
+      "quality": "质量",
+      "contact": "联系我们"
+    },
+    "products": {
+      "pusher": "推力密封",
+      "single": "单弹簧密封",
+      "multi": "多弹簧密封",
+      "textile": "纺织密封",
+      "teflon": "特氟龙波纹管密封",
+      "metal": "金属波纹机械"
+    },
+    "copyright": "© 2026 Maredian Seals。保留所有权利。 | 隐私政策 | 条款与条件"
+  }
+}

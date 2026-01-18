@@ -1,0 +1,290 @@
+{
+  "topBar": {
+    "phone": "+91 9561444777",
+    "email": "info@maredianseals.com",
+    "address": "dhanya sativali, vasai east, vasai",
+    "follow": "Síguenos:"
+  },
+  "hero": {
+    "slide1": {
+      "title": "Sellando el Futuro con Precisión y Rendimiento",
+      "desc": "Sellos mecánicos líderes en la industria diseñados para fiabilidad y eficiencia en aplicaciones exigentes.",
+      "cta": "Explorar Productos"
+    },
+    "slide2": {
+      "title": "Innovación en Soluciones de Sellado Mecánico",
+      "desc": "Sellos de alta calidad diseñados para un rendimiento máximo en aplicaciones industriales en todo el mundo.",
+      "cta": "Aprender Más"
+    },
+    "products": {
+      "sectionTitle": "SOLUCIONES DE SELLADO AVANZADAS",
+      "sectionDesc": "Descubre nuestra amplia gama de sellos mecánicos, uniones rotativas y componentes diseñados para ofrecer un rendimiento constante en las condiciones más duras",
+      "items": {
+        "pusher": {
+          "title": "Sellos de Empuje",
+          "desc": "Materiales de cara: Stellite, Carbono, Cerámica, Carburo de Tungsteno, Carburo de Silicio, Lecrolloy"
+        },
+        "textile": {
+          "title": "Sello Textil",
+          "desc": "Materiales de cara: Stellite, Carbono, Cerámica, Carburo de Tungsteno, Carburo de Silicio, Lecrolloy"
+        },
+        "singleSpring": {
+          "title": "Sello de Resorte Simple",
+          "desc": "Materiales de cara: Stellite, Carbono, Cerámica, Carburo de Tungsteno, Carburo de Silicio, Lecrolloy"
+        },
+        "multiSpring": {
+          "title": "Sello de Múltiples Resortes",
+          "desc": "Materiales de cara: Stellite, Carbono, Cerámica, Carburo de Tungsteno, Carburo de Silicio, Lecrolloy"
+        }
+      }
+    },
+    "common": {
+      "readMore": "LEER MÁS",
+      "enquiry": "Consulta Ahora"
+    },
+    "about": {
+      "title": "ACERCA DE FINAL MAREDIAN SEALS",
+      "subtitle": "Precisión. Rendimiento. Perfección.",
+      "description": "Fundada por ingenieros apasionados y tecnócratas visionarios, Maredian Seals es un nombre de confianza en tecnología de sellado mecánico, especializado en el diseño y fabricación de sistemas de sellado premium que aseguran un rendimiento sin fugas bajo condiciones exigentes. Con tecnología avanzada y décadas de experiencia, servimos a industrias como petroquímica, farmacéutica, textil, procesamiento de alimentos, generación de energía y tratamiento de agua.",
+      "features": {
+        "precision": "Ingeniería de Precisión",
+        "delivery": "Entrega a Tiempo",
+        "custom": "Soluciones Personalizadas",
+        "reliability": "Fiabilidad y Rendimiento"
+      },
+      "learnMore": "Conócenos Más"
+    },
+    "industries": {
+      "title": "INDUSTRIAS QUE SERVIMOS",
+      "subtitle": "Nuestros sellos mecánicos funcionan de manera confiable en algunos de los entornos industriales más exigentes."
+    },
+    "whyChoose": {
+      "title": "POR QUÉ ELEGIR FINAL MAREDIAN SEALS",
+      "items": {
+        "delivery": "Entrega Rápida\ny Soporte Técnico",
+        "expertise": "Experiencia en Ingeniería\nComprobada",
+        "leakproof": "100% Sin Fugas\nGarantía de Rendimiento",
+        "trusted": "Confiado por Clientes\nen Todas las Industrias",
+        "manufacturing": "Estándares de Fabricación\nPrecisa"
+      }
+    }
+  },
+  "ticker": {
+    "item1": "Sellos de Empuje",
+    "item2": "Sello de Resorte Simple",
+    "item3": "Sello de Múltiples Resortes",
+    "item4": "Sello Textil",
+    "item5": "Sellos de Fuelles de Teflón",
+    "item6": "Mecánica de Fuelles de Metal"
+  },
+  "aboutHero": {
+    "slide1": {
+      "title": "Excelencia en Ingeniería\nEntregando Integridad de Sellado",
+      "desc": "En Maredian Seals, diseñamos y fabricamos soluciones de sellado mecánico que definen fiabilidad, precisión y rendimiento para las industrias modernas.",
+      "cta": "Explora Nuestra Experiencia"
+    },
+    "aboutUs": {
+      "title": "ACERCA DE NOSOTROS",
+      "tagline": "HAZLO BIEN. SÉLALO FUERTE.",
+      "paragraph1": "Establecido con la visión de redefinir las soluciones de sellado, Maredian Seals es un fabricante premium, proveedor e innovador en el campo de sellos y sistemas de sellado mecánicos.",
+      "paragraph2": "Nos especializamos en soluciones de sellado personalizadas diseñadas para rendir bajo las condiciones industriales más exigentes. Nuestros productos se fabrican con precisión, asegurando un rendimiento sin fugas, durabilidad y larga vida útil.",
+      "paragraph3": "Con un equipo de ingenieros calificados, prácticas avanzadas de fabricación y un fuerte enfoque en la calidad, ofrecemos soluciones confiables para industrias que van desde petroquímicas y refinerías hasta farmacéuticas, procesamiento de alimentos y tratamiento de agua.",
+      "images": {
+        "image1": "Producto de Sello Mecánico",
+        "image2": "Fabricación",
+        "image3": "Ingeniero",
+        "image4": "Productos de Sellado",
+        "logo": "Logo Maredian"
+      }
+    },
+    "strengths": {
+      "title": "NUESTRAS FORTALEZAS:",
+      "tagline": "Hazlo bien. Sélalo fuerte.",
+      "items": {
+        "precision": {
+          "title": "INGENIERÍA\nDE PRECISIÓN",
+          "alt": "Ingeniería de Precisión"
+        },
+        "delivery": {
+          "title": "ENTREGA\nA TIEMPO",
+          "alt": "Entrega a Tiempo"
+        },
+        "custom": {
+          "title": "SOLUCIONES\nPERSONALIZADAS",
+          "alt": "Soluciones Personalizadas"
+        },
+        "reliability": {
+          "title": "FIABILIDAD Y\nRENDIMIENTO",
+          "alt": "Fiabilidad"
+        }
+      }
+    },
+    "coreValues": {
+      "title": "NUESTROS VALORES PRINCIPALES :",
+      "items": {
+        "innovation": {
+          "title": "Innovación",
+          "desc": "Avanzando la tecnología de sellado con I+D continua.",
+          "alt": "Innovación"
+        },
+        "integrity": {
+          "title": "Integridad",
+          "desc": "Relaciones transparentes, compromisos honestos.",
+          "alt": "Integridad"
+        },
+        "precision": {
+          "title": "Precisión",
+          "desc": "Cada sello construido a la perfección.",
+          "alt": "Precisión"
+        },
+        "sustainability": {
+          "title": "Sostenibilidad",
+          "desc": "Materiales ecológicos y prácticas conscientes de energía.",
+          "alt": "Sostenibilidad"
+        },
+        "customerFocus": {
+          "title": "Enfoque al Cliente",
+          "desc": "Soluciones diseñadas en torno a sus necesidades industriales.",
+          "alt": "Enfoque al Cliente"
+        }
+      }
+    }
+  },
+  "productPage": {
+    "hero": {
+      "slide1": {
+        "title": "Diseñado para Sellar.<br>Construido para Durar.",
+        "desc": "Descubre nuestra gama completa de sellos mecánicos de precisión, diseñados para durabilidad, eficiencia y total rendimiento sin fugas en cada aplicación industrial.",
+        "ctaExplore": "Explorar Productos",
+        "ctaView": "Ver Todos los Productos"
+      }
+    },
+    "allProducts": {
+      "title": "Gama de Productos<br>Maredian Seals",
+      "all": "Todos los Productos"
+    },
+    "categories": {
+      "pusher-seals": "Sellos de Empuje",
+      "single-spring": "Sello de Resorte Simple",
+      "multi-spring": "Sello de Múltiples Resortes",
+      "textile-seal": "Sello Textil",
+      "teflon-bellow": "Sellos de Fuelles de Teflón",
+      "metal-bellow": "Mecánica de Fuelles de Metal",
+      "boiler-feed": "Sellos de Alimentación de Caldera",
+      "split-seals": "Sellos Partidos",
+      "high-pressure": "Sello de Alta Presión",
+      "dry-seals": "Sellos Secos",
+      "cartridge-single": "Cartucho de Acción Simple",
+      "cartridge-double": "Cartucho de Doble Acción"
+    },
+    "products": {
+      "readMore": "LEER MÁS →",
+      "enquiry": "CONSULTA →"
+    },
+    "details": {
+      "back": "← Volver a Productos",
+      "standardStyle": "⚙ Estilo Estándar",
+      "characteristics": "⚙ Características del Sello",
+      "operatingLimits": "⚙ Límites de Operación",
+      "applications": "⚙ Aplicaciones"
+    }
+  },
+  "servicePage": {
+    "hero": {
+      "title": "Soluciones de Sellado de Extremo a Extremo,<br>Diseñadas para la Fiabilidad.",
+      "description": "Desde el diseño hasta la entrega, ofrecemos servicios de sellado completos que aseguran rendimiento, durabilidad y total fiabilidad sin fugas",
+      "cta": "Solicitar Consulta",
+      "viewProducts": "Ver Todos los Productos"
+    },
+    "industries": {
+      "title": "INDUSTRIAS QUE SERVIMOS",
+      "subtitle": "Ofreciendo excelencia en diversos sectores industriales",
+      "items": {
+        "petrochemical": "PETROQUÍMICA & REFINERÍAS",
+        "powerPlants": "PLANTAS DE ENERGÍA & ENERGÍA",
+        "oilGas": "PETRÓLEO & GAS",
+        "pharmaceuticals": "FARMACÉUTICAS",
+        "waterTreatment": "TRATAMIENTO DE AGUA & RESIDUALES",
+        "foodProcessing": "PROCESAMIENTO DE ALIMENTOS & BEBIDAS",
+        "textile": "INDUSTRIAS TEXTILES & PULPA",
+        "moreIndustries": "Y MUCHOS MÁS..."
+      }
+    }
+  },
+  "contactPage": {
+    "heading": "PONTE EN CONTACTO",
+    "tagline": "Construyamos soluciones sin fugas juntos.",
+    "headOffice": {
+      "iconAlt": "Icono de Ubicación",
+      "title": "Oficina Central",
+      "address": "dhanya sativali, vasai east, vasai"
+    },
+    "phone": {
+      "iconAlt": "Icono de Teléfono",
+      "title": "Contáctanos",
+      "number": "+91 9561444777"
+    },
+    "email": {
+      "iconAlt": "Icono de Email",
+      "title": "Envíanos un Email",
+      "address": "info@maredianseals.com"
+    },
+    "workingHours": {
+      "monSatLabel": "Lunes – Sábado:",
+      "monSatTime": "9:00 AM – 7:00 PM",
+      "sunLabel": "Domingo:",
+      "sunTime": "Cerrado"
+    },
+    "social": {
+      "heading": "Síguenos en Redes Sociales:",
+      "facebook": "Facebook",
+      "linkedin": "LinkedIn",
+      "whatsapp": "WhatsApp",
+      "instagram": "Instagram"
+    },
+    "form": {
+      "heading": "CONSULTA",
+      "companyNameLabel": "Nombre de la Empresa",
+      "companyNamePlaceholder": "Ingrese el nombre de su empresa",
+      "yourNameLabel": "Su Nombre",
+      "yourNamePlaceholder": "Ingrese su nombre",
+      "contactDetailsLabel": "Detalles de Contacto",
+      "contactDetailsPlaceholder": "Ingrese el número de teléfono",
+      "emailLabel": "Email",
+      "emailPlaceholder": "Ingrese su dirección de email",
+      "productSelectLabel": "Selección de Producto",
+      "productSelectPlaceholder": "Ingrese el nombre del producto",
+      "addressLabel": "Dirección / Ciudad / Ubicación",
+      "addressPlaceholder": "Ingrese la dirección",
+      "questionLabel": "Pregunta o Requisito",
+      "questionPlaceholder": "Ingrese su pregunta o requisito",
+      "submitBtn": "Enviar"
+    },
+    "map": {
+      "iframeAlt": "Mapa de Ubicación de la Empresa"
+    }
+  },
+  "footer": {
+    "address": "Dhanya Sativali, Vasai East, Vasai",
+    "follow": "Síguenos:",
+    "quickLinks": "ENLACES RÁPIDOS",
+    "productsTitle": "NUESTROS PRODUCTOS",
+    "links": {
+      "home": "Inicio",
+      "about": "Acerca de Nosotros",
+      "products": "Productos",
+      "services": "Servicios",
+      "quality": "Calidad",
+      "contact": "Contáctanos"
+    },
+    "products": {
+      "pusher": "Sellos de Empuje",
+      "single": "Sello de Resorte Simple",
+      "multi": "Sello de Múltiples Resortes",
+      "textile": "Sello Textil",
+      "teflon": "Sellos de Fuelles de Teflón",
+      "metal": "Mecánica de Fuelles de Metal"
+    },
+    "copyright": "© 2026 Maredian Seals. Todos los derechos reservados. | Política de Privacidad | Términos y Condiciones"
+  }
+}

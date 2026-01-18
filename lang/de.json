@@ -1,0 +1,290 @@
+{
+  "topBar": {
+    "phone": "+91 9561444777",
+    "email": "info@maredianseals.com",
+    "address": "dhanya sativali, vasai east, vasai",
+    "follow": "Folgen Sie uns:"
+  },
+  "hero": {
+    "slide1": {
+      "title": "Die Zukunft mit Präzision & Leistung abdichten",
+      "desc": "Branchenführende mechanische Dichtungen, entwickelt für Zuverlässigkeit und Effizienz in anspruchsvollen Anwendungen.",
+      "cta": "Produkte entdecken"
+    },
+    "slide2": {
+      "title": "Innovation in mechanischen Dichtungslösungen",
+      "desc": "Premium-Dichtungen für maximale Leistung in industriellen Anwendungen weltweit.",
+      "cta": "Mehr erfahren"
+    },
+    "products": {
+      "sectionTitle": "FORTSCHRITTLICHE DICHTUNGSLÖSUNGEN",
+      "sectionDesc": "Entdecken Sie unser breites Sortiment an mechanischen Dichtungen, Rotationsverbindungen und Komponenten, die auch unter härtesten Bedingungen konstante Leistung liefern.",
+      "items": {
+        "pusher": {
+          "title": "Pusher-Dichtungen",
+          "desc": "Materialien: Stellite, Kohlenstoff, Keramik, Wolframkarbid, Siliziumkarbid, Lecrolloy"
+        },
+        "textile": {
+          "title": "Textildichtung",
+          "desc": "Materialien: Stellite, Kohlenstoff, Keramik, Wolframkarbid, Siliziumkarbid, Lecrolloy"
+        },
+        "singleSpring": {
+          "title": "Einzel-Feder-Dichtung",
+          "desc": "Materialien: Stellite, Kohlenstoff, Keramik, Wolframkarbid, Siliziumkarbid, Lecrolloy"
+        },
+        "multiSpring": {
+          "title": "Mehrfach-Feder-Dichtung",
+          "desc": "Materialien: Stellite, Kohlenstoff, Keramik, Wolframkarbid, Siliziumkarbid, Lecrolloy"
+        }
+      }
+    },
+    "common": {
+      "readMore": "MEHR LESEN",
+      "enquiry": "Jetzt anfragen"
+    },
+    "about": {
+      "title": "ÜBER FINAL MAREDIAN SEALS",
+      "subtitle": "Präzision. Leistung. Perfektion.",
+      "description": "Gegründet von leidenschaftlichen Ingenieuren und visionären Technikern, ist Maredian Seals ein vertrauenswürdiger Name in der mechanischen Dichtungstechnologie. Wir spezialisieren uns auf die Konstruktion und Herstellung hochwertiger Dichtungssysteme, die unter anspruchsvollen Bedingungen auslaufsichere Leistung gewährleisten. Mit modernster Technologie und jahrzehntelanger Erfahrung bedienen wir Industrien wie Petrochemie, Pharmazie, Textilien, Lebensmittelverarbeitung, Energieerzeugung und Wasseraufbereitung.",
+      "features": {
+        "precision": "Präzisionsingenieurwesen",
+        "delivery": "Pünktliche Lieferung",
+        "custom": "Individuelle Lösungen",
+        "reliability": "Zuverlässigkeit & Leistung"
+      },
+      "learnMore": "Mehr über uns erfahren"
+    },
+    "industries": {
+      "title": "INDUSTRIEN, DIE WIR BEDIENEN",
+      "subtitle": "Unsere mechanischen Dichtungen arbeiten zuverlässig in einigen der anspruchsvollsten industriellen Umgebungen."
+    },
+    "whyChoose": {
+      "title": "WARUM FINAL MAREDIAN SEALS WÄHLEN",
+      "items": {
+        "delivery": "Schnelle Lieferung\n& Technischer Support",
+        "expertise": "Bewährte Ingenieurkompetenz",
+        "leakproof": "100% Auslaufsichere\nLeistungs-Garantie",
+        "trusted": "Von Kunden in allen Branchen vertraut",
+        "manufacturing": "Präzisionsfertigungs-Standards"
+      }
+    }
+  },
+  "ticker": {
+    "item1": "Pusher-Dichtungen",
+    "item2": "Einzel-Feder-Dichtung",
+    "item3": "Mehrfach-Feder-Dichtung",
+    "item4": "Textildichtung",
+    "item5": "Teflon-Balg-Dichtungen",
+    "item6": "Metall-Balg-Mechanisch"
+  },
+  "aboutHero": {
+    "slide1": {
+      "title": "Ingenieur-Exzellenz\nLieferung von Dichtungsintegrität",
+      "desc": "Bei Maredian Seals entwerfen und fertigen wir mechanische Dichtungslösungen, die Zuverlässigkeit, Präzision und Leistung für moderne Industrien definieren.",
+      "cta": "Unsere Expertise entdecken"
+    },
+    "aboutUs": {
+      "title": "ÜBER UNS",
+      "tagline": "Richtig bauen. Fest abdichten.",
+      "paragraph1": "Maredian Seals wurde mit der Vision gegründet, Dichtungslösungen neu zu definieren. Wir sind ein Premium-Hersteller, Lieferant und Innovator im Bereich mechanischer Dichtungen und Dichtungssysteme.",
+      "paragraph2": "Wir spezialisieren uns auf maßgeschneiderte Dichtungslösungen, die unter den anspruchsvollsten industriellen Bedingungen funktionieren. Unsere Produkte sind präzise gefertigt, gewährleisten auslaufsichere Leistung, Langlebigkeit und lange Lebensdauer.",
+      "paragraph3": "Mit einem Team erfahrener Ingenieure, modernster Fertigungstechniken und einem starken Fokus auf Qualität liefern wir Lösungen, die von Branchen wie Petrochemie, Pharmazie, Lebensmittelverarbeitung und Wasseraufbereitung vertraut werden.",
+      "images": {
+        "image1": "Mechanische Dichtung Produkt",
+        "image2": "Fertigung",
+        "image3": "Ingenieur",
+        "image4": "Dichtungsprodukte",
+        "logo": "Maredian Logo"
+      }
+    },
+    "strengths": {
+      "title": "UNSERE STÄRKEN:",
+      "tagline": "Richtig bauen. Fest abdichten.",
+      "items": {
+        "precision": {
+          "title": "PRÄZISIONS-\nINGENIEURWESEN",
+          "alt": "Präzisions-Ingenieurwesen"
+        },
+        "delivery": {
+          "title": "PÜNKTLICHE\nLIEFERUNG",
+          "alt": "Pünktliche Lieferung"
+        },
+        "custom": {
+          "title": "MASSGESCHNEIDERTE\nLÖSUNGEN",
+          "alt": "Maßgeschneiderte Lösungen"
+        },
+        "reliability": {
+          "title": "ZUVERLÄSSIGKEIT &\nLEISTUNG",
+          "alt": "Zuverlässigkeit"
+        }
+      }
+    },
+    "coreValues": {
+      "title": "UNSERE KERNWERTE:",
+      "items": {
+        "innovation": {
+          "title": "Innovation",
+          "desc": "Weiterentwicklung der Dichtungstechnologie durch kontinuierliche F&E.",
+          "alt": "Innovation"
+        },
+        "integrity": {
+          "title": "Integrität",
+          "desc": "Transparente Beziehungen, ehrliche Zusagen.",
+          "alt": "Integrität"
+        },
+        "precision": {
+          "title": "Präzision",
+          "desc": "Jede Dichtung wird perfekt gefertigt.",
+          "alt": "Präzision"
+        },
+        "sustainability": {
+          "title": "Nachhaltigkeit",
+          "desc": "Umweltfreundliche Materialien und energiesparende Verfahren.",
+          "alt": "Nachhaltigkeit"
+        },
+        "customerFocus": {
+          "title": "Kundenorientierung",
+          "desc": "Lösungen, die auf Ihre industriellen Anforderungen zugeschnitten sind.",
+          "alt": "Kundenorientierung"
+        }
+      }
+    }
+  },
+  "productPage": {
+    "hero": {
+      "slide1": {
+        "title": "Für Abdichtung entwickelt.<br>Langlebig gebaut.",
+        "desc": "Entdecken Sie unsere gesamte Palette an präzisionsgefertigten mechanischen Dichtungen für Langlebigkeit, Effizienz und auslaufsichere Leistung in allen industriellen Anwendungen.",
+        "ctaExplore": "Produkte entdecken",
+        "ctaView": "Alle Produkte ansehen"
+      }
+    },
+    "allProducts": {
+      "title": "Maredian Seals<br>Produktpalette",
+      "all": "Alle Produkte"
+    },
+    "categories": {
+      "pusher-seals": "Pusher-Dichtungen",
+      "single-spring": "Einzel-Feder-Dichtung",
+      "multi-spring": "Mehrfach-Feder-Dichtung",
+      "textile-seal": "Textildichtung",
+      "teflon-bellow": "Teflon-Balg-Dichtungen",
+      "metal-bellow": "Metall-Balg-Mechanisch",
+      "boiler-feed": "Kesselzufuhr-Dichtungen",
+      "split-seals": "Geteilte Dichtungen",
+      "high-pressure": "Hochdruck-Dichtung",
+      "dry-seals": "Trockendichtungen",
+      "cartridge-single": "Einzeltwirkende Patrone",
+      "cartridge-double": "Doppeltwirkende Patrone"
+    },
+    "products": {
+      "readMore": "MEHR LESEN →",
+      "enquiry": "ANFRAGE →"
+    },
+    "details": {
+      "back": "← Zurück zu Produkten",
+      "standardStyle": "⚙ Standardstil",
+      "characteristics": "⚙ Dichtungseigenschaften",
+      "operatingLimits": "⚙ Betriebsgrenzen",
+      "applications": "⚙ Anwendungen"
+    }
+  },
+  "servicePage": {
+    "hero": {
+      "title": "End-to-End Dichtungslösungen,<br>für Zuverlässigkeit entwickelt.",
+      "description": "Von der Planung bis zur Lieferung bieten wir umfassende Dichtungsservices, die Leistung, Langlebigkeit und absolute Auslaufsicherheit gewährleisten.",
+      "cta": "Beratung anfordern",
+      "viewProducts": "Alle Produkte ansehen"
+    },
+    "industries": {
+      "title": "INDUSTRIEN, DIE WIR BEDIENEN",
+      "subtitle": "Exzellenz in unterschiedlichen industriellen Bereichen",
+      "items": {
+        "petrochemical": "PETROCHEMIE & RAFFINERIEN",
+        "powerPlants": "KRAFTWERKE & ENERGIE",
+        "oilGas": "ÖL & GAS",
+        "pharmaceuticals": "PHARMAZEUTIKA",
+        "waterTreatment": "WASSER- & ABWASSERBEHANDLUNG",
+        "foodProcessing": "LEBENSMITTEL- & GETRÄNKEVERARBEITUNG",
+        "textile": "TEXTIL- & PAPIERINDUSTRIE",
+        "moreIndustries": "VIELE WEITERE..."
+      }
+    }
+  },
+  "contactPage": {
+    "heading": "KONTAKT AUFNEHMEN",
+    "tagline": "Lassen Sie uns gemeinsam auslaufsichere<br>Lösungen entwickeln.",
+    "headOffice": {
+      "iconAlt": "Standort-Icon",
+      "title": "Hauptsitz",
+      "address": "dhanya sativali, vasai east, vasai"
+    },
+    "phone": {
+      "iconAlt": "Telefon-Icon",
+      "title": "Kontaktieren Sie uns",
+      "number": "+91 9561444777"
+    },
+    "email": {
+      "iconAlt": "E-Mail-Icon",
+      "title": "E-Mail senden",
+      "address": "info@maredianseals.com"
+    },
+    "workingHours": {
+      "monSatLabel": "Montag – Samstag:",
+      "monSatTime": "9:00 – 19:00",
+      "sunLabel": "Sonntag:",
+      "sunTime": "Geschlossen"
+    },
+    "social": {
+      "heading": "Folgen Sie uns auf Social Media:",
+      "facebook": "Facebook",
+      "linkedin": "LinkedIn",
+      "whatsapp": "WhatsApp",
+      "instagram": "Instagram"
+    },
+    "form": {
+      "heading": "ANFRAGE",
+      "companyNameLabel": "Firmenname",
+      "companyNamePlaceholder": "Geben Sie Ihren Firmennamen ein",
+      "yourNameLabel": "Ihr Name",
+      "yourNamePlaceholder": "Geben Sie Ihren Namen ein",
+      "contactDetailsLabel": "Kontaktdaten",
+      "contactDetailsPlaceholder": "Telefonnummer eingeben",
+      "emailLabel": "E-Mail",
+      "emailPlaceholder": "E-Mail-Adresse eingeben",
+      "productSelectLabel": "Produkt auswählen",
+      "productSelectPlaceholder": "Produktname eingeben",
+      "addressLabel": "Adresse / Stadt / Standort",
+      "addressPlaceholder": "Adresse eingeben",
+      "questionLabel": "Frage oder Anforderung",
+      "questionPlaceholder": "Geben Sie Ihre Frage oder Anforderung ein",
+      "submitBtn": "Senden"
+    },
+    "map": {
+      "iframeAlt": "Standortkarte des Unternehmens"
+    }
+  },
+  "footer": {
+    "address": "Dhanya Sativali, Vasai East, Vasai",
+    "follow": "Folgen Sie uns:",
+    "quickLinks": "SCHNELLZUGRIFFE",
+    "productsTitle": "UNSERE PRODUKTE",
+    "links": {
+      "home": "Startseite",
+      "about": "Über uns",
+      "products": "Produkte",
+      "services": "Dienstleistungen",
+      "quality": "Qualität",
+      "contact": "Kontakt"
+    },
+    "products": {
+      "pusher": "Pusher-Dichtungen",
+      "single": "Einzel-Feder-Dichtung",
+      "multi": "Mehrfach-Feder-Dichtung",
+      "textile": "Textildichtung",
+      "teflon": "Teflon-Balg-Dichtungen",
+      "metal": "Metall-Balg-Mechanisch"
+    },
+    "copyright": "© 2026 Maredian Seals. Alle Rechte vorbehalten. | Datenschutzrichtlinie | AGB"
+  }
+}

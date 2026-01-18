@@ -1,0 +1,290 @@
+{
+  "topBar": {
+    "phone": "+91 9561444777",
+    "email": "info@maredianseals.com",
+    "address": "Dhanya Sativali, Vasai East, Vasai",
+    "follow": "Takip Edin:"
+  },
+  "hero": {
+    "slide1": {
+      "title": "Geleceği Hassasiyet ve Performansla Sızdırmaz Hale Getirmek",
+      "desc": "Zorlu uygulamalarda güvenilirlik ve verimlilik sağlayan sektör lideri mekanik contalar.",
+      "cta": "Ürünleri Keşfet"
+    },
+    "slide2": {
+      "title": "Mekanik Sızdırmazlık Çözümlerinde Yenilik",
+      "desc": "Dünya çapındaki endüstriyel uygulamalarda maksimum performans için tasarlanmış premium kalite contalar.",
+      "cta": "Daha Fazla Bilgi"
+    },
+    "products": {
+      "sectionTitle": "GELİŞMİŞ SIZDIRMAZLIK ÇÖZÜMLERİ",
+      "sectionDesc": "Zorlu koşullarda bile tutarlı performans sağlayacak şekilde tasarlanmış mekanik contalar, döner birleşimler ve bileşenlerimizin geniş yelpazesini keşfedin.",
+      "items": {
+        "pusher": {
+          "title": "Pusher Contalar",
+          "desc": "Yüzey Malzemeleri: Stellite, Karbon, Seramik, Tungsten Karbür, Silisyum Karbür, Lecrolloy"
+        },
+        "textile": {
+          "title": "Tekstil Contası",
+          "desc": "Yüzey Malzemeleri: Stellite, Karbon, Seramik, Tungsten Karbür, Silisyum Karbür, Lecrolloy"
+        },
+        "singleSpring": {
+          "title": "Tek Yaylı Conta",
+          "desc": "Yüzey Malzemeleri: Stellite, Karbon, Seramik, Tungsten Karbür, Silisyum Karbür, Lecrolloy"
+        },
+        "multiSpring": {
+          "title": "Çok Yaylı Conta",
+          "desc": "Yüzey Malzemeleri: Stellite, Karbon, Seramik, Tungsten Karbür, Silisyum Karbür, Lecrolloy"
+        }
+      }
+    },
+    "common": {
+      "readMore": "DAHA FAZLA OKU",
+      "enquiry": "Şimdi Sorgula"
+    },
+    "about": {
+      "title": "FINAL MAREDIAN SEALS HAKKINDA",
+      "subtitle": "Hassasiyet. Performans. Mükemmellik.",
+      "description": "Tutkulu mühendisler ve vizyoner teknokratlar tarafından kurulan Maredian Seals, mekanik sızdırmazlık teknolojisinde güvenilir bir isimdir. Zorlu koşullarda sızdırmaz performans sağlayan premium sızdırmazlık sistemlerinin tasarım ve üretiminde uzmanlaşmıştır. Gelişmiş teknoloji ve on yıllara dayanan uzmanlık ile petro-kimya, ilaç, tekstil, gıda işleme, enerji üretimi ve su arıtma sektörlerine hizmet veriyoruz.",
+      "features": {
+        "precision": "Hassas Mühendislik",
+        "delivery": "Zamanında Teslimat",
+        "custom": "Özel Çözümler",
+        "reliability": "Güvenilirlik ve Performans"
+      },
+      "learnMore": "Hakkımızda Daha Fazla Bilgi"
+    },
+    "industries": {
+      "title": "HİZMET VERDİĞİMİZ SEKTÖRLER",
+      "subtitle": "Mekanik contalarımız, en zorlu endüstriyel ortamlarda güvenilir performans gösterir."
+    },
+    "whyChoose": {
+      "title": "NEDEN FINAL MAREDIAN SEALS?",
+      "items": {
+        "delivery": "Hızlı Teslimat\n& Teknik Destek",
+        "expertise": "Kanıtlanmış Mühendislik\nUzmanlığı",
+        "leakproof": "%100 Sızdırmazlık\nPerformans Garantisi",
+        "trusted": "Sektörde Müşteri\nGüvenilirliği",
+        "manufacturing": "Hassas Üretim\nStandartları"
+      }
+    }
+  },
+  "ticker": {
+    "item1": "Pusher Contalar",
+    "item2": "Tek Yaylı Conta",
+    "item3": "Çok Yaylı Conta",
+    "item4": "Tekstil Contası",
+    "item5": "Teflon Körük Contaları",
+    "item6": "Metal Körük Mekanik"
+  },
+  "aboutHero": {
+    "slide1": {
+      "title": "Mühendislik Mükemmelliği\nConta Bütünlüğü Sağlama",
+      "desc": "Maredian Seals, modern endüstriler için güvenilirlik, hassasiyet ve performansı tanımlayan mekanik sızdırmazlık çözümleri tasarlar ve üretir.",
+      "cta": "Uzmanlığımızı Keşfedin"
+    },
+    "aboutUs": {
+      "title": "HAKKIMIZDA",
+      "tagline": "Doğru Yapın. Sıkı Sızdırın.",
+      "paragraph1": "Sızdırmazlık çözümlerini yeniden tanımlama vizyonu ile kurulan Maredian Seals, mekanik contalar ve sızdırmazlık sistemlerinde premium üretici, tedarikçi ve yenilikçidir.",
+      "paragraph2": "En zorlu endüstriyel koşullarda performans gösterecek şekilde tasarlanmış özel mühendislik sızdırmazlık çözümlerinde uzmanız. Ürünlerimiz, sızdırmaz performans, dayanıklılık ve uzun ömür sağlamak için hassas olarak üretilmiştir.",
+      "paragraph3": "Yetenekli mühendis ekibi, gelişmiş üretim teknikleri ve yüksek kalite odaklı yaklaşımımız ile petro-kimya, ilaç, gıda işleme ve su arıtma dahil birçok sektörde güvenilen çözümler sunuyoruz.",
+      "images": {
+        "image1": "Mekanik Conta Ürünü",
+        "image2": "Üretim",
+        "image3": "Mühendis",
+        "image4": "Conta Ürünleri",
+        "logo": "Maredian Logo"
+      }
+    },
+    "strengths": {
+      "title": "GÜÇLÜ YANLARIMIZ:",
+      "tagline": "Doğru Yapın. Sıkı Sızdırın.",
+      "items": {
+        "precision": {
+          "title": "HASSAS\nMÜHENDİSLİK",
+          "alt": "Hassas Mühendislik"
+        },
+        "delivery": {
+          "title": "ZAMANINDA\nTESLİMAT",
+          "alt": "Zamanında Teslimat"
+        },
+        "custom": {
+          "title": "ÖZEL\nÇÖZÜMLER",
+          "alt": "Özel Çözümler"
+        },
+        "reliability": {
+          "title": "GÜVENİLİRLİK &\nPERFORMANS",
+          "alt": "Güvenilirlik"
+        }
+      }
+    },
+    "coreValues": {
+      "title": "TEMEL DEĞERLERİMİZ :",
+      "items": {
+        "innovation": {
+          "title": "Yenilik",
+          "desc": "Sürekli AR-GE ile sızdırmazlık teknolojisini geliştiriyoruz.",
+          "alt": "Yenilik"
+        },
+        "integrity": {
+          "title": "Dürüstlük",
+          "desc": "Şeffaf ilişkiler, dürüst taahhütler.",
+          "alt": "Dürüstlük"
+        },
+        "precision": {
+          "title": "Hassasiyet",
+          "desc": "Her conta mükemmel şekilde üretilir.",
+          "alt": "Hassasiyet"
+        },
+        "sustainability": {
+          "title": "Sürdürülebilirlik",
+          "desc": "Çevre dostu malzemeler ve enerji bilincine sahip uygulamalar.",
+          "alt": "Sürdürülebilirlik"
+        },
+        "customerFocus": {
+          "title": "Müşteri Odaklılık",
+          "desc": "Endüstriyel ihtiyaçlarınıza göre tasarlanmış çözümler.",
+          "alt": "Müşteri Odaklılık"
+        }
+      }
+    }
+  },
+  "productPage": {
+    "hero": {
+      "slide1": {
+        "title": "Sızdırmazlık için Tasarlandı.<br>Uzun Ömürlü Yapıldı.",
+        "desc": "Tüm endüstriyel uygulamalarda dayanıklılık, verimlilik ve tam sızdırmaz performans sağlayacak hassas mühendislik mekanik contalarımızı keşfedin.",
+        "ctaExplore": "Ürünleri Keşfet",
+        "ctaView": "Tüm Ürünler"
+      }
+    },
+    "allProducts": {
+      "title": "Maredian Seals Ürün Yelpazesi",
+      "all": "Tüm Ürünler"
+    },
+    "categories": {
+      "pusher-seals": "Pusher Contalar",
+      "single-spring": "Tek Yaylı Conta",
+      "multi-spring": "Çok Yaylı Conta",
+      "textile-seal": "Tekstil Contası",
+      "teflon-bellow": "Teflon Körük Contaları",
+      "metal-bellow": "Metal Körük Mekanik",
+      "boiler-feed": "Kazank Besleme Suyu Contaları",
+      "split-seals": "Bölünmüş Contalar",
+      "high-pressure": "Yüksek Basınç Contası",
+      "dry-seals": "Kuru Contalar",
+      "cartridge-single": "Tek Etkili Kartuş",
+      "cartridge-double": "Çift Etkili Kartuş"
+    },
+    "products": {
+      "readMore": "DAHA FAZLA →",
+      "enquiry": "SORU →"
+    },
+    "details": {
+      "back": "← Ürünlere Geri Dön",
+      "standardStyle": "⚙ Standart Stil",
+      "characteristics": "⚙ Conta Özellikleri",
+      "operatingLimits": "⚙ Çalışma Limitleri",
+      "applications": "⚙ Uygulama Alanları"
+    }
+  },
+  "servicePage": {
+    "hero": {
+      "title": "Baştan Sona Sızdırmazlık Çözümleri,<br>Güvenilirlik için Tasarlandı.",
+      "description": "Tasarımından teslimatına kadar, performans, uzun ömür ve tam sızdırmaz güvenlik sağlayan kapsamlı sızdırmazlık hizmetleri sunuyoruz.",
+      "cta": "Danışmanlık Talep Et",
+      "viewProducts": "Tüm Ürünleri Görüntüle"
+    },
+    "industries": {
+      "title": "HİZMET VERDİĞİMİZ SEKTÖRLER",
+      "subtitle": "Farklı endüstriyel sektörlerde mükemmel hizmet sunuyoruz",
+      "items": {
+        "petrochemical": "PETROKİMYA & RAFİNERİLER",
+        "powerPlants": "ENERJİ SANTRALLERİ & ENERJİ",
+        "oilGas": "PETROL & GAZ",
+        "pharmaceuticals": "İLAÇ SANAYİİ",
+        "waterTreatment": "SU & ATIK SU ARITMA",
+        "foodProcessing": "GIDA & İÇECEK İŞLEME",
+        "textile": "TEKSTİL & PÜLP ENDÜSTRİLERİ",
+        "moreIndustries": "DAHA FAZLASI..."
+      }
+    }
+  },
+  "contactPage": {
+    "heading": "İLETİŞİME GEÇİN",
+    "tagline": "Sızdırmaz Çözümler Üretelim.",
+    "headOffice": {
+      "iconAlt": "Konum Simgesi",
+      "title": "Merkez Ofis",
+      "address": "Dhanya Sativali, Vasai East, Vasai"
+    },
+    "phone": {
+      "iconAlt": "Telefon Simgesi",
+      "title": "Bize Ulaşın",
+      "number": "+91 9561444777"
+    },
+    "email": {
+      "iconAlt": "E-posta Simgesi",
+      "title": "E-posta ile İletişim",
+      "address": "info@maredianseals.com"
+    },
+    "workingHours": {
+      "monSatLabel": "Pazartesi – Cumartesi:",
+      "monSatTime": "09:00 – 19:00",
+      "sunLabel": "Pazar:",
+      "sunTime": "Kapalı"
+    },
+    "social": {
+      "heading": "Sosyal Medyada Takip Edin:",
+      "facebook": "Facebook",
+      "linkedin": "LinkedIn",
+      "whatsapp": "WhatsApp",
+      "instagram": "Instagram"
+    },
+    "form": {
+      "heading": "SORU",
+      "companyNameLabel": "Şirket Adı",
+      "companyNamePlaceholder": "Şirket adınızı girin",
+      "yourNameLabel": "Adınız",
+      "yourNamePlaceholder": "Adınızı girin",
+      "contactDetailsLabel": "İletişim Bilgisi",
+      "contactDetailsPlaceholder": "Telefon numarasını girin",
+      "emailLabel": "E-posta",
+      "emailPlaceholder": "E-posta adresinizi girin",
+      "productSelectLabel": "Ürün Seçimi",
+      "productSelectPlaceholder": "Ürün adını girin",
+      "addressLabel": "Adres / Şehir / Konum",
+      "addressPlaceholder": "Adresinizi girin",
+      "questionLabel": "Soru veya Talep",
+      "questionPlaceholder": "Soru veya talebinizi girin",
+      "submitBtn": "Gönder"
+    },
+    "map": {
+      "iframeAlt": "Şirket Konum Haritası"
+    }
+  },
+  "footer": {
+    "address": "Dhanya Sativali, Vasai East, Vasai",
+    "follow": "Takip Edin:",
+    "quickLinks": "HIZLI BAĞLANTILAR",
+    "productsTitle": "ÜRÜNLERİMİZ",
+    "links": {
+      "home": "Anasayfa",
+      "about": "Hakkımızda",
+      "products": "Ürünler",
+      "services": "Hizmetler",
+      "quality": "Kalite",
+      "contact": "İletişim"
+    },
+    "products": {
+      "pusher": "Pusher Contalar",
+      "single": "Tek Yaylı Conta",
+      "multi": "Çok Yaylı Conta",
+      "textile": "Tekstil Contası",
+      "teflon": "Teflon Körük Contaları",
+      "metal": "Metal Körük Mekanik"
+    },
+    "copyright": "© 2026 Maredian Seals. Tüm Hakları Saklıdır | Gizlilik Politikası | Kullanım Şartları"
+  }
+}

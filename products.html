@@ -17,29 +17,27 @@
             <div class="contact-info">
                 <div class="contact-item">
                     <i class="fas fa-phone"></i>
-                    <span>+91 9561444777</span>
+                    <span data-i18n="topBar.phone">+91 9561444777</span>
                 </div>
                 <div class="contact-item">
                     <i class="fas fa-envelope"></i>
-                    <span>info@maredianseals.com</span>
+                    <span data-i18n="topBar.email">info@maredianseals.com</span>
                 </div>
                 <div class="contact-item">
                     <i class="fas fa-map-marker-alt"></i>
-                    <span>dhanya sativali, vasai east, vasai</span>
+                    <span data-i18n="topBar.address">dhanya sativali, vasai east, vasai</span>
                 </div>
             </div>
             <div class="social-links">
-                <span>Follow Us:</span>
-                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                <a href="#"><i class="fab fa-whatsapp"></i></a>
-                <a href="#"><i class="fab fa-instagram"></i></a>
-                <!-- <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
-                    <i class="fas fa-moon"></i>
-                </button> -->
+                <span data-i18n="topBar.follow">Follow Us:</span>
+                <a href="#" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+                <a href="#" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+                <a href="#" aria-label="WhatsApp"><i class="fab fa-whatsapp"></i></a>
+                <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
             </div>
         </div>
     </div>
+
 
     <!-- Navigation -->
     <nav class="navbar">
@@ -55,6 +53,22 @@
                 <li><a href="./contact.html" class="nav-link">Contact Us</a></li>
             </ul>
             <a href="#enquiry" class="enquiry-btn">ENQUIRY</a>
+            <div class="nav-lang">
+                <select id="languageSwitcher" class="nav-lang-select">
+                    <option value="en">English</option>
+                    <option value="zh">中文</option> <!-- Chinese -->
+                    <option value="es">Español</option> <!-- Spanish -->
+                    <option value="ja">日本語</option> <!-- Japanese -->
+                    <option value="ko">한국어</option> <!-- Korean -->
+                    <option value="de">Deutsch</option> <!-- German -->
+                    <option value="tr">Türkçe</option> <!-- Turkish -->
+                    <option value="hi">हिन्दी</option> <!-- Hindi -->
+                    <option value="ar">العربية</option> <!-- Arabic -->
+                </select>
+
+            </div>
+
+
         </div>
     </nav>
 
@@ -73,34 +87,36 @@
                         <!-- Left Text Content -->
                         <div class="hero-left">
                             <div class="hero-text-content">
-                                <h1 class="hero-title">
-                                    <span class="first-letter">E</span>ngineered to <span
-                                        class="first-letter">S</span>eal.
-                                    <br><span class="first-letter">B</span>uild to <span
-                                        class="first-letter">L</span>ast.<br>
+                                <h1 class="hero-title" data-i18n="productPage.hero.title">
+                                    Engineered to Seal.<br>Build to Last.
                                 </h1>
-                                <p class="hero-description">
-                                    Discover our full range of precision-engineered mechanical seals,
-                                    crafted for durability, efficiency, and total leak-proof performance
-                                    across every industrial application.
+                                <p class="hero-description" data-i18n="productPage.hero.desc">
+                                    Discover our full range of precision-engineered mechanical seals, crafted for
+                                    durability, efficiency, and total leak-proof performance across every industrial
+                                    application.
                                 </p>
                                 <div class="hero-buttons">
-                                    <a href="#products-section" class="hero-cta">
+                                    <a href="#products-section" class="hero-cta" data-i18n="productPage.hero.cta1">
                                         Explore Products
                                         <span class="arrow-icon">→</span>
                                     </a>
-                                    <a href="#products-section" class="view-products-link">View All Product</a>
+                                    <a href="#products-section" class="view-products-link"
+                                        data-i18n="productPage.hero.cta2">
+                                        View All Product
+                                    </a>
                                 </div>
                             </div>
                         </div>
 
-                        <!-- Right Angled Image -->
-                        <!-- <div class="hero-right">
-                            <img src="./images/homepage/Logo.png" alt="Logo" class="logo-overlay">
-                            <div class="angle-container">
-                                <img src="./images" alt="Mechanical Seals" class="angle-image">
-                            </div>
-                        </div> -->
+                        <!-- Right Angled Image (Optional/Commented Out) -->
+                        <!--
+                    <div class="hero-right">
+                        <img src="./images/homepage/Logo.png" alt="Logo" class="logo-overlay">
+                        <div class="angle-container">
+                            <img src="./images" alt="Mechanical Seals" class="angle-image">
+                        </div>
+                    </div>
+                    -->
                     </div>
                 </div>
             </div>
@@ -109,25 +125,12 @@
         </div>
     </section>
 
+
     <!-- News Ticker Section -->
-    <section class="news-ticker-container">
+    <section class="news-ticker-container" data-i18n-scope="ticker">
         <div class="news-ticker-wrapper">
-            <div class="news-ticker-content">
-                <span class="news-item">Pusher Seals</span>
-                <span class="news-item">Single Spring Seal</span>
-                <span class="news-item">Multi Spring Seal</span>
-                <span class="news-item">Textile Seal</span>
-                <span class="news-item">Teflon Bellow Seals</span>
-                <span class="news-item">Metal Bellow Mechanical</span>
-            </div>
-            <div class="news-ticker-content">
-                <span class="news-item">Pusher Seals</span>
-                <span class="news-item">Single Spring Seal</span>
-                <span class="news-item">Multi Spring Seal</span>
-                <span class="news-item">Textile Seal</span>
-                <span class="news-item">Teflon Bellow Seals</span>
-                <span class="news-item">Metal Bellow Mechanical</span>
-            </div>
+            <div class="news-ticker-content"></div>
+            <div class="news-ticker-content"></div>
         </div>
     </section>
 
@@ -135,17 +138,16 @@
     <section class="all-products-section" id="products-section">
         <div class="container products-layout">
             <aside class="products-sidebar">
-                <h3>Maredian Seals<br>Product Range</h3>
+                <h3 data-i18n="productPage.allProducts.title">Maredian Seals<br>Product Range</h3>
                 <ul class="category-list" id="categoryList">
-                    <li class="category-item active" data-category="all">
-                        All Products
-                    </li>
+                    <li class="category-item active" data-category="all" data-i18n="productPage.allProducts.all">All
+                        Products</li>
                 </ul>
             </aside>
             <div class="products-grid" id="productsGrid"></div>
-
         </div>
     </section>
+
 
 
     <footer class="footer-section">
@@ -168,12 +170,12 @@
                         </div>
                         <div class="contact-item">
                             <img src="./images/section6/Location-icon.png" alt="Location" class="contact-icon">
-                            <span>dhanya sativali, vasai east, vasai</span>
+                            <span data-i18n="footer.address"></span>
                         </div>
                     </div>
 
                     <div class="footer-social">
-                        <span class="social-title">Follow Us:</span>
+                        <span class="social-title" data-i18n="footer.follow"></span>
                         <div class="social-links-footer">
                             <a href="#" aria-label="Facebook">
                                 <img src="./images/section6/FB-icon.png" alt="Facebook">
@@ -193,62 +195,62 @@
 
                 <!-- Middle Column - Quick Links -->
                 <div class="footer-middle">
-                    <h3 class="footer-heading">QUICK LINKS</h3>
+                    <h3 class="footer-heading" data-i18n="footer.quickLinks"></h3>
                     <ul class="footer-links">
                         <li>
                             <img src="./images/section6/Logo-icon.png" alt="" class="link-icon">
-                            <a href="#home">Home</a>
+                            <a href="#home" data-i18n="footer.links.home"></a>
                         </li>
                         <li>
                             <img src="./images/section6/Logo-icon.png" alt="" class="link-icon">
-                            <a href="#about">About Us</a>
+                            <a href="#about" data-i18n="footer.links.about"></a>
                         </li>
                         <li>
                             <img src="./images/section6/Logo-icon.png" alt="" class="link-icon">
-                            <a href="#products">Products</a>
+                            <a href="#products" data-i18n="footer.links.products"></a>
                         </li>
                         <li>
                             <img src="./images/section6/Logo-icon.png" alt="" class="link-icon">
-                            <a href="#services">Services</a>
+                            <a href="#services" data-i18n="footer.links.services"></a>
                         </li>
                         <li>
                             <img src="./images/section6/Logo-icon.png" alt="" class="link-icon">
-                            <a href="#quality">Quality</a>
+                            <a href="#quality" data-i18n="footer.links.quality"></a>
                         </li>
                         <li>
                             <img src="./images/section6/Logo-icon.png" alt="" class="link-icon">
-                            <a href="#contact">Contact Us</a>
+                            <a href="#contact" data-i18n="footer.links.contact"></a>
                         </li>
                     </ul>
                 </div>
 
                 <!-- Right Column - Our Products -->
                 <div class="footer-right">
-                    <h3 class="footer-heading">OUR PRODUCTS</h3>
+                    <h3 class="footer-heading" data-i18n="footer.productsTitle"></h3>
                     <ul class="footer-links">
                         <li>
                             <img src="./images/section6/Logo-icon.png" alt="" class="link-icon">
-                            <a href="#pusher-seals">Pusher Seals</a>
+                            <a href="#pusher-seals" data-i18n="footer.products.pusher"></a>
                         </li>
                         <li>
                             <img src="./images/section6/Logo-icon.png" alt="" class="link-icon">
-                            <a href="#single-spring">Single Spring Seal</a>
+                            <a href="#single-spring" data-i18n="footer.products.single"></a>
                         </li>
                         <li>
                             <img src="./images/section6/Logo-icon.png" alt="" class="link-icon">
-                            <a href="#multi-spring">Multi Spring Seal</a>
+                            <a href="#multi-spring" data-i18n="footer.products.multi"></a>
                         </li>
                         <li>
                             <img src="./images/section6/Logo-icon.png" alt="" class="link-icon">
-                            <a href="#textile-seal">Textile Seal</a>
+                            <a href="#textile-seal" data-i18n="footer.products.textile"></a>
                         </li>
                         <li>
                             <img src="./images/section6/Logo-icon.png" alt="" class="link-icon">
-                            <a href="#teflon-bellow">Teflon Bellow Seals</a>
+                            <a href="#teflon-bellow" data-i18n="footer.products.teflon"></a>
                         </li>
                         <li>
                             <img src="./images/section6/Logo-icon.png" alt="" class="link-icon">
-                            <a href="#metal-bellow">Metal Bellow Mechanical</a>
+                            <a href="#metal-bellow" data-i18n="footer.products.metal"></a>
                         </li>
                     </ul>
                 </div>
@@ -256,69 +258,10 @@
 
             <!-- Footer Bottom -->
             <div class="footer-bottom">
-                <p>&copy; 2026 Maredian Seals. All Rights Reserved. | <a href="#privacy">Privacy Policy</a> | <a
-                        href="#terms">Terms & Conditions</a></p>
+                <p data-i18n="footer.copyright"></p>
             </div>
         </div>
     </footer>
-
-    <script>
-        // Hero Section Animations - On Load
-        document.addEventListener('DOMContentLoaded', function () {
-            // Check if GSAP is loaded
-            if (typeof gsap === 'undefined') {
-                console.error('GSAP is not loaded. Please include GSAP library.');
-                return;
-            }
-
-            // Set initial states
-            gsap.set('.hero-overlay', { x: '-100%' });
-            gsap.set('.hero-text-content', { opacity: 0, x: -50 });
-            gsap.set('.logo-overlay', { opacity: 0, scale: 0.5 });
-            gsap.set('.angle-container', { opacity: 0, x: 100 });
-
-            // Create timeline that plays immediately
-            const heroTimeline = gsap.timeline({
-                delay: 0.3 // Small delay after page load
-            });
-
-            // Animate left overlay background
-            heroTimeline.to('.hero-overlay', {
-                x: '0%',
-                duration: 1,
-                ease: 'power2.out'
-            })
-                // Animate text content from left
-                .to('.hero-text-content', {
-                    opacity: 1,
-                    x: 0,
-                    duration: 0.8,
-                    ease: 'power2.out'
-                }, '-=0.5')
-                // Animate logo overlay
-                .to('.logo-overlay', {
-                    opacity: 1,
-                    scale: 1,
-                    duration: 0.6,
-                    ease: 'back.out(1.7)'
-                }, '-=0.4')
-                // Animate right image from right to left
-                .to('.angle-container', {
-                    opacity: 1,
-                    x: 0,
-                    duration: 0.8,
-                    ease: 'power2.out'
-                }, '-=0.6');
-        });
-    </script>
-
-    <script>
-        window.addEventListener("load", () => {
-            document.querySelectorAll(".hero-left").forEach(el => {
-                el.classList.add("animate");
-            });
-        });
-    </script>
 
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
@@ -327,56 +270,9 @@
     <script src="./js/heroscroll.js"></script>
     <script src="./js/productScroll.js"></script>
     <script src="./js/navbar.js"></script>
-    <script src="./js/productList.js"></script>
-    <!-- <script src="./images/products/section1/Cartridge Double Acting/"></script> -->
-
-    <script>
-        // Theme Toggle Functionality
-        // const themeToggle = document.getElementById('themeToggle');
-        // const htmlElement = document.documentElement;
-        // const themeIcon = themeToggle.querySelector('i');
-
-        // // Check for saved theme preference or default to 'light'
-        // const currentTheme = localStorage.getItem('theme') || 'light';
-        // htmlElement.setAttribute('data-theme', currentTheme);
-        // updateThemeIcon(currentTheme);
-
-        // themeToggle.addEventListener('click', () => {
-        //     const theme = htmlElement.getAttribute('data-theme');
-        //     const newTheme = theme === 'light' ? 'dark' : 'light';
-
-        //     htmlElement.setAttribute('data-theme', newTheme);
-        //     localStorage.setItem('theme', newTheme);
-        //     updateThemeIcon(newTheme);
-        // });
-
-        // function updateThemeIcon(theme) {
-        //     if (theme === 'dark') {
-        //         themeIcon.classList.remove('fa-moon');
-        //         themeIcon.classList.add('fa-sun');
-        //     } else {
-        //         themeIcon.classList.remove('fa-sun');
-        //         themeIcon.classList.add('fa-moon');
-        //     }
-        // }
-
-        // Initialize Hero Swiper with slide effect (sweeping right to left)
-        const heroSwiper = new Swiper('.hero-swiper', {
-            slidesPerView: 1,
-            loop: true,
-            speed: 1000,
-            autoplay: {
-                delay: 4000,
-                disableOnInteraction: false,
-            },
-            effect: 'slide', // slide effect for sweeping animation
-            pagination: {
-                el: '.swiper-pagination',
-                clickable: true,
-                dynamicBullets: true,
-            },
-        });
-    </script>
+    <script src="./js/main.js"></script>
+    <script src="./js/i18n.js"></script>
+    <script src="./js/productData.js"></script>
 </body>
 
 </html>

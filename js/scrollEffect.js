@@ -575,6 +575,30 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     });
 
+    gsap.from('.ms-contact-info', {
+x: -60,
+opacity: 0,
+duration: 0.9,
+ease: 'power2.out',
+scrollTrigger: {
+trigger: '.ms-contact-section',
+start: 'top 75%'
+}
+});
+
+
+gsap.from('.ms-contact-form', {
+x: 60,
+opacity: 0,
+duration: 0.9,
+delay: 0.1,
+ease: 'power2.out',
+scrollTrigger: {
+trigger: '.ms-contact-section',
+start: 'top 75%'
+}
+});
+
 
 }
 

@@ -1,0 +1,290 @@
+{
+  "topBar": {
+    "phone": "+91 9561444777",
+    "email": "info@maredianseals.com",
+    "address": "ダンヤ・サティヴァリ、ヴァサイ・イースト、ヴァサイ",
+    "follow": "フォローしてください:"
+  },
+  "hero": {
+    "slide1": {
+      "title": "精密さと性能で未来をシールする",
+      "desc": "要求の厳しい用途でも信頼性と効率を提供する業界をリードするメカニカルシール。",
+      "cta": "製品を見る"
+    },
+    "slide2": {
+      "title": "メカニカルシーリングソリューションの革新",
+      "desc": "世界中の産業用途で最大の性能を発揮するよう設計された高品質のシール。",
+      "cta": "詳細を見る"
+    },
+    "products": {
+      "sectionTitle": "高度なシーリングソリューション",
+      "sectionDesc": "当社のメカニカルシール、ロータリーユニオン、コンポーネントの幅広いラインナップをご覧ください。最も過酷な条件下でも安定した性能を提供するために作られています。",
+      "items": {
+        "pusher": {
+          "title": "プッシャーシール",
+          "desc": "材質：ステライト、カーボン、セラミック、タングステンカーバイド、シリコンカーバイド、レクロロイ"
+        },
+        "textile": {
+          "title": "テキスタイルシール",
+          "desc": "材質：ステライト、カーボン、セラミック、タングステンカーバイド、シリコンカーバイド、レクロロイ"
+        },
+        "singleSpring": {
+          "title": "シングルスプリングシール",
+          "desc": "材質：ステライト、カーボン、セラミック、タングステンカーバイド、シリコンカーバイド、レクロロイ"
+        },
+        "multiSpring": {
+          "title": "マルチスプリングシール",
+          "desc": "材質：ステライト、カーボン、セラミック、タングステンカーバイド、シリコンカーバイド、レクロロイ"
+        }
+      }
+    },
+    "common": {
+      "readMore": "続きを読む",
+      "enquiry": "お問い合わせ"
+    },
+    "about": {
+      "title": "ファイナル・マレディアンシールズについて",
+      "subtitle": "精密さ。性能。完璧。",
+      "description": "情熱的なエンジニアと先見の明のある技術者によって設立されたマレディアンシールズは、メカニカルシーリング技術における信頼のブランドであり、過酷な条件下でも漏れのない性能を保証する高品質なシールシステムの設計・製造を専門としています。最先端の技術と数十年の経験により、石油化学、製薬、繊維、食品加工、発電、水処理などの産業にサービスを提供しています。",
+      "features": {
+        "precision": "精密エンジニアリング",
+        "delivery": "期限内納品",
+        "custom": "カスタムソリューション",
+        "reliability": "信頼性と性能"
+      },
+      "learnMore": "詳細はこちら"
+    },
+    "industries": {
+      "title": "対応する産業",
+      "subtitle": "当社のメカニカルシールは、最も要求の厳しい産業環境でも信頼性を発揮します。"
+    },
+    "whyChoose": {
+      "title": "ファイナル・マレディアンシールズを選ぶ理由",
+      "items": {
+        "delivery": "迅速な納品\nおよび技術サポート",
+        "expertise": "実証済みのエンジニアリング\n専門知識",
+        "leakproof": "100％漏れ防止\n性能保証",
+        "trusted": "業界全体で\n顧客から信頼",
+        "manufacturing": "精密製造\n基準"
+      }
+    }
+  },
+  "ticker": {
+    "item1": "プッシャーシール",
+    "item2": "シングルスプリングシール",
+    "item3": "マルチスプリングシール",
+    "item4": "テキスタイルシール",
+    "item5": "テフロンベローシール",
+    "item6": "金属ベロー機械"
+  },
+  "aboutHero": {
+    "slide1": {
+      "title": "卓越したエンジニアリング\nシールの完全性を提供",
+      "desc": "マレディアンシールズでは、現代産業向けに信頼性、精度、性能を定義するメカニカルシーリングソリューションを設計・製造しています。",
+      "cta": "当社の専門知識を探る"
+    },
+    "aboutUs": {
+      "title": "会社概要",
+      "tagline": "正しく作る。しっかりシールする。",
+      "paragraph1": "シーリングソリューションを再定義するというビジョンのもと設立されたマレディアンシールズは、メカニカルシールおよびシーリングシステムの分野でプレミアムな製造業者、サプライヤー、イノベーターです。",
+      "paragraph2": "当社は、最も厳しい産業条件下で性能を発揮するカスタム設計のシーリングソリューションを専門としています。製品は精密に製造され、漏れ防止性能、耐久性、長寿命を保証します。",
+      "paragraph3": "熟練したエンジニアチーム、高度な製造技術、品質重視の姿勢により、石油化学、精製、製薬、食品加工、水処理などの産業に信頼されるソリューションを提供しています。",
+      "images": {
+        "image1": "メカニカルシール製品",
+        "image2": "製造",
+        "image3": "エンジニア",
+        "image4": "シーリング製品",
+        "logo": "マレディアンロゴ"
+      }
+    },
+    "strengths": {
+      "title": "当社の強み:",
+      "tagline": "正しく作る。しっかりシールする。",
+      "items": {
+        "precision": {
+          "title": "精密\nエンジニアリング",
+          "alt": "精密エンジニアリング"
+        },
+        "delivery": {
+          "title": "期限内\n納品",
+          "alt": "期限内納品"
+        },
+        "custom": {
+          "title": "カスタム\nソリューション",
+          "alt": "カスタムソリューション"
+        },
+        "reliability": {
+          "title": "信頼性と\n性能",
+          "alt": "信頼性"
+        }
+      }
+    },
+    "coreValues": {
+      "title": "当社のコアバリュー:",
+      "items": {
+        "innovation": {
+          "title": "革新",
+          "desc": "継続的な研究開発によるシーリング技術の進化。",
+          "alt": "革新"
+        },
+        "integrity": {
+          "title": "誠実さ",
+          "desc": "透明な関係、正直なコミットメント。",
+          "alt": "誠実さ"
+        },
+        "precision": {
+          "title": "精密さ",
+          "desc": "すべてのシールを完璧に製造。",
+          "alt": "精密さ"
+        },
+        "sustainability": {
+          "title": "持続可能性",
+          "desc": "環境に優しい素材と省エネの実践。",
+          "alt": "持続可能性"
+        },
+        "customerFocus": {
+          "title": "顧客重視",
+          "desc": "お客様の産業ニーズに合わせたソリューション。",
+          "alt": "顧客重視"
+        }
+      }
+    }
+  },
+  "productPage": {
+    "hero": {
+      "slide1": {
+        "title": "シールのために設計。<br>長持ちするように構築。",
+        "desc": "あらゆる産業用途で耐久性、効率性、完全な漏れ防止性能を発揮する精密エンジニアリングのメカニカルシール全製品ラインをご覧ください。",
+        "ctaExplore": "製品を見る",
+        "ctaView": "すべての製品を見る"
+      }
+    },
+    "allProducts": {
+      "title": "マレディアンシールズ製品ライン",
+      "all": "すべての製品"
+    },
+    "categories": {
+      "pusher-seals": "プッシャーシール",
+      "single-spring": "シングルスプリングシール",
+      "multi-spring": "マルチスプリングシール",
+      "textile-seal": "テキスタイルシール",
+      "teflon-bellow": "テフロンベローシール",
+      "metal-bellow": "金属ベロー機械",
+      "boiler-feed": "ボイラーフィードウォーターシール",
+      "split-seals": "分割シール",
+      "high-pressure": "高圧シール",
+      "dry-seals": "ドライシール",
+      "cartridge-single": "シングルアクティングカートリッジ",
+      "cartridge-double": "ダブルアクティングカートリッジ"
+    },
+    "products": {
+      "readMore": "続きを読む →",
+      "enquiry": "お問い合わせ →"
+    },
+    "details": {
+      "back": "← 製品に戻る",
+      "standardStyle": "⚙ 標準スタイル",
+      "characteristics": "⚙ シールの特性",
+      "operatingLimits": "⚙ 運転条件",
+      "applications": "⚙ 適用例"
+    }
+  },
+  "servicePage": {
+    "hero": {
+      "title": "エンドツーエンドのシーリングソリューション、<br>信頼性のために設計。",
+      "description": "設計から納品まで、性能、耐久性、完全な漏れ防止の信頼性を保証する包括的なシーリングサービスを提供します。",
+      "cta": "相談を依頼",
+      "viewProducts": "すべての製品を見る"
+    },
+    "industries": {
+      "title": "対応する産業",
+      "subtitle": "さまざまな産業分野で卓越したサービスを提供",
+      "items": {
+        "petrochemical": "石油化学＆精製",
+        "powerPlants": "発電所＆エネルギー",
+        "oilGas": "石油＆ガス",
+        "pharmaceuticals": "製薬",
+        "waterTreatment": "水＆廃水処理",
+        "foodProcessing": "食品＆飲料加工",
+        "textile": "繊維＆パルプ産業",
+        "moreIndustries": "その他多数..."
+      }
+    }
+  },
+  "contactPage": {
+    "heading": "お問い合わせ",
+    "tagline": "一緒に漏れ防止ソリューションを作りましょう。",
+    "headOffice": {
+      "iconAlt": "場所アイコン",
+      "title": "本社",
+      "address": "ダンヤ・サティヴァリ、ヴァサイ・イースト、ヴァサイ"
+    },
+    "phone": {
+      "iconAlt": "電話アイコン",
+      "title": "お問い合わせ",
+      "number": "+91 9561444777"
+    },
+    "email": {
+      "iconAlt": "メールアイコン",
+      "title": "メールでお問い合わせ",
+      "address": "info@maredianseals.com"
+    },
+    "workingHours": {
+      "monSatLabel": "月〜土:",
+      "monSatTime": "9:00 AM – 7:00 PM",
+      "sunLabel": "日:",
+      "sunTime": "休業"
+    },
+    "social": {
+      "heading": "ソーシャルメディアでフォローしてください:",
+      "facebook": "Facebook",
+      "linkedin": "LinkedIn",
+      "whatsapp": "WhatsApp",
+      "instagram": "Instagram"
+    },
+    "form": {
+      "heading": "お問い合わせ",
+      "companyNameLabel": "会社名",
+      "companyNamePlaceholder": "会社名を入力してください",
+      "yourNameLabel": "お名前",
+      "yourNamePlaceholder": "お名前を入力してください",
+      "contactDetailsLabel": "連絡先",
+      "contactDetailsPlaceholder": "電話番号を入力してください",
+      "emailLabel": "メール",
+      "emailPlaceholder": "メールアドレスを入力してください",
+      "productSelectLabel": "製品を選択",
+      "productSelectPlaceholder": "製品名を入力してください",
+      "addressLabel": "住所 / 市 / 場所",
+      "addressPlaceholder": "住所を入力してください",
+      "questionLabel": "質問または要件",
+      "questionPlaceholder": "質問または要件を入力してください",
+      "submitBtn": "送信"
+    },
+    "map": {
+      "iframeAlt": "会社所在地地図"
+    }
+  },
+  "footer": {
+    "address": "ダンヤ・サティヴァリ、ヴァサイ・イースト、ヴァサイ",
+    "follow": "フォローしてください:",
+    "quickLinks": "クイックリンク",
+    "productsTitle": "当社の製品",
+    "links": {
+      "home": "ホーム",
+      "about": "会社概要",
+      "products": "製品",
+      "services": "サービス",
+      "quality": "品質",
+      "contact": "お問い合わせ"
+    },
+    "products": {
+      "pusher": "プッシャーシール",
+      "single": "シングルスプリングシール",
+      "multi": "マルチスプリングシール",
+      "textile": "テキスタイルシール",
+      "teflon": "テフロンベローシール",
+      "metal": "金属ベロー機械"
+    },
+    "copyright": "© 2026 Maredian Seals. 無断転載禁止 | プライバシーポリシー | 利用規約"
+  }
+}

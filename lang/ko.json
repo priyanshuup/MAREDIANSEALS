@@ -1,0 +1,290 @@
+{
+  "topBar": {
+    "phone": "+91 9561444777",
+    "email": "info@maredianseals.com",
+    "address": "다냐 사티발리, 바사이 이스트, 바사이",
+    "follow": "팔로우하기:"
+  },
+  "hero": {
+    "slide1": {
+      "title": "정밀함과 성능으로 미래를 밀봉하다",
+      "desc": "요구 사항이 까다로운 환경에서도 신뢰성과 효율성을 제공하는 업계 선도 메카니컬 씰.",
+      "cta": "제품 보기"
+    },
+    "slide2": {
+      "title": "메카니컬 씰링 솔루션의 혁신",
+      "desc": "전 세계 산업용 애플리케이션에서 최대 성능을 발휘하도록 설계된 프리미엄 품질 씰.",
+      "cta": "자세히 보기"
+    },
+    "products": {
+      "sectionTitle": "고급 씰링 솔루션",
+      "sectionDesc": "당사의 메카니컬 씰, 로터리 유니언 및 구성 요소의 다양한 라인업을 확인하세요. 가장 혹독한 조건에서도 안정적인 성능을 제공하도록 제작되었습니다.",
+      "items": {
+        "pusher": {
+          "title": "푸셔 씰",
+          "desc": "재질: 스텔라이트, 탄소, 세라믹, 텅스텐 카바이드, 실리콘 카바이드, 레크롤로이"
+        },
+        "textile": {
+          "title": "섬유 씰",
+          "desc": "재질: 스텔라이트, 탄소, 세라믹, 텅스텐 카바이드, 실리콘 카바이드, 레크롤로이"
+        },
+        "singleSpring": {
+          "title": "싱글 스프링 씰",
+          "desc": "재질: 스텔라이트, 탄소, 세라믹, 텅스텐 카바이드, 실리콘 카바이드, 레크롤로이"
+        },
+        "multiSpring": {
+          "title": "멀티 스프링 씰",
+          "desc": "재질: 스텔라이트, 탄소, 세라믹, 텅스텐 카바이드, 실리콘 카바이드, 레크롤로이"
+        }
+      }
+    },
+    "common": {
+      "readMore": "더 읽기",
+      "enquiry": "문의하기"
+    },
+    "about": {
+      "title": "파이널 마레디안 씰즈 소개",
+      "subtitle": "정밀. 성능. 완벽.",
+      "description": "열정적인 엔지니어와 선견지명이 있는 기술자들이 설립한 마레디안 씰즈는 메카니컬 씰링 기술 분야에서 신뢰받는 이름이며, 까다로운 조건에서도 누수 없는 성능을 보장하는 프리미엄 씰링 시스템 설계 및 제조를 전문으로 합니다. 첨단 기술과 수십 년의 경험을 바탕으로 석유화학, 제약, 섬유, 식품 가공, 발전, 수처리 등 산업에 서비스를 제공합니다.",
+      "features": {
+        "precision": "정밀 엔지니어링",
+        "delivery": "정시 납품",
+        "custom": "맞춤형 솔루션",
+        "reliability": "신뢰성 및 성능"
+      },
+      "learnMore": "자세히 알아보기"
+    },
+    "industries": {
+      "title": "우리가 제공하는 산업",
+      "subtitle": "당사의 메카니컬 씰은 가장 까다로운 산업 환경에서도 안정적으로 성능을 발휘합니다."
+    },
+    "whyChoose": {
+      "title": "파이널 마레디안 씰즈를 선택하는 이유",
+      "items": {
+        "delivery": "빠른 배송\n및 기술 지원",
+        "expertise": "검증된 엔지니어링\n전문 지식",
+        "leakproof": "100% 누수 방지\n성능 보장",
+        "trusted": "업계 전반에서\n신뢰받는 기업",
+        "manufacturing": "정밀 제조\n기준"
+      }
+    }
+  },
+  "ticker": {
+    "item1": "푸셔 씰",
+    "item2": "싱글 스프링 씰",
+    "item3": "멀티 스프링 씰",
+    "item4": "섬유 씰",
+    "item5": "테프론 벨로우 씰",
+    "item6": "금속 벨로우 기계"
+  },
+  "aboutHero": {
+    "slide1": {
+      "title": "엔지니어링 우수성\n씰 무결성 제공",
+      "desc": "마레디안 씰즈는 현대 산업을 위한 신뢰성, 정밀도 및 성능을 정의하는 메카니컬 씰링 솔루션을 설계하고 제조합니다.",
+      "cta": "전문 지식 탐색"
+    },
+    "aboutUs": {
+      "title": "회사 소개",
+      "tagline": "올바르게 만들고, 단단히 밀봉하세요.",
+      "paragraph1": "씰링 솔루션을 재정의하기 위해 설립된 마레디안 씰즈는 메카니컬 씰 및 씰링 시스템 분야의 프리미엄 제조업체, 공급업체 및 혁신 기업입니다.",
+      "paragraph2": "당사는 가장 까다로운 산업 조건에서도 성능을 발휘하도록 설계된 맞춤형 씰링 솔루션을 전문으로 합니다. 제품은 정밀하게 제작되어 누수 방지 성능, 내구성 및 긴 수명을 보장합니다.",
+      "paragraph3": "숙련된 엔지니어 팀, 첨단 제조 기술, 높은 품질 기준을 바탕으로 석유화학, 제약, 식품 가공, 수처리 등 산업에서 신뢰받는 솔루션을 제공합니다.",
+      "images": {
+        "image1": "메카니컬 씰 제품",
+        "image2": "제조",
+        "image3": "엔지니어",
+        "image4": "씰링 제품",
+        "logo": "마레디안 로고"
+      }
+    },
+    "strengths": {
+      "title": "당사의 강점:",
+      "tagline": "올바르게 만들고, 단단히 밀봉하세요.",
+      "items": {
+        "precision": {
+          "title": "정밀\n엔지니어링",
+          "alt": "정밀 엔지니어링"
+        },
+        "delivery": {
+          "title": "정시\n납품",
+          "alt": "정시 납품"
+        },
+        "custom": {
+          "title": "맞춤형\n솔루션",
+          "alt": "맞춤형 솔루션"
+        },
+        "reliability": {
+          "title": "신뢰성 및\n성능",
+          "alt": "신뢰성"
+        }
+      }
+    },
+    "coreValues": {
+      "title": "핵심 가치:",
+      "items": {
+        "innovation": {
+          "title": "혁신",
+          "desc": "지속적인 연구개발로 씰링 기술 향상.",
+          "alt": "혁신"
+        },
+        "integrity": {
+          "title": "정직",
+          "desc": "투명한 관계, 정직한 약속.",
+          "alt": "정직"
+        },
+        "precision": {
+          "title": "정밀함",
+          "desc": "모든 씰을 완벽하게 제작.",
+          "alt": "정밀함"
+        },
+        "sustainability": {
+          "title": "지속 가능성",
+          "desc": "친환경 소재 및 에너지 절약 실천.",
+          "alt": "지속 가능성"
+        },
+        "customerFocus": {
+          "title": "고객 중심",
+          "desc": "고객의 산업 요구에 맞춘 솔루션.",
+          "alt": "고객 중심"
+        }
+      }
+    }
+  },
+  "productPage": {
+    "hero": {
+      "slide1": {
+        "title": "밀봉을 위해 설계됨.<br>오래 지속되도록 제작.",
+        "desc": "모든 산업 애플리케이션에서 내구성, 효율성 및 완전한 누수 방지 성능을 제공하는 정밀 엔지니어링 메카니컬 씰 전체 라인을 확인하세요.",
+        "ctaExplore": "제품 보기",
+        "ctaView": "모든 제품 보기"
+      }
+    },
+    "allProducts": {
+      "title": "마레디안 씰즈 제품 라인업",
+      "all": "모든 제품"
+    },
+    "categories": {
+      "pusher-seals": "푸셔 씰",
+      "single-spring": "싱글 스프링 씰",
+      "multi-spring": "멀티 스프링 씰",
+      "textile-seal": "섬유 씰",
+      "teflon-bellow": "테프론 벨로우 씰",
+      "metal-bellow": "금속 벨로우 기계",
+      "boiler-feed": "보일러 급수 씰",
+      "split-seals": "분할 씰",
+      "high-pressure": "고압 씰",
+      "dry-seals": "드라이 씰",
+      "cartridge-single": "싱글 액팅 카트리지",
+      "cartridge-double": "더블 액팅 카트리지"
+    },
+    "products": {
+      "readMore": "더 읽기 →",
+      "enquiry": "문의 →"
+    },
+    "details": {
+      "back": "← 제품으로 돌아가기",
+      "standardStyle": "⚙ 표준 스타일",
+      "characteristics": "⚙ 씰 특성",
+      "operatingLimits": "⚙ 운전 조건",
+      "applications": "⚙ 적용 예"
+    }
+  },
+  "servicePage": {
+    "hero": {
+      "title": "엔드 투 엔드 씰링 솔루션,<br>신뢰성을 위해 설계됨.",
+      "description": "설계부터 납품까지, 성능, 내구성 및 완전 누수 방지 신뢰성을 보장하는 포괄적인 씰링 서비스를 제공합니다.",
+      "cta": "상담 요청",
+      "viewProducts": "모든 제품 보기"
+    },
+    "industries": {
+      "title": "우리가 제공하는 산업",
+      "subtitle": "다양한 산업 분야에서 탁월한 서비스를 제공합니다",
+      "items": {
+        "petrochemical": "석유화학 & 정유",
+        "powerPlants": "발전소 & 에너지",
+        "oilGas": "석유 & 가스",
+        "pharmaceuticals": "제약",
+        "waterTreatment": "수처리 및 폐수 처리",
+        "foodProcessing": "식품 & 음료 가공",
+        "textile": "섬유 & 펄프 산업",
+        "moreIndustries": "기타 다수..."
+      }
+    }
+  },
+  "contactPage": {
+    "heading": "문의하기",
+    "tagline": "함께 누수 방지 솔루션을 만들어 보세요.",
+    "headOffice": {
+      "iconAlt": "위치 아이콘",
+      "title": "본사",
+      "address": "다냐 사티발리, 바사이 이스트, 바사이"
+    },
+    "phone": {
+      "iconAlt": "전화 아이콘",
+      "title": "문의하기",
+      "number": "+91 9561444777"
+    },
+    "email": {
+      "iconAlt": "이메일 아이콘",
+      "title": "이메일로 문의",
+      "address": "info@maredianseals.com"
+    },
+    "workingHours": {
+      "monSatLabel": "월~토:",
+      "monSatTime": "9:00 AM – 7:00 PM",
+      "sunLabel": "일:",
+      "sunTime": "휴무"
+    },
+    "social": {
+      "heading": "소셜 미디어 팔로우:",
+      "facebook": "Facebook",
+      "linkedin": "LinkedIn",
+      "whatsapp": "WhatsApp",
+      "instagram": "Instagram"
+    },
+    "form": {
+      "heading": "문의",
+      "companyNameLabel": "회사명",
+      "companyNamePlaceholder": "회사명을 입력하세요",
+      "yourNameLabel": "이름",
+      "yourNamePlaceholder": "이름을 입력하세요",
+      "contactDetailsLabel": "연락처",
+      "contactDetailsPlaceholder": "전화번호를 입력하세요",
+      "emailLabel": "이메일",
+      "emailPlaceholder": "이메일 주소를 입력하세요",
+      "productSelectLabel": "제품 선택",
+      "productSelectPlaceholder": "제품명을 입력하세요",
+      "addressLabel": "주소 / 도시 / 위치",
+      "addressPlaceholder": "주소를 입력하세요",
+      "questionLabel": "질문 또는 요청사항",
+      "questionPlaceholder": "질문 또는 요청사항을 입력하세요",
+      "submitBtn": "보내기"
+    },
+    "map": {
+      "iframeAlt": "회사 위치 지도"
+    }
+  },
+  "footer": {
+    "address": "다냐 사티발리, 바사이 이스트, 바사이",
+    "follow": "팔로우하기:",
+    "quickLinks": "빠른 링크",
+    "productsTitle": "당사 제품",
+    "links": {
+      "home": "홈",
+      "about": "회사 소개",
+      "products": "제품",
+      "services": "서비스",
+      "quality": "품질",
+      "contact": "문의"
+    },
+    "products": {
+      "pusher": "푸셔 씰",
+      "single": "싱글 스프링 씰",
+      "multi": "멀티 스프링 씰",
+      "textile": "섬유 씰",
+      "teflon": "테프론 벨로우 씰",
+      "metal": "금속 벨로우 기계"
+    },
+    "copyright": "© 2026 Maredian Seals. 모든 권리 보유 | 개인정보 보호정책 | 이용약관"
+  }
+}

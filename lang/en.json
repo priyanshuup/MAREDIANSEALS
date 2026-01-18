@@ -1,0 +1,592 @@
+{
+    "topBar": {
+        "phone": "+91 9561444777",
+        "email": "info@maredianseals.com",
+        "address": "dhanya sativali, vasai east, vasai",
+        "follow": "Follow Us:"
+    },
+    "hero": {
+        "slide1": {
+            "title": "Sealing the Future with Precision & Performance",
+            "desc": "Industry-leading mechanical seals designed for reliability and efficiency in demanding applications.",
+            "cta": "Explore Products"
+        },
+        "slide2": {
+            "title": "Innovation in Mechanical Sealing Solutions",
+            "desc": "Premium quality seals engineered for maximum performance in industrial applications worldwide.",
+            "cta": "Learn More"
+        },
+        "products": {
+            "sectionTitle": "ADVANCED SEALING SOLUTIONS",
+            "sectionDesc": "Discover our wide range of mechanical seals, rotary unions, and components crafted to deliver consistent performance under the toughest conditions",
+            "items": {
+                "pusher": {
+                    "title": "Pusher Seals",
+                    "desc": "Face Materials: Stellite, Carbon, Ceramic, Tungsten Carbide, Silicon Carbide, Lecrolloy"
+                },
+                "textile": {
+                    "title": "Textile Seal",
+                    "desc": "Face Materials: Stellite, Carbon, Ceramic, Tungsten Carbide, Silicon Carbide, Lecrolloy"
+                },
+                "singleSpring": {
+                    "title": "Single Spring Seal",
+                    "desc": "Face Materials: Stellite, Carbon, Ceramic, Tungsten Carbide, Silicon Carbide, Lecrolloy"
+                },
+                "multiSpring": {
+                    "title": "Multi Spring Seal",
+                    "desc": "Face Materials: Stellite, Carbon, Ceramic, Tungsten Carbide, Silicon Carbide, Lecrolloy"
+                }
+            }
+        },
+        "common": {
+            "readMore": "READ MORE",
+            "enquiry": "Enquiry Now"
+        },
+        "about": {
+            "title": "ABOUT FINAL MAREDIAN SEALS",
+            "subtitle": "Precision. Performance. Perfection.",
+            "description": "Founded by passionate engineers and visionary technocrats, Maredian Seals is a trusted name in mechanical sealing technology, specializing in the design and manufacture of premium sealing systems that ensure leak-proof performance under demanding conditions. With advanced technology and decades of expertise, we serve industries including petrochemicals, pharmaceuticals, textiles, food processing, power generation, and water treatment.",
+            "features": {
+                "precision": "Precision Engineering",
+                "delivery": "On-Time Delivery",
+                "custom": "Custom Solutions",
+                "reliability": "Reliability & Performance"
+            },
+            "learnMore": "Learn More About Us"
+        },
+        "industries": {
+            "title": "INDUSTRIES WE SERVE",
+            "subtitle": "Our mechanical seals perform reliably in some of the most demanding industrial environments."
+        },
+        "whyChoose": {
+            "title": "WHY CHOOSE FINAL MAREDIAN SEALS",
+            "items": {
+                "delivery": "Quick Delivery\n& Technical Support",
+                "expertise": "Proven Engineering\nExpertise",
+                "leakproof": "100% Leak-Proof\nPerformance Guarantee",
+                "trusted": "Trusted by Clients\nAcross Industries",
+                "manufacturing": "Precision Manufacturing\nStandards"
+            }
+        }
+    },
+    "ticker": {
+        "item1": "Pusher Seals",
+        "item2": "Single Spring Seal",
+        "item3": "Multi Spring Seal",
+        "item4": "Textile Seal",
+        "item5": "Teflon Bellow Seals",
+        "item6": "Metal Bellow Mechanical"
+    },
+    "aboutHero": {
+        "slide1": {
+            "title": "Engineering Excellence\nDelivering Seal Integrity",
+            "desc": "At Maredian Seals, we design and manufacture mechanical sealing solutions that define reliability, precision, and performance for modern industries.",
+            "cta": "Explore our Expertise"
+        },
+        "aboutUs": {
+            "title": "ABOUT US",
+            "tagline": "BUILD IT RIGHT. SEAL IT TIGHT.",
+            "paragraph1": "Established with a vision to redefine sealing solutions, Maredian Seals is a premium manufacturer, supplier, and innovator in the field of mechanical seals and sealing systems.",
+            "paragraph2": "We specialize in custom-engineered sealing solutions designed to perform under the most demanding industrial conditions. Our products are built with precision, ensuring leak-proof performance, durability, and long service life.",
+            "paragraph3": "With a team of skilled engineers, advanced manufacturing practices, and a strong focus on quality, we deliver solutions trusted by industries ranging from petrochemicals and refineries to pharmaceuticals, food processing, and water treatment.",
+            "images": {
+                "image1": "Mechanical Seal Product",
+                "image2": "Manufacturing",
+                "image3": "Engineer",
+                "image4": "Sealing Products",
+                "logo": "Maredian Logo"
+            }
+        },
+        "strengths": {
+            "title": "OUR STRENGTHS:",
+            "tagline": "Build it right. Seal it tight.",
+            "items": {
+                "precision": {
+                    "title": "PRECISION\nENGINEERING",
+                    "alt": "Precision Engineering"
+                },
+                "delivery": {
+                    "title": "ON-TIME\nDELIVERY",
+                    "alt": "On-Time Delivery"
+                },
+                "custom": {
+                    "title": "CUSTOM\nSOLUTIONS",
+                    "alt": "Custom Solutions"
+                },
+                "reliability": {
+                    "title": "RELIABILITY &\nPERFORMANCE",
+                    "alt": "Reliability"
+                }
+            }
+        },
+        "coreValues": {
+            "title": "OUR CORE VALUES :",
+            "items": {
+                "innovation": {
+                    "title": "Innovation",
+                    "desc": "Advancing sealing technology with continuous R&D.",
+                    "alt": "Innovation"
+                },
+                "integrity": {
+                    "title": "Integrity",
+                    "desc": "Transparent relationships, honest commitments.",
+                    "alt": "Integrity"
+                },
+                "precision": {
+                    "title": "Precision",
+                    "desc": "Every seal built to perfection.",
+                    "alt": "Precision"
+                },
+                "sustainability": {
+                    "title": "Sustainability",
+                    "desc": "Eco-friendly materials and energy-conscious practices.",
+                    "alt": "Sustainability"
+                },
+                "customerFocus": {
+                    "title": "Customer Focus",
+                    "desc": "Solutions designed around your industrial needs.",
+                    "alt": "Customer Focus"
+                }
+            }
+        }
+    },
+    "productPage": {
+        "hero": {
+            "slide1": {
+                "title": "Engineered to Seal.<br>Build to Last.",
+                "desc": "Discover our full range of precision-engineered mechanical seals, crafted for durability, efficiency, and total leak-proof performance across every industrial application.",
+                "ctaExplore": "Explore Products",
+                "ctaView": "View All Product"
+            }
+        },
+        "allProducts": {
+            "title": "Maredian Seals<br>Product Range",
+            "all": "All Products"
+        },
+        "categories": {
+            "pusher-seals": "Pusher Seals",
+            "single-spring": "Single Spring Seal",
+            "multi-spring": "Multi Spring Seal",
+            "textile-seal": "Textile Seal",
+            "teflon-bellow": "Teflon Bellow Seals",
+            "metal-bellow": "Metal Bellow Mechanical",
+            "boiler-feed": "Boiler Feed Water Seals",
+            "split-seals": "Split Seals",
+            "high-pressure": "High Pressure Seal",
+            "dry-seals": "Dry Seals",
+            "cartridge-single": "Cartridge Single Acting",
+            "cartridge-double": "Cartridge Double Acting"
+        },
+        "products": {
+            "readMore": "READ MORE →",
+            "enquiry": "ENQUIRY →"
+        },
+        "details": {
+            "back": "← Back to Products",
+            "standardStyle": "⚙ Standard Style",
+            "characteristics": "⚙ Seal Characteristics",
+            "operatingLimits": "⚙ Operating Limits",
+            "applications": "⚙ Applications"
+        },
+        "productDetails": {
+            "pusher-seals": {
+                "standardStyle": [
+                    "Face Materials: Stellite, Carbon, Ceramic, Tungsten Carbide, Silicon Carbide, Lecrolly",
+                    "Metal Parts: SS 316, SS 304",
+                    "Secondary Seal: Elastomers, PTFE"
+                ],
+                "characteristics": [
+                    "Single acting",
+                    "Unbalanced",
+                    "Inside mounted",
+                    "Dependent on direction of rotation"
+                ],
+                "operatingLimits": [
+                    "Shaft Diameter D1: 10 mm to 100 mm",
+                    "Pressure P: 0.8 bar (max)",
+                    "Temperature t: -20°C to +200°C",
+                    "Velocity V: 20 m/sec"
+                ],
+                "applications": [
+                    "Water Pumps",
+                    "Circulation Pumps for central heating",
+                    "Chemical Process Pumps",
+                    "Sewage and Submersible pumps"
+                ]
+            },
+            "single-spring": {
+                "standardStyle": [
+                    "Face Materials: Stellite, Carbon, Ceramic, Tungsten Carbide, Silicon Carbide, Lecrolly",
+                    "Metal Parts: SS 316, SS 304",
+                    "Secondary Seal: Elastomers, PTFE"
+                ],
+                "characteristics": [
+                    "Single acting",
+                    "Unbalanced",
+                    "Inside mounted",
+                    "Dependent on direction of rotation"
+                ],
+                "operatingLimits": [
+                    "Shaft Diameter D1: 10 mm to 100 mm",
+                    "Pressure P: 0.8 bar (max)",
+                    "Temperature t: -20°C to +200°C",
+                    "Velocity V: 20 m/sec"
+                ],
+                "applications": [
+                    "Water Pumps",
+                    "Circulation Pumps for central heating",
+                    "Chemical Process Pumps",
+                    "Sewage and Submersible pumps"
+                ]
+            },
+            "multi-spring": {
+                "standardStyle": [
+                    "Face Materials: Stellite, Carbon, Ceramic, Tungsten Carbide, Silicon Carbide, Lecrolly",
+                    "Metal Parts: SS 316, SS 304",
+                    "Secondary Seal: Elastomers, PTFE"
+                ],
+                "characteristics": [
+                    "Single acting",
+                    "Unbalanced",
+                    "Inside mounted",
+                    "Dependent on direction of rotation"
+                ],
+                "operatingLimits": [
+                    "Shaft Diameter D1: 10 mm to 100 mm",
+                    "Pressure P: 0.8 bar (max)",
+                    "Temperature t: -20°C to +200°C",
+                    "Velocity V: 20 m/sec"
+                ],
+                "applications": [
+                    "Water Pumps",
+                    "Circulation Pumps for central heating",
+                    "Chemical Process Pumps",
+                    "Sewage and Submersible pumps"
+                ]
+            },
+            "textile-seal": {
+                "standardStyle": [
+                    "Face Materials: Stellite, Carbon, Ceramic, Tungsten Carbide, Silicon Carbide, Lecrolly",
+                    "Metal Parts: SS 316, SS 304",
+                    "Secondary Seal: Elastomers, PTFE"
+                ],
+                "characteristics": [
+                    "Single acting",
+                    "Unbalanced",
+                    "Inside mounted",
+                    "Dependent on direction of rotation"
+                ],
+                "operatingLimits": [
+                    "Shaft Diameter D1: 10 mm to 100 mm",
+                    "Pressure P: 0.8 bar (max)",
+                    "Temperature t: -20°C to +200°C",
+                    "Velocity V: 20 m/sec"
+                ],
+                "applications": [
+                    "Water Pumps",
+                    "Circulation Pumps for central heating",
+                    "Chemical Process Pumps",
+                    "Sewage and Submersible pumps"
+                ]
+            },
+            "teflon-bellow": {
+                "standardStyle": [
+                    "Face Materials: Stellite, Carbon, Ceramic, Tungsten Carbide, Silicon Carbide, Lecrolly",
+                    "Metal Parts: SS 316, SS 304",
+                    "Secondary Seal: Elastomers, PTFE"
+                ],
+                "characteristics": [
+                    "Single acting",
+                    "Unbalanced",
+                    "Inside mounted",
+                    "Dependent on direction of rotation"
+                ],
+                "operatingLimits": [
+                    "Shaft Diameter D1: 10 mm to 100 mm",
+                    "Pressure P: 0.8 bar (max)",
+                    "Temperature t: -20°C to +200°C",
+                    "Velocity V: 20 m/sec"
+                ],
+                "applications": [
+                    "Water Pumps",
+                    "Circulation Pumps for central heating",
+                    "Chemical Process Pumps",
+                    "Sewage and Submersible pumps"
+                ]
+            },
+            "metal-bellow": {
+                "standardStyle": [
+                    "Face Materials: Stellite, Carbon, Ceramic, Tungsten Carbide, Silicon Carbide, Lecrolly",
+                    "Metal Parts: SS 316, SS 304",
+                    "Secondary Seal: Elastomers, PTFE"
+                ],
+                "characteristics": [
+                    "Single acting",
+                    "Unbalanced",
+                    "Inside mounted",
+                    "Dependent on direction of rotation"
+                ],
+                "operatingLimits": [
+                    "Shaft Diameter D1: 10 mm to 100 mm",
+                    "Pressure P: 0.8 bar (max)",
+                    "Temperature t: -20°C to +200°C",
+                    "Velocity V: 20 m/sec"
+                ],
+                "applications": [
+                    "Water Pumps",
+                    "Circulation Pumps for central heating",
+                    "Chemical Process Pumps",
+                    "Sewage and Submersible pumps"
+                ]
+            },
+            "boiler-feed": {
+                "standardStyle": [
+                    "Face Materials: Stellite, Carbon, Ceramic, Tungsten Carbide, Silicon Carbide, Lecrolly",
+                    "Metal Parts: SS 316, SS 304",
+                    "Secondary Seal: Elastomers, PTFE"
+                ],
+                "characteristics": [
+                    "Single acting",
+                    "Unbalanced",
+                    "Inside mounted",
+                    "Dependent on direction of rotation"
+                ],
+                "operatingLimits": [
+                    "Shaft Diameter D1: 10 mm to 100 mm",
+                    "Pressure P: 0.8 bar (max)",
+                    "Temperature t: -20°C to +200°C",
+                    "Velocity V: 20 m/sec"
+                ],
+                "applications": [
+                    "Water Pumps",
+                    "Circulation Pumps for central heating",
+                    "Chemical Process Pumps",
+                    "Sewage and Submersible pumps"
+                ]
+            },
+            "split-seals": {
+                "standardStyle": [
+                    "Face Materials: Stellite, Carbon, Ceramic, Tungsten Carbide, Silicon Carbide, Lecrolly",
+                    "Metal Parts: SS 316, SS 304",
+                    "Secondary Seal: Elastomers, PTFE"
+                ],
+                "characteristics": [
+                    "Single acting",
+                    "Unbalanced",
+                    "Inside mounted",
+                    "Dependent on direction of rotation"
+                ],
+                "operatingLimits": [
+                    "Shaft Diameter D1: 10 mm to 100 mm",
+                    "Pressure P: 0.8 bar (max)",
+                    "Temperature t: -20°C to +200°C",
+                    "Velocity V: 20 m/sec"
+                ],
+                "applications": [
+                    "Water Pumps",
+                    "Circulation Pumps for central heating",
+                    "Chemical Process Pumps",
+                    "Sewage and Submersible pumps"
+                ]
+            },
+            "high-pressure": {
+                "standardStyle": [
+                    "Face Materials: Stellite, Carbon, Ceramic, Tungsten Carbide, Silicon Carbide, Lecrolly",
+                    "Metal Parts: SS 316, SS 304",
+                    "Secondary Seal: Elastomers, PTFE"
+                ],
+                "characteristics": [
+                    "Single acting",
+                    "Unbalanced",
+                    "Inside mounted",
+                    "Dependent on direction of rotation"
+                ],
+                "operatingLimits": [
+                    "Shaft Diameter D1: 10 mm to 100 mm",
+                    "Pressure P: 0.8 bar (max)",
+                    "Temperature t: -20°C to +200°C",
+                    "Velocity V: 20 m/sec"
+                ],
+                "applications": [
+                    "Water Pumps",
+                    "Circulation Pumps for central heating",
+                    "Chemical Process Pumps",
+                    "Sewage and Submersible pumps"
+                ]
+            },
+            "dry-seals": {
+                "standardStyle": [
+                    "Face Materials: Stellite, Carbon, Ceramic, Tungsten Carbide, Silicon Carbide, Lecrolly",
+                    "Metal Parts: SS 316, SS 304",
+                    "Secondary Seal: Elastomers, PTFE"
+                ],
+                "characteristics": [
+                    "Single acting",
+                    "Unbalanced",
+                    "Inside mounted",
+                    "Dependent on direction of rotation"
+                ],
+                "operatingLimits": [
+                    "Shaft Diameter D1: 10 mm to 100 mm",
+                    "Pressure P: 0.8 bar (max)",
+                    "Temperature t: -20°C to +200°C",
+                    "Velocity V: 20 m/sec"
+                ],
+                "applications": [
+                    "Water Pumps",
+                    "Circulation Pumps for central heating",
+                    "Chemical Process Pumps",
+                    "Sewage and Submersible pumps"
+                ]
+            },
+            "cartridge-single": {
+                "standardStyle": [
+                    "Face Materials: Stellite, Carbon, Ceramic, Tungsten Carbide, Silicon Carbide, Lecrolly",
+                    "Metal Parts: SS 316, SS 304",
+                    "Secondary Seal: Elastomers, PTFE"
+                ],
+                "characteristics": [
+                    "Single acting",
+                    "Unbalanced",
+                    "Inside mounted",
+                    "Dependent on direction of rotation"
+                ],
+                "operatingLimits": [
+                    "Shaft Diameter D1: 10 mm to 100 mm",
+                    "Pressure P: 0.8 bar (max)",
+                    "Temperature t: -20°C to +200°C",
+                    "Velocity V: 20 m/sec"
+                ],
+                "applications": [
+                    "Water Pumps",
+                    "Circulation Pumps for central heating",
+                    "Chemical Process Pumps",
+                    "Sewage and Submersible pumps"
+                ]
+            },
+            "cartridge-double": {
+                "standardStyle": [
+                    "Face Materials: Stellite, Carbon, Ceramic, Tungsten Carbide, Silicon Carbide, Lecrolly",
+                    "Metal Parts: SS 316, SS 304",
+                    "Secondary Seal: Elastomers, PTFE"
+                ],
+                "characteristics": [
+                    "Single acting",
+                    "Unbalanced",
+                    "Inside mounted",
+                    "Dependent on direction of rotation"
+                ],
+                "operatingLimits": [
+                    "Shaft Diameter D1: 10 mm to 100 mm",
+                    "Pressure P: 0.8 bar (max)",
+                    "Temperature t: -20°C to +200°C",
+                    "Velocity V: 20 m/sec"
+                ],
+                "applications": [
+                    "Water Pumps",
+                    "Circulation Pumps for central heating",
+                    "Chemical Process Pumps",
+                    "Sewage and Submersible pumps"
+                ]
+            }
+        }
+    },
+    "servicePage": {
+        "hero": {
+            "title": "End-to-End Sealing Solutions,<br>Engineered for Reliability.",
+            "description": "From design to delivery, we offer comprehensive sealing services that ensure performance, longevity, and total leak-proof reliability",
+            "cta": "Request a Consultation",
+            "viewProducts": "View All Product"
+        },
+        "industries": {
+            "title": "INDUSTRIES WE SERVE",
+            "subtitle": "Delivering excellence across diverse industrial sectors",
+            "items": {
+                "petrochemical": "PETROCHEMICAL & REFINERIES",
+                "powerPlants": "POWER PLANTS & ENERGY",
+                "oilGas": "OIL & GAS",
+                "pharmaceuticals": "PHARMACEUTICALS",
+                "waterTreatment": "WATER & WASTEWATER TREATMENT",
+                "foodProcessing": "FOOD & BEVERAGE PROCESSING",
+                "textile": "TEXTILE & PULP INDUSTRIES",
+                "moreIndustries": "MANY MORE..."
+            }
+        }
+    },
+    "contactPage": {
+        "heading": "GET IN TOUCH",
+        "tagline": "Let's Build Leak-Proof<br>Solutions Together.",
+        "headOffice": {
+            "iconAlt": "Location Icon",
+            "title": "Head office",
+            "address": "dhanya sativali, vasai east, vasai"
+        },
+        "phone": {
+            "iconAlt": "Phone Icon",
+            "title": "Contact Us",
+            "number": "+91 9561444777"
+        },
+        "email": {
+            "iconAlt": "Email Icon",
+            "title": "Email Us",
+            "address": "info@maredianseals.com"
+        },
+        "workingHours": {
+            "monSatLabel": "Monday – Saturday:",
+            "monSatTime": "9:00 AM – 7:00 PM",
+            "sunLabel": "Sunday:",
+            "sunTime": "Closed"
+        },
+        "social": {
+            "heading": "Follow Our Social Media:",
+            "facebook": "Facebook",
+            "linkedin": "LinkedIn",
+            "whatsapp": "WhatsApp",
+            "instagram": "Instagram"
+        },
+        "form": {
+            "heading": "ENQUIRY",
+            "companyNameLabel": "Company Name",
+            "companyNamePlaceholder": "Enter your company name",
+            "yourNameLabel": "Your Name",
+            "yourNamePlaceholder": "Enter your name",
+            "contactDetailsLabel": "Contact Details",
+            "contactDetailsPlaceholder": "Enter phone number",
+            "emailLabel": "Email",
+            "emailPlaceholder": "Enter email address",
+            "productSelectLabel": "Product Select",
+            "productSelectPlaceholder": "Enter product name",
+            "addressLabel": "Address / City / Location",
+            "addressPlaceholder": "Enter address",
+            "questionLabel": "Question or Requirement",
+            "questionPlaceholder": "Enter your question or requirement",
+            "submitBtn": "Send"
+        },
+        "map": {
+            "iframeAlt": "Company Location Map"
+        }
+    },
+    "footer": {
+        "address": "Dhanya Sativali, Vasai East, Vasai",
+        "follow": "Follow Us:",
+        "quickLinks": "QUICK LINKS",
+        "productsTitle": "OUR PRODUCTS",
+        "links": {
+            "home": "Home",
+            "about": "About Us",
+            "products": "Products",
+            "services": "Services",
+            "quality": "Quality",
+            "contact": "Contact Us"
+        },
+        "products": {
+            "pusher": "Pusher Seals",
+            "single": "Single Spring Seal",
+            "multi": "Multi Spring Seal",
+            "textile": "Textile Seal",
+            "teflon": "Teflon Bellow Seals",
+            "metal": "Metal Bellow Mechanical"
+        },
+        "copyright": "© 2026 Maredian Seals. All Rights Reserved. | Privacy Policy | Terms & Conditions"
+    }
+}

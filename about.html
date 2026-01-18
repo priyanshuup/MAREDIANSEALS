@@ -17,26 +17,23 @@
             <div class="contact-info">
                 <div class="contact-item">
                     <i class="fas fa-phone"></i>
-                    <span>+91 9561444777</span>
+                    <span data-i18n="topBar.phone">+91 9561444777</span>
                 </div>
                 <div class="contact-item">
                     <i class="fas fa-envelope"></i>
-                    <span>info@maredianseals.com</span>
+                    <span data-i18n="topBar.email">info@maredianseals.com</span>
                 </div>
                 <div class="contact-item">
                     <i class="fas fa-map-marker-alt"></i>
-                    <span>dhanya sativali, vasai east, vasai</span>
+                    <span data-i18n="topBar.address">dhanya sativali, vasai east, vasai</span>
                 </div>
             </div>
             <div class="social-links">
-                <span>Follow Us:</span>
-                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                <a href="#"><i class="fab fa-whatsapp"></i></a>
-                <a href="#"><i class="fab fa-instagram"></i></a>
-                <!-- <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
-                    <i class="fas fa-moon"></i>
-                </button> -->
+                <span data-i18n="topBar.follow">Follow Us:</span>
+                <a href="#" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+                <a href="#" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+                <a href="#" aria-label="WhatsApp"><i class="fab fa-whatsapp"></i></a>
+                <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
             </div>
         </div>
     </div>
@@ -55,6 +52,20 @@
                 <li><a href="./contact.html" class="nav-link">Contact Us</a></li>
             </ul>
             <a href="#enquiry" class="enquiry-btn">ENQUIRY</a>
+            <div class="nav-lang">
+                <select id="languageSwitcher" class="nav-lang-select">
+                    <option value="en">English</option>
+                    <option value="zh">中文</option> <!-- Chinese -->
+                    <option value="es">Español</option> <!-- Spanish -->
+                    <option value="ja">日本語</option> <!-- Japanese -->
+                    <option value="ko">한국어</option> <!-- Korean -->
+                    <option value="de">Deutsch</option> <!-- German -->
+                    <option value="tr">Türkçe</option> <!-- Turkish -->
+                    <option value="hi">हिन्दी</option> <!-- Hindi -->
+                    <option value="ar">العربية</option> <!-- Arabic -->
+                </select>
+
+            </div>
         </div>
     </nav>
 
@@ -73,25 +84,26 @@
                         <!-- Left Text Content -->
                         <div class="hero-left">
                             <div class="hero-text-content">
-                                <h1 class="hero-title"><span class="first-letter">E</span>ngeneering <span
-                                        class="first-letter">E</span>xcelence <br><span
-                                        class="first-letter">D</span>elivering <span class="first-letter">S</span>eal
-                                    <span class="first-letter">I</span>ntigrity.
+                                <h1 class="hero-title" data-i18n="aboutHero.slide1.title">
+                                    Engineering Excellence <br>Delivering Seal Integrity
                                 </h1>
-                                <p class="hero-description">At Maredian Seals, we design and manufacture mechanical
-                                    sealing solutions that define reliability, precision, and performance for modern
-                                    industries..</p>
-                                <a href="#" class="hero-cta">Explore our Expertise</a>
+                                <p class="hero-description" data-i18n="aboutHero.slide1.desc">
+                                    At Maredian Seals, we design and manufacture mechanical sealing solutions that
+                                    define reliability, precision, and performance for modern industries.
+                                </p>
+                                <a href="#" class="hero-cta" data-i18n="aboutHero.slide1.cta"></a>
                             </div>
                         </div>
 
-                        <!-- Right Angled Image -->
-                        <!-- <div class="hero-right">
-                            <img src="./images/homepage/Logo.png" alt="Logo" class="logo-overlay">
-                            <div class="angle-container">
-                                <img src="./images" alt="Mechanical Seals" class="angle-image">
-                            </div>
-                        </div> -->
+                        <!-- Right Angled Image (Commented Out) -->
+                        <!-- 
+                    <div class="hero-right">
+                        <img src="./images/homepage/Logo.png" alt="Logo" class="logo-overlay">
+                        <div class="angle-container">
+                            <img src="./images" alt="Mechanical Seals" class="angle-image">
+                        </div>
+                    </div> 
+                    -->
                     </div>
                 </div>
             </div>
@@ -100,25 +112,12 @@
         </div>
     </section>
 
-    <!-- News Ticker Section -->
-    <section class="news-ticker-container">
+
+    <!-- NEWS TICKER (I18N READY) -->
+    <section class="news-ticker-container" data-i18n-scope="ticker">
         <div class="news-ticker-wrapper">
-            <div class="news-ticker-content">
-                <span class="news-item">Pusher Seals</span>
-                <span class="news-item">Single Spring Seal</span>
-                <span class="news-item">Multi Spring Seal</span>
-                <span class="news-item">Textile Seal</span>
-                <span class="news-item">Teflon Bellow Seals</span>
-                <span class="news-item">Metal Bellow Mechanical</span>
-            </div>
-            <div class="news-ticker-content">
-                <span class="news-item">Pusher Seals</span>
-                <span class="news-item">Single Spring Seal</span>
-                <span class="news-item">Multi Spring Seal</span>
-                <span class="news-item">Textile Seal</span>
-                <span class="news-item">Teflon Bellow Seals</span>
-                <span class="news-item">Metal Bellow Mechanical</span>
-            </div>
+            <div class="news-ticker-content"></div>
+            <div class="news-ticker-content"></div>
         </div>
     </section>
 
@@ -127,31 +126,32 @@
             <div class="about-us-content">
                 <!-- Left Image Grid -->
                 <div class="about-us-left">
-
                     <div class="image-grid">
                         <div class="row-1">
-                            <div class="grid-image image-1"> <img
-                                    src="./images/about/section2/future-factory-plant-energy-industry-concept.jpg"
-                                    alt="Mechanical Seal Product">
+                            <div class="grid-image image-1">
+                                <img src="./images/about/section2/future-factory-plant-energy-industry-concept.jpg"
+                                    alt="Mechanical Seal Product" data-i18n-alt="aboutHero.aboutUs.images.image1">
                             </div>
-                            <div class="grid-image image-2"> <img src="./images/about/section2/Image-23.png"
-                                    alt="Manufacturing">
+                            <div class="grid-image image-2">
+                                <img src="./images/about/section2/Image-23.png" alt="Manufacturing"
+                                    data-i18n-alt="aboutHero.aboutUs.images.image2">
                             </div>
                         </div>
 
-
                         <div class="row-2">
-                            <div class="grid-image image-3"> <img src="./images/about/section2/Image-24.png"
-                                    alt="Engineer">
+                            <div class="grid-image image-3">
+                                <img src="./images/about/section2/Image-24.png" alt="Engineer"
+                                    data-i18n-alt="aboutHero.aboutUs.images.image3">
                             </div>
-                            <div class="grid-image image-4"> <img src="./images/about/section2/Precision.jpg"
-                                    alt="Sealing Products">
+                            <div class="grid-image image-4">
+                                <img src="./images/about/section2/Precision.jpg" alt="Sealing Products"
+                                    data-i18n-alt="aboutHero.aboutUs.images.image4">
                             </div>
                         </div>
 
                         <div class="center-logo">
-                            <img src="./images/about/section2/Icon-1.png" alt="Maredian Logo">
-
+                            <img src="./images/about/section2/Icon-1.png" alt="Maredian Logo"
+                                data-i18n-alt="aboutHero.aboutUs.images.logo">
                         </div>
                     </div>
 
@@ -164,43 +164,52 @@
 
                 <!-- Right Text Content -->
                 <div class="about-us-right">
-                    <h2 class="about-us-title">ABOUT US</h2>
-                    <p class="about-us-tagline">BUILD IT RIGHT. SEAL IT TIGHT.</p>
+                    <h2 class="about-us-title" data-i18n="aboutHero.aboutUs.title">ABOUT US</h2>
+                    <p class="about-us-tagline" data-i18n="aboutHero.aboutUs.tagline">BUILD IT RIGHT. SEAL IT TIGHT.</p>
 
                     <div class="about-us-text">
-                        <p>Established with a vision to redefine sealing solutions, Maredian Seals is a premium
+                        <p data-i18n="aboutHero.aboutUs.paragraph1">
+                            Established with a vision to redefine sealing solutions, Maredian Seals is a premium
                             manufacturer, supplier, and innovator in the field of mechanical seals and sealing systems.
                         </p>
 
-                        <p>We specialize in custom-engineered sealing solutions designed to perform under the most
+                        <p data-i18n="aboutHero.aboutUs.paragraph2">
+                            We specialize in custom-engineered sealing solutions designed to perform under the most
                             demanding industrial conditions. Our products are built with precision, ensuring leak-proof
-                            performance, durability, and long service life.</p>
+                            performance, durability, and long service life.
+                        </p>
 
-                        <p>With a team of skilled engineers, advanced manufacturing practices, and a strong focus on
+                        <p data-i18n="aboutHero.aboutUs.paragraph3">
+                            With a team of skilled engineers, advanced manufacturing practices, and a strong focus on
                             quality, we deliver solutions trusted by industries ranging from petrochemicals and
-                            refineries to pharmaceuticals, food processing, and water treatment.</p>
+                            refineries to pharmaceuticals, food processing, and water treatment.
+                        </p>
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
+
     <!-- Our Strengths Section -->
     <section class="strengths-section">
         <div class="container">
             <div class="strengths-header">
-                <h2 class="strengths-title">OUR STRENGTHS:</h2>
-                <p class="strengths-tagline">Build it right. Seal it tight.</p>
+                <h2 class="strengths-title" data-i18n="aboutHero.strengths.title">OUR STRENGTHS:</h2>
+                <p class="strengths-tagline" data-i18n="aboutHero.strengths.tagline">Build it right. Seal it tight.</p>
             </div>
 
             <div class="strengths-timeline">
                 <!-- Strength 1 -->
                 <div class="strength-item strength-1">
                     <div class="strength-icon">
-                        <img src="./images/about/section3/Icon-33.png" alt="Precision Engineering">
+                        <img src="./images/about/section3/Icon-33.png" alt="Precision Engineering"
+                            data-i18n-alt="aboutHero.strengths.items.precision.alt">
                         <span class="strength-number">01</span>
                     </div>
-                    <h3 class="strength-title">PRECISION<br>ENGINEERING</h3>
+                    <h3 class="strength-title" data-i18n="aboutHero.strengths.items.precision.title">
+                        PRECISION<br>ENGINEERING
+                    </h3>
                 </div>
 
                 <div class="timeline-connector connector-1"></div>
@@ -208,10 +217,13 @@
                 <!-- Strength 2 -->
                 <div class="strength-item strength-2">
                     <div class="strength-icon">
-                        <img src="./images/about/section3/Icon-34.png" alt="On-Time Delivery">
+                        <img src="./images/about/section3/Icon-34.png" alt="On-Time Delivery"
+                            data-i18n-alt="aboutHero.strengths.items.delivery.alt">
                         <span class="strength-number">02</span>
                     </div>
-                    <h3 class="strength-title">ON-TIME<br>DELIVERY</h3>
+                    <h3 class="strength-title" data-i18n="aboutHero.strengths.items.delivery.title">
+                        ON-TIME<br>DELIVERY
+                    </h3>
                 </div>
 
                 <div class="timeline-connector connector-2"></div>
@@ -219,10 +231,13 @@
                 <!-- Strength 3 -->
                 <div class="strength-item strength-3">
                     <div class="strength-icon">
-                        <img src="./images/about/section3/Icon-35.png" alt="Custom Solutions">
+                        <img src="./images/about/section3/Icon-35.png" alt="Custom Solutions"
+                            data-i18n-alt="aboutHero.strengths.items.custom.alt">
                         <span class="strength-number">03</span>
                     </div>
-                    <h3 class="strength-title">CUSTOM<br>SOLUTIONS</h3>
+                    <h3 class="strength-title" data-i18n="aboutHero.strengths.items.custom.title">
+                        CUSTOM<br>SOLUTIONS
+                    </h3>
                 </div>
 
                 <div class="timeline-connector connector-3"></div>
@@ -230,82 +245,102 @@
                 <!-- Strength 4 -->
                 <div class="strength-item strength-4">
                     <div class="strength-icon">
-                        <img src="./images/about/section3/Icon-36.png" alt="Reliability">
+                        <img src="./images/about/section3/Icon-36.png" alt="Reliability"
+                            data-i18n-alt="aboutHero.strengths.items.reliability.alt">
                         <span class="strength-number">04</span>
                     </div>
-                    <h3 class="strength-title">RELIABILITY &<br>PERFORMANCE</h3>
+                    <h3 class="strength-title" data-i18n="aboutHero.strengths.items.reliability.title">
+                        RELIABILITY &<br>PERFORMANCE
+                    </h3>
                 </div>
             </div>
         </div>
     </section>
 
+
     <!-- Our Core Values Section -->
     <section class="core-values-section">
         <div class="container">
             <div class="core-values-header">
-                <h2 class="core-values-title">OUR CORE VALUES :</h2>
+                <h2 class="core-values-title" data-i18n="aboutHero.coreValues.title">OUR CORE VALUES :</h2>
             </div>
 
             <div class="values-grid">
                 <!-- Value 1 - Innovation -->
-                <!-- <div class="border-bottom"> -->
                 <div class="value-card value-1">
                     <div class="value-image">
-                        <img src="./images/about/section4/Innovation.jpg" alt="Innovation">
+                        <img src="./images/about/section4/Innovation.jpg" alt="Innovation"
+                            data-i18n-alt="aboutHero.coreValues.items.innovation.alt">
                     </div>
                     <div class="value-content">
-                        <h3 class="value-name">Innovation</h3>
-                        <p class="value-description">Advancing sealing technology with continuous R&D.</p>
+                        <h3 class="value-name" data-i18n="aboutHero.coreValues.items.innovation.title">Innovation</h3>
+                        <p class="value-description" data-i18n="aboutHero.coreValues.items.innovation.desc">
+                            Advancing sealing technology with continuous R&D.
+                        </p>
                     </div>
-                    <!-- </div> -->
                 </div>
 
                 <!-- Value 2 - Integrity -->
                 <div class="value-card value-2">
                     <div class="value-image">
-                        <img src="./images/about/section4/Integrity.jpg" alt="Integrity">
+                        <img src="./images/about/section4/Integrity.jpg" alt="Integrity"
+                            data-i18n-alt="aboutHero.coreValues.items.integrity.alt">
                     </div>
                     <div class="value-content">
-                        <h3 class="value-name">Integrity</h3>
-                        <p class="value-description">Transparent relationships, honest commitments.</p>
+                        <h3 class="value-name" data-i18n="aboutHero.coreValues.items.integrity.title">Integrity</h3>
+                        <p class="value-description" data-i18n="aboutHero.coreValues.items.integrity.desc">
+                            Transparent relationships, honest commitments.
+                        </p>
                     </div>
                 </div>
 
                 <!-- Value 3 - Precision -->
                 <div class="value-card value-3">
                     <div class="value-image">
-                        <img src="./images/about/section4/Precision.jpg" alt="Precision">
+                        <img src="./images/about/section4/Precision.jpg" alt="Precision"
+                            data-i18n-alt="aboutHero.coreValues.items.precision.alt">
                     </div>
                     <div class="value-content">
-                        <h3 class="value-name">Precision</h3>
-                        <p class="value-description">Every seal built to perfection.</p>
+                        <h3 class="value-name" data-i18n="aboutHero.coreValues.items.precision.title">Precision</h3>
+                        <p class="value-description" data-i18n="aboutHero.coreValues.items.precision.desc">
+                            Every seal built to perfection.
+                        </p>
                     </div>
                 </div>
 
                 <!-- Value 4 - Sustainability -->
                 <div class="value-card value-4">
                     <div class="value-image">
-                        <img src="./images/about/section4/Sustainability.jpg" alt="Sustainability">
+                        <img src="./images/about/section4/Sustainability.jpg" alt="Sustainability"
+                            data-i18n-alt="aboutHero.coreValues.items.sustainability.alt">
                     </div>
                     <div class="value-content">
-                        <h3 class="value-name">Sustainability</h3>
-                        <p class="value-description">Eco-friendly materials and energy-conscious practices.</p>
+                        <h3 class="value-name" data-i18n="aboutHero.coreValues.items.sustainability.title">
+                            Sustainability</h3>
+                        <p class="value-description" data-i18n="aboutHero.coreValues.items.sustainability.desc">
+                            Eco-friendly materials and energy-conscious practices.
+                        </p>
                     </div>
                 </div>
 
                 <!-- Value 5 - Customer Focus -->
                 <div class="value-card value-5">
                     <div class="value-image">
-                        <img src="./images/about/section4/Customer Focus.jpg" alt="Customer Focus">
+                        <img src="./images/about/section4/Customer Focus.jpg" alt="Customer Focus"
+                            data-i18n-alt="aboutHero.coreValues.items.customerFocus.alt">
                     </div>
                     <div class="value-content">
-                        <h3 class="value-name">Customer Focus</h3>
-                        <p class="value-description">Solutions designed around your industrial needs.</p>
+                        <h3 class="value-name" data-i18n="aboutHero.coreValues.items.customerFocus.title">Customer Focus
+                        </h3>
+                        <p class="value-description" data-i18n="aboutHero.coreValues.items.customerFocus.desc">
+                            Solutions designed around your industrial needs.
+                        </p>
                     </div>
                 </div>
             </div>
         </div>
     </section>
+
 
 
     <footer class="footer-section">
@@ -328,12 +363,12 @@
                         </div>
                         <div class="contact-item">
                             <img src="./images/section6/Location-icon.png" alt="Location" class="contact-icon">
-                            <span>dhanya sativali, vasai east, vasai</span>
+                            <span data-i18n="footer.address"></span>
                         </div>
                     </div>
 
                     <div class="footer-social">
-                        <span class="social-title">Follow Us:</span>
+                        <span class="social-title" data-i18n="footer.follow"></span>
                         <div class="social-links-footer">
                             <a href="#" aria-label="Facebook">
                                 <img src="./images/section6/FB-icon.png" alt="Facebook">
@@ -353,62 +388,62 @@
 
                 <!-- Middle Column - Quick Links -->
                 <div class="footer-middle">
-                    <h3 class="footer-heading">QUICK LINKS</h3>
+                    <h3 class="footer-heading" data-i18n="footer.quickLinks"></h3>
                     <ul class="footer-links">
                         <li>
                             <img src="./images/section6/Logo-icon.png" alt="" class="link-icon">
-                            <a href="#home">Home</a>
+                            <a href="#home" data-i18n="footer.links.home"></a>
                         </li>
                         <li>
                             <img src="./images/section6/Logo-icon.png" alt="" class="link-icon">
-                            <a href="#about">About Us</a>
+                            <a href="#about" data-i18n="footer.links.about"></a>
                         </li>
                         <li>
                             <img src="./images/section6/Logo-icon.png" alt="" class="link-icon">
-                            <a href="#products">Products</a>
+                            <a href="#products" data-i18n="footer.links.products"></a>
                         </li>
                         <li>
                             <img src="./images/section6/Logo-icon.png" alt="" class="link-icon">
-                            <a href="#services">Services</a>
+                            <a href="#services" data-i18n="footer.links.services"></a>
                         </li>
                         <li>
                             <img src="./images/section6/Logo-icon.png" alt="" class="link-icon">
-                            <a href="#quality">Quality</a>
+                            <a href="#quality" data-i18n="footer.links.quality"></a>
                         </li>
                         <li>
                             <img src="./images/section6/Logo-icon.png" alt="" class="link-icon">
-                            <a href="#contact">Contact Us</a>
+                            <a href="#contact" data-i18n="footer.links.contact"></a>
                         </li>
                     </ul>
                 </div>
 
                 <!-- Right Column - Our Products -->
                 <div class="footer-right">
-                    <h3 class="footer-heading">OUR PRODUCTS</h3>
+                    <h3 class="footer-heading" data-i18n="footer.productsTitle"></h3>
                     <ul class="footer-links">
                         <li>
                             <img src="./images/section6/Logo-icon.png" alt="" class="link-icon">
-                            <a href="#pusher-seals">Pusher Seals</a>
+                            <a href="#pusher-seals" data-i18n="footer.products.pusher"></a>
                         </li>
                         <li>
                             <img src="./images/section6/Logo-icon.png" alt="" class="link-icon">
-                            <a href="#single-spring">Single Spring Seal</a>
+                            <a href="#single-spring" data-i18n="footer.products.single"></a>
                         </li>
                         <li>
                             <img src="./images/section6/Logo-icon.png" alt="" class="link-icon">
-                            <a href="#multi-spring">Multi Spring Seal</a>
+                            <a href="#multi-spring" data-i18n="footer.products.multi"></a>
                         </li>
                         <li>
                             <img src="./images/section6/Logo-icon.png" alt="" class="link-icon">
-                            <a href="#textile-seal">Textile Seal</a>
+                            <a href="#textile-seal" data-i18n="footer.products.textile"></a>
                         </li>
                         <li>
                             <img src="./images/section6/Logo-icon.png" alt="" class="link-icon">
-                            <a href="#teflon-bellow">Teflon Bellow Seals</a>
+                            <a href="#teflon-bellow" data-i18n="footer.products.teflon"></a>
                         </li>
                         <li>
                             <img src="./images/section6/Logo-icon.png" alt="" class="link-icon">
-                            <a href="#metal-bellow">Metal Bellow Mechanical</a>
+                            <a href="#metal-bellow" data-i18n="footer.products.metal"></a>
                         </li>
                     </ul>
                 </div>
@@ -416,69 +451,10 @@
 
             <!-- Footer Bottom -->
             <div class="footer-bottom">
-                <p>&copy; 2026 Maredian Seals. All Rights Reserved. | <a href="#privacy">Privacy Policy</a> | <a
-                        href="#terms">Terms & Conditions</a></p>
+                <p data-i18n="footer.copyright"></p>
             </div>
         </div>
     </footer>
-
-    <script>
-        // Hero Section Animations - On Load
-        document.addEventListener('DOMContentLoaded', function () {
-            // Check if GSAP is loaded
-            if (typeof gsap === 'undefined') {
-                console.error('GSAP is not loaded. Please include GSAP library.');
-                return;
-            }
-
-            // Set initial states
-            gsap.set('.hero-overlay', { x: '-100%' });
-            gsap.set('.hero-text-content', { opacity: 0, x: -50 });
-            gsap.set('.logo-overlay', { opacity: 0, scale: 0.5 });
-            gsap.set('.angle-container', { opacity: 0, x: 100 });
-
-            // Create timeline that plays immediately
-            const heroTimeline = gsap.timeline({
-                delay: 0.3 // Small delay after page load
-            });
-
-            // Animate left overlay background
-            heroTimeline.to('.hero-overlay', {
-                x: '0%',
-                duration: 1,
-                ease: 'power2.out'
-            })
-                // Animate text content from left
-                .to('.hero-text-content', {
-                    opacity: 1,
-                    x: 0,
-                    duration: 0.8,
-                    ease: 'power2.out'
-                }, '-=0.5')
-                // Animate logo overlay
-                .to('.logo-overlay', {
-                    opacity: 1,
-                    scale: 1,
-                    duration: 0.6,
-                    ease: 'back.out(1.7)'
-                }, '-=0.4')
-                // Animate right image from right to left
-                .to('.angle-container', {
-                    opacity: 1,
-                    x: 0,
-                    duration: 0.8,
-                    ease: 'power2.out'
-                }, '-=0.6');
-        });
-    </script>
-
-    <script>
-        window.addEventListener("load", () => {
-            document.querySelectorAll(".hero-left").forEach(el => {
-                el.classList.add("animate");
-            });
-        });
-    </script>
 
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
@@ -487,54 +463,9 @@
     <script src="./js/heroscroll.js"></script>
     <script src="./js/productScroll.js"></script>
     <script src="./js/navbar.js"></script>
-
-    <script>
-        // Theme Toggle Functionality
-        // const themeToggle = document.getElementById('themeToggle');
-        // const htmlElement = document.documentElement;
-        // const themeIcon = themeToggle.querySelector('i');
-
-        // // Check for saved theme preference or default to 'light'
-        // const currentTheme = localStorage.getItem('theme') || 'light';
-        // htmlElement.setAttribute('data-theme', currentTheme);
-        // updateThemeIcon(currentTheme);
-
-        // themeToggle.addEventListener('click', () => {
-        //     const theme = htmlElement.getAttribute('data-theme');
-        //     const newTheme = theme === 'light' ? 'dark' : 'light';
-
-        //     htmlElement.setAttribute('data-theme', newTheme);
-        //     localStorage.setItem('theme', newTheme);
-        //     updateThemeIcon(newTheme);
-        // });
-
-        // function updateThemeIcon(theme) {
-        //     if (theme === 'dark') {
-        //         themeIcon.classList.remove('fa-moon');
-        //         themeIcon.classList.add('fa-sun');
-        //     } else {
-        //         themeIcon.classList.remove('fa-sun');
-        //         themeIcon.classList.add('fa-moon');
-        //     }
-        // }
-
-        // Initialize Hero Swiper with slide effect (sweeping right to left)
-        const heroSwiper = new Swiper('.hero-swiper', {
-            slidesPerView: 1,
-            loop: true,
-            speed: 1000,
-            autoplay: {
-                delay: 4000,
-                disableOnInteraction: false,
-            },
-            effect: 'slide', // slide effect for sweeping animation
-            pagination: {
-                el: '.swiper-pagination',
-                clickable: true,
-                dynamicBullets: true,
-            },
-        });
-    </script>
+    <script src="./js/main.js"></script>
+    <script src="./js/i18n.js"></script>
+    <script src="./js/productData.js"></script>
 </body>
 
 </html>
