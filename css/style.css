@@ -1670,6 +1670,7 @@
     height: 100%;
     object-fit: cover;
     display: block;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
 }
 
 /* ================= IMAGE 1 ================= */
@@ -1677,6 +1678,7 @@
     border-radius: 75px 5px 5px 5px;
     background: var(--accent-color);
     z-index: 4;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
 }
 
 .about-us-section .image-1 img {
@@ -1686,6 +1688,7 @@
     top: 10px;
     left: 10px;
     border-radius: 75px 5px 5px 5px;
+box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
 }
 
 /* ================= IMAGE 2 ================= */
@@ -1694,6 +1697,7 @@
     border-radius: 5px 100px 5px 5px;
     overflow: hidden;
     border: none;
+ box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
     z-index: 2;
 }
 
@@ -1703,6 +1707,7 @@
     border-radius: 5px 5px 5px 75px;
     overflow: hidden;
     border: none;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
     z-index: 2;
 }
 
@@ -1710,17 +1715,20 @@
 .about-us-section .image-4 {
     top: 15px;
     border-radius: 5px 5px 75px 5px;
-    background: var(--accent-color);
+    background: var(--bg-dark);
+    border: none;
+box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
     z-index: 4;
 }
 
 .about-us-section .image-4 img {
-      bottom: 20px;
-    right: 20px;
+    bottom: 15px;
+    right: 15px;
     width: 102%;
     height: 102%;
     position: relative;
     border-radius: 5px 5px 75px 5px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
 }
 
 
