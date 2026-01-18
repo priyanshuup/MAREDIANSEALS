@@ -319,7 +319,187 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         }
     );
-});
+    // About Us Section Animations
 
+    // Set initial positions for images
+    gsap.set('.image-1', { x: -150, y: -100, opacity: 0, rotation: -15 });
+    gsap.set('.image-2', { x: 150, y: -100, opacity: 0, rotation: 15 });
+    gsap.set('.image-3', { x: -150, y: 100, opacity: 0, rotation: -10 });
+    gsap.set('.image-4', { x: 150, y: 100, opacity: 0, rotation: 10 });
+    gsap.set('.center-logo', { scale: 0, opacity: 0, rotation: -180 });
+    gsap.set('.decorative-stars .star', { scale: 0, opacity: 0 });
+    gsap.set('.about-us-title', { x: 50, opacity: 0 });
+    gsap.set('.about-us-tagline', { x: 50, opacity: 0 });
+    gsap.set('.about-us-text p', { y: 30, opacity: 0 });
 
+    // Create timeline
+    const aboutTimeline = gsap.timeline({
+        scrollTrigger: {
+            trigger: '.about-us-section',
+            start: 'top 60%',
+            end: 'top 20%',
+            toggleActions: 'play none none reverse',
+        }
+    });
 
+    // Animate images converging to position
+    aboutTimeline
+        .to('.image-1', {
+            x: 0,
+            y: 0,
+            opacity: 1,
+            rotation: 0,
+            duration: 1,
+            ease: 'power2.out'
+        })
+        .to('.image-2', {
+            x: 0,
+            y: 0,
+            opacity: 1,
+            rotation: 0,
+            duration: 1,
+            ease: 'power2.out'
+        }, '-=0.8')
+        .to('.image-3', {
+            x: 0,
+            y: 0,
+            opacity: 1,
+            rotation: 0,
+            duration: 1,
+            ease: 'power2.out'
+        }, '-=0.8')
+        .to('.image-4', {
+            x: 0,
+            y: 0,
+            opacity: 1,
+            rotation: 0,
+            duration: 1,
+            ease: 'power2.out'
+        }, '-=0.8')
+        .to('.center-logo', {
+            scale: 1,
+            opacity: 1,
+            rotation: 0,
+            duration: 0.8,
+            ease: 'back.out(1.7)'
+        }, '-=0.5')
+        .to('.decorative-stars .star', {
+            scale: 1,
+            opacity: 0.6,
+            duration: 0.5,
+            stagger: 0.1,
+            ease: 'back.out(1.5)'
+        }, '-=0.3')
+        .to('.about-us-title', {
+            x: 0,
+            opacity: 1,
+            duration: 0.6,
+            ease: 'power2.out'
+        }, '-=0.6')
+        .to('.about-us-tagline', {
+            x: 0,
+            opacity: 1,
+            duration: 0.6,
+            ease: 'power2.out'
+        }, '-=0.4')
+        .to('.about-us-text p', {
+            y: 0,
+            opacity: 1,
+            duration: 0.6,
+            stagger: 0.15,
+            ease: 'power2.out'
+        }, '-=0.4');
+
+        // Set initial states for strengths
+    gsap.set('.strengths-title', { y: -50, opacity: 0 });
+    gsap.set('.strengths-tagline', { y: -30, opacity: 0 });
+    gsap.set('.strength-item', { scale: 0, opacity: 0, rotation: -180 });
+    gsap.set('.timeline-connector', { scaleX: 0, opacity: 0 });
+
+    const strengthsTimeline = gsap.timeline({
+        scrollTrigger: {
+            trigger: '.strengths-section',
+            start: 'top 60%',
+            end: 'top 20%',
+            toggleActions: 'play none none reverse',
+        }
+    });
+
+    strengthsTimeline
+        .to('.strengths-title', {
+            y: 0,
+            opacity: 1,
+            duration: 0.6,
+            ease: 'power2.out'
+        })
+        .to('.strengths-tagline', {
+            y: 0,
+            opacity: 1,
+            duration: 0.6,
+            ease: 'power2.out'
+        }, '-=0.3')
+        .to('.strength-item', {
+            scale: 1,
+            opacity: 1,
+            rotation: 0,
+            duration: 0.8,
+            stagger: 0.15,
+            ease: 'back.out(1.7)'
+        }, '-=0.2')
+        .to('.timeline-connector', {
+            scaleX: 1,
+            opacity: 1,
+            duration: 0.5,
+            stagger: 0.15,
+            ease: 'power2.out'
+        }, '-=0.6');
+
+    // === CORE VALUES SECTION ANIMATION ===
+    
+    // Set initial states for core values
+    gsap.set('.core-values-title', { y: -50, opacity: 0 });
+    gsap.set('.value-card', { y: 100, opacity: 0, rotationX: -15 });
+
+    const valuesTimeline = gsap.timeline({
+        scrollTrigger: {
+            trigger: '.core-values-section',
+            start: 'top 60%',
+            end: 'top 20%',
+            toggleActions: 'play none none reverse',
+        }
+    });
+
+    valuesTimeline
+        .to('.core-values-title', {
+            y: 0,
+            opacity: 1,
+            duration: 0.6,
+            ease: 'power2.out'
+        })
+        .to('.value-card', {
+            y: 0,
+            opacity: 1,
+            rotationX: 0,
+            duration: 0.8,
+            stagger: 0.15,
+            ease: 'power2.out'
+        }, '-=0.3');
+
+    // Add floating animation to strength icons
+    gsap.to('.strength-icon', {
+        y: -10,
+        duration: 2,
+        ease: 'power1.inOut',
+        stagger: 0.2,
+        repeat: -1,
+        yoyo: true,
+        scrollTrigger: {
+            trigger: '.strengths-section',
+            start: 'top 80%',
+            toggleActions: 'play none none reset'
+        }
+    });
+
+}
+
+);
