@@ -1,5 +1,5 @@
 // GSAP Scroll Animation for Hexagons - Tight Honeycomb
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function () {
     // Check if GSAP is loaded
     if (typeof gsap === 'undefined') {
         console.error('GSAP is not loaded. Please include GSAP library.');
@@ -12,37 +12,37 @@ document.addEventListener('DOMContentLoaded', function() {
     // Set initial positions with tight spacing
     const distance = 280;
     const angleOffset = Math.PI / 6; // 30 degrees
-    
+
     // Calculate positions for perfect honeycomb
-    gsap.set('.hex-1', { 
-        x: -distance * Math.cos(angleOffset), 
-        y: -distance * Math.sin(angleOffset), 
-        opacity: 0 
+    gsap.set('.hex-1', {
+        x: -distance * Math.cos(angleOffset),
+        y: -distance * Math.sin(angleOffset),
+        opacity: 0
     });
-    
-    gsap.set('.hex-2', { 
-        x: distance * Math.cos(angleOffset), 
-        y: -distance * Math.sin(angleOffset), 
-        opacity: 0 
+
+    gsap.set('.hex-2', {
+        x: distance * Math.cos(angleOffset),
+        y: -distance * Math.sin(angleOffset),
+        opacity: 0
     });
-    
-    gsap.set('.hex-3', { 
-        x: -distance * Math.cos(angleOffset), 
-        y: distance * Math.sin(angleOffset), 
-        opacity: 0 
+
+    gsap.set('.hex-3', {
+        x: -distance * Math.cos(angleOffset),
+        y: distance * Math.sin(angleOffset),
+        opacity: 0
     });
-    
-    gsap.set('.hex-4', { 
-        x: 0, 
-        y: 0, 
-        opacity: 0, 
-        scale: 0.5 
+
+    gsap.set('.hex-4', {
+        x: 0,
+        y: 0,
+        opacity: 0,
+        scale: 0.5
     });
-    
-    gsap.set('.hex-5', { 
-        x: distance * Math.cos(angleOffset), 
-        y: distance * Math.sin(angleOffset), 
-        opacity: 0 
+
+    gsap.set('.hex-5', {
+        x: distance * Math.cos(angleOffset),
+        y: distance * Math.sin(angleOffset),
+        opacity: 0
     });
 
     // Create timeline for converging animation
@@ -62,16 +62,16 @@ document.addEventListener('DOMContentLoaded', function() {
         duration: 0.5,
         ease: 'back.out(1.5)'
     })
-    .to(['.hex-1', '.hex-2', '.hex-3', '.hex-5'], {
-        x: 0,
-        y: 0,
-        opacity: 1,
-        duration: 0.9,
-        ease: 'power2.out',
-        stagger: 0.08
-    }, '-=0.2');
+        .to(['.hex-1', '.hex-2', '.hex-3', '.hex-5'], {
+            x: 0,
+            y: 0,
+            opacity: 1,
+            duration: 0.9,
+            ease: 'power2.out',
+            stagger: 0.08
+        }, '-=0.2');
 
-     // About Header
+    // About Header
     gsap.fromTo(
         ".about-title",
         { opacity: 0, y: 40 },
@@ -215,7 +215,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     );
 
-      // Footer logo
+    // Footer logo
     gsap.fromTo(
         ".footer-logo",
         { opacity: 0, y: 40 },
@@ -410,7 +410,7 @@ document.addEventListener('DOMContentLoaded', function() {
             ease: 'power2.out'
         }, '-=0.4');
 
-        // Set initial states for strengths
+    // Set initial states for strengths
     gsap.set('.strengths-title', { y: -50, opacity: 0 });
     gsap.set('.strengths-tagline', { y: -30, opacity: 0 });
     gsap.set('.strength-item', { scale: 0, opacity: 0, rotation: -180 });
@@ -455,7 +455,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }, '-=0.6');
 
     // === CORE VALUES SECTION ANIMATION ===
-    
+
     // Set initial states for core values
     gsap.set('.core-values-title', { y: -50, opacity: 0 });
     gsap.set('.value-card', { y: 100, opacity: 0, rotationX: -15 });
@@ -485,21 +485,27 @@ document.addEventListener('DOMContentLoaded', function() {
             ease: 'power2.out'
         }, '-=0.3');
 
-    // Add floating animation to strength icons
-    gsap.to('.strength-icon', {
-        y: -10,
-        duration: 2,
-        ease: 'power1.inOut',
-        stagger: 0.2,
-        repeat: -1,
-        yoyo: true,
+
+
+    gsap.to(".industry-list li", {
         scrollTrigger: {
-            trigger: '.strengths-section',
-            start: 'top 80%',
-            toggleActions: 'play none none reset'
+            trigger: ".industries-serve-section",
+            start: "top 70%",
+            end: "bottom 60%",
+            toggleActions: "play reverse play reverse",
+            markers: false
+        },
+        opacity: 1,
+        x: 0,
+        duration: 0.6,
+        ease: "power3.out",
+        stagger: {
+            each: 0.12,
+            from: "start"
         }
     });
 
 }
 
 );
+
