@@ -918,7 +918,7 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            background: var(--bg-dark);
+            /* background: var(--bg-dark); */
         }
 
         .about-section .image-group {
