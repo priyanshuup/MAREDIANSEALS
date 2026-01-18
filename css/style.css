@@ -2027,7 +2027,7 @@ box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
 
 /* Our Core Values Section */
 .core-values-section {
-    padding: 80px 0;
+    padding: 40px 0;
     background: var(--bg-light);
     transition: background 0.3s ease;
 }
@@ -2102,7 +2102,7 @@ box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
 
 .value-content {
     background: var(--bg-dark);
-    padding: 25px 20px;
+    padding: 0 20px;
     text-align: left;
     min-height: 140px;
     display: flex;
