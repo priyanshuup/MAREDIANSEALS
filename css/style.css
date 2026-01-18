@@ -1673,13 +1673,13 @@
 }
 
 /* ================= IMAGE 1 ================= */
-.image-1 {
+.about-us-section .image-1 {
     border-radius: 75px 5px 5px 5px;
     background: var(--accent-color);
     z-index: 4;
 }
 
-.image-1 img {
+.about-us-section .image-1 img {
     width: 102%;
     height: 102%;
     position: relative;
@@ -1689,7 +1689,7 @@
 }
 
 /* ================= IMAGE 2 ================= */
-.image-2 {
+.about-us-section .image-2 {
     top: 10px;
     border-radius: 5px 100px 5px 5px;
     overflow: hidden;
@@ -1698,7 +1698,7 @@
 }
 
 /* ================= IMAGE 3 ================= */
-.image-3 {
+.about-us-section .image-3 {
     height: 100%;
     border-radius: 5px 5px 5px 75px;
     overflow: hidden;
@@ -1707,14 +1707,14 @@
 }
 
 /* ================= IMAGE 4 ================= */
-.image-4 {
+.about-us-section .image-4 {
     top: 15px;
     border-radius: 5px 5px 75px 5px;
     background: var(--accent-color);
     z-index: 4;
 }
 
-.image-4 img {
+.about-us-section .image-4 img {
       bottom: 20px;
     right: 20px;
     width: 102%;
