@@ -5,6 +5,13 @@
         "address": "dhanya sativali, vasai east, vasai",
         "follow": "Follow Us:"
     },
+    "nav": {
+        "home": "Home",
+        "about": "About Us",
+        "products": "Products",
+        "services": "Services",
+        "contact": "Contact Us"
+    },
     "hero": {
         "slide1": {
             "title": "Sealing the Future with Precision & Performance",

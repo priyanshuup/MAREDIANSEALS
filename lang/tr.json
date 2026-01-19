@@ -5,6 +5,13 @@
     "address": "Dhanya Sativali, Vasai East, Vasai",
     "follow": "Takip Edin:"
   },
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "products": "Ürünler",
+    "services": "Hizmetler",
+    "contact": "İletişim"
+  },
   "hero": {
     "slide1": {
       "title": "Geleceği Hassasiyet ve Performansla Sızdırmaz Hale Getirmek",

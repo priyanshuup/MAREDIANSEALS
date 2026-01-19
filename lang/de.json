@@ -5,6 +5,13 @@
     "address": "dhanya sativali, vasai east, vasai",
     "follow": "Folgen Sie uns:"
   },
+  "nav": {
+    "home": "Startseite",
+    "about": "Über Uns",
+    "products": "Produkte",
+    "services": "Dienstleistungen",
+    "contact": "Kontakt"
+  },
   "hero": {
     "slide1": {
       "title": "Die Zukunft mit Präzision & Leistung abdichten",

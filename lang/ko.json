@@ -5,6 +5,13 @@
     "address": "다냐 사티발리, 바사이 이스트, 바사이",
     "follow": "팔로우하기:"
   },
+  "nav": {
+    "home": "홈",
+    "about": "회사 소개",
+    "products": "제품",
+    "services": "서비스",
+    "contact": "문의하기"
+  },
   "hero": {
     "slide1": {
       "title": "정밀함과 성능으로 미래를 밀봉하다",

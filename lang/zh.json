@@ -5,6 +5,13 @@
     "address": "dhanya sativali, vasai east, vasai",
     "follow": "关注我们："
   },
+  "nav": {
+    "home": "首页",
+    "about": "关于我们",
+    "products": "产品",
+    "services": "服务",
+    "contact": "联系我们"
+  },
   "hero": {
     "slide1": {
       "title": "以精度与性能密封未来",
