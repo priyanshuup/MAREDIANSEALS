@@ -108,6 +108,21 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 });
 
+
+// Make sure the path points to your PDF file in the project
+const brochureBtn = document.getElementById("downloadBrochureBtn");
+
+brochureBtn.addEventListener("click", () => {
+    // Create a temporary link element
+    const link = document.createElement("a");
+    link.href = "./brochure/Maredian_Seals_Brochure.pdf"; // path to your PDF
+    link.download = "Maredian_Seals_Brochure.pdf"; // filename when downloaded
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+});
+
+
 // ================================
 // 5️⃣ Theme Toggle (optional)
 // ================================

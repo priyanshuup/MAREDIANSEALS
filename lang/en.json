@@ -33,15 +33,15 @@
                 },
                 "textile": {
                     "title": "Textile Seal",
-                    "desc": "Face Materials: Stellite, Carbon, Ceramic, Tungsten Carbide, Silicon Carbide, Lecrolloy"
+                    "desc": "Face Materials: Carbon, Silicon Carbide, Tungsten Carbide, Chrome Cast Steel & which are suitable for fluid"
                 },
                 "singleSpring": {
                     "title": "Single Spring Seal",
-                    "desc": "Face Materials: Stellite, Carbon, Ceramic, Tungsten Carbide, Silicon Carbide, Lecrolloy"
+                    "desc": "Face Materials: Carbon, Stellite, Lecrolloy, Ceramic, Silicon Carbide,  Plasma Sprayed Ceramic"
                 },
                 "multiSpring": {
                     "title": "Multi Spring Seal",
-                    "desc": "Face Materials: Stellite, Carbon, Ceramic, Tungsten Carbide, Silicon Carbide, Lecrolloy"
+                    "desc": "Face Materials: Carbon, Stellite, Plasma Sprayed Ceramic,  Ceramic, Tungsten Carbide, Silicon Carbide"
                 }
             }
         },
@@ -50,7 +50,7 @@
             "enquiry": "Enquiry Now"
         },
         "about": {
-            "title": "ABOUT FINAL MAREDIAN SEALS",
+            "title": "ABOUT MAREDIAN SEALS",
             "subtitle": "Precision. Performance. Perfection.",
             "description": "Founded by passionate engineers and visionary technocrats, Maredian Seals is a trusted name in mechanical sealing technology, specializing in the design and manufacture of premium sealing systems that ensure leak-proof performance under demanding conditions. With advanced technology and decades of expertise, we serve industries including petrochemicals, pharmaceuticals, textiles, food processing, power generation, and water treatment.",
             "features": {
@@ -202,7 +202,7 @@
                     "Metal Parts: SS 316, SS 304",
                     "Secondary Seal: Elastomers, PTFE"
                 ],
-                "characteristics": [
+                "sealCharacteristics": [
                     "Single acting",
                     "Unbalanced",
                     "Inside mounted",
@@ -223,11 +223,11 @@
             },
             "single-spring": {
                 "standardStyle": [
-                    "Face Materials: Stellite, Carbon, Ceramic, Tungsten Carbide, Silicon Carbide, Lecrolly",
+                    "Face Materials: Carbon, Stellite, Lecrolly, Ceramic, Silicon Carbide, Plasma Sprayed Ceramic ",
                     "Metal Parts: SS 316, SS 304",
-                    "Secondary Seal: Elastomers, PTFE"
+                    "Secondary Seal: Nitrile, EPDM, Viton, PTFE"
                 ],
-                "characteristics": [
+                "sealCharacteristics": [
                     "Single acting",
                     "Unbalanced",
                     "Inside mounted",
@@ -247,103 +247,94 @@
                 ]
             },
             "multi-spring": {
-                "standardStyle": [
-                    "Face Materials: Stellite, Carbon, Ceramic, Tungsten Carbide, Silicon Carbide, Lecrolly",
-                    "Metal Parts: SS 316, SS 304",
-                    "Secondary Seal: Elastomers, PTFE"
+                "features": [
+                    "Directly slip-on type hydraulically balanced seal design.",
+                    "Revolutionary concepts in design engineering.",
+                    "Near-universal applicabilty interchangeability with nearly all conventional seals and gland packings without pump or gland modification.",
+                    "No seal induced shaft damages saves hidden maintenance costs for shaft/sleeve repair/renewal.",
+                    "Lower price than conventional seals because of high degree of standardization.",
+                    "Uniform installation dimension for all sizes results in ease of handling."
                 ],
-                "characteristics": [
-                    "Single acting",
-                    "Unbalanced",
-                    "Inside mounted",
-                    "Dependent on direction of rotation"
-                ],
-                "operatingLimits": [
-                    "Shaft Diameter D1: 10 mm to 100 mm",
-                    "Pressure P: 0.8 bar (max)",
-                    "Temperature t: -20°C to +200°C",
-                    "Velocity V: 20 m/sec"
+                "applicationDataOfSealType707": [
+                    "Seal Faces: Carbon, Stellite, Plasma Sprayed Ceramic, Tungesten Carbide, Silicon Caribide",
+                    "Elastomer: EPDM, Neoperene, Viton, TEV, Kalrez",
+                    "Size range: 16 to 150mm",
+                    "Pressure: 35 bar",
+                    "Temperature: 205°C"
                 ],
                 "applications": [
-                    "Water Pumps",
-                    "Circulation Pumps for central heating",
-                    "Chemical Process Pumps",
-                    "Sewage and Submersible pumps"
+                    "Industrial",
+                    "Marine"
+                ],
+                "applicationDataOfSealType808": [
+                    "Seal Faces: Carbon, Stellite, Plasma Sprayed Ceramic, Tungesten Carbide, Silicon Caribide",
+                    "Elastomer: Viton®, Neoperene, Kalrez®, EPDM, TEV",
+                    "Size range: 108 to 150mm",
+                    "Pressure: 35 bar",
+                    "Temperature: 205°C"
                 ]
             },
             "textile-seal": {
-                "standardStyle": [
-                    "Face Materials: Stellite, Carbon, Ceramic, Tungsten Carbide, Silicon Carbide, Lecrolly",
-                    "Metal Parts: SS 316, SS 304",
-                    "Secondary Seal: Elastomers, PTFE"
+                "materialOfConstruction": [
+                    "Sealing faces: Carbon, Silicon Carbide, Tungsten Carbide, Chrome Cast Steel & which are suitable for fluid",
+                    "Elastomer : Viton, EPDM, Silicon, Aflas, PTFE, Hypalon",
+                    "Hardware: S3 316, Hastelloy C, Monel, Alloy 20"
                 ],
-                "characteristics": [
-                    "Single acting",
-                    "Unbalanced",
-                    "Inside mounted",
-                    "Dependent on direction of rotation"
+                "toBeUseFor": [
+                    "Caustic",
+                    "Acidic",
+                    "Sodium Hydrogen Carbonate"
                 ],
                 "operatingLimits": [
-                    "Shaft Diameter D1: 10 mm to 100 mm",
-                    "Pressure P: 0.8 bar (max)",
-                    "Temperature t: -20°C to +200°C",
-                    "Velocity V: 20 m/sec"
+                    "Shaft Diameter D1: As per machine required",
+                    "Pressure: Normal",
+                    "Temperature: Normal"
                 ],
-                "applications": [
-                    "Water Pumps",
-                    "Circulation Pumps for central heating",
-                    "Chemical Process Pumps",
-                    "Sewage and Submersible pumps"
+                "partOfIdentification": [
+                    "Rotatry Face (Seal Ring)",
+                    "Stationary Face (Mating Ring)",
+                    "Elastomer",
+                    "Spring",
+                    "Other Hardware"
                 ]
             },
             "teflon-bellow": {
                 "standardStyle": [
-                    "Face Materials: Stellite, Carbon, Ceramic, Tungsten Carbide, Silicon Carbide, Lecrolly",
-                    "Metal Parts: SS 316, SS 304",
-                    "Secondary Seal: Elastomers, PTFE"
+                    "Face Materials: GFT, CFT, Silicon Carbide, Ceramic",
+                    "Metal Parts: SS 316, SS 304, Hastelloy-C",
+                    "Springs: Teflon Covered Spring Steel, S.S.316, S.S.304, Hastelloy-C",
+                    "Secondary Seal: PTFE Bellows"
                 ],
-                "characteristics": [
+                "sealCharacteristics": [
                     "Single acting",
-                    "Unbalanced",
-                    "Inside mounted",
-                    "Dependent on direction of rotation"
+                    "Outside Mounted",
+                    "Multi Spring & Single Spring Design",
+                    "Independent of direction of rotation"
                 ],
                 "operatingLimits": [
-                    "Shaft Diameter D1: 10 mm to 100 mm",
-                    "Pressure P: 0.8 bar (max)",
-                    "Temperature t: -20°C to +200°C",
-                    "Velocity V: 20 m/sec"
+                    "Shaft Diameter D1: 19 mm to 150 mm",
+                    "Pressure P: 6 bar (max)",
+                    "Temperature t: -45°C to +1200°C",
+                    "Velocity V: 16 m/sec"
                 ],
                 "applications": [
-                    "Water Pumps",
-                    "Circulation Pumps for central heating",
-                    "Chemical Process Pumps",
-                    "Sewage and Submersible pumps"
+                    "Extremely corrosive services"
                 ]
             },
             "metal-bellow": {
-                "standardStyle": [
-                    "Face Materials: Stellite, Carbon, Ceramic, Tungsten Carbide, Silicon Carbide, Lecrolly",
-                    "Metal Parts: SS 316, SS 304",
-                    "Secondary Seal: Elastomers, PTFE"
+                "materials": [
+                    "Faces: Carbon, Silicon Carbide,Tungsten Carbide",
+                    "Elastomers : Graphite, Perflouro, FEP",
+                    "Hardware: SS-316, AM-350, Hastelloy-C, Alloy-20"
                 ],
-                "characteristics": [
-                    "Single acting",
-                    "Unbalanced",
-                    "Inside mounted",
-                    "Dependent on direction of rotation"
+                "operatings": [
+                    "Pressure : 25 bar",
+                    "Temperature : -40°C to 350°C",
+                    "Speed : 20 m/s",
+                    "Sizes: 25 mm to 100mm"
                 ],
-                "operatingLimits": [
-                    "Shaft Diameter D1: 10 mm to 100 mm",
-                    "Pressure P: 0.8 bar (max)",
-                    "Temperature t: -20°C to +200°C",
-                    "Velocity V: 20 m/sec"
-                ],
-                "applications": [
-                    "Water Pumps",
-                    "Circulation Pumps for central heating",
-                    "Chemical Process Pumps",
-                    "Sewage and Submersible pumps"
+                "application": [
+                    "High Temperature, Hydrocarbons & Critical Services"
                 ]
             },
             "boiler-feed": {
@@ -359,10 +350,10 @@
                     "Dependent on direction of rotation"
                 ],
                 "operatingLimits": [
-                    "Shaft Diameter D1: 10 mm to 100 mm",
-                    "Pressure P: 0.8 bar (max)",
-                    "Temperature t: -20°C to +200°C",
-                    "Velocity V: 20 m/sec"
+                    "Shaft Diameter D1: 65 mm to 150 mm",
+                    "Pressure P: 50 bar - 140 bar (max)",
+                    "Temperature t: -20°C to +2500°C (API plan 23)",
+                    "Velocity V: more than 50 m/sec"
                 ],
                 "applications": [
                     "Water Pumps",
@@ -373,127 +364,116 @@
             },
             "split-seals": {
                 "standardStyle": [
-                    "Face Materials: Stellite, Carbon, Ceramic, Tungsten Carbide, Silicon Carbide, Lecrolly",
+                    "Face Materials: Carbon, Silicon Carbide, Ceramic",
                     "Metal Parts: SS 316, SS 304",
-                    "Secondary Seal: Elastomers, PTFE"
+                    "Secondary Seal: Elastomers"
                 ],
-                "characteristics": [
-                    "Single acting",
-                    "Unbalanced",
-                    "Inside mounted",
-                    "Dependent on direction of rotation"
+                "sealCharacteristics": [
+                    "Fully Split Components",
+                    "Ease of Installation",
+                    "Balanced Seal Faces"
                 ],
                 "operatingLimits": [
-                    "Shaft Diameter D1: 10 mm to 100 mm",
-                    "Pressure P: 0.8 bar (max)",
-                    "Temperature t: -20°C to +200°C",
-                    "Velocity V: 20 m/sec"
+                    "Shaft Diameter D: 50 mm to 200 mm",
+                    "Pressure P: 15 bar (max)",
+                    "Temperature t: Amb to 1400°C",
+                    "Shaft Speed : 3600 rpm(max)"
                 ],
                 "applications": [
-                    "Water Pumps",
-                    "Circulation Pumps for central heating",
-                    "Chemical Process Pumps",
-                    "Sewage and Submersible pumps"
+                    "Utility Pumps",
+                    "Transfer Pumps",
+                    "Agitator and Vessels (As Dry Running Seal)"
                 ]
             },
             "high-pressure": {
                 "standardStyle": [
-                    "Face Materials: Stellite, Carbon, Ceramic, Tungsten Carbide, Silicon Carbide, Lecrolly",
-                    "Metal Parts: SS 316, SS 304",
-                    "Secondary Seal: Elastomers, PTFE"
+                    "Face Materials: Carbon, Silicon Carbide, Tungsten Carbide",
+                    "Metal Parts: SS 316, SS 304, Hastelloy-C, Titanium, Alloy-20, Monel",
+                    "Secondary Seal: Elastomers"
                 ],
-                "characteristics": [
+                "sealCharacteristics": [
                     "Single acting",
-                    "Unbalanced",
+                    "Balanced",
                     "Inside mounted",
-                    "Dependent on direction of rotation"
+                    "Independent of direction of rotation",
+                    "Multiple springs design",
+                    "Sturdy drive mechanism"
                 ],
-                "operatingLimits": [
-                    "Shaft Diameter D1: 10 mm to 100 mm",
-                    "Pressure P: 0.8 bar (max)",
-                    "Temperature t: -20°C to +200°C",
-                    "Velocity V: 20 m/sec"
-                ],
-                "applications": [
-                    "Water Pumps",
-                    "Circulation Pumps for central heating",
-                    "Chemical Process Pumps",
-                    "Sewage and Submersible pumps"
+                "application": [
+                    "Oil Pipeline Pumps",
+                    "Boiler Feed Water Pumps"
                 ]
             },
             "dry-seals": {
-                "standardStyle": [
-                    "Face Materials: Stellite, Carbon, Ceramic, Tungsten Carbide, Silicon Carbide, Lecrolly",
-                    "Metal Parts: SS 316, SS 304",
-                    "Secondary Seal: Elastomers, PTFE"
-                ],
-                "characteristics": [
-                    "Single acting",
-                    "Unbalanced",
-                    "Inside mounted",
-                    "Dependent on direction of rotation"
-                ],
-                "operatingLimits": [
-                    "Shaft Diameter D1: 10 mm to 100 mm",
-                    "Pressure P: 0.8 bar (max)",
-                    "Temperature t: -20°C to +200°C",
-                    "Velocity V: 20 m/sec"
+                "materials": [
+                    "Housing: Stainless steel",
+                    "Product-wetted parts: Stainless steel, Hastelloy, Titanium, Special Materials",
+                    "Seal rings: Carbon, Silicon Carbide, Tungsten Carbide, etc",
+                    "O-rings: Viton, EPDM, Perfluor elastomers, special elastic materials",
+                    "FDA-approval: Possible for all product-wetted parts"
                 ],
                 "applications": [
-                    "Water Pumps",
-                    "Circulation Pumps for central heating",
-                    "Chemical Process Pumps",
-                    "Sewage and Submersible pumps"
+                    "Flue gas desulfurization (FGD)",
+                    "Hydrometallurgy",
+                    "Pharmacy",
+                    "Biotechnology"
+                ],
+                "applicationLimits": [
+                    "Vessel pressure: Vacuum …16 bar (abs.)",
+                    "Vessel temperature: -50 … +200°C",
+                    "Shaft size: 40 … 300 mm",
+                    "Sliding speed: 5 m/s"
                 ]
             },
             "cartridge-single": {
                 "standardStyle": [
-                    "Face Materials: Stellite, Carbon, Ceramic, Tungsten Carbide, Silicon Carbide, Lecrolly",
-                    "Metal Parts: SS 316, SS 304",
+                    "Face Materials: Tungsten carbide and Ceramic, Secondary Seal",
+                    "Metal Parts: SS 316, SS 304, Hastelloy-C, Hastelloy-B, Monel, Alloy-20",
                     "Secondary Seal: Elastomers, PTFE"
                 ],
-                "characteristics": [
+                "sealCharacteristics": [
                     "Single acting",
-                    "Unbalanced",
-                    "Inside mounted",
-                    "Dependent on direction of rotation"
+                    "Reverse Balanced",
+                    "Outside Mounted",
+                    "Independent of direction of rotation",
+                    "Dry Running"
                 ],
                 "operatingLimits": [
-                    "Shaft Diameter D1: 10 mm to 100 mm",
-                    "Pressure P: 0.8 bar (max)",
-                    "Temperature t: -20°C to +200°C",
-                    "Velocity V: 20 m/sec"
+                    "Shaft Diameter D1: 15 mm to 150 mm",
+                    "Pressure p: Vacuum to 8 bar (max)",
+                    "Temperature t: Amb to 1200°C(max)","",
+                    "Speed n: 320 rpm"
                 ],
                 "applications": [
-                    "Water Pumps",
-                    "Circulation Pumps for central heating",
-                    "Chemical Process Pumps",
-                    "Sewage and Submersible pumps"
+                    "Food Products",
+                    "Pharmaceutical Products"
                 ]
             },
             "cartridge-double": {
                 "standardStyle": [
-                    "Face Materials: Stellite, Carbon, Ceramic, Tungsten Carbide, Silicon Carbide, Lecrolly",
-                    "Metal Parts: SS 316, SS 304",
-                    "Secondary Seal: Elastomers, PTFE"
+                    "Face Materials: Carbon, Ceramic, Silicon Carbide, Tungsten Carbide, Lecrolly",
+                    "Metal Parts: SS 316, SS 304, Carbon Steel, Hastelloy-B, Hastelloy-C, Monel, Alloy-20",
+                    "Secondary Seal: Inboard-PTFE, GFT : Outboard-Elastomers"
                 ],
-                "characteristics": [
-                    "Single acting",
-                    "Unbalanced",
-                    "Inside mounted",
-                    "Dependent on direction of rotation"
-                ],
-                "operatingLimits": [
-                    "Shaft Diameter D1: 10 mm to 100 mm",
-                    "Pressure P: 0.8 bar (max)",
-                    "Temperature t: -20°C to +200°C",
-                    "Velocity V: 20 m/sec"
+                "sealCharacteristics": [
+                    "Double acting Back to Back Seals",
+                    "Balanced",
+                    "Cartridge Unit",
+                    "Independent of direction of rotation",
+                    "Operated with Pressurised Barrier Fluid"
                 ],
                 "applications": [
-                    "Water Pumps",
-                    "Circulation Pumps for central heating",
-                    "Chemical Process Pumps",
-                    "Sewage and Submersible pumps"
+                    "Petrochemicals and its vapours",
+                    "General Chemicals and its vapours",
+                    "Light hydrocarbons and its vapours"
+                ],
+                "operatingLimits": [
+                    "Shaft Diameter D1: 25 mm to 150 mm",
+                    "Pressure P: Vacuum - 32 bar (max)",
+                    "Temperature t: Amb to 2000°C (max)",
+                    "Shaft speed n : 600 rpm. (max)",
+                    "Barrier fluid pressure : Vessel pressure + 1.5 bar",
+                    ""
                 ]
             }
         }
@@ -502,7 +482,7 @@
         "hero": {
             "title": "End-to-End Sealing Solutions,<br>Engineered for Reliability.",
             "description": "From design to delivery, we offer comprehensive sealing services that ensure performance, longevity, and total leak-proof reliability",
-            "cta": "Request a Consultation",
+            "cta": "Enquiry Now",
             "viewProducts": "View All Product"
         },
         "industries": {
