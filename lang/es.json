@@ -5,7 +5,7 @@
     "address": "dhanya sativali, vasai east, vasai",
     "follow": "Síguenos:"
   },
-   "nav": {
+  "nav": {
     "home": "Inicio",
     "about": "Sobre Nosotros",
     "products": "Productos",
@@ -25,23 +25,23 @@
     },
     "products": {
       "sectionTitle": "SOLUCIONES DE SELLADO AVANZADAS",
-      "sectionDesc": "Descubre nuestra amplia gama de sellos mecánicos, uniones rotativas y componentes diseñados para ofrecer un rendimiento constante en las condiciones más duras",
+      "sectionDesc": "Descubra nuestra amplia gama de sellos mecánicos, uniones rotativas y componentes diseñados para ofrecer un rendimiento constante bajo las condiciones más exigentes",
       "items": {
         "pusher": {
-          "title": "Sellos de Empuje",
+          "title": "Sellos Pusher",
           "desc": "Materiales de cara: Stellite, Carbono, Cerámica, Carburo de Tungsteno, Carburo de Silicio, Lecrolloy"
         },
         "textile": {
           "title": "Sello Textil",
-          "desc": "Materiales de cara: Stellite, Carbono, Cerámica, Carburo de Tungsteno, Carburo de Silicio, Lecrolloy"
+          "desc": "Materiales de cara: Carbono, Carburo de Silicio, Carburo de Tungsteno, Acero Cromado Fundido y adecuados para fluidos"
         },
         "singleSpring": {
           "title": "Sello de Resorte Simple",
-          "desc": "Materiales de cara: Stellite, Carbono, Cerámica, Carburo de Tungsteno, Carburo de Silicio, Lecrolloy"
+          "desc": "Materiales de cara: Carbono, Stellite, Lecrolloy, Cerámica, Carburo de Silicio, Cerámica Rocíada con Plasma"
         },
         "multiSpring": {
-          "title": "Sello de Múltiples Resortes",
-          "desc": "Materiales de cara: Stellite, Carbono, Cerámica, Carburo de Tungsteno, Carburo de Silicio, Lecrolloy"
+          "title": "Sello de Múltiple Resorte",
+          "desc": "Materiales de cara: Carbono, Stellite, Cerámica Rocíada con Plasma, Cerámica, Carburo de Tungsteno, Carburo de Silicio"
         }
       }
     },
@@ -88,7 +88,8 @@
     "slide1": {
       "title": "Excelencia en Ingeniería\nEntregando Integridad de Sellado",
       "desc": "En Maredian Seals, diseñamos y fabricamos soluciones de sellado mecánico que definen fiabilidad, precisión y rendimiento para las industrias modernas.",
-      "cta": "Explora Nuestra Experiencia"
+      "cta": "Explora Nuestra Experiencia",
+      "dwnldbrchr": "Descargar Folleto"
     },
     "aboutUs": {
       "title": "ACERCA DE NOSOTROS",
