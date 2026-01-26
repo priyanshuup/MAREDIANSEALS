@@ -64,3 +64,29 @@ const heroSwiper = new Swiper('.heroswipe.swiper', {
     },
   });
 
+
+
+  const productsSwiper = new Swiper(".products-swiper", {
+  slidesPerView: 3,
+  spaceBetween: 30,
+  loop: true,
+  pagination: {
+    el: ".products-swiper .swiper-pagination",
+    clickable: true,
+  },
+  navigation: {
+    nextEl: ".products-swiper .swiper-button-next",
+    prevEl: ".products-swiper .swiper-button-prev",
+  },
+  breakpoints: {
+    0: {
+      slidesPerView: 1,
+    },
+    768: {
+      slidesPerView: 2,
+    },
+    1024: {
+      slidesPerView: 3,
+    },
+  },
+});

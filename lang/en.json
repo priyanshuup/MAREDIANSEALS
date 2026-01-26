@@ -442,7 +442,8 @@
                 "operatingLimits": [
                     "Shaft Diameter D1: 15 mm to 150 mm",
                     "Pressure p: Vacuum to 8 bar (max)",
-                    "Temperature t: Amb to 1200°C(max)","",
+                    "Temperature t: Amb to 1200°C(max)",
+                    "",
                     "Speed n: 320 rpm"
                 ],
                 "applications": [
@@ -536,18 +537,18 @@
             "heading": "ENQUIRY",
             "companyNameLabel": "Company Name",
             "companyNamePlaceholder": "Enter your company name",
-            "yourNameLabel": "Your Name",
+            "yourNameLabel": "Full Name",
             "yourNamePlaceholder": "Enter your name",
             "contactDetailsLabel": "Contact Details",
             "contactDetailsPlaceholder": "Enter phone number",
             "emailLabel": "Email",
             "emailPlaceholder": "Enter email address",
             "productSelectLabel": "Product Select",
-            "productSelectPlaceholder": "Enter product name",
+            "productSelectPlaceholder": "Select Product",
             "addressLabel": "Address / City / Location",
             "addressPlaceholder": "Enter address",
             "questionLabel": "Question or Requirement",
-            "questionPlaceholder": "Enter your question or requirement",
+            "questionPlaceholder": "Enter your Message",
             "submitBtn": "Send"
         },
         "map": {
@@ -573,7 +574,13 @@
             "multi": "Multi Spring Seal",
             "textile": "Textile Seal",
             "teflon": "Teflon Bellow Seals",
-            "metal": "Metal Bellow Mechanical"
+            "metal": "Metal Bellow Mechanical",
+            "splitSeals": "Split Seals",
+            "boilerFeedWaterSeals": "Boiler Feed Water Seals",
+            "highPressureSeal": "High Pressure Seal",
+            "drySeals": "Dry Seals",
+            "cartridgeSingleActing": "Cartridge Single Actin",
+            "cartridgeDoubleActing": "Cartridge Double Acting"
         },
         "copyright": "© 2026 Maredian Seals. All Rights Reserved. | Privacy Policy | Terms & Conditions"
     }

@@ -48,12 +48,12 @@ function renderSection(titleKey, values) {
       <h3>⚙ ${formatHeading(titleKey)}</h3>
       <ul>
         ${values.map(item => {
-          if (item.includes(":")) {
-            const [k, ...v] = item.split(":");
-            return `<li><strong>${k}:</strong> ${v.join(":")}</li>`;
-          }
-          return `<li>${item}</li>`;
-        }).join("")}
+    if (item.includes(":")) {
+      const [k, ...v] = item.split(":");
+      return `<li><strong>${k}:</strong> ${v.join(":")}</li>`;
+    }
+    return `<li>${item}</li>`;
+  }).join("")}
       </ul>
     </div>
   `;
@@ -98,6 +98,7 @@ function renderCategories() {
    RENDER PRODUCTS GRID
 ================================ */
 function renderProducts(products) {
+  if (!productsGrid) return; // 🚑 guard
   productsGrid.classList.remove("details-mode");
   productsGrid.innerHTML = "";
 
