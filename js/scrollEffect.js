@@ -604,3 +604,6 @@ start: 'top 75%'
 
 );
 
+window.addEventListener("load", () => {
+    ScrollTrigger.refresh(true);
+});
