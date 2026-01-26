@@ -1,5 +1,10 @@
 // main.js
 
+
+if (window.ScrollTrigger) {
+  ScrollTrigger.getAll().forEach(trigger => trigger.kill());
+}
+
 // ================================
 // 1️⃣ Language Switcher / i18n
 // ================================

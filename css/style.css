@@ -2591,8 +2591,8 @@
 ================================ */
         .all-products-section {
             background: #f5fcff;
-            overflow: hidden;
-            padding: 40px 0;
+            /* overflow: hidden; */
+           padding: 40px 0;
         }
 
         /* ===============================
