@@ -2,7 +2,7 @@
     "topBar": {
         "phone": "+91 9561444777",
         "email": "info@maredianseals.com",
-        "address": "dhanya sativali, vasai east, vasai",
+        "address": "Gala.No. -5/B 6/7 S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208",
         "follow": "Follow Us:"
     },
     "nav": {
@@ -66,7 +66,7 @@
             "subtitle": "Our mechanical seals perform reliably in some of the most demanding industrial environments."
         },
         "whyChoose": {
-            "title": "WHY CHOOSE FINAL MAREDIAN SEALS",
+            "title": "WHY CHOOSE MAREDIAN SEALS",
             "items": {
                 "delivery": "Quick Delivery\n& Technical Support",
                 "expertise": "Proven Engineering\nExpertise",
@@ -508,7 +508,7 @@
         "headOffice": {
             "iconAlt": "Location Icon",
             "title": "Head office",
-            "address": "dhanya sativali, vasai east, vasai"
+            "address": "Gala.No. -5/B 6/7 S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208"
         },
         "phone": {
             "iconAlt": "Phone Icon",
@@ -556,7 +556,7 @@
         }
     },
     "footer": {
-        "address": "Dhanya Sativali, Vasai East, Vasai",
+        "address": "Gala.No. -5/B 6/7 S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208",
         "follow": "Follow Us:",
         "quickLinks": "QUICK LINKS",
         "productsTitle": "OUR PRODUCTS",
