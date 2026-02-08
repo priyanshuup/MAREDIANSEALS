@@ -125,17 +125,32 @@ function renderProducts(products) {
    PRODUCT DETAILS VIEW
 ================================ */
 function showProductDetails(slug) {
+
   const product = productData.find(p => p.slug === slug);
   const detailsObj = window.translations?.productPage?.productDetails?.[slug];
 
   if (!product || !detailsObj) return;
 
+  /* -----------------------------------------
+     🔥 1️⃣ Scroll to Products Section First
+  ----------------------------------------- */
+  const productsSection = document.getElementById("products-section");
+  if (productsSection) {
+    productsSection.scrollIntoView({
+      behavior: "instant",
+      block: "start"
+    });
+  }
+
+  /* -----------------------------------------
+     2️⃣ Enable Details Mode
+  ----------------------------------------- */
   productsGrid.classList.add("details-mode");
 
   const entries = Object.entries(detailsObj);
 
   /* -----------------------------------------
-     1️⃣ First row → Image 1 + First Detail
+     3️⃣ First row → Image 1 + First Detail
   ----------------------------------------- */
   const firstDetail = entries.shift();
 
@@ -149,7 +164,7 @@ function showProductDetails(slug) {
   `;
 
   /* -----------------------------------------
-     2️⃣ Middle rows → 2 text sections
+     4️⃣ Middle rows → 2 text sections
   ----------------------------------------- */
   while (entries.length > 1) {
     const first = entries.shift();
@@ -164,7 +179,7 @@ function showProductDetails(slug) {
   }
 
   /* -----------------------------------------
-     3️⃣ Last row → Last Detail + Image 2
+     5️⃣ Last row → Last Detail + Image 2
   ----------------------------------------- */
   if (entries.length === 1) {
     const last = entries.shift();
@@ -180,7 +195,7 @@ function showProductDetails(slug) {
   }
 
   /* -----------------------------------------
-     FINAL RENDER
+     6️⃣ FINAL RENDER
   ----------------------------------------- */
   productsGrid.innerHTML = `
     <div class="product-details">
@@ -199,7 +214,26 @@ function showProductDetails(slug) {
 
     </div>
   `;
+
+  /* -----------------------------------------
+     🔥 7️⃣ Reset Internal Scroll + Refresh GSAP
+  ----------------------------------------- */
+  setTimeout(() => {
+
+    // Reset internal scroll
+    const wrapper = document.querySelector(".details-wrapper");
+    if (wrapper) {
+      wrapper.scrollTop = 0;
+    }
+
+    // Refresh GSAP ScrollTrigger (VERY IMPORTANT)
+    if (window.ScrollTrigger) {
+      ScrollTrigger.refresh();
+    }
+
+  }, 50);
 }
+
 
 
 /* ===============================

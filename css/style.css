@@ -2839,7 +2839,6 @@
 ================================ */
         .details-wrapper {
             height: 100vh;
-            overflow: 60px 0;
             overflow: auto;
 
             display: flex;
