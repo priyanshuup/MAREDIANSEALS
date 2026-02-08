@@ -397,7 +397,44 @@ const productData = [
                 "Sewage and Submersible pumps"
             ]
         }
-    }
+    },
+        {
+        category: "Thermosyphon Seal Support System",
+        images: [
+            "./images/products/section1/Thermosyphon Seal Support System/Maredian-Seals---Brochure-Correction-3.png"
+        ],
+        slug: "thermosyphon-seal-support-system",
+        details: {
+            detail : [
+                "Recommended: 12 Ltrs/min",
+                "Max. Level Value: 5.5 Ltrs",
+                "Min. Level Value: 3.5 Ltrs"
+            ],
+            standardStyle: [
+                "Face Materials: Stellite, Carbon, Ceramic, Tungsten Carbide, Silicon Carbide, Lecrolly",
+                "Metal Parts: SS 316, SS 304",
+                "Secondary Seal: Elastomers, PTFE"
+            ],
+            characteristics: [
+                "Single acting",
+                "Unbalanced",
+                "Inside mounted",
+                "Dependent on direction of rotation"
+            ],
+            operatingLimits: [
+                "Shaft Diameter D1: 10 mm to 100 mm",
+                "Pressure P: 0.8 bar (max)",
+                "Temperature t: -20°C to +200°C",
+                "Velocity V: 20 m/sec"
+            ],
+            applications: [
+                "Water Pumps",
+                "Circulation Pumps for central heating",
+                "Chemical Process Pumps",
+                "Sewage and Submersible pumps"
+            ]
+        }
+    },
 ];
 
 /* ===============================

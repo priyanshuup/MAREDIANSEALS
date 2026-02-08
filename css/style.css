@@ -220,7 +220,7 @@
 
         /* Active/Selected nav item */
         .nav-menu a.active {
-            color: var(--accent-color); 
+            color: var(--accent-color);
             font-size: 18px;
             font-weight: 600;
         }
@@ -755,6 +755,10 @@
             .hero-title {
                 font-size: 1.8rem;
             }
+        }
+
+        #products-hero-page {
+            height: auto;
         }
 
         /* Products Section */
@@ -2648,7 +2652,7 @@
         .all-products-section {
             background: #f5fcff;
             /* overflow: hidden; */
-            padding: 40px 0;
+            padding: 80px 0;
         }
 
         /* ===============================
@@ -2795,6 +2799,7 @@
    PRODUCT DETAILS VIEW
 ================================ */
         .product-details {
+            min-height: 100vh;
             background: #fff;
             padding: 32px;
             border-radius: 18px;
@@ -2833,12 +2838,26 @@
    DETAILS WRAPPER
 ================================ */
         .details-wrapper {
-            height: 80vh;
+            height: 100vh;
+            overflow: 60px 0;
             overflow: auto;
+
             display: flex;
             flex-direction: column;
             gap: 32px;
+
+            /* Hide scrollbar */
+            scrollbar-width: none;
+            /* Firefox */
+            -ms-overflow-style: none;
+            /* IE & Edge */
         }
+
+        /* Chrome, Safari, Edge */
+        .details-wrapper::-webkit-scrollbar {
+            display: none;
+        }
+
 
         /* ROW (2 ITEMS) */
         .details-row {

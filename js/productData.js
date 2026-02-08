@@ -13,7 +13,8 @@ window.productData = [
   { slug: "high-pressure", images: ["./images/products/section1/High Pressure Seal/High-Pressure-Seal--1.png", "./images/products/section1/High Pressure Seal/High-Pressure-Seal---2.png"] },
   { slug: "dry-seals", images: ["./images/products/section1/Dry Seals/Dry-Seals--1.png", "./images/products/section1/Dry Seals/Dry-Seals---2.png"] },
   { slug: "cartridge-single", images: ["./images/products/section1/Cartridge Single Acting/Cartridge-Single-Acting--1.png", "./images/products/section1/Cartridge Single Acting/Cartridge-Single-Acting--2.png"] },
-  { slug: "cartridge-double", images: ["./images/products/section1/Cartridge Double Acting/Cartridge-Double-Acting---1.png", "./images/products/section1/Cartridge Double Acting/Cartridge-Double-Acting---2.png"] }
+  { slug: "cartridge-double", images: ["./images/products/section1/Cartridge Double Acting/Cartridge-Double-Acting---1.png", "./images/products/section1/Cartridge Double Acting/Cartridge-Double-Acting---2.png"] },
+  { slug: "thermosyphon-seal-support-system", images: ["./images/products/section1/Thermosyphon Seal Support System/Maredian-Seals---Brochure-Correction-3.png"] }
 ];
 
 /* ===============================

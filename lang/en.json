@@ -183,7 +183,8 @@
             "high-pressure": "High Pressure Seal",
             "dry-seals": "Dry Seals",
             "cartridge-single": "Cartridge Single Acting",
-            "cartridge-double": "Cartridge Double Acting"
+            "cartridge-double": "Cartridge Double Acting",
+            "thermosyphon-seal-support-system": "Thermosyphon Seal Support System"
         },
         "products": {
             "readMore": "READ MORE →",
@@ -211,7 +212,7 @@
                 ],
                 "operatingLimits": [
                     "Shaft Diameter D1: 10 mm to 100 mm",
-                    "Pressure P: 0.8 bar (max)",
+                    "Pressure P: 08 bar (max)",
                     "Temperature t: -20°C to +200°C",
                     "Velocity V: 20 m/sec"
                 ],
@@ -224,27 +225,26 @@
             },
             "single-spring": {
                 "standardStyle": [
-                    "Face Materials: Carbon, Stellite, Lecrolly, Ceramic, Silicon Carbide, Plasma Sprayed Ceramic ",
+                    "Face Materials: Carbon/Stellite / Lecrolly / Ceramic / Silicon Carbide / Plasma Sprayed Ceramic",
                     "Metal Parts: SS 316, SS 304",
                     "Secondary Seal: Nitrile, EPDM, Viton, PTFE"
                 ],
                 "sealCharacteristics": [
                     "Single acting",
-                    "Unbalanced",
-                    "Inside mounted",
-                    "Dependent on direction of rotation"
+                    "Balanced/Unbalanced",
+                    "Inside & Outside Mounted",
+                    "Independent of direction of rotation",
+                    "Torqueb Transmission by Secondary seal"
                 ],
                 "operatingLimits": [
-                    "Shaft Diameter D1: 10 mm to 100 mm",
-                    "Pressure P: 0.8 bar (max)",
-                    "Temperature t: -20°C to +200°C",
-                    "Velocity V: 20 m/sec"
+                    "Shaft Diameter D1: 10...100 mm",
+                    "Pressure P: 10 bar (max)",
+                    "Temperature t: -20°C...+1800°C",
+                    "Velocity V: 10 m/sec"
                 ],
                 "applications": [
-                    "Water Pumps",
-                    "Circulation Pumps for central heating",
-                    "Chemical Process Pumps",
-                    "Sewage and Submersible pumps"
+                    "Industrial",
+                    "Marine"
                 ]
             },
             "multi-spring": {
@@ -270,7 +270,7 @@
                 "applicationDataOfSealType808": [
                     "Seal Faces: Carbon, Stellite, Plasma Sprayed Ceramic, Tungesten Carbide, Silicon Caribide",
                     "Elastomer: Viton®, Neoperene, Kalrez®, EPDM, TEV",
-                    "Size range: 108 to 150mm",
+                    "Size range: 108mm to 150mm",
                     "Pressure: 35 bar",
                     "Temperature: 205°C"
                 ]
@@ -287,7 +287,7 @@
                     "Sodium Hydrogen Carbonate"
                 ],
                 "operatingLimits": [
-                    "Shaft Diameter D1: As per machine required",
+                    "Shaft Diameter : As per machine required",
                     "Pressure: Normal",
                     "Temperature: Normal"
                 ],
@@ -301,7 +301,7 @@
             },
             "teflon-bellow": {
                 "standardStyle": [
-                    "Face Materials: GFT, CFT, Silicon Carbide, Ceramic",
+                    "Face Materials: GFT / CFT / Silicon Carbide / Ceramic",
                     "Metal Parts: SS 316, SS 304, Hastelloy-C",
                     "Springs: Teflon Covered Spring Steel, S.S.316, S.S.304, Hastelloy-C",
                     "Secondary Seal: PTFE Bellows"
@@ -313,10 +313,10 @@
                     "Independent of direction of rotation"
                 ],
                 "operatingLimits": [
-                    "Shaft Diameter D1: 19 mm to 150 mm",
-                    "Pressure P: 6 bar (max)",
-                    "Temperature t: -45°C to +1200°C",
-                    "Velocity V: 16 m/sec"
+                    "Shaft Diameter d1: 19 mm to 150 mm",
+                    "Pressure p: 6 bar (max)",
+                    "Temperature t: -45°C...+1200°C",
+                    "Velocity v: 16 m/sec"
                 ],
                 "applications": [
                     "Extremely corrosive services"
@@ -342,30 +342,32 @@
                 "standardStyle": [
                     "Face Materials: Stellite, Carbon, Ceramic, Tungsten Carbide, Silicon Carbide, Lecrolly",
                     "Metal Parts: SS 316, SS 304",
-                    "Secondary Seal: Elastomers, PTFE"
+                    "Secondary Seal: Elastomers"
                 ],
-                "characteristics": [
+                "sealCharacteristics": [
                     "Single acting",
-                    "Unbalanced",
+                    "Balanced",
                     "Inside mounted",
-                    "Dependent on direction of rotation"
+                    "Dependent of direction of rotation"
                 ],
                 "operatingLimits": [
-                    "Shaft Diameter D1: 65 mm to 150 mm",
-                    "Pressure P: 50 bar - 140 bar (max)",
-                    "Temperature t: -20°C to +2500°C (API plan 23)",
-                    "Velocity V: more than 50 m/sec"
+                    "Shaft Diameter d: 65...150 mm",
+                    "Pressure p: 50...140 bar (max)",
+                    "Temperature t: -20°C...+2500°C (API plan 23)",
+                    "Velocity v: more than 50 m/sec"
                 ],
-                "applications": [
-                    "Water Pumps",
-                    "Circulation Pumps for central heating",
-                    "Chemical Process Pumps",
-                    "Sewage and Submersible pumps"
+                "application": [
+                    "Boiler feed water Pumps",
+                    "HSD Pumps",
+                    "Booster Pumps",
+                    "Drip Pumps",
+                    "Condensate pumps",
+                    "Fuel Oil Pumps"
                 ]
             },
             "split-seals": {
                 "standardStyle": [
-                    "Face Materials: Carbon, Silicon Carbide, Ceramic",
+                    "Face Materials: Carbon / Silicon Carbide / Ceramic",
                     "Metal Parts: SS 316, SS 304",
                     "Secondary Seal: Elastomers"
                 ],
@@ -375,9 +377,9 @@
                     "Balanced Seal Faces"
                 ],
                 "operatingLimits": [
-                    "Shaft Diameter D: 50 mm to 200 mm",
-                    "Pressure P: 15 bar (max)",
-                    "Temperature t: Amb to 1400°C",
+                    "Shaft Diameter d: 50...200 mm",
+                    "Pressure p: 15 bar (max)",
+                    "Temperature t: Amb...1400°C",
                     "Shaft Speed : 3600 rpm(max)"
                 ],
                 "applications": [
@@ -388,9 +390,15 @@
             },
             "high-pressure": {
                 "standardStyle": [
-                    "Face Materials: Carbon, Silicon Carbide, Tungsten Carbide",
+                    "Face Materials: Carbon / Silicon Carbide / Tungsten Carbide",
                     "Metal Parts: SS 316, SS 304, Hastelloy-C, Titanium, Alloy-20, Monel",
                     "Secondary Seal: Elastomers"
+                ],
+                "operatingLimits": [
+                    "Shaft Diameter d1: 25...115 mm",
+                    "Pressure p: 25...150 bar",
+                    "Temperature t: 40...1800°C",
+                    "Velocity v : 20 m/sec"
                 ],
                 "sealCharacteristics": [
                     "Single acting",
@@ -430,20 +438,19 @@
                 "standardStyle": [
                     "Face Materials: Tungsten carbide and Ceramic, Secondary Seal",
                     "Metal Parts: SS 316, SS 304, Hastelloy-C, Hastelloy-B, Monel, Alloy-20",
-                    "Secondary Seal: Elastomers, PTFE"
+                    "Secondary Seal: Elastomers, TCV, PTFE"
                 ],
                 "sealCharacteristics": [
                     "Single acting",
                     "Reverse Balanced",
                     "Outside Mounted",
-                    "Independent of direction of rotation",
+                    "Independent of Direction of rotation",
                     "Dry Running"
                 ],
                 "operatingLimits": [
-                    "Shaft Diameter D1: 15 mm to 150 mm",
-                    "Pressure p: Vacuum to 8 bar (max)",
-                    "Temperature t: Amb to 1200°C(max)",
-                    "",
+                    "Shaft Diameter d: 15...150 mm",
+                    "Pressure p: Vacuum...8 bar (max)",
+                    "Temperature t: Amb...1200°C(max)",
                     "Speed n: 320 rpm"
                 ],
                 "applications": [
@@ -461,7 +468,7 @@
                     "Double acting Back to Back Seals",
                     "Balanced",
                     "Cartridge Unit",
-                    "Independent of direction of rotation",
+                    "Independent of Direction of rotation",
                     "Operated with Pressurised Barrier Fluid"
                 ],
                 "applications": [
@@ -470,12 +477,47 @@
                     "Light hydrocarbons and its vapours"
                 ],
                 "operatingLimits": [
-                    "Shaft Diameter D1: 25 mm to 150 mm",
-                    "Pressure P: Vacuum - 32 bar (max)",
-                    "Temperature t: Amb to 2000°C (max)",
+                    "Shaft Diameter d: 25...150 mm*",
+                    "Pressure p: Vacuum...32 bar (max)",
+                    "Temperature t: Amb...2000°C (max)",
                     "Shaft speed n : 600 rpm. (max)",
-                    "Barrier fluid pressure : Vessel pressure + 1.5 bar",
-                    ""
+                    "Barrier fluid pressure : Vessel pressure + 1.5 bar"
+                ]
+            },
+            "thermosyphon-seal-support-system": {
+                "highlights": [
+                    "Recommended: 12 Ltrs/min",
+                    "Max. Level Value: 5.5 Ltrs",
+                    "Min. Level Value: 3.5 Ltrs"
+                ],
+                "performanceLimits": [
+                    "Capacity: 7.5 Liter",
+                    "Hyd. Test Pressure: 30 Kg",
+                    "Working Pressure: 20 Kg",
+                    "Max. working temp.: 180°C",
+                    "Heat Transfer area of cooling coil: 0.3m²",
+                    "Cooling water flow rate"
+                ],
+                "metalParts": [
+                    "Thermosyphon Shell: Carbon Steel / SS 316 / SS 304",
+                    "Cooling Coil: SS 304 / SS 316"
+                ],
+                "accessories": [
+                    "Pressure Gauge (0-40 kg/cm²)",
+                    "For Pressure Measuring of the vessel",
+                    "Level Gauge For Liquid Level Indicate of the vessel",
+                    "Hand Pump For recharge of the vessel with additional quantity of barrier fluid when Thermosyphon is under pressure and Liquid level is low"
+                ],
+                "connectionSize": [
+                    "Buffer fluid Inlet - A 16\" NPT",
+                    "Buffer fluid Outlet - B½ NPT",
+                    "Cooling water Outlet - D\" NPT",
+                    "Hand Pump Connection - E ¼\" NPT (Refilling Connection)",
+                    "Filling Connection - F ¼\" NPT",
+                    "Pressure Gas Connection - G\" NPT",
+                    "Pressure Gauge Connection - H 3/8\" NPT",
+                    "Drain - ½\" NPT",
+                    "Safety Valve Connection - J ½\" NPT"
                 ]
             }
         }
@@ -580,7 +622,8 @@
             "highPressureSeal": "High Pressure Seal",
             "drySeals": "Dry Seals",
             "cartridgeSingleActing": "Cartridge Single Actin",
-            "cartridgeDoubleActing": "Cartridge Double Acting"
+            "cartridgeDoubleActing": "Cartridge Double Acting",
+            "thermosyphonSealSupportSystem": "Thermosyphon Seal Support System"
         },
         "copyright": "© 2026 Maredian Seals. All Rights Reserved. | Privacy Policy | Terms & Conditions"
     }
