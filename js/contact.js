@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
   const forms = document.querySelectorAll(".contact-form");
   const modal = document.getElementById("brochureModal");
-  const brochureBtn = document.querySelectorAll("downloadBrochureBtn");
+  const brochureBtn = document.querySelectorAll(".downloadBrochureBtn");
 
   function downloadBrochure() {
     const link = document.createElement("a");
@@ -13,17 +13,21 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   // 🔹 Brochure button click
-  brochureBtn?.addEventListener("click", e => {
+brochureBtn.forEach(btn => {
+  btn.addEventListener("click", e => {
     e.preventDefault();
 
     const allowed = sessionStorage.getItem("brochureAllowed") === "yes";
 
     if (allowed) {
       downloadBrochure();
-      return ;
-    } 
+      return;
+    }
+
     modal?.classList.add("active");
   });
+});
+
 
   // 🔹 Handle ALL enquiry forms
   forms.forEach(form => {
