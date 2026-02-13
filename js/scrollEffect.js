@@ -508,9 +508,9 @@ document.addEventListener('DOMContentLoaded', function () {
     // Set initial states
     gsap.set('.industries-grid-title', { y: -50, opacity: 0 });
     gsap.set('.industries-grid-subtitle', { y: -30, opacity: 0 });
-    
+
     // Set initial state for all cards
-    gsap.set('.industry-grid-card', { 
+    gsap.set('.industry-grid-card', {
         x: -100,
         opacity: 0
     });
@@ -576,29 +576,118 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 
     gsap.from('.ms-contact-info', {
-x: -60,
-opacity: 0,
-duration: 0.9,
-ease: 'power2.out',
-scrollTrigger: {
-trigger: '.ms-contact-section',
-start: 'top 75%'
-}
-});
+        x: -60,
+        opacity: 0,
+        duration: 0.9,
+        ease: 'power2.out',
+        scrollTrigger: {
+            trigger: '.ms-contact-section',
+            start: 'top 75%'
+        }
+    });
 
 
-gsap.from('.ms-contact-form', {
-x: 60,
-opacity: 0,
-duration: 0.9,
-delay: 0.1,
-ease: 'power2.out',
-scrollTrigger: {
-trigger: '.ms-contact-section',
-start: 'top 75%'
-}
-});
+    gsap.from('.ms-contact-form', {
+        x: 60,
+        opacity: 0,
+        duration: 0.9,
+        delay: 0.1,
+        ease: 'power2.out',
+        scrollTrigger: {
+            trigger: '.ms-contact-section',
+            start: 'top 75%'
+        }
+    });
 
+    /* ================= RECONDITIONING SECTION ================= */
+
+    // Set initial states
+    gsap.set('.reconditioning-refurbishment-title', {
+        y: -40,
+        opacity: 0
+    });
+
+    gsap.set('.reconditioning-left .before', {
+        x: -120,
+        opacity: 0,
+        rotation: -8
+    });
+
+    gsap.set('.reconditioning-left .after', {
+        x: 120,
+        opacity: 0,
+        rotation: 8
+    });
+
+    gsap.set('.reconditioning-right', {
+        y: 60,
+        opacity: 0
+    });
+
+    gsap.set('.reconditioning-bottom .content-block', {
+        y: 60,
+        opacity: 0
+    });
+
+
+    // Create timeline
+    const reconditioningTimeline = gsap.timeline({
+        scrollTrigger: {
+            trigger: '.reconditioning-refurbishment',
+            start: 'top 65%',
+            end: 'top 30%',
+            toggleActions: 'play none none reverse'
+        }
+    });
+
+    // Animate header
+    reconditioningTimeline
+        .to('.reconditioning-refurbishment-title', {
+            y: 0,
+            opacity: 1,
+            duration: 0.7,
+            ease: 'power3.out'
+        })
+
+        // Animate images (parallel entry)
+        .to('.reconditioning-left .before', {
+            x: 0,
+            opacity: 1,
+            rotation: 0,
+            duration: 0.9,
+            ease: 'power3.out'
+        }, '-=0.3')
+
+        .to('.reconditioning-left .after', {
+            x: 0,
+            opacity: 1,
+            rotation: 0,
+            duration: 0.9,
+            ease: 'power3.out'
+        }, '-=0.8')
+
+        // Animate right text
+        .to('.reconditioning-right', {
+            y: 0,
+            opacity: 1,
+            duration: 0.9,
+            ease: 'power3.out'
+        }, '-=0.6')
+
+
+    // Bottom section stagger animation
+    gsap.to('.reconditioning-bottom .content-block', {
+        y: 0,
+        opacity: 1,
+        duration: 0.8,
+        stagger: 0.15,
+        ease: 'power3.out',
+        scrollTrigger: {
+            trigger: '.reconditioning-bottom',
+            start: 'top 75%',
+            toggleActions: 'play none none reverse'
+        }
+    });
 
 }
 
