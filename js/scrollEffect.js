@@ -602,10 +602,10 @@ document.addEventListener('DOMContentLoaded', function () {
     /* ================= RECONDITIONING SECTION ================= */
 
     // Set initial states
-    gsap.set('.reconditioning-refurbishment-title', {
-        y: -40,
-        opacity: 0
-    });
+    // gsap.set('.reconditioning-refurbishment-title', {
+    //     y: -40,
+    //     opacity: 0
+    // });
 
     gsap.set('.reconditioning-left .before', {
         x: -120,
