@@ -95,6 +95,13 @@
             color: #000000;
         }
 
+        .contact-numbers {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+
+
         .contact-item {
             display: flex;
             align-items: center;
@@ -345,7 +352,7 @@
             margin-bottom: 0;
             border-bottom: 20px solid var(--bg-primary);
         }
-        
+
         /* .hero-section-main{
             height: calc(100vh - 50px);
         } */
@@ -549,11 +556,12 @@
         .service-text-content .view-products-link::after {
             background: var(--bg-dark);
         }
+
         .service-text-content .view-products-link:hover {
-                       color: var(--bg-light);
+            color: var(--bg-light);
         }
 
-        
+
 
         .hero-title {
             font-size: clamp(1.5rem, 3vw, 0.8rem);
@@ -3477,240 +3485,240 @@
             }
         }
 
-/* ================= MAIN SECTION ================= */
+        /* ================= MAIN SECTION ================= */
 
-.reconditioning-refurbishment {
-    width: 100%;
-    font-family: inherit;
-}
+        .reconditioning-refurbishment {
+            width: 100%;
+            font-family: inherit;
+        }
 
-/* ================= HEADER ================= */
+        /* ================= HEADER ================= */
 
-.reconditioning-refurbishment-header {
-    background: var(--bg-light);
-    text-align: center;
-}
+        .reconditioning-refurbishment-header {
+            background: var(--bg-light);
+            text-align: center;
+        }
 
-.reconditioning-refurbishment-header h2 {
-    padding: 25px 0;
-    color: var(--bg-primary);
-    font-size: 2rem;
-    font-weight: 700;
-}
+        .reconditioning-refurbishment-header h2 {
+            padding: 25px 0;
+            color: var(--bg-primary);
+            font-size: 2rem;
+            font-weight: 700;
+        }
 
-/* ================= TOP SECTION ================= */
+        /* ================= TOP SECTION ================= */
 
-.reconditioning-top {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 80px;
-    padding: 50px 8%;
-    background: linear-gradient(135deg, #5fa3bf, #2f6c8f);
-    color: #fff;
-    flex-wrap: wrap;
-    width: 100%;
-}
+        .reconditioning-top {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 80px;
+            padding: 50px 8%;
+            background: linear-gradient(135deg, #5fa3bf, #2f6c8f);
+            color: #fff;
+            flex-wrap: wrap;
+            width: 100%;
+        }
 
-/* INNER CONTAINER (NEW – controls content width) */
-.reconditioning-container {
-    max-width: 1400px;
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 80px;
-}
+        /* INNER CONTAINER (NEW – controls content width) */
+        .reconditioning-container {
+            max-width: 1400px;
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 80px;
+        }
 
-/* ================= LEFT IMAGES ================= */
+        /* ================= LEFT IMAGES ================= */
 
-.reconditioning-left {
-    display: flex;
-    gap: 30px;
-    flex: 1;
-    justify-content: center;
-    align-items: center;
-}
+        .reconditioning-left {
+            display: flex;
+            gap: 30px;
+            flex: 1;
+            justify-content: center;
+            align-items: center;
+        }
 
-/* Image wrapper */
-.image-wrapper {
-    position: relative;
-}
+        /* Image wrapper */
+        .image-wrapper {
+            position: relative;
+        }
 
-/* Image */
-.image-wrapper img {
-    width: 100%;
-    max-width: 260px;
-    aspect-ratio: 3 / 4;
-    border-radius: 18px;
-    object-fit: cover;
-    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
-    border: 8px solid var(--bg-primary);
-    transition: transform 0.4s ease;
-}
+        /* Image */
+        .image-wrapper img {
+            width: 100%;
+            max-width: 260px;
+            aspect-ratio: 3 / 4;
+            border-radius: 18px;
+            object-fit: cover;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+            border: 8px solid var(--bg-primary);
+            transition: transform 0.4s ease;
+        }
 
-/* Hover */
-.image-wrapper img:hover {
-    transform: translateY(-3px);
-}
+        /* Hover */
+        .image-wrapper img:hover {
+            transform: translateY(-3px);
+        }
 
-/* ================= LABELS ================= */
+        /* ================= LABELS ================= */
 
-.image-wrapper {
-    position: relative;
-}
+        .image-wrapper {
+            position: relative;
+        }
 
-/* Label */
-.image-wrapper .label {
-    /* position: absolute;
+        /* Label */
+        .image-wrapper .label {
+            /* position: absolute;
     left: 50%;
     transform: translateX(-50%); */
-    
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 8px;
 
-    font-weight: 800;
-    font-size: 18px;
-    letter-spacing: 1px;
-    color: #000;
-}
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
 
-/* BEFORE */
-.before .label {
-    bottom: 10px;
-}
+            font-weight: 800;
+            font-size: 18px;
+            letter-spacing: 1px;
+            color: #000;
+        }
 
-/* AFTER */
-.after .label {
-    top: -30px;
-}
+        /* BEFORE */
+        .before .label {
+            bottom: 10px;
+        }
+
+        /* AFTER */
+        .after .label {
+            top: -30px;
+        }
 
 
-/* Visual stagger */
-.image-wrapper.after {
-    margin-top: 40px;
-}
+        /* Visual stagger */
+        .image-wrapper.after {
+            margin-top: 40px;
+        }
 
-/* ================= RIGHT CONTENT ================= */
+        /* ================= RIGHT CONTENT ================= */
 
-.reconditioning-right {
-    flex: 1;
-    max-width: 650px;
-}
+        .reconditioning-right {
+            flex: 1;
+            max-width: 650px;
+        }
 
-.main-title {
-    font-size: 36px;
-    font-weight: 800;
-    margin-bottom: 20px;
-    text-transform: uppercase;
-}
+        .main-title {
+            font-size: 36px;
+            font-weight: 800;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+        }
 
-.reconditioning-right p {
-    line-height: 1.8;
-    margin-bottom: 20px;
-    font-weight: 500;
-    font-size: 16px;
-}
+        .reconditioning-right p {
+            line-height: 1.8;
+            margin-bottom: 20px;
+            font-weight: 500;
+            font-size: 16px;
+        }
 
-/* ================= BOTTOM SECTION ================= */
+        /* ================= BOTTOM SECTION ================= */
 
-.reconditioning-bottom {
-    padding: 60px 8%;
-    background: #f4f6f8;
-}
+        .reconditioning-bottom {
+            padding: 60px 8%;
+            background: #f4f6f8;
+        }
 
-.content-block {
-    margin-bottom: 45px;
-    max-width: 1100px;
-}
+        .content-block {
+            margin-bottom: 45px;
+            max-width: 1100px;
+        }
 
-.content-block h3 {
-    font-size: 22px;
-    font-weight: 800;
-    margin-bottom: 10px;
-    text-transform: uppercase;
-    color: #222;
-}
+        .content-block h3 {
+            font-size: 22px;
+            font-weight: 800;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+            color: #222;
+        }
 
-.content-block p,
-.content-block li {
-    line-height: 1.7;
-    color: #333;
-    font-size: 15px;
-}
+        .content-block p,
+        .content-block li {
+            line-height: 1.7;
+            color: #333;
+            font-size: 15px;
+        }
 
-.content-block ul {
-    padding-left: 20px;
-}
+        .content-block ul {
+            padding-left: 20px;
+        }
 
-/* ================= TABLET ================= */
+        /* ================= TABLET ================= */
 
-@media (max-width: 992px) {
+        @media (max-width: 992px) {
 
-    .reconditioning-container {
-        flex-direction: column;
-        text-align: center;
-        gap: 50px;
-    }
+            .reconditioning-container {
+                flex-direction: column;
+                text-align: center;
+                gap: 50px;
+            }
 
-    .reconditioning-right {
-        max-width: 100%;
-    }
+            .reconditioning-right {
+                max-width: 100%;
+            }
 
-    .main-title {
-        font-size: 28px;
-    }
-}
+            .main-title {
+                font-size: 28px;
+            }
+        }
 
-/* ================= MOBILE ================= */
+        /* ================= MOBILE ================= */
 
-@media (max-width: 576px) {
+        @media (max-width: 576px) {
 
-    .reconditioning-top {
-        padding: 70px 6%;
-    }
+            .reconditioning-top {
+                padding: 70px 6%;
+            }
 
-    .image-wrapper img {
-        max-width: 200px;
-    }
+            .image-wrapper img {
+                max-width: 200px;
+            }
 
-    .main-title {
-        font-size: 24px;
-    }
+            .main-title {
+                font-size: 24px;
+            }
 
-    .reconditioning-right p {
-        font-size: 14px;
-    }
+            .reconditioning-right p {
+                font-size: 14px;
+            }
 
-    .content-block h3 {
-        font-size: 18px;
-    }
-}
+            .content-block h3 {
+                font-size: 18px;
+            }
+        }
 
-/* ================= ULTRA-WIDE SCREENS ================= */
+        /* ================= ULTRA-WIDE SCREENS ================= */
 
-@media (min-width: 1600px) {
+        @media (min-width: 1600px) {
 
-    .reconditioning-top {
-        padding: 140px 10%;
-    }
+            .reconditioning-top {
+                padding: 140px 10%;
+            }
 
-    .reconditioning-container {
-        max-width: 1600px;
-        gap: 120px;
-    }
+            .reconditioning-container {
+                max-width: 1600px;
+                gap: 120px;
+            }
 
-    .main-title {
-        font-size: 44px;
-    }
+            .main-title {
+                font-size: 44px;
+            }
 
-    .reconditioning-right p {
-        font-size: 18px;
-    }
+            .reconditioning-right p {
+                font-size: 18px;
+            }
 
-    .image-wrapper img {
-        max-width: 300px;
-    }
-}
+            .image-wrapper img {
+                max-width: 300px;
+            }
+        }
