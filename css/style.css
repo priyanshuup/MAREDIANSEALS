@@ -7,7 +7,7 @@
 
         @font-face {
             font-family: 'Morris';
-            src: url('../fonts/MorrisSansW01Medium/Morris\ Sans\ W01\ Medium.ttf') format('truetype');
+            src: url('../fonts/MorrisSansW01Medium.ttf') format('truetype');
             font-weight: 100 900;
             font-style: normal;
         }

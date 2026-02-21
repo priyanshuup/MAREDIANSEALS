@@ -1,297 +1,651 @@
 {
-  "topBar": {
-    "phone": "+91 9561444777",
-    "email": "info@maredianseals.com",
-    "address": "ダンヤ・サティヴァリ、ヴァサイ・イースト、ヴァサイ",
-    "follow": "フォローしてください:"
-  },
-  "nav": {
-    "home": "ホーム",
-    "about": "会社概要",
-    "products": "製品",
-    "services": "サービス",
-    "contact": "お問い合わせ"
-  },
-  "hero": {
-    "slide1": {
-      "title": "精密さと性能で未来をシールする",
-      "desc": "要求の厳しい用途でも信頼性と効率を提供する業界をリードするメカニカルシール。",
-      "cta": "製品を見る"
+    "topBar": {
+        "phone1": "+91 9561444777",
+        "phone2": "+91 9730444777",
+        "email": "info@maredianseals.com",
+        "address": "Gala.No. 6/7 Balaji Industrial Estate 5/B S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208",
+        "follow": "フォローする:"
     },
-    "slide2": {
-      "title": "メカニカルシーリングソリューションの革新",
-      "desc": "世界中の産業用途で最大の性能を発揮するよう設計された高品質のシール。",
-      "cta": "詳細を見る"
+    "nav": {
+        "home": "ホーム",
+        "about": "会社概要",
+        "products": "製品情報",
+        "services": "サービス",
+        "contact": "お問い合わせ"
     },
-    "products": {
-      "sectionTitle": "高度なシーリングソリューション",
-      "sectionDesc": "当社のメカニカルシール、ロータリーユニオン、コンポーネントの幅広いラインナップをご覧ください。最も過酷な条件下でも安定した性能を提供するために作られています。",
-      "items": {
-        "pusher": {
-          "title": "プッシャーシール",
-          "desc": "材質：ステライト、カーボン、セラミック、タングステンカーバイド、シリコンカーバイド、レクロロイ"
-        },
-        "textile": {
-          "title": "テキスタイルシール",
-          "desc": "材質：ステライト、カーボン、セラミック、タングステンカーバイド、シリコンカーバイド、レクロロイ"
-        },
-        "singleSpring": {
-          "title": "シングルスプリングシール",
-          "desc": "材質：ステライト、カーボン、セラミック、タングステンカーバイド、シリコンカーバイド、レクロロイ"
-        },
-        "multiSpring": {
-          "title": "マルチスプリングシール",
-          "desc": "材質：ステライト、カーボン、セラミック、タングステンカーバイド、シリコンカーバイド、レクロロイ"
-        }
-      }
-    },
-    "common": {
-      "readMore": "続きを読む",
-      "enquiry": "お問い合わせ"
-    },
-    "about": {
-      "title": "ファイナル・マレディアンシールズについて",
-      "subtitle": "精密さ。性能。完璧。",
-      "description": "情熱的なエンジニアと先見の明のある技術者によって設立されたマレディアンシールズは、メカニカルシーリング技術における信頼のブランドであり、過酷な条件下でも漏れのない性能を保証する高品質なシールシステムの設計・製造を専門としています。最先端の技術と数十年の経験により、石油化学、製薬、繊維、食品加工、発電、水処理などの産業にサービスを提供しています。",
-      "features": {
-        "precision": "精密エンジニアリング",
-        "delivery": "期限内納品",
-        "custom": "カスタムソリューション",
-        "reliability": "信頼性と性能"
-      },
-      "learnMore": "詳細はこちら"
-    },
-    "industries": {
-      "title": "対応する産業",
-      "subtitle": "当社のメカニカルシールは、最も要求の厳しい産業環境でも信頼性を発揮します。"
-    },
-    "whyChoose": {
-      "title": "ファイナル・マレディアンシールズを選ぶ理由",
-      "items": {
-        "delivery": "迅速な納品\nおよび技術サポート",
-        "expertise": "実証済みのエンジニアリング\n専門知識",
-        "leakproof": "100％漏れ防止\n性能保証",
-        "trusted": "業界全体で\n顧客から信頼",
-        "manufacturing": "精密製造\n基準"
-      }
-    }
-  },
-  "ticker": {
-    "item1": "プッシャーシール",
-    "item2": "シングルスプリングシール",
-    "item3": "マルチスプリングシール",
-    "item4": "テキスタイルシール",
-    "item5": "テフロンベローシール",
-    "item6": "金属ベロー機械"
-  },
-  "aboutHero": {
-    "slide1": {
-      "title": "卓越したエンジニアリング\nシールの完全性を提供",
-      "desc": "マレディアンシールズでは、現代産業向けに信頼性、精度、性能を定義するメカニカルシーリングソリューションを設計・製造しています。",
-      "cta": "当社の専門知識を探る"
-    },
-    "aboutUs": {
-      "title": "会社概要",
-      "tagline": "正しく作る。しっかりシールする。",
-      "paragraph1": "シーリングソリューションを再定義するというビジョンのもと設立されたマレディアンシールズは、メカニカルシールおよびシーリングシステムの分野でプレミアムな製造業者、サプライヤー、イノベーターです。",
-      "paragraph2": "当社は、最も厳しい産業条件下で性能を発揮するカスタム設計のシーリングソリューションを専門としています。製品は精密に製造され、漏れ防止性能、耐久性、長寿命を保証します。",
-      "paragraph3": "熟練したエンジニアチーム、高度な製造技術、品質重視の姿勢により、石油化学、精製、製薬、食品加工、水処理などの産業に信頼されるソリューションを提供しています。",
-      "images": {
-        "image1": "メカニカルシール製品",
-        "image2": "製造",
-        "image3": "エンジニア",
-        "image4": "シーリング製品",
-        "logo": "マレディアンロゴ"
-      }
-    },
-    "strengths": {
-      "title": "当社の強み:",
-      "tagline": "正しく作る。しっかりシールする。",
-      "items": {
-        "precision": {
-          "title": "精密\nエンジニアリング",
-          "alt": "精密エンジニアリング"
-        },
-        "delivery": {
-          "title": "期限内\n納品",
-          "alt": "期限内納品"
-        },
-        "custom": {
-          "title": "カスタム\nソリューション",
-          "alt": "カスタムソリューション"
-        },
-        "reliability": {
-          "title": "信頼性と\n性能",
-          "alt": "信頼性"
-        }
-      }
-    },
-    "coreValues": {
-      "title": "当社のコアバリュー:",
-      "items": {
-        "innovation": {
-          "title": "革新",
-          "desc": "継続的な研究開発によるシーリング技術の進化。",
-          "alt": "革新"
-        },
-        "integrity": {
-          "title": "誠実さ",
-          "desc": "透明な関係、正直なコミットメント。",
-          "alt": "誠実さ"
-        },
-        "precision": {
-          "title": "精密さ",
-          "desc": "すべてのシールを完璧に製造。",
-          "alt": "精密さ"
-        },
-        "sustainability": {
-          "title": "持続可能性",
-          "desc": "環境に優しい素材と省エネの実践。",
-          "alt": "持続可能性"
-        },
-        "customerFocus": {
-          "title": "顧客重視",
-          "desc": "お客様の産業ニーズに合わせたソリューション。",
-          "alt": "顧客重視"
-        }
-      }
-    }
-  },
-  "productPage": {
     "hero": {
-      "slide1": {
-        "title": "シールのために設計。<br>長持ちするように構築。",
-        "desc": "あらゆる産業用途で耐久性、効率性、完全な漏れ防止性能を発揮する精密エンジニアリングのメカニカルシール全製品ラインをご覧ください。",
-        "ctaExplore": "製品を見る",
-        "ctaView": "すべての製品を見る"
-      }
+        "slide1": {
+            "title": "精度と性能で未来を密封する",
+            "desc": "要求の厳しい用途向けに設計された、信頼性と効率性を誇る業界最先端のメカニカルシール。",
+            "cta": "製品を見る"
+        },
+        "slide2": {
+            "title": "メカニカルシールソリューションの革新",
+            "desc": "世界中の産業用途で最大のパフォーマンスを発揮するよう設計されたプレミアム品質のシール。",
+            "cta": "詳細はこちら"
+        },
+        "products": {
+            "sectionTitle": "高度なシーリングソリューション",
+            "sectionDesc": "過酷な条件下でも一貫した性能を発揮するように作られた、メカニカルシール、ロータリーユニオン、コンポーネントの幅広い製品ラインアップをご覧ください。",
+            "items": {
+                "pusher": {
+                    "title": "プッシャーシール",
+                    "desc": "端面材料：ステライト、カーボン、セラミック、超硬、炭化ケイ素、レクロロイ"
+                },
+                "textile": {
+                    "title": "繊維機械用シール",
+                    "desc": "端面材料：カーボン、炭化ケイ素、超硬、クロム鋳鋼、および流体に適した材料"
+                },
+                "singleSpring": {
+                    "title": "シングルスプリングシール",
+                    "desc": "端面材料：カーボン、ステライト、レクロロイ、セラミック、炭化ケイ素、プラズマ溶射セラミック"
+                },
+                "multiSpring": {
+                    "title": "マルチスプリングシール",
+                    "desc": "端面材料：カーボン、ステライト、プラズマ溶射セラミック、セラミック、超硬、炭化ケイ素"
+                }
+            }
+        },
+        "common": {
+            "readMore": "もっと見る",
+            "enquiry": "今すぐお問い合わせ"
+        },
+        "about": {
+            "title": "マレディアンシールについて",
+            "subtitle": "精度。性能。完璧。",
+            "description": "情熱的なエンジニアと先見の明のある技術者によって設立されたMaredian Sealsは、メカニカルシール技術において信頼される企業であり、要求の厳しい条件下で漏れのない性能を保証するプレミアムシーリングシステムの設計・製造を専門としています。高度な技術と数十年の経験により、石油化学、医薬品、繊維、食品加工、発電、水処理などの業界にサービスを提供しています。",
+            "features": {
+                "precision": "精密工学",
+                "delivery": "定時納品",
+                "custom": "カスタムソリューション",
+                "reliability": "信頼性と性能"
+            },
+            "learnMore": "詳細はこちら"
+        },
+        "industries": {
+            "title": "対象産業",
+            "subtitle": "当社のメカニカルシールは、最も要求の厳しい産業環境でも確実に機能します。"
+        },
+        "whyChoose": {
+            "title": "マレディアンシールを選ぶ理由",
+            "items": {
+                "delivery": "迅速な納品\nと技術サポート",
+                "expertise": "実証済みの\n工学的専門知識",
+                "leakproof": "100%漏れ防止\n性能保証",
+                "trusted": "幅広い業界の\n顧客から信頼",
+                "manufacturing": "精密製造\n基準"
+            }
+        }
     },
-    "allProducts": {
-      "title": "マレディアンシールズ製品ライン",
-      "all": "すべての製品"
+    "ticker": {
+        "item1": "プッシャーシール",
+        "item2": "シングルスプリングシール",
+        "item3": "マルチスプリングシール",
+        "item4": "繊維機械用シール",
+        "item5": "テフロンベローズシール",
+        "item6": "メタルベローズメカニカルシール"
     },
-    "categories": {
-      "pusher-seals": "プッシャーシール",
-      "single-spring": "シングルスプリングシール",
-      "multi-spring": "マルチスプリングシール",
-      "textile-seal": "テキスタイルシール",
-      "teflon-bellow": "テフロンベローシール",
-      "metal-bellow": "金属ベロー機械",
-      "boiler-feed": "ボイラーフィードウォーターシール",
-      "split-seals": "分割シール",
-      "high-pressure": "高圧シール",
-      "dry-seals": "ドライシール",
-      "cartridge-single": "シングルアクティングカートリッジ",
-      "cartridge-double": "ダブルアクティングカートリッジ"
+    "aboutHero": {
+        "slide1": {
+            "title": "エンジニアリングの卓越性\nシールの完全性を提供",
+            "desc": "Maredian Sealsでは、現代産業のための信頼性、精度、性能を定義するメカニカルシーリングソリューションを設計・製造しています。",
+            "cta": "専門知識を見る",
+            "dwnldbrchr": "パンフレットをダウンロード"
+        },
+        "aboutUs": {
+            "title": "会社概要",
+            "tagline": "正しく構築。しっかり密封。",
+            "paragraph1": "シーリングソリューションを再定義するというビジョンを持って設立されたMaredian Sealsは、メカニカルシールおよびシーリングシステム分野のプレミアムメーカー、サプライヤー、そして革新者です。",
+            "paragraph2": "当社は、最も過酷な産業条件下で機能するように設計された、カスタムエンジニアリングによるシーリングソリューションを専門としています。当社の製品は精密に作られており、漏れのない性能、耐久性、そして長い耐用年数を保証します。",
+            "paragraph3": "熟練したエンジニアチーム、高度な製造方法、そして品質への強いこだわりにより、石油化学や製油所から製薬、食品加工、水処理に至るまでの産業から信頼されるソリューションを提供しています。",
+            "images": {
+                "image1": "メカニカルシール製品",
+                "image2": "製造",
+                "image3": "エンジニア",
+                "image4": "シール製品",
+                "logo": "マレディアン ロゴ"
+            }
+        },
+        "strengths": {
+            "title": "当社の強み:",
+            "tagline": "正しく構築。しっかり密封。",
+            "items": {
+                "precision": {
+                    "title": "精密\n工学",
+                    "alt": "精密工学"
+                },
+                "delivery": {
+                    "title": "定時\n納品",
+                    "alt": "定時納品"
+                },
+                "custom": {
+                    "title": "カスタム\nソリューション",
+                    "alt": "カスタムソリューション"
+                },
+                "reliability": {
+                    "title": "信頼性と\n性能",
+                    "alt": "信頼性"
+                }
+            }
+        },
+        "coreValues": {
+            "title": "当社の核となる価値観:",
+            "items": {
+                "innovation": {
+                    "title": "革新",
+                    "desc": "継続的な研究開発によるシーリング技術の進歩。",
+                    "alt": "革新"
+                },
+                "integrity": {
+                    "title": "誠実さ",
+                    "desc": "透明性のある関係、誠実な約束。",
+                    "alt": "誠実さ"
+                },
+                "precision": {
+                    "title": "精度",
+                    "desc": "完璧に作られたすべてのシール。",
+                    "alt": "精度"
+                },
+                "sustainability": {
+                    "title": "持続可能性",
+                    "desc": "環境に優しい材料と省エネルギーの実践。",
+                    "alt": "持続可能性"
+                },
+                "customerFocus": {
+                    "title": "顧客重視",
+                    "desc": "お客様の産業ニーズに基づいて設計されたソリューション。",
+                    "alt": "顧客重視"
+                }
+            }
+        }
     },
-    "products": {
-      "readMore": "続きを読む →",
-      "enquiry": "お問い合わせ →"
+    "productPage": {
+        "hero": {
+            "slide1": {
+                "title": "密封するために設計。<br>長持ちするように構築。",
+                "desc": "あらゆる産業用途で耐久性、効率性、完全な漏れ防止性能を発揮するよう設計された、精密工学に基づくメカニカルシールの全製品ラインアップをご覧ください。",
+                "ctaExplore": "製品を見る",
+                "ctaView": "全製品を見る"
+            }
+        },
+        "allProducts": {
+            "title": "マレディアンシール\n製品ラインアップ",
+            "all": "全製品"
+        },
+        "categories": {
+            "pusher-seals": "プッシャーシール",
+            "single-spring": "シングルスプリングシール",
+            "multi-spring": "マルチスプリングシール",
+            "textile-seal": "繊維機械用シール",
+            "teflon-bellow": "テフロンベローズシール",
+            "metal-bellow": "メタルベローズメカニカルシール",
+            "boiler-feed": "ボイラー給水シール",
+            "split-seals": "スプリットシール",
+            "high-pressure": "高圧シール",
+            "dry-seals": "ドライシール",
+            "cartridge-single": "カートリッジ単動式",
+            "cartridge-double": "カートリッジ複動式",
+            "thermosyphon-seal-support-system": "熱サイフォンシールサポートシステム"
+        },
+        "products": {
+            "readMore": "もっと見る →",
+            "enquiry": "お問い合わせ →"
+        },
+        "details": {
+            "back": "← 製品一覧に戻る",
+            "standardStyle": "⚙ 標準スタイル",
+            "characteristics": "⚙ シール特性",
+            "operatingLimits": "⚙ 使用限界",
+            "applications": "⚙ 用途"
+        },
+        "productDetails": {
+            "pusher-seals": {
+                "standardStyle": [
+                    "端面材料：ステライト、カーボン、セラミック、超硬、炭化ケイ素、レクロロイ",
+                    "金属部品：SS 316、SS 304",
+                    "二次シール：エラストマー、PTFE"
+                ],
+                "sealCharacteristics": [
+                    "単動式",
+                    "アンバランス型",
+                    "内部取付型",
+                    "回転方向に依存"
+                ],
+                "operatingLimits": [
+                    "軸径 D1：10 mm ～ 100 mm",
+                    "圧力 P：08 bar (最大)",
+                    "温度 t：-20°C ～ +200°C",
+                    "速度 V：20 m/sec"
+                ],
+                "applications": [
+                    "水ポンプ",
+                    "セントラルヒーティング用循環ポンプ",
+                    "化学プロセスポンプ",
+                    "下水・水中ポンプ"
+                ]
+            },
+            "single-spring": {
+                "standardStyle": [
+                    "端面材料：カーボン/ステライト/レクロロイ/セラミック/炭化ケイ素/プラズマ溶射セラミック",
+                    "金属部品：SS 316、SS 304",
+                    "二次シール：ニトリル、EPDM、バイトン、PTFE"
+                ],
+                "sealCharacteristics": [
+                    "単動式",
+                    "バランス型/アンバランス型",
+                    "内部・外部取付型",
+                    "回転方向に依存しない",
+                    "二次シールによるトルク伝達"
+                ],
+                "operatingLimits": [
+                    "軸径 D1：10...100 mm",
+                    "圧力 P：10 bar (最大)",
+                    "温度 t：-20°C...+180°C",
+                    "速度 V：10 m/sec"
+                ],
+                "applications": [
+                    "産業用",
+                    "船舶用"
+                ]
+            },
+            "multi-spring": {
+                "features": [
+                    "直接スリップオン式の油圧バランスシール設計。",
+                    "設計工学における革新的なコンセプト。",
+                    "ポンプやグランドの改造を必要とせず、ほぼすべての従来型シールおよびグランドパッキンと交換可能な汎用性。",
+                    "シールによる軸の損傷がなく、軸/スリーブの修理/交換にかかる隠れたメンテナンスコストを削減。",
+                    "高度な標準化により従来のシールよりも低価格。",
+                    "全サイズで統一された取付寸法により、取り扱いが容易。"
+                ],
+                "applicationDataOfSealType707": [
+                    "シール端面：カーボン、ステライト、プラズマ溶射セラミック、超硬、炭化ケイ素",
+                    "エラストマー：EPDM、ネオプレン、バイトン、TEV、カルレッツ",
+                    "サイズ範囲：16～150mm",
+                    "圧力：35 bar",
+                    "温度：205°C"
+                ],
+                "applications": [
+                    "産業用",
+                    "船舶用"
+                ],
+                "applicationDataOfSealType808": [
+                    "シール端面：カーボン、ステライト、プラズマ溶射セラミック、超硬、炭化ケイ素",
+                    "エラストマー：バイトン®、ネオプレン、カルレッツ®、EPDM、TEV",
+                    "サイズ範囲：108mm～150mm",
+                    "圧力：35 bar",
+                    "温度：205°C"
+                ]
+            },
+            "textile-seal": {
+                "materialOfConstruction": [
+                    "シール端面：カーボン、炭化ケイ素、超硬、クロム鋳鋼、および流体に適した材料",
+                    "エラストマー：バイトン、EPDM、シリコン、アフラス、PTFE、ハイパロン",
+                    "ハードウェア：SS 316、ハステロイC、モネル、アロイ20"
+                ],
+                "toBeUseFor": [
+                    "苛性ソーダ",
+                    "酸",
+                    "炭酸水素ナトリウム"
+                ],
+                "operatingLimits": [
+                    "軸径：機械の要求による",
+                    "圧力：標準",
+                    "温度：標準"
+                ],
+                "partOfIdentification": [
+                    "回転環 (シールリング)",
+                    "静止環 (メイティングリング)",
+                    "エラストマー",
+                    "スプリング",
+                    "その他のハードウェア"
+                ]
+            },
+            "teflon-bellow": {
+                "standardStyle": [
+                    "端面材料：GFT / CFT / 炭化ケイ素 / セラミック",
+                    "金属部品：SS 316、SS 304、ハステロイ-C",
+                    "スプリング：テフロン被覆ばね鋼、S.S.316、S.S.304、ハステロイ-C",
+                    "二次シール：PTFEベローズ"
+                ],
+                "sealCharacteristics": [
+                    "単動式",
+                    "外部取付型",
+                    "マルチスプリング＆シングルスプリング設計",
+                    "回転方向に依存しない"
+                ],
+                "operatingLimits": [
+                    "軸径 d1：19 mm ～ 150 mm",
+                    "圧力 p：6 bar (最大)",
+                    "温度 t：-45°C ～ +120°C",
+                    "速度 v：16 m/sec"
+                ],
+                "applications": [
+                    "極めて腐食性の高い用途"
+                ]
+            },
+            "metal-bellow": {
+                "materials": [
+                    "端面：カーボン、炭化ケイ素、超硬",
+                    "エラストマー：グラファイト、パーフルオロ、FEP",
+                    "ハードウェア：SS-316、AM-350、ハステロイ-C、アロイ-20"
+                ],
+                "operatings": [
+                    "圧力：25 bar",
+                    "温度：-40°C ～ 350°C",
+                    "速度：20 m/s",
+                    "サイズ：25 mm ～ 100mm"
+                ],
+                "application": [
+                    "高温、炭化水素、および重要用途"
+                ]
+            },
+            "boiler-feed": {
+                "standardStyle": [
+                    "端面材料：ステライト、カーボン、セラミック、超硬、炭化ケイ素、レクロロイ",
+                    "金属部品：SS 316、SS 304",
+                    "二次シール：エラストマー"
+                ],
+                "sealCharacteristics": [
+                    "単動式",
+                    "バランス型",
+                    "内部取付型",
+                    "回転方向に依存"
+                ],
+                "operatingLimits": [
+                    "軸径 d：65...150 mm",
+                    "圧力 p：50...140 bar (最大)",
+                    "温度 t：-20°C...+250°C (API 23計画)",
+                    "速度 v：50 m/sec以上"
+                ],
+                "application": [
+                    "ボイラー給水ポンプ",
+                    "HSDポンプ",
+                    "ブースターポンプ",
+                    "ドリップポンプ",
+                    "復水ポンプ",
+                    "燃料油ポンプ"
+                ]
+            },
+            "split-seals": {
+                "standardStyle": [
+                    "端面材料：カーボン / 炭化ケイ素 / セラミック",
+                    "金属部品：SS 316、SS 304",
+                    "二次シール：エラストマー"
+                ],
+                "sealCharacteristics": [
+                    "完全分割型コンポーネント",
+                    "取り付けが容易",
+                    "バランス型シール端面"
+                ],
+                "operatingLimits": [
+                    "軸径 d：50...200 mm",
+                    "圧力 p：15 bar (最大)",
+                    "温度 t：常温...140°C",
+                    "軸速度：3600 rpm(最大)"
+                ],
+                "applications": [
+                    "ユーティリティポンプ",
+                    "移送ポンプ",
+                    "撹拌機および容器 (ドライランニングシールとして)"
+                ]
+            },
+            "high-pressure": {
+                "standardStyle": [
+                    "端面材料：カーボン / 炭化ケイ素 / 超硬",
+                    "金属部品：SS 316、SS 304、ハステロイ-C、チタン、アロイ-20、モネル",
+                    "二次シール：エラストマー"
+                ],
+                "operatingLimits": [
+                    "軸径 d1：25...115 mm",
+                    "圧力 p：25...150 bar",
+                    "温度 t：40...180°C",
+                    "速度 v：20 m/sec"
+                ],
+                "sealCharacteristics": [
+                    "単動式",
+                    "バランス型",
+                    "内部取付型",
+                    "回転方向に依存しない",
+                    "マルチスプリング設計",
+                    "堅牢な駆動機構"
+                ],
+                "application": [
+                    "石油パイプラインポンプ",
+                    "ボイラー給水ポンプ"
+                ]
+            },
+            "dry-seals": {
+                "materials": [
+                    "ハウジング：ステンレス鋼",
+                    "製品接触部品：ステンレス鋼、ハステロイ、チタン、特殊材料",
+                    "シールリング：カーボン、炭化ケイ素、超硬など",
+                    "Oリング：バイトン、EPDM、パーフルオロエラストマー、特殊弾性材料",
+                    "FDA承認：すべての製品接触部品で可能"
+                ],
+                "applications": [
+                    "排煙脱硫装置",
+                    "湿式製錬",
+                    "製薬",
+                    "バイオテクノロジー"
+                ],
+                "applicationLimits": [
+                    "容器圧力：真空 …16 bar (絶対圧)",
+                    "容器温度：-50 … +200°C",
+                    "軸径サイズ：40 … 300 mm",
+                    "摺動速度：5 m/s"
+                ]
+            },
+            "cartridge-single": {
+                "standardStyle": [
+                    "端面材料：超硬およびセラミック",
+                    "金属部品：SS 316、SS 304、ハステロイ-C、ハステロイ-B、モネル、アロイ-20",
+                    "二次シール：エラストマー、TCV、PTFE"
+                ],
+                "sealCharacteristics": [
+                    "単動式",
+                    "リバースバランス型",
+                    "外部取付型",
+                    "回転方向に依存しない",
+                    "ドライランニング"
+                ],
+                "operatingLimits": [
+                    "軸径 d：15...150 mm",
+                    "圧力 p：真空...8 bar (最大)",
+                    "温度 t：常温...120°C(最大)",
+                    "回転数 n：320 rpm"
+                ],
+                "applications": [
+                    "食品",
+                    "医薬品"
+                ]
+            },
+            "cartridge-double": {
+                "standardStyle": [
+                    "端面材料：カーボン、セラミック、炭化ケイ素、超硬、レクロロイ",
+                    "金属部品：SS 316、SS 304、炭素鋼、ハステロイ-B、ハステロイ-C、モネル、アロイ-20",
+                    "二次シール：内側-PTFE、GFT : 外側-エラストマー"
+                ],
+                "sealCharacteristics": [
+                    "背中合わせ複動式シール",
+                    "バランス型",
+                    "カートリッジユニット",
+                    "回転方向に依存しない",
+                    "加圧バリア流体で作動"
+                ],
+                "applications": [
+                    "石油化学製品およびその蒸気",
+                    "一般化学薬品およびその蒸気",
+                    "軽質炭化水素およびその蒸気"
+                ],
+                "operatingLimits": [
+                    "軸径 d：25...150 mm*",
+                    "圧力 p：真空...32 bar (最大)",
+                    "温度 t：常温...200°C (最大)",
+                    "軸回転数 n：600 rpm (最大)",
+                    "バリア流体圧力：容器圧力 + 1.5 bar"
+                ]
+            },
+            "thermosyphon-seal-support-system": {
+                "highlights": [
+                    "推奨流量：12 Ltrs/min",
+                    "最高液面値：5.5 Ltrs",
+                    "最低液面値：3.5 Ltrs"
+                ],
+                "performanceLimits": [
+                    "容量：7.5 リットル",
+                    "水圧テスト圧力：30 Kg",
+                    "使用圧力：20 Kg",
+                    "最高使用温度：180°C",
+                    "冷却コイル伝熱面積：0.3m²",
+                    "冷却水流量"
+                ],
+                "metalParts": [
+                    "熱サイフォンシェル：炭素鋼 / SS 316 / SS 304",
+                    "冷却コイル：SS 304 / SS 316"
+                ],
+                "accessories": [
+                    "圧力計 (0-40 kg/cm²)",
+                    "容器の圧力測定用",
+                    "液面計 - 容器の液面表示用",
+                    "ハンドポンプ - 熱サイフォンが加圧状態で液面が低い場合に、追加のバリア流体を容器に再充填するため"
+                ],
+                "connectionSize": [
+                    "バッファ流体入口 - A 1\" NPT",
+                    "バッファ流体出口 - B 1/2\" NPT",
+                    "冷却水出口 - D 3/4\" NPT",
+                    "ハンドポンプ接続 - E 1/4\" NPT (再充填接続)",
+                    "充填接続 - F 1/4\" NPT",
+                    "加圧ガス接続 - G 1/4\" NPT",
+                    "圧力計接続 - H 3/8\" NPT",
+                    "ドレン - 1/2\" NPT",
+                    "安全弁接続 - J 1/2\" NPT"
+                ]
+            }
+        }
     },
-    "details": {
-      "back": "← 製品に戻る",
-      "standardStyle": "⚙ 標準スタイル",
-      "characteristics": "⚙ シールの特性",
-      "operatingLimits": "⚙ 運転条件",
-      "applications": "⚙ 適用例"
+    "servicePage": {
+        "hero": {
+            "title": "エンドツーエンドのシーリングソリューション、<br>信頼性のために設計。",
+            "description": "設計から納品まで、性能、長寿命、そして完全な漏れ防止の信頼性を保証する包括的なシーリングサービスを提供します。",
+            "cta": "相談をリクエスト",
+            "viewProducts": "全製品を見る"
+        },
+        "industries": {
+            "title": "対象産業",
+            "subtitle": "多様な産業分野で卓越性を提供",
+            "items": {
+                "petrochemical": "石油化学・精油所",
+                "powerPlants": "発電所・エネルギー",
+                "oilGas": "石油・ガス",
+                "pharmaceuticals": "医薬品",
+                "waterTreatment": "水・廃水処理",
+                "foodProcessing": "食品・飲料加工",
+                "textile": "繊維・パルプ産業",
+                "moreIndustries": "その他多数..."
+            }
+        },
+        "reconditioning": {
+            "title": "再生・改修サービス",
+            "before": "再生前",
+            "after": "再生後",
+            "mainTitle": "再生サービス",
+            "paragraph1": "今日のコスト意識の高い産業環境では、メンテナンスと交換費用の削減が重要になっています。Final Maredian Sealsは、高度なメカニカルシール再生サービスを提供し、お客様が摩耗したシールを新品同様の性能レベルに復元できるよう支援します。",
+            "paragraph2": "強力な技術的専門知識と長年の実務経験に裏打ちされ、当社は撹拌機用メカニカルシール、メタルベローズシール、および各種標準メカニカルシールを特殊技術を用いて再生します。当社のサービスは、お客様がシール寿命を延ばし、ダウンタイムを削減し、大幅なコスト削減を達成するのに役立ちます。",
+            "beforeAfterTitle": "再生前と再生後",
+            "list1": "摩耗または損傷したシール部品を注意深く検査します。",
+            "list2": "重要な部品は復元、再加工、および再組み立てされます。",
+            "list3": "新品シールと同等の信頼性を確保するために性能が検証されます。",
+            "saveTitle": "性能を損なうことなく、改修によってコスト削減",
+            "lappingTitle": "ラッピングとポリッシング",
+            "lappingPara1": "漏れのないシールは、正確なラッピングとポリッシングにかかっています。当社は高級ラッピングコンパウンドと特殊な化学薬品を使用して、優れた表面仕上げを実現します。",
+            "lappingPara2": "シール端面の平面度は単色ヘリウム光下で検査され、精度、耐久性、および信頼性の高い性能を保証します。",
+            "supportTitle": "アフターサポート",
+            "supportPara": "訓練されたサービスエンジニアが迅速な対応、技術支援、および純正スペアパーツを提供し、サービス問題を効率的に解決します。また、スムーズな取り扱いと緊急時に備えて、お客様のメンテナンスチームを指導します。",
+            "packingTitle": "梱包とトレーニング",
+            "packingPara": "すべてのシール部品は、輸送中の損傷を防ぐために複数の保護層で安全に梱包されます。また、お客様のチームに技術トレーニングとデモンストレーションを提供し、シールの取り扱いとトラブルシューティングのスキル向上を支援します。"
+        }
+    },
+    "contactPage": {
+        "heading": "お問い合わせ",
+        "tagline": "一緒に漏れのない<br>ソリューションを構築しましょう。",
+        "headOffice": {
+            "iconAlt": "所在地アイコン",
+            "title": "本社",
+            "address": "Gala.No. 6/7 Balaji Industrial Estate 5/B S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208"
+        },
+        "phone": {
+            "iconAlt": "電話アイコン",
+            "title": "お電話でのお問い合わせ",
+            "number": "+91 9561444777"
+        },
+        "email": {
+            "iconAlt": "メールアイコン",
+            "title": "メールでのお問い合わせ",
+            "address": "info@maredianseals.com"
+        },
+        "workingHours": {
+            "monSatLabel": "月曜日～土曜日:",
+            "monSatTime": "午前9:00 ～ 午後7:00",
+            "sunLabel": "日曜日:",
+            "sunTime": "休業"
+        },
+        "social": {
+            "heading": "ソーシャルメディアをフォロー:",
+            "facebook": "フェイスブック",
+            "linkedin": "リンクトイン",
+            "whatsapp": "ワッツアップ",
+            "instagram": "インスタグラム"
+        },
+        "form": {
+            "heading": "お問い合わせ",
+            "companyNameLabel": "会社名",
+            "companyNamePlaceholder": "会社名を入力してください",
+            "yourNameLabel": "氏名",
+            "yourNamePlaceholder": "氏名を入力してください",
+            "contactDetailsLabel": "連絡先",
+            "contactDetailsPlaceholder": "電話番号を入力してください",
+            "emailLabel": "メールアドレス",
+            "emailPlaceholder": "メールアドレスを入力してください",
+            "productSelectLabel": "製品選択",
+            "productSelectPlaceholder": "製品を選択してください",
+            "addressLabel": "住所 / 市区町村 / 所在地",
+            "addressPlaceholder": "住所を入力してください",
+            "questionLabel": "質問またはご要望",
+            "questionPlaceholder": "メッセージを入力してください",
+            "submitBtn": "送信"
+        },
+        "map": {
+            "iframeAlt": "会社所在地マップ"
+        }
+    },
+    "footer": {
+        "address": "Gala.No. 6/7 Balaji Industrial Estate 5/B S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208",
+        "follow": "フォローする:",
+        "quickLinks": "クイックリンク",
+        "productsTitle": "製品情報",
+        "links": {
+            "home": "ホーム",
+            "about": "会社概要",
+            "products": "製品情報",
+            "services": "サービス",
+            "quality": "品質",
+            "contact": "お問い合わせ"
+        },
+        "products": {
+            "pusher": "プッシャーシール",
+            "single": "シングルスプリングシール",
+            "multi": "マルチスプリングシール",
+            "textile": "繊維機械用シール",
+            "teflon": "テフロンベローズシール",
+            "metal": "メタルベローズメカニカルシール",
+            "splitSeals": "スプリットシール",
+            "boilerFeedWaterSeals": "ボイラー給水シール",
+            "highPressureSeal": "高圧シール",
+            "drySeals": "ドライシール",
+            "cartridgeSingleActing": "カートリッジ単動式",
+            "cartridgeDoubleActing": "カートリッジ複動式",
+            "thermosyphonSealSupportSystem": "熱サイフォンシールサポートシステム"
+        },
+        "copyright": "© 2026 マレディアンシール. 全著作権所有. | プライバシーポリシー | 利用規約"
     }
-  },
-  "servicePage": {
-    "hero": {
-      "title": "エンドツーエンドのシーリングソリューション、<br>信頼性のために設計。",
-      "description": "設計から納品まで、性能、耐久性、完全な漏れ防止の信頼性を保証する包括的なシーリングサービスを提供します。",
-      "cta": "相談を依頼",
-      "viewProducts": "すべての製品を見る"
-    },
-    "industries": {
-      "title": "対応する産業",
-      "subtitle": "さまざまな産業分野で卓越したサービスを提供",
-      "items": {
-        "petrochemical": "石油化学＆精製",
-        "powerPlants": "発電所＆エネルギー",
-        "oilGas": "石油＆ガス",
-        "pharmaceuticals": "製薬",
-        "waterTreatment": "水＆廃水処理",
-        "foodProcessing": "食品＆飲料加工",
-        "textile": "繊維＆パルプ産業",
-        "moreIndustries": "その他多数..."
-      }
-    }
-  },
-  "contactPage": {
-    "heading": "お問い合わせ",
-    "tagline": "一緒に漏れ防止ソリューションを作りましょう。",
-    "headOffice": {
-      "iconAlt": "場所アイコン",
-      "title": "本社",
-      "address": "ダンヤ・サティヴァリ、ヴァサイ・イースト、ヴァサイ"
-    },
-    "phone": {
-      "iconAlt": "電話アイコン",
-      "title": "お問い合わせ",
-      "number": "+91 9561444777"
-    },
-    "email": {
-      "iconAlt": "メールアイコン",
-      "title": "メールでお問い合わせ",
-      "address": "info@maredianseals.com"
-    },
-    "workingHours": {
-      "monSatLabel": "月〜土:",
-      "monSatTime": "9:00 AM – 7:00 PM",
-      "sunLabel": "日:",
-      "sunTime": "休業"
-    },
-    "social": {
-      "heading": "ソーシャルメディアでフォローしてください:",
-      "facebook": "Facebook",
-      "linkedin": "LinkedIn",
-      "whatsapp": "WhatsApp",
-      "instagram": "Instagram"
-    },
-    "form": {
-      "heading": "お問い合わせ",
-      "companyNameLabel": "会社名",
-      "companyNamePlaceholder": "会社名を入力してください",
-      "yourNameLabel": "お名前",
-      "yourNamePlaceholder": "お名前を入力してください",
-      "contactDetailsLabel": "連絡先",
-      "contactDetailsPlaceholder": "電話番号を入力してください",
-      "emailLabel": "メール",
-      "emailPlaceholder": "メールアドレスを入力してください",
-      "productSelectLabel": "製品を選択",
-      "productSelectPlaceholder": "製品名を入力してください",
-      "addressLabel": "住所 / 市 / 場所",
-      "addressPlaceholder": "住所を入力してください",
-      "questionLabel": "質問または要件",
-      "questionPlaceholder": "質問または要件を入力してください",
-      "submitBtn": "送信"
-    },
-    "map": {
-      "iframeAlt": "会社所在地地図"
-    }
-  },
-  "footer": {
-    "address": "ダンヤ・サティヴァリ、ヴァサイ・イースト、ヴァサイ",
-    "follow": "フォローしてください:",
-    "quickLinks": "クイックリンク",
-    "productsTitle": "当社の製品",
-    "links": {
-      "home": "ホーム",
-      "about": "会社概要",
-      "products": "製品",
-      "services": "サービス",
-      "quality": "品質",
-      "contact": "お問い合わせ"
-    },
-    "products": {
-      "pusher": "プッシャーシール",
-      "single": "シングルスプリングシール",
-      "multi": "マルチスプリングシール",
-      "textile": "テキスタイルシール",
-      "teflon": "テフロンベローシール",
-      "metal": "金属ベロー機械"
-    },
-    "copyright": "© 2026 Maredian Seals. 無断転載禁止 | プライバシーポリシー | 利用規約"
-  }
 }

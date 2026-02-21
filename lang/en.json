@@ -543,6 +543,26 @@
                 "textile": "TEXTILE & PULP INDUSTRIES",
                 "moreIndustries": "MANY MORE..."
             }
+        },
+        "reconditioning": {
+            "title": "RECONDITIONING & REFURBISHMENT SERVICES",
+            "before": "BEFORE",
+            "after": "AFTER",
+            "mainTitle": "RECONDITIONING",
+            "paragraph1": "In today’s cost-conscious industrial environment, reducing maintenance and replacement expenses has become critical. Final Maredian Seals offers advanced Mechanical Seal Reconditioning services, helping customers restore worn-out seals to near-new performance levels.",
+            "paragraph2": "Backed by strong technical expertise and years of hands-on experience, we recondition Agitator Mechanical Seals, Metal Bellow Seals, and various standard mechanical seals using specialized techniques. Our services help customers extend seal life, reduce downtime, and achieve significant cost savings.",
+            "beforeAfterTitle": "BEFORE & AFTER RECONDITIONING",
+            "list1": "Worn and damaged seal components are carefully inspected",
+            "list2": "Critical parts are restored, re-machined, and reassembled",
+            "list3": "Performance is validated to ensure reliability similar to new seals",
+            "saveTitle": "SAVE BY REFURBISHMENT — WITHOUT COMPROMISING PERFORMANCE",
+            "lappingTitle": "LAPPING & POLISHING",
+            "lappingPara1": "Leak-free sealing depends on accurate lapping and polishing. We use high-grade lapping compounds and specialized chemicals to achieve superior surface finish.",
+            "lappingPara2": "Seal face flatness is checked under monochromatic helium light, ensuring precision, durability, and reliable performance.",
+            "supportTitle": "AFTER-SALES SUPPORT",
+            "supportPara": "Our trained service engineers provide quick response, technical assistance, and genuine spares to resolve service issues efficiently. We also guide customer maintenance teams for smooth handling and emergency situations.",
+            "packingTitle": "PACKING & TRAINING",
+            "packingPara": "All seal components are securely packed in multiple protective layers to prevent damage during transit. We also offer technical training and demonstrations to customer teams, helping them improve seal handling and troubleshooting skills."
         }
     },
     "contactPage": {

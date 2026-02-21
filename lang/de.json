@@ -1,297 +1,651 @@
 {
-  "topBar": {
-    "phone": "+91 9561444777",
-    "email": "info@maredianseals.com",
-    "address": "Gala.No. 6/7 Balaji Industrial Estate 5/B S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208",
-    "follow": "Folgen Sie uns:"
-  },
-  "nav": {
-    "home": "Startseite",
-    "about": "Über Uns",
-    "products": "Produkte",
-    "services": "Dienstleistungen",
-    "contact": "Kontakt"
-  },
-  "hero": {
-    "slide1": {
-      "title": "Die Zukunft mit Präzision & Leistung abdichten",
-      "desc": "Branchenführende mechanische Dichtungen, entwickelt für Zuverlässigkeit und Effizienz in anspruchsvollen Anwendungen.",
-      "cta": "Produkte entdecken"
+    "topBar": {
+        "phone1": "+91 9561444777",
+        "phone2": "+91 9730444777",
+        "email": "info@maredianseals.com",
+        "address": "Gala.No. 6/7 Balaji Industrial Estate 5/B S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208",
+        "follow": "Folgen Sie uns:"
     },
-    "slide2": {
-      "title": "Innovation in mechanischen Dichtungslösungen",
-      "desc": "Premium-Dichtungen für maximale Leistung in industriellen Anwendungen weltweit.",
-      "cta": "Mehr erfahren"
+    "nav": {
+        "home": "Startseite",
+        "about": "Über uns",
+        "products": "Produkte",
+        "services": "Dienstleistungen",
+        "contact": "Kontakt"
     },
-    "products": {
-      "sectionTitle": "FORTSCHRITTLICHE DICHTUNGSLÖSUNGEN",
-      "sectionDesc": "Entdecken Sie unser breites Sortiment an mechanischen Dichtungen, Rotationsverbindungen und Komponenten, die auch unter härtesten Bedingungen konstante Leistung liefern.",
-      "items": {
-        "pusher": {
-          "title": "Pusher-Dichtungen",
-          "desc": "Materialien: Stellite, Kohlenstoff, Keramik, Wolframkarbid, Siliziumkarbid, Lecrolloy"
-        },
-        "textile": {
-          "title": "Textildichtung",
-          "desc": "Materialien: Stellite, Kohlenstoff, Keramik, Wolframkarbid, Siliziumkarbid, Lecrolloy"
-        },
-        "singleSpring": {
-          "title": "Einzel-Feder-Dichtung",
-          "desc": "Materialien: Stellite, Kohlenstoff, Keramik, Wolframkarbid, Siliziumkarbid, Lecrolloy"
-        },
-        "multiSpring": {
-          "title": "Mehrfach-Feder-Dichtung",
-          "desc": "Materialien: Stellite, Kohlenstoff, Keramik, Wolframkarbid, Siliziumkarbid, Lecrolloy"
-        }
-      }
-    },
-    "common": {
-      "readMore": "MEHR LESEN",
-      "enquiry": "Jetzt anfragen"
-    },
-    "about": {
-      "title": "ÜBER FINAL MAREDIAN SEALS",
-      "subtitle": "Präzision. Leistung. Perfektion.",
-      "description": "Gegründet von leidenschaftlichen Ingenieuren und visionären Technikern, ist Maredian Seals ein vertrauenswürdiger Name in der mechanischen Dichtungstechnologie. Wir spezialisieren uns auf die Konstruktion und Herstellung hochwertiger Dichtungssysteme, die unter anspruchsvollen Bedingungen auslaufsichere Leistung gewährleisten. Mit modernster Technologie und jahrzehntelanger Erfahrung bedienen wir Industrien wie Petrochemie, Pharmazie, Textilien, Lebensmittelverarbeitung, Energieerzeugung und Wasseraufbereitung.",
-      "features": {
-        "precision": "Präzisionsingenieurwesen",
-        "delivery": "Pünktliche Lieferung",
-        "custom": "Individuelle Lösungen",
-        "reliability": "Zuverlässigkeit & Leistung"
-      },
-      "learnMore": "Mehr über uns erfahren"
-    },
-    "industries": {
-      "title": "INDUSTRIEN, DIE WIR BEDIENEN",
-      "subtitle": "Unsere mechanischen Dichtungen arbeiten zuverlässig in einigen der anspruchsvollsten industriellen Umgebungen."
-    },
-    "whyChoose": {
-      "title": "WARUM MAREDIAN SEALS WÄHLEN",
-      "items": {
-        "delivery": "Schnelle Lieferung\n& Technischer Support",
-        "expertise": "Bewährte Ingenieurkompetenz",
-        "leakproof": "100% Auslaufsichere\nLeistungs-Garantie",
-        "trusted": "Von Kunden in allen Branchen vertraut",
-        "manufacturing": "Präzisionsfertigungs-Standards"
-      }
-    }
-  },
-  "ticker": {
-    "item1": "Pusher-Dichtungen",
-    "item2": "Einzel-Feder-Dichtung",
-    "item3": "Mehrfach-Feder-Dichtung",
-    "item4": "Textildichtung",
-    "item5": "Teflon-Balg-Dichtungen",
-    "item6": "Metall-Balg-Mechanisch"
-  },
-  "aboutHero": {
-    "slide1": {
-      "title": "Ingenieur-Exzellenz\nLieferung von Dichtungsintegrität",
-      "desc": "Bei Maredian Seals entwerfen und fertigen wir mechanische Dichtungslösungen, die Zuverlässigkeit, Präzision und Leistung für moderne Industrien definieren.",
-      "cta": "Unsere Expertise entdecken"
-    },
-    "aboutUs": {
-      "title": "ÜBER UNS",
-      "tagline": "Richtig bauen. Fest abdichten.",
-      "paragraph1": "Maredian Seals wurde mit der Vision gegründet, Dichtungslösungen neu zu definieren. Wir sind ein Premium-Hersteller, Lieferant und Innovator im Bereich mechanischer Dichtungen und Dichtungssysteme.",
-      "paragraph2": "Wir spezialisieren uns auf maßgeschneiderte Dichtungslösungen, die unter den anspruchsvollsten industriellen Bedingungen funktionieren. Unsere Produkte sind präzise gefertigt, gewährleisten auslaufsichere Leistung, Langlebigkeit und lange Lebensdauer.",
-      "paragraph3": "Mit einem Team erfahrener Ingenieure, modernster Fertigungstechniken und einem starken Fokus auf Qualität liefern wir Lösungen, die von Branchen wie Petrochemie, Pharmazie, Lebensmittelverarbeitung und Wasseraufbereitung vertraut werden.",
-      "images": {
-        "image1": "Mechanische Dichtung Produkt",
-        "image2": "Fertigung",
-        "image3": "Ingenieur",
-        "image4": "Dichtungsprodukte",
-        "logo": "Maredian Logo"
-      }
-    },
-    "strengths": {
-      "title": "UNSERE STÄRKEN:",
-      "tagline": "Richtig bauen. Fest abdichten.",
-      "items": {
-        "precision": {
-          "title": "PRÄZISIONS-\nINGENIEURWESEN",
-          "alt": "Präzisions-Ingenieurwesen"
-        },
-        "delivery": {
-          "title": "PÜNKTLICHE\nLIEFERUNG",
-          "alt": "Pünktliche Lieferung"
-        },
-        "custom": {
-          "title": "MASSGESCHNEIDERTE\nLÖSUNGEN",
-          "alt": "Maßgeschneiderte Lösungen"
-        },
-        "reliability": {
-          "title": "ZUVERLÄSSIGKEIT &\nLEISTUNG",
-          "alt": "Zuverlässigkeit"
-        }
-      }
-    },
-    "coreValues": {
-      "title": "UNSERE KERNWERTE:",
-      "items": {
-        "innovation": {
-          "title": "Innovation",
-          "desc": "Weiterentwicklung der Dichtungstechnologie durch kontinuierliche F&E.",
-          "alt": "Innovation"
-        },
-        "integrity": {
-          "title": "Integrität",
-          "desc": "Transparente Beziehungen, ehrliche Zusagen.",
-          "alt": "Integrität"
-        },
-        "precision": {
-          "title": "Präzision",
-          "desc": "Jede Dichtung wird perfekt gefertigt.",
-          "alt": "Präzision"
-        },
-        "sustainability": {
-          "title": "Nachhaltigkeit",
-          "desc": "Umweltfreundliche Materialien und energiesparende Verfahren.",
-          "alt": "Nachhaltigkeit"
-        },
-        "customerFocus": {
-          "title": "Kundenorientierung",
-          "desc": "Lösungen, die auf Ihre industriellen Anforderungen zugeschnitten sind.",
-          "alt": "Kundenorientierung"
-        }
-      }
-    }
-  },
-  "productPage": {
     "hero": {
-      "slide1": {
-        "title": "Für Abdichtung entwickelt.<br>Langlebig gebaut.",
-        "desc": "Entdecken Sie unsere gesamte Palette an präzisionsgefertigten mechanischen Dichtungen für Langlebigkeit, Effizienz und auslaufsichere Leistung in allen industriellen Anwendungen.",
-        "ctaExplore": "Produkte entdecken",
-        "ctaView": "Alle Produkte ansehen"
-      }
+        "slide1": {
+            "title": "Die Zukunft mit Präzision und Leistung abdichten",
+            "desc": "Branchenführende mechanische Dichtungen, entwickelt für Zuverlässigkeit und Effizienz in anspruchsvollen Anwendungen.",
+            "cta": "Produkte entdecken"
+        },
+        "slide2": {
+            "title": "Innovation bei mechanischen Dichtungslösungen",
+            "desc": "Hochwertige Dichtungen für maximale Leistung in industriellen Anwendungen weltweit.",
+            "cta": "Mehr erfahren"
+        },
+        "products": {
+            "sectionTitle": "FORTSCHRITTLICHE DICHTUNGSLÖSUNGEN",
+            "sectionDesc": "Entdecken Sie unser breites Sortiment an mechanischen Dichtungen, Drehdurchführungen und Komponenten, die entwickelt wurden, um unter härtesten Bedingungen konstante Leistung zu bieten.",
+            "items": {
+                "pusher": {
+                    "title": "Pusher-Dichtungen",
+                    "desc": "Gleitringwerkstoffe: Stellit, Kohle, Keramik, Wolframkarbid, Siliziumkarbid, Lecrolloy"
+                },
+                "textile": {
+                    "title": "Textildichtung",
+                    "desc": "Gleitringwerkstoffe: Kohle, Siliziumkarbid, Wolframkarbid, Chromgussstahl und für das Fluid geeignete Materialien"
+                },
+                "singleSpring": {
+                    "title": "Einfachfeder-Dichtung",
+                    "desc": "Gleitringwerkstoffe: Kohle, Stellit, Lecrolloy, Keramik, Siliziumkarbid, plasmabeschichtete Keramik"
+                },
+                "multiSpring": {
+                    "title": "Mehrfachfeder-Dichtung",
+                    "desc": "Gleitringwerkstoffe: Kohle, Stellit, plasmabeschichtete Keramik, Keramik, Wolframkarbid, Siliziumkarbid"
+                }
+            }
+        },
+        "common": {
+            "readMore": "WEITERLESEN",
+            "enquiry": "Jetzt anfragen"
+        },
+        "about": {
+            "title": "ÜBER MAREDIAN SEALS",
+            "subtitle": "Präzision. Leistung. Perfektion.",
+            "description": "Gegründet von leidenschaftlichen Ingenieuren und visionären Technokraten, ist Maredian Seals ein vertrauenswürdiger Name in der mechanischen Dichtungstechnologie, spezialisiert auf das Design und die Herstellung von premium Dichtungssystemen, die unter anspruchsvollen Bedingungen leckagefreie Leistung gewährleisten. Mit modernster Technologie und jahrzehntelanger Erfahrung bedienen wir Branchen wie Petrochemie, Pharmazie, Textilien, Lebensmittelverarbeitung, Energieerzeugung und Wasseraufbereitung.",
+            "features": {
+                "precision": "Präzisionstechnik",
+                "delivery": "Pünktliche Lieferung",
+                "custom": "Kundenspezifische Lösungen",
+                "reliability": "Zuverlässigkeit & Leistung"
+            },
+            "learnMore": "Erfahren Sie mehr über uns"
+        },
+        "industries": {
+            "title": "UNSERE BRANCHEN",
+            "subtitle": "Unsere mechanischen Dichtungen arbeiten zuverlässig in einigen der anspruchsvollsten industriellen Umgebungen."
+        },
+        "whyChoose": {
+            "title": "WARUM MAREDIAN SEALS?",
+            "items": {
+                "delivery": "Schnelle Lieferung\n& technischer Support",
+                "expertise": "Nachgewiesene\nIngenieurskompetenz",
+                "leakproof": "100% leckagefreie\nLeistungsgarantie",
+                "trusted": "Vertrauen von Kunden\nbranchenübergreifend",
+                "manufacturing": "Präzisions-\nfertigungsstandards"
+            }
+        }
     },
-    "allProducts": {
-      "title": "Maredian Seals<br>Produktpalette",
-      "all": "Alle Produkte"
+    "ticker": {
+        "item1": "Pusher-Dichtungen",
+        "item2": "Einfachfeder-Dichtung",
+        "item3": "Mehrfachfeder-Dichtung",
+        "item4": "Textildichtung",
+        "item5": "Teflon-Balgdichtungen",
+        "item6": "Metallbalg-Mechanikdichtung"
     },
-    "categories": {
-      "pusher-seals": "Pusher-Dichtungen",
-      "single-spring": "Einzel-Feder-Dichtung",
-      "multi-spring": "Mehrfach-Feder-Dichtung",
-      "textile-seal": "Textildichtung",
-      "teflon-bellow": "Teflon-Balg-Dichtungen",
-      "metal-bellow": "Metall-Balg-Mechanisch",
-      "boiler-feed": "Kesselzufuhr-Dichtungen",
-      "split-seals": "Geteilte Dichtungen",
-      "high-pressure": "Hochdruck-Dichtung",
-      "dry-seals": "Trockendichtungen",
-      "cartridge-single": "Einzeltwirkende Patrone",
-      "cartridge-double": "Doppeltwirkende Patrone"
+    "aboutHero": {
+        "slide1": {
+            "title": "Technische Exzellenz\nfür Dichtungsintegrität",
+            "desc": "Bei Maredian Seals entwerfen und fertigen wir mechanische Dichtungslösungen, die Zuverlässigkeit, Präzision und Leistung für moderne Industrien definieren.",
+            "cta": "Entdecken Sie unsere Expertise",
+            "dwnldbrchr": "Broschüre herunterladen"
+        },
+        "aboutUs": {
+            "title": "ÜBER UNS",
+            "tagline": "RICHTIG BAUEN. FEST ABDICHTEN.",
+            "paragraph1": "Gegründet mit der Vision, Dichtungslösungen neu zu definieren, ist Maredian Seals ein Premium-Hersteller, Lieferant und Innovator auf dem Gebiet der mechanischen Dichtungen und Dichtungssysteme.",
+            "paragraph2": "Wir sind spezialisiert auf kundenspezifisch entwickelte Dichtungslösungen, die für den Einsatz unter anspruchsvollsten industriellen Bedingungen ausgelegt sind. Unsere Produkte werden mit Präzision gefertigt und gewährleisten leckagefreie Leistung, Langlebigkeit und eine lange Lebensdauer.",
+            "paragraph3": "Mit einem Team erfahrener Ingenieure, fortschrittlichen Fertigungsverfahren und einem starken Fokus auf Qualität liefern wir Lösungen, die von Branchen wie der Petrochemie und Raffinerien bis hin zur Pharmazie, Lebensmittelverarbeitung und Wasseraufbereitung geschätzt werden.",
+            "images": {
+                "image1": "Mechanisches Dichtungsprodukt",
+                "image2": "Fertigung",
+                "image3": "Ingenieur",
+                "image4": "Dichtungsprodukte",
+                "logo": "Maredian Logo"
+            }
+        },
+        "strengths": {
+            "title": "UNSERE STÄRKEN:",
+            "tagline": "Richtig bauen. Fest abdichten.",
+            "items": {
+                "precision": {
+                    "title": "PRÄZISIONS-\nTECHNIK",
+                    "alt": "Präzisionstechnik"
+                },
+                "delivery": {
+                    "title": "PÜNKTLICHE\nLIEFERUNG",
+                    "alt": "Pünktliche Lieferung"
+                },
+                "custom": {
+                    "title": "KUNDENSPEZIFISCHE\nLÖSUNGEN",
+                    "alt": "Kundenspezifische Lösungen"
+                },
+                "reliability": {
+                    "title": "ZUVERLÄSSIGKEIT &\nLEISTUNG",
+                    "alt": "Zuverlässigkeit"
+                }
+            }
+        },
+        "coreValues": {
+            "title": "UNSERE KERN WERTE:",
+            "items": {
+                "innovation": {
+                    "title": "Innovation",
+                    "desc": "Weiterentwicklung der Dichtungstechnologie durch kontinuierliche F&E.",
+                    "alt": "Innovation"
+                },
+                "integrity": {
+                    "title": "Integrität",
+                    "desc": "Transparente Beziehungen, ehrliche Zusagen.",
+                    "alt": "Integrität"
+                },
+                "precision": {
+                    "title": "Präzision",
+                    "desc": "Jede Dichtung perfekt gefertigt.",
+                    "alt": "Präzision"
+                },
+                "sustainability": {
+                    "title": "Nachhaltigkeit",
+                    "desc": "Umweltfreundliche Materialien und energiebewusste Praktiken.",
+                    "alt": "Nachhaltigkeit"
+                },
+                "customerFocus": {
+                    "title": "Kundenorientierung",
+                    "desc": "Lösungen, die auf Ihre industriellen Anforderungen zugeschnitten sind.",
+                    "alt": "Kundenorientierung"
+                }
+            }
+        }
     },
-    "products": {
-      "readMore": "MEHR LESEN →",
-      "enquiry": "ANFRAGE →"
+    "productPage": {
+        "hero": {
+            "slide1": {
+                "title": "Entwickelt zum Abdichten.<br>Gebaut für Langlebigkeit.",
+                "desc": "Entdecken Sie unser gesamtes Sortiment an präzisionsgefertigten mechanischen Dichtungen, die für Langlebigkeit, Effizienz und vollständig leckagefreie Leistung in jeder industriellen Anwendung entwickelt wurden.",
+                "ctaExplore": "Produkte entdecken",
+                "ctaView": "Alle Produkte anzeigen"
+            }
+        },
+        "allProducts": {
+            "title": "Maredian Seals\nProduktsortiment",
+            "all": "Alle Produkte"
+        },
+        "categories": {
+            "pusher-seals": "Pusher-Dichtungen",
+            "single-spring": "Einfachfeder-Dichtung",
+            "multi-spring": "Mehrfachfeder-Dichtung",
+            "textile-seal": "Textildichtung",
+            "teflon-bellow": "Teflon-Balgdichtungen",
+            "metal-bellow": "Metallbalg-Mechanikdichtung",
+            "boiler-feed": "Speisewasser-Dichtungen für Kessel",
+            "split-seals": "Geteilte Dichtungen",
+            "high-pressure": "Hochdruckdichtung",
+            "dry-seals": "Trockenlaufdichtungen",
+            "cartridge-single": "Kartusche einfachwirkend",
+            "cartridge-double": "Kartusche doppeltwirkend",
+            "thermosyphon-seal-support-system": "Thermosiphon-Dichtungsunterstützungssystem"
+        },
+        "products": {
+            "readMore": "WEITERLESEN →",
+            "enquiry": "ANFRAGE →"
+        },
+        "details": {
+            "back": "← Zurück zu den Produkten",
+            "standardStyle": "⚙ Standardausführung",
+            "characteristics": "⚙ Dichtungseigenschaften",
+            "operatingLimits": "⚙ Betriebsgrenzen",
+            "applications": "⚙ Anwendungen"
+        },
+        "productDetails": {
+            "pusher-seals": {
+                "standardStyle": [
+                    "Gleitringwerkstoffe: Stellit, Kohle, Keramik, Wolframkarbid, Siliziumkarbid, Lecrolly",
+                    "Metallteile: SS 316, SS 304",
+                    "Hilfsdichtung: Elastomere, PTFE"
+                ],
+                "sealCharacteristics": [
+                    "Einfachwirkend",
+                    "Unausgeglichen",
+                    "Innenliegend montiert",
+                    "Abhängig von der Drehrichtung"
+                ],
+                "operatingLimits": [
+                    "Wellendurchmesser D1: 10 mm bis 100 mm",
+                    "Druck P: 08 bar (max.)",
+                    "Temperatur t: -20°C bis +200°C",
+                    "Gleitgeschwindigkeit V: 20 m/s"
+                ],
+                "applications": [
+                    "Wasserpumpen",
+                    "Umwälzpumpen für Zentralheizung",
+                    "Chemieprozesspumpen",
+                    "Abwasser- und Tauchpumpen"
+                ]
+            },
+            "single-spring": {
+                "standardStyle": [
+                    "Gleitringwerkstoffe: Kohle/Stellit/Lecrolloy/Keramik/Siliziumkarbid/plasmabeschichtete Keramik",
+                    "Metallteile: SS 316, SS 304",
+                    "Hilfsdichtung: Nitril, EPDM, Viton, PTFE"
+                ],
+                "sealCharacteristics": [
+                    "Einfachwirkend",
+                    "Ausgeglichen/Unausgeglichen",
+                    "Innen- & Außenmontage",
+                    "Unabhängig von der Drehrichtung",
+                    "Drehmomentübertragung durch Hilfsdichtung"
+                ],
+                "operatingLimits": [
+                    "Wellendurchmesser D1: 10...100 mm",
+                    "Druck P: 10 bar (max.)",
+                    "Temperatur t: -20°C...+180°C",
+                    "Gleitgeschwindigkeit V: 10 m/s"
+                ],
+                "applications": [
+                    "Industrie",
+                    "Schifffahrt"
+                ]
+            },
+            "multi-spring": {
+                "features": [
+                    "Direkt aufschiebbares, hydraulisch ausgeglichenes Dichtungsdesign.",
+                    "Revolutionäre Konzepte in der Konstruktionstechnik.",
+                    "Nahezu universelle Anwendbarkeit, austauschbar mit fast allen herkömmlichen Dichtungen und Stopfbuchspackungen ohne Pumpen- oder Stopfbuchsmodifikation.",
+                    "Keine dichtungsbedingten Wellenschäden spart versteckte Wartungskosten für Wellen-/Hülsenreparatur/-erneuerung.",
+                    "Niedrigerer Preis als herkömmliche Dichtungen aufgrund des hohen Standardisierungsgrades.",
+                    "Einheitliche Einbaumaße für alle Größen erleichtern die Handhabung."
+                ],
+                "applicationDataOfSealType707": [
+                    "Dichtungsgleitringe: Kohle, Stellit, plasmabeschichtete Keramik, Wolframkarbid, Siliziumkarbid",
+                    "Elastomer: EPDM, Neopren, Viton, TEV, Kalrez",
+                    "Größenbereich: 16 bis 150mm",
+                    "Druck: 35 bar",
+                    "Temperatur: 205°C"
+                ],
+                "applications": [
+                    "Industrie",
+                    "Schifffahrt"
+                ],
+                "applicationDataOfSealType808": [
+                    "Dichtungsgleitringe: Kohle, Stellit, plasmabeschichtete Keramik, Wolframkarbid, Siliziumkarbid",
+                    "Elastomer: Viton®, Neopren, Kalrez®, EPDM, TEV",
+                    "Größenbereich: 108mm bis 150mm",
+                    "Druck: 35 bar",
+                    "Temperatur: 205°C"
+                ]
+            },
+            "textile-seal": {
+                "materialOfConstruction": [
+                    "Dichtungsflächen: Kohle, Siliziumkarbid, Wolframkarbid, Chromgussstahl und für das Fluid geeignete Materialien",
+                    "Elastomer: Viton, EPDM, Silikon, Aflas, PTFE, Hypalon",
+                    "Metallteile: SS 316, Hastelloy C, Monel, Legierung 20"
+                ],
+                "toBeUseFor": [
+                    "Laugen",
+                    "Säuren",
+                    "Natriumhydrogencarbonat"
+                ],
+                "operatingLimits": [
+                    "Wellendurchmesser: Nach Maschinenanforderung",
+                    "Druck: Normal",
+                    "Temperatur: Normal"
+                ],
+                "partOfIdentification": [
+                    "Rotationsgleitring (Dichtring)",
+                    "Gegenring (stationär)",
+                    "Elastomer",
+                    "Feder",
+                    "Andere Metallteile"
+                ]
+            },
+            "teflon-bellow": {
+                "standardStyle": [
+                    "Gleitringwerkstoffe: GFT / CFT / Siliziumkarbid / Keramik",
+                    "Metallteile: SS 316, SS 304, Hastelloy-C",
+                    "Federn: Teflonbeschichteter Federstahl, S.S.316, S.S.304, Hastelloy-C",
+                    "Hilfsdichtung: PTFE-Balg"
+                ],
+                "sealCharacteristics": [
+                    "Einfachwirkend",
+                    "Außenmontage",
+                    "Mehrfach- & Einfachfeder-Design",
+                    "Unabhängig von der Drehrichtung"
+                ],
+                "operatingLimits": [
+                    "Wellendurchmesser d1: 19 mm bis 150 mm",
+                    "Druck p: 6 bar (max.)",
+                    "Temperatur t: -45°C...+120°C",
+                    "Gleitgeschwindigkeit v: 16 m/s"
+                ],
+                "applications": [
+                    "Extrem korrosive Medien"
+                ]
+            },
+            "metal-bellow": {
+                "materials": [
+                    "Gleitringe: Kohle, Siliziumkarbid, Wolframkarbid",
+                    "Elastomere: Graphit, Perfluor, FEP",
+                    "Metallteile: SS-316, AM-350, Hastelloy-C, Legierung-20"
+                ],
+                "operatings": [
+                    "Druck: 25 bar",
+                    "Temperatur: -40°C bis 350°C",
+                    "Gleitgeschwindigkeit: 20 m/s",
+                    "Größen: 25 mm bis 100mm"
+                ],
+                "application": [
+                    "Hohe Temperaturen, Kohlenwasserstoffe & kritische Anwendungen"
+                ]
+            },
+            "boiler-feed": {
+                "standardStyle": [
+                    "Gleitringwerkstoffe: Stellit, Kohle, Keramik, Wolframkarbid, Siliziumkarbid, Lecrolly",
+                    "Metallteile: SS 316, SS 304",
+                    "Hilfsdichtung: Elastomere"
+                ],
+                "sealCharacteristics": [
+                    "Einfachwirkend",
+                    "Ausgeglichen",
+                    "Innenliegend montiert",
+                    "Abhängig von der Drehrichtung"
+                ],
+                "operatingLimits": [
+                    "Wellendurchmesser d: 65...150 mm",
+                    "Druck p: 50...140 bar (max.)",
+                    "Temperatur t: -20°C...+250°C (API-Plan 23)",
+                    "Gleitgeschwindigkeit v: mehr als 50 m/s"
+                ],
+                "application": [
+                    "Kesselspeisewasserpumpen",
+                    "HSD-Pumpen",
+                    "Boosterpumpen",
+                    "Tropfölpumpen",
+                    "Kondensatpumpen",
+                    "Heizölpumpen"
+                ]
+            },
+            "split-seals": {
+                "standardStyle": [
+                    "Gleitringwerkstoffe: Kohle / Siliziumkarbid / Keramik",
+                    "Metallteile: SS 316, SS 304",
+                    "Hilfsdichtung: Elastomere"
+                ],
+                "sealCharacteristics": [
+                    "Vollständig geteilte Komponenten",
+                    "Einfache Installation",
+                    "Ausgeglichene Dichtungsflächen"
+                ],
+                "operatingLimits": [
+                    "Wellendurchmesser d: 50...200 mm",
+                    "Druck p: 15 bar (max.)",
+                    "Temperatur t: Umgebung...140°C",
+                    "Wellendrehzahl: 3600 rpm (max.)"
+                ],
+                "applications": [
+                    "Versorgungspumpen",
+                    "Transferpumpen",
+                    "Rührwerke und Behälter (als Trockenlaufdichtung)"
+                ]
+            },
+            "high-pressure": {
+                "standardStyle": [
+                    "Gleitringwerkstoffe: Kohle / Siliziumkarbid / Wolframkarbid",
+                    "Metallteile: SS 316, SS 304, Hastelloy-C, Titan, Legierung-20, Monel",
+                    "Hilfsdichtung: Elastomere"
+                ],
+                "operatingLimits": [
+                    "Wellendurchmesser d1: 25...115 mm",
+                    "Druck p: 25...150 bar",
+                    "Temperatur t: 40...180°C",
+                    "Gleitgeschwindigkeit v: 20 m/s"
+                ],
+                "sealCharacteristics": [
+                    "Einfachwirkend",
+                    "Ausgeglichen",
+                    "Innenliegend montiert",
+                    "Unabhängig von der Drehrichtung",
+                    "Mehrfedern-Design",
+                    "Robuster Antriebsmechanismus"
+                ],
+                "application": [
+                    "Ölpumpen in Pipelines",
+                    "Kesselspeisewasserpumpen"
+                ]
+            },
+            "dry-seals": {
+                "materials": [
+                    "Gehäuse: Edelstahl",
+                    "Produktberührte Teile: Edelstahl, Hastelloy, Titan, Sonderwerkstoffe",
+                    "Dichtringe: Kohle, Siliziumkarbid, Wolframkarbid, etc.",
+                    "O-Ringe: Viton, EPDM, Perfluorelastomere, spezielle elastische Materialien",
+                    "FDA-Zulassung: Möglich für alle produktberührten Teile"
+                ],
+                "applications": [
+                    "Rauchgasentschwefelung",
+                    "Hydrometallurgie",
+                    "Pharmazie",
+                    "Biotechnologie"
+                ],
+                "applicationLimits": [
+                    "Behälterdruck: Vakuum …16 bar (abs.)",
+                    "Behältertemperatur: -50 … +200°C",
+                    "Wellengröße: 40 … 300 mm",
+                    "Gleitgeschwindigkeit: 5 m/s"
+                ]
+            },
+            "cartridge-single": {
+                "standardStyle": [
+                    "Gleitringwerkstoffe: Wolframkarbid und Keramik",
+                    "Metallteile: SS 316, SS 304, Hastelloy-C, Hastelloy-B, Monel, Legierung-20",
+                    "Hilfsdichtung: Elastomere, TCV, PTFE"
+                ],
+                "sealCharacteristics": [
+                    "Einfachwirkend",
+                    "Umgekehrt ausgeglichen",
+                    "Außenmontage",
+                    "Unabhängig von der Drehrichtung",
+                    "Trockenlauf"
+                ],
+                "operatingLimits": [
+                    "Wellendurchmesser d: 15...150 mm",
+                    "Druck p: Vakuum...8 bar (max.)",
+                    "Temperatur t: Umgebung...120°C(max.)",
+                    "Drehzahl n: 320 rpm"
+                ],
+                "applications": [
+                    "Lebensmittelprodukte",
+                    "Pharmazeutische Produkte"
+                ]
+            },
+            "cartridge-double": {
+                "standardStyle": [
+                    "Gleitringwerkstoffe: Kohle, Keramik, Siliziumkarbid, Wolframkarbid, Lecrolly",
+                    "Metallteile: SS 316, SS 304, Kohlenstoffstahl, Hastelloy-B, Hastelloy-C, Monel, Legierung-20",
+                    "Hilfsdichtung: Innen-PTFE, GFT : Außen-Elastomere"
+                ],
+                "sealCharacteristics": [
+                    "Doppeltwirkende Rücken-an-Rücken-Dichtungen",
+                    "Ausgeglichen",
+                    "Kartuscheneinheit",
+                    "Unabhängig von der Drehrichtung",
+                    "Betrieb mit druckbeaufschlagtem Sperrfluid"
+                ],
+                "applications": [
+                    "Petrochemikalien und deren Dämpfe",
+                    "Allgemeine Chemikalien und deren Dämpfe",
+                    "Leichte Kohlenwasserstoffe und deren Dämpfe"
+                ],
+                "operatingLimits": [
+                    "Wellendurchmesser d: 25...150 mm*",
+                    "Druck p: Vakuum...32 bar (max.)",
+                    "Temperatur t: Umgebung...200°C (max.)",
+                    "Wellendrehzahl n: 600 rpm (max.)",
+                    "Sperrfluiddruck: Behälterdruck + 1.5 bar"
+                ]
+            },
+            "thermosyphon-seal-support-system": {
+                "highlights": [
+                    "Empfohlen: 12 Ltrs/min",
+                    "Max. Füllstand: 5.5 Ltrs",
+                    "Min. Füllstand: 3.5 Ltrs"
+                ],
+                "performanceLimits": [
+                    "Kapazität: 7.5 Liter",
+                    "Hydraulischer Prüfdruck: 30 Kg",
+                    "Betriebsdruck: 20 Kg",
+                    "Max. Betriebstemperatur: 180°C",
+                    "Wärmeübertragungsfläche der Kühlschlange: 0.3m²",
+                    "Kühlwasserdurchflussmenge"
+                ],
+                "metalParts": [
+                    "Thermosiphon-Gehäuse: Kohlenstoffstahl / SS 316 / SS 304",
+                    "Kühlschlange: SS 304 / SS 316"
+                ],
+                "accessories": [
+                    "Manometer (0-40 kg/cm²)",
+                    "Zur Druckmessung im Behälter",
+                    "Füllstandsanzeiger - Zur Anzeige des Flüssigkeitsstands im Behälter",
+                    "Handpumpe - Zum Nachfüllen des Behälters mit zusätzlicher Menge an Sperrfluid, wenn der Thermosiphon unter Druck steht und der Flüssigkeitsstand niedrig ist"
+                ],
+                "connectionSize": [
+                    "Sperrflüssigkeitseintritt - A 1\" NPT",
+                    "Sperrflüssigkeitsaustritt - B 1/2\" NPT",
+                    "Kühlwasseraustritt - D 3/4\" NPT",
+                    "Handpumpenanschluss - E 1/4\" NPT (Nachfüllanschluss)",
+                    "Befüllanschluss - F 1/4\" NPT",
+                    "Druckgasanschluss - G 1/4\" NPT",
+                    "Manometeranschluss - H 3/8\" NPT",
+                    "Ablass - 1/2\" NPT",
+                    "Sicherheitsventilanschluss - J 1/2\" NPT"
+                ]
+            }
+        }
     },
-    "details": {
-      "back": "← Zurück zu Produkten",
-      "standardStyle": "⚙ Standardstil",
-      "characteristics": "⚙ Dichtungseigenschaften",
-      "operatingLimits": "⚙ Betriebsgrenzen",
-      "applications": "⚙ Anwendungen"
+    "servicePage": {
+        "hero": {
+            "title": "Rundum-Dichtungslösungen,\nentwickelt für Zuverlässigkeit.",
+            "description": "Von der Konstruktion bis zur Lieferung bieten wir umfassende Dichtungsdienstleistungen an, die Leistung, Langlebigkeit und absolute Leckagefreiheit gewährleisten.",
+            "cta": "Beratung anfordern",
+            "viewProducts": "Alle Produkte anzeigen"
+        },
+        "industries": {
+            "title": "UNSERE BRANCHEN",
+            "subtitle": "Herausragende Leistungen in verschiedenen Industriezweigen",
+            "items": {
+                "petrochemical": "PETROCHEMIE & RAFFINERIEN",
+                "powerPlants": "KRAFTWERKE & ENERGIE",
+                "oilGas": "ERDÖL & ERDGAS",
+                "pharmaceuticals": "PHARMAZEUTISCHE INDUSTRIE",
+                "waterTreatment": "WASSER- & ABWASSERBEHANDLUNG",
+                "foodProcessing": "LEBENSMITTEL- & GETRÄNKEVERARBEITUNG",
+                "textile": "TEXTIL- & ZELLSTOFFINDUSTRIE",
+                "moreIndustries": "VIELE WEITERE..."
+            }
+        },
+        "reconditioning": {
+            "title": "AUFBEREITUNGS- & ÜBERHOLUNGSSERVICE",
+            "before": "VORHER",
+            "after": "NACHHER",
+            "mainTitle": "AUFBEREITUNG",
+            "paragraph1": "Im heutigen kostenbewussten industriellen Umfeld ist die Reduzierung von Wartungs- und Austauschkosten von entscheidender Bedeutung. Final Maredian Seals bietet fortschrittliche Aufbereitungsdienste für mechanische Dichtungen an, die Kunden helfen, verschlissene Dichtungen auf ein nahezu neuwertiges Leistungsniveau zu bringen.",
+            "paragraph2": "Gestützt durch fundierte technische Expertise und langjährige praktische Erfahrung bereiten wir mechanische Rührwerksdichtungen, Metallbalgdichtungen und verschiedene Standard-Mechanikdichtungen mit speziellen Techniken auf. Unsere Dienstleistungen helfen Kunden, die Lebensdauer der Dichtungen zu verlängern, Ausfallzeiten zu reduzieren und erhebliche Kosteneinsparungen zu erzielen.",
+            "beforeAfterTitle": "VORHER & NACHHER AUFBEREITUNG",
+            "list1": "Verschlissene und beschädigte Dichtungskomponenten werden sorgfältig geprüft.",
+            "list2": "Kritische Teile werden restauriert, nachbearbeitet und wieder zusammengebaut.",
+            "list3": "Die Leistung wird validiert, um eine mit neuen Dichtungen vergleichbare Zuverlässigkeit zu gewährleisten.",
+            "saveTitle": "SPAREN SIE DURCH AUFBEREITUNG — OHNE LEISTUNGSEINBUSSEN",
+            "lappingTitle": "LAPPEN & POLIEREN",
+            "lappingPara1": "Leckagefreies Abdichten hängt von präzisem Läppen und Polieren ab. Wir verwenden hochwertige Läppmittel und spezielle Chemikalien, um eine hervorragende Oberflächengüte zu erzielen.",
+            "lappingPara2": "Die Planheit der Dichtungsfläche wird unter monochromatischem Heliumlicht geprüft, was Präzision, Langlebigkeit und zuverlässige Leistung gewährleistet.",
+            "supportTitle": "KUNDENDIENST",
+            "supportPara": "Unsere geschulten Servicetechniker bieten schnelle Reaktionszeiten, technische Unterstützung und echte Ersatzteile, um Serviceprobleme effizient zu lösen. Wir unterstützen auch die Wartungsteams unserer Kunden für einen reibungslosen Betrieb und in Notfallsituationen.",
+            "packingTitle": "VERPACKUNG & SCHULUNG",
+            "packingPara": "Alle Dichtungskomponenten werden sicher in mehreren Schutzschichten verpackt, um Transportschäden zu vermeiden. Wir bieten auch technische Schulungen und Vorführungen für Kundenteams an, um ihre Fähigkeiten im Umgang mit Dichtungen und bei der Fehlersuche zu verbessern."
+        }
+    },
+    "contactPage": {
+        "heading": "KONTAKT",
+        "tagline": "Lassen Sie uns gemeinsam\nleckagefreie Lösungen entwickeln.",
+        "headOffice": {
+            "iconAlt": "Standort-Symbol",
+            "title": "Hauptsitz",
+            "address": "Gala.No. 6/7 Balaji Industrial Estate 5/B S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208"
+        },
+        "phone": {
+            "iconAlt": "Telefon-Symbol",
+            "title": "Kontaktieren Sie uns",
+            "number": "+91 9561444777"
+        },
+        "email": {
+            "iconAlt": "E-Mail-Symbol",
+            "title": "E-Mail",
+            "address": "info@maredianseals.com"
+        },
+        "workingHours": {
+            "monSatLabel": "Montag – Samstag:",
+            "monSatTime": "9:00 – 19:00 Uhr",
+            "sunLabel": "Sonntag:",
+            "sunTime": "Geschlossen"
+        },
+        "social": {
+            "heading": "Folgen Sie uns in den sozialen Medien:",
+            "facebook": "Facebook",
+            "linkedin": "LinkedIn",
+            "whatsapp": "WhatsApp",
+            "instagram": "Instagram"
+        },
+        "form": {
+            "heading": "ANFRAGE",
+            "companyNameLabel": "Firmenname",
+            "companyNamePlaceholder": "Geben Sie Ihren Firmennamen ein",
+            "yourNameLabel": "Vollständiger Name",
+            "yourNamePlaceholder": "Geben Sie Ihren Namen ein",
+            "contactDetailsLabel": "Kontaktdaten",
+            "contactDetailsPlaceholder": "Geben Sie die Telefonnummer ein",
+            "emailLabel": "E-Mail",
+            "emailPlaceholder": "Geben Sie die E-Mail-Adresse ein",
+            "productSelectLabel": "Produktauswahl",
+            "productSelectPlaceholder": "Produkt auswählen",
+            "addressLabel": "Adresse / Stadt / Ort",
+            "addressPlaceholder": "Geben Sie die Adresse ein",
+            "questionLabel": "Frage oder Anforderung",
+            "questionPlaceholder": "Geben Sie Ihre Nachricht ein",
+            "submitBtn": "Senden"
+        },
+        "map": {
+            "iframeAlt": "Lageplan des Unternehmens"
+        }
+    },
+    "footer": {
+        "address": "Gala.No. 6/7 Balaji Industrial Estate 5/B S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208",
+        "follow": "Folgen Sie uns:",
+        "quickLinks": "SCHNELLLINKS",
+        "productsTitle": "UNSERE PRODUKTE",
+        "links": {
+            "home": "Startseite",
+            "about": "Über uns",
+            "products": "Produkte",
+            "services": "Dienstleistungen",
+            "quality": "Qualität",
+            "contact": "Kontakt"
+        },
+        "products": {
+            "pusher": "Pusher-Dichtungen",
+            "single": "Einfachfeder-Dichtung",
+            "multi": "Mehrfachfeder-Dichtung",
+            "textile": "Textildichtung",
+            "teflon": "Teflon-Balgdichtungen",
+            "metal": "Metallbalg-Mechanikdichtung",
+            "splitSeals": "Geteilte Dichtungen",
+            "boilerFeedWaterSeals": "Kesselspeisewasser-Dichtungen",
+            "highPressureSeal": "Hochdruckdichtung",
+            "drySeals": "Trockenlaufdichtungen",
+            "cartridgeSingleActing": "Kartusche einfachwirkend",
+            "cartridgeDoubleActing": "Kartusche doppeltwirkend",
+            "thermosyphonSealSupportSystem": "Thermosiphon-Dichtungsunterstützungssystem"
+        },
+        "copyright": "© 2026 Maredian Seals. Alle Rechte vorbehalten. | Datenschutzrichtlinie | AGB"
     }
-  },
-  "servicePage": {
-    "hero": {
-      "title": "End-to-End Dichtungslösungen,<br>für Zuverlässigkeit entwickelt.",
-      "description": "Von der Planung bis zur Lieferung bieten wir umfassende Dichtungsservices, die Leistung, Langlebigkeit und absolute Auslaufsicherheit gewährleisten.",
-      "cta": "Beratung anfordern",
-      "viewProducts": "Alle Produkte ansehen"
-    },
-    "industries": {
-      "title": "INDUSTRIEN, DIE WIR BEDIENEN",
-      "subtitle": "Exzellenz in unterschiedlichen industriellen Bereichen",
-      "items": {
-        "petrochemical": "PETROCHEMIE & RAFFINERIEN",
-        "powerPlants": "KRAFTWERKE & ENERGIE",
-        "oilGas": "ÖL & GAS",
-        "pharmaceuticals": "PHARMAZEUTIKA",
-        "waterTreatment": "WASSER- & ABWASSERBEHANDLUNG",
-        "foodProcessing": "LEBENSMITTEL- & GETRÄNKEVERARBEITUNG",
-        "textile": "TEXTIL- & PAPIERINDUSTRIE",
-        "moreIndustries": "VIELE WEITERE..."
-      }
-    }
-  },
-  "contactPage": {
-    "heading": "KONTAKT AUFNEHMEN",
-    "tagline": "Lassen Sie uns gemeinsam auslaufsichere<br>Lösungen entwickeln.",
-    "headOffice": {
-      "iconAlt": "Standort-Icon",
-      "title": "Hauptsitz",
-      "address": "Gala.No. 6/7 Balaji Industrial Estate 5/B S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208"
-    },
-    "phone": {
-      "iconAlt": "Telefon-Icon",
-      "title": "Kontaktieren Sie uns",
-      "number": "+91 9561444777"
-    },
-    "email": {
-      "iconAlt": "E-Mail-Icon",
-      "title": "E-Mail senden",
-      "address": "info@maredianseals.com"
-    },
-    "workingHours": {
-      "monSatLabel": "Montag – Samstag:",
-      "monSatTime": "9:00 – 19:00",
-      "sunLabel": "Sonntag:",
-      "sunTime": "Geschlossen"
-    },
-    "social": {
-      "heading": "Folgen Sie uns auf Social Media:",
-      "facebook": "Facebook",
-      "linkedin": "LinkedIn",
-      "whatsapp": "WhatsApp",
-      "instagram": "Instagram"
-    },
-    "form": {
-      "heading": "ANFRAGE",
-      "companyNameLabel": "Firmenname",
-      "companyNamePlaceholder": "Geben Sie Ihren Firmennamen ein",
-      "yourNameLabel": "Ihr Name",
-      "yourNamePlaceholder": "Geben Sie Ihren Namen ein",
-      "contactDetailsLabel": "Kontaktdaten",
-      "contactDetailsPlaceholder": "Telefonnummer eingeben",
-      "emailLabel": "E-Mail",
-      "emailPlaceholder": "E-Mail-Adresse eingeben",
-      "productSelectLabel": "Produkt auswählen",
-      "productSelectPlaceholder": "Produktname eingeben",
-      "addressLabel": "Adresse / Stadt / Standort",
-      "addressPlaceholder": "Adresse eingeben",
-      "questionLabel": "Frage oder Anforderung",
-      "questionPlaceholder": "Geben Sie Ihre Frage oder Anforderung ein",
-      "submitBtn": "Senden"
-    },
-    "map": {
-      "iframeAlt": "Standortkarte des Unternehmens"
-    }
-  },
-  "footer": {
-    "address": "Gala.No. 6/7 Balaji Industrial Estate 5/B S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208",
-    "follow": "Folgen Sie uns:",
-    "quickLinks": "SCHNELLZUGRIFFE",
-    "productsTitle": "UNSERE PRODUKTE",
-    "links": {
-      "home": "Startseite",
-      "about": "Über uns",
-      "products": "Produkte",
-      "services": "Dienstleistungen",
-      "quality": "Qualität",
-      "contact": "Kontakt"
-    },
-    "products": {
-      "pusher": "Pusher-Dichtungen",
-      "single": "Einzel-Feder-Dichtung",
-      "multi": "Mehrfach-Feder-Dichtung",
-      "textile": "Textildichtung",
-      "teflon": "Teflon-Balg-Dichtungen",
-      "metal": "Metall-Balg-Mechanisch"
-    },
-    "copyright": "© 2026 Maredian Seals. Alle Rechte vorbehalten. | Datenschutzrichtlinie | AGB"
-  }
 }
