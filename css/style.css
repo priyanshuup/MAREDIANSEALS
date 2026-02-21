@@ -539,7 +539,7 @@
         }
 
         .service-text-content .service-cta {
-            color: var(--bg-dark);
+            color: var(--bg-light);
             background: var(--bg-primary-gradient);
             font-style: italic;
         }
