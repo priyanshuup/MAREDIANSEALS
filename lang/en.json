@@ -1,4 +1,11 @@
 {
+    "head":{
+        "titleHome":"HOME",
+        "titleAbout":"ABOUT",
+        "titleProducts":"PRODUCTS",
+        "titleServices":"SERVICES",
+        "titleContact":"CONTACT"
+    },
     "topBar": {
         "phone1": "+91 9561444777",
         "phone2": "+91 9730444777",

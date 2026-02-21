@@ -1,651 +1,658 @@
 {
-    "topBar": {
-        "phone1": "+91 9561444777",
-        "phone2": "+91 9730444777",
-        "email": "info@maredianseals.com",
-        "address": "Gala.No. 6/7 Balaji Industrial Estate 5/B S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208",
-        "follow": "Síganos:"
+  "head": {
+    "titleHome": "INICIO",
+    "titleAbout": "SOBRE NOSOTROS",
+    "titleProducts": "PRODUCTOS",
+    "titleServices": "SERVICIOS",
+    "titleContact": "CONTACTO"
+  },
+  "topBar": {
+    "phone1": "+91 9561444777",
+    "phone2": "+91 9730444777",
+    "email": "info@maredianseals.com",
+    "address": "Gala.No. 6/7 Balaji Industrial Estate 5/B S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208",
+    "follow": "Síganos:"
+  },
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre Nosotros",
+    "products": "Productos",
+    "services": "Servicios",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "slide1": {
+      "title": "Sellando el Futuro con Precisión y Rendimiento",
+      "desc": "Sellos mecánicos líderes en la industria diseñados para brindar confiabilidad y eficiencia en aplicaciones exigentes.",
+      "cta": "Explorar Productos"
     },
-    "nav": {
-        "home": "Inicio",
-        "about": "Sobre Nosotros",
-        "products": "Productos",
-        "services": "Servicios",
-        "contact": "Contacto"
+    "slide2": {
+      "title": "Innovación en Soluciones de Sellado Mecánico",
+      "desc": "Sellos de calidad premium diseñados para un rendimiento máximo en aplicaciones industriales en todo el mundo.",
+      "cta": "Saber Más"
     },
-    "hero": {
-        "slide1": {
-            "title": "Sellando el Futuro con Precisión y Rendimiento",
-            "desc": "Sellos mecánicos líderes en la industria diseñados para brindar confiabilidad y eficiencia en aplicaciones exigentes.",
-            "cta": "Explorar Productos"
+    "products": {
+      "sectionTitle": "SOLUCIONES AVANZADAS DE SELLADO",
+      "sectionDesc": "Descubra nuestra amplia gama de sellos mecánicos, juntas rotativas y componentes diseñados para ofrecer un rendimiento constante en las condiciones más exigentes.",
+      "items": {
+        "pusher": {
+          "title": "Sellos Tipo Pusher",
+          "desc": "Materiales de Cara: Estelita, Carbón, Cerámica, Carburo de Tungsteno, Carburo de Silicio, Lecrolloy"
         },
-        "slide2": {
-            "title": "Innovación en Soluciones de Sellado Mecánico",
-            "desc": "Sellos de calidad premium diseñados para un rendimiento máximo en aplicaciones industriales en todo el mundo.",
-            "cta": "Saber Más"
+        "textile": {
+          "title": "Sello Textil",
+          "desc": "Materiales de Cara: Carbón, Carburo de Silicio, Carburo de Tungsteno, Acero Fundido al Cromo y materiales adecuados para el fluido."
         },
-        "products": {
-            "sectionTitle": "SOLUCIONES AVANZADAS DE SELLADO",
-            "sectionDesc": "Descubra nuestra amplia gama de sellos mecánicos, juntas rotativas y componentes diseñados para ofrecer un rendimiento constante en las condiciones más exigentes.",
-            "items": {
-                "pusher": {
-                    "title": "Sellos Tipo Pusher",
-                    "desc": "Materiales de Cara: Estelita, Carbón, Cerámica, Carburo de Tungsteno, Carburo de Silicio, Lecrolloy"
-                },
-                "textile": {
-                    "title": "Sello Textil",
-                    "desc": "Materiales de Cara: Carbón, Carburo de Silicio, Carburo de Tungsteno, Acero Fundido al Cromo y materiales adecuados para el fluido."
-                },
-                "singleSpring": {
-                    "title": "Sello de Resorte Simple",
-                    "desc": "Materiales de Cara: Carbón, Estelita, Lecrolloy, Cerámica, Carburo de Silicio, Cerámica Rociada por Plasma."
-                },
-                "multiSpring": {
-                    "title": "Sello de Resortes Múltiples",
-                    "desc": "Materiales de Cara: Carbón, Estelita, Cerámica Rociada por Plasma, Cerámica, Carburo de Tungsteno, Carburo de Silicio."
-                }
-            }
+        "singleSpring": {
+          "title": "Sello de Resorte Simple",
+          "desc": "Materiales de Cara: Carbón, Estelita, Lecrolloy, Cerámica, Carburo de Silicio, Cerámica Rociada por Plasma."
         },
-        "common": {
-            "readMore": "LEER MÁS",
-            "enquiry": "Consultar Ahora"
-        },
-        "about": {
-            "title": "SOBRE MAREDIAN SEALS",
-            "subtitle": "Precisión. Rendimiento. Perfección.",
-            "description": "Fundada por ingenieros apasionados y tecnócratas visionarios, Maredian Seals es un nombre confiable en tecnología de sellado mecánico, especializándose en el diseño y fabricación de sistemas de sellado premium que garantizan un rendimiento a prueba de fugas en condiciones exigentes. Con tecnología avanzada y décadas de experiencia, servimos a industrias como la petroquímica, farmacéutica, textil, procesamiento de alimentos, generación de energía y tratamiento de agua.",
-            "features": {
-                "precision": "Ingeniería de Precisión",
-                "delivery": "Entrega a Tiempo",
-                "custom": "Soluciones Personalizadas",
-                "reliability": "Confiabilidad y Rendimiento"
-            },
-            "learnMore": "Conozca Más Sobre Nosotros"
-        },
-        "industries": {
-            "title": "INDUSTRIAS A LAS QUE SERVIMOS",
-            "subtitle": "Nuestros sellos mecánicos funcionan de manera confiable en algunos de los entornos industriales más exigentes."
-        },
-        "whyChoose": {
-            "title": "POR QUÉ ELEGIR MAREDIAN SEALS",
-            "items": {
-                "delivery": "Entrega Rápida\ny Soporte Técnico",
-                "expertise": "Experiencia en\nIngeniería Comprobada",
-                "leakproof": "Garantía de Rendimiento\n100% a Prueba de Fugas",
-                "trusted": "Confiado por Clientes\nen Todas las Industrias",
-                "manufacturing": "Estándares de\nFabricación de Precisión"
-            }
+        "multiSpring": {
+          "title": "Sello de Resortes Múltiples",
+          "desc": "Materiales de Cara: Carbón, Estelita, Cerámica Rociada por Plasma, Cerámica, Carburo de Tungsteno, Carburo de Silicio."
         }
+      }
     },
-    "ticker": {
-        "item1": "Sellos Tipo Pusher",
-        "item2": "Sello de Resorte Simple",
-        "item3": "Sello de Resortes Múltiples",
-        "item4": "Sello Textil",
-        "item5": "Sellos de Fuelle de Teflón",
-        "item6": "Sello Mecánico de Fuelle Metálico"
+    "common": {
+      "readMore": "LEER MÁS",
+      "enquiry": "Consultar Ahora"
     },
-    "aboutHero": {
-        "slide1": {
-            "title": "Excelencia en Ingeniería\nOfreciendo Integridad de Sello",
-            "desc": "En Maredian Seals, diseñamos y fabricamos soluciones de sellado mecánico que definen confiabilidad, precisión y rendimiento para las industrias modernas.",
-            "cta": "Explore Nuestra Experiencia",
-            "dwnldbrchr": "Descargar Folleto"
-        },
-        "aboutUs": {
-            "title": "SOBRE NOSOTROS",
-            "tagline": "CONSTRÚYALO BIEN. CIÉRRELO BIEN.",
-            "paragraph1": "Establecida con la visión de redefinir las soluciones de sellado, Maredian Seals es un fabricante, proveedor e innovador premium en el campo de los sellos mecánicos y sistemas de sellado.",
-            "paragraph2": "Nos especializamos en soluciones de sellado diseñadas a medida para funcionar en las condiciones industriales más exigentes. Nuestros productos están construidos con precisión, garantizando un rendimiento a prueba de fugas, durabilidad y larga vida útil.",
-            "paragraph3": "Con un equipo de ingenieros calificados, prácticas de fabricación avanzadas y un fuerte enfoque en la calidad, ofrecemos soluciones en las que confían industrias que van desde la petroquímica y refinerías hasta la farmacéutica, el procesamiento de alimentos y el tratamiento de agua.",
-            "images": {
-                "image1": "Producto de Sello Mecánico",
-                "image2": "Fabricación",
-                "image3": "Ingeniero",
-                "image4": "Productos de Sellado",
-                "logo": "Logo de Maredian"
-            }
-        },
-        "strengths": {
-            "title": "NUESTRAS FORTALEZAS:",
-            "tagline": "Constrúyalo bien. Ciérrelo bien.",
-            "items": {
-                "precision": {
-                    "title": "INGENIERÍA\nDE PRECISIÓN",
-                    "alt": "Ingeniería de Precisión"
-                },
-                "delivery": {
-                    "title": "ENTREGA\nA TIEMPO",
-                    "alt": "Entrega a Tiempo"
-                },
-                "custom": {
-                    "title": "SOLUCIONES\nPERSONALIZADAS",
-                    "alt": "Soluciones Personalizadas"
-                },
-                "reliability": {
-                    "title": "CONFIABILIDAD Y\nRENDIMIENTO",
-                    "alt": "Confiabilidad"
-                }
-            }
-        },
-        "coreValues": {
-            "title": "NUESTROS VALORES FUNDAMENTALES:",
-            "items": {
-                "innovation": {
-                    "title": "Innovación",
-                    "desc": "Avanzando en la tecnología de sellado con I+D continua.",
-                    "alt": "Innovación"
-                },
-                "integrity": {
-                    "title": "Integridad",
-                    "desc": "Relaciones transparentes, compromisos honestos.",
-                    "alt": "Integridad"
-                },
-                "precision": {
-                    "title": "Precisión",
-                    "desc": "Cada sello construido a la perfección.",
-                    "alt": "Precisión"
-                },
-                "sustainability": {
-                    "title": "Sostenibilidad",
-                    "desc": "Materiales ecológicos y prácticas energéticamente conscientes.",
-                    "alt": "Sostenibilidad"
-                },
-                "customerFocus": {
-                    "title": "Enfoque en el Cliente",
-                    "desc": "Soluciones diseñadas en torno a sus necesidades industriales.",
-                    "alt": "Enfoque en el Cliente"
-                }
-            }
-        }
+    "about": {
+      "title": "SOBRE MAREDIAN SEALS",
+      "subtitle": "Precisión. Rendimiento. Perfección.",
+      "description": "Fundada por ingenieros apasionados y tecnócratas visionarios, Maredian Seals es un nombre confiable en tecnología de sellado mecánico, especializándose en el diseño y fabricación de sistemas de sellado premium que garantizan un rendimiento a prueba de fugas en condiciones exigentes. Con tecnología avanzada y décadas de experiencia, servimos a industrias como la petroquímica, farmacéutica, textil, procesamiento de alimentos, generación de energía y tratamiento de agua.",
+      "features": {
+        "precision": "Ingeniería de Precisión",
+        "delivery": "Entrega a Tiempo",
+        "custom": "Soluciones Personalizadas",
+        "reliability": "Confiabilidad y Rendimiento"
+      },
+      "learnMore": "Conozca Más Sobre Nosotros"
     },
-    "productPage": {
-        "hero": {
-            "slide1": {
-                "title": "Ingeniería para Sellar.<br>Construido para Durar.",
-                "desc": "Descubra nuestra gama completa de sellos mecánicos de ingeniería de precisión, diseñados para brindar durabilidad, eficiencia y un rendimiento totalmente a prueba de fugas en cada aplicación industrial.",
-                "ctaExplore": "Explorar Productos",
-                "ctaView": "Ver Todos los Productos"
-            }
-        },
-        "allProducts": {
-            "title": "Gama de Productos<br>de Maredian Seals",
-            "all": "Todos los Productos"
-        },
-        "categories": {
-            "pusher-seals": "Sellos Tipo Pusher",
-            "single-spring": "Sello de Resorte Simple",
-            "multi-spring": "Sello de Resortes Múltiples",
-            "textile-seal": "Sello Textil",
-            "teflon-bellow": "Sellos de Fuelle de Teflón",
-            "metal-bellow": "Sello Mecánico de Fuelle Metálico",
-            "boiler-feed": "Sellos para Agua de Alimentación de Calderas",
-            "split-seals": "Sellos Partidos",
-            "high-pressure": "Sello de Alta Presión",
-            "dry-seals": "Sellos Secos",
-            "cartridge-single": "Cartucho de Simple Efecto",
-            "cartridge-double": "Cartucho de Doble Efecto",
-            "thermosyphon-seal-support-system": "Sistema de Soporte de Sello por Termosifón"
-        },
-        "products": {
-            "readMore": "LEER MÁS →",
-            "enquiry": "CONSULTAR →"
-        },
-        "details": {
-            "back": "← Volver a Productos",
-            "standardStyle": "⚙ Estilo Estándar",
-            "characteristics": "⚙ Características del Sello",
-            "operatingLimits": "⚙ Límites de Operación",
-            "applications": "⚙ Aplicaciones"
-        },
-        "productDetails": {
-            "pusher-seals": {
-                "standardStyle": [
-                    "Materiales de Cara: Estelita, Carbón, Cerámica, Carburo de Tungsteno, Carburo de Silicio, Lecrolly",
-                    "Partes Metálicas: SS 316, SS 304",
-                    "Sello Secundario: Elastómeros, PTFE"
-                ],
-                "sealCharacteristics": [
-                    "Simple efecto",
-                    "Desequilibrado",
-                    "Montaje interior",
-                    "Dependiente de la dirección de rotación"
-                ],
-                "operatingLimits": [
-                    "Diámetro del Eje D1: 10 mm a 100 mm",
-                    "Presión P: 08 bar (máx.)",
-                    "Temperatura t: -20°C a +200°C",
-                    "Velocidad V: 20 m/seg"
-                ],
-                "applications": [
-                    "Bombas de Agua",
-                    "Bombas de Circulación para calefacción central",
-                    "Bombas de Procesos Químicos",
-                    "Bombas de aguas residuales y sumergibles"
-                ]
-            },
-            "single-spring": {
-                "standardStyle": [
-                    "Materiales de Cara: Carbón/Estelita/Lecrolloy/Cerámica/Carburo de Silicio/Cerámica Rociada por Plasma",
-                    "Partes Metálicas: SS 316, SS 304",
-                    "Sello Secundario: Nitrilo, EPDM, Viton, PTFE"
-                ],
-                "sealCharacteristics": [
-                    "Simple efecto",
-                    "Equilibrado/Desequilibrado",
-                    "Montaje Interior y Exterior",
-                    "Independiente de la dirección de rotación",
-                    "Transmisión de par por sello secundario"
-                ],
-                "operatingLimits": [
-                    "Diámetro del Eje D1: 10...100 mm",
-                    "Presión P: 10 bar (máx.)",
-                    "Temperatura t: -20°C...+180°C",
-                    "Velocidad V: 10 m/seg"
-                ],
-                "applications": [
-                    "Industrial",
-                    "Marino"
-                ]
-            },
-            "multi-spring": {
-                "features": [
-                    "Diseño de sello hidráulicamente equilibrado tipo deslizamiento directo.",
-                    "Conceptos revolucionarios en ingeniería de diseño.",
-                    "Aplicabilidad casi universal, intercambiable con casi todos los sellos convencionales y empaquetaduras de prensaestopas sin modificación de la bomba o prensaestopas.",
-                    "Sin daños en el eje inducidos por el sello, ahorrando costos de mantenimiento ocultos por reparación/reemplazo del eje/camisa.",
-                    "Precio más bajo que los sellos convencionales debido al alto grado de estandarización.",
-                    "Dimensión de instalación uniforme para todos los tamaños, lo que resulta en facilidad de manejo."
-                ],
-                "applicationDataOfSealType707": [
-                    "Caras del Sello: Carbón, Estelita, Cerámica Rociada por Plasma, Carburo de Tungsteno, Carburo de Silicio",
-                    "Elastómero: EPDM, Neopreno, Viton, TEV, Kalrez",
-                    "Rango de tamaño: 16 a 150mm",
-                    "Presión: 35 bar",
-                    "Temperatura: 205°C"
-                ],
-                "applications": [
-                    "Industrial",
-                    "Marino"
-                ],
-                "applicationDataOfSealType808": [
-                    "Caras del Sello: Carbón, Estelita, Cerámica Rociada por Plasma, Carburo de Tungsteno, Carburo de Silicio",
-                    "Elastómero: Viton®, Neopreno, Kalrez®, EPDM, TEV",
-                    "Rango de tamaño: 108mm a 150mm",
-                    "Presión: 35 bar",
-                    "Temperatura: 205°C"
-                ]
-            },
-            "textile-seal": {
-                "materialOfConstruction": [
-                    "Caras de sellado: Carbón, Carburo de Silicio, Carburo de Tungsteno, Acero Fundido al Cromo y materiales adecuados para el fluido.",
-                    "Elastómero: Viton, EPDM, Silicona, Aflas, PTFE, Hypalon",
-                    "Componentes: SS 316, Hastelloy C, Monel, Aleación 20"
-                ],
-                "toBeUseFor": [
-                    "Cáusticos",
-                    "Ácidos",
-                    "Carbonato de Sodio"
-                ],
-                "operatingLimits": [
-                    "Diámetro del Eje: Según requerimiento de la máquina",
-                    "Presión: Normal",
-                    "Temperatura: Normal"
-                ],
-                "partOfIdentification": [
-                    "Cara Rotativa (Anillo de Sello)",
-                    "Cara Estacionaria (Anillo de Acoplamiento)",
-                    "Elastómero",
-                    "Resorte",
-                    "Otros Componentes"
-                ]
-            },
-            "teflon-bellow": {
-                "standardStyle": [
-                    "Materiales de Cara: GFT / CFT / Carburo de Silicio / Cerámica",
-                    "Partes Metálicas: SS 316, SS 304, Hastelloy-C",
-                    "Resortes: Acero para resortes recubierto de teflón, S.S.316, S.S.304, Hastelloy-C",
-                    "Sello Secundario: Fuelles de PTFE"
-                ],
-                "sealCharacteristics": [
-                    "Simple efecto",
-                    "Montaje exterior",
-                    "Diseño de Resortes Múltiples y Resorte Simple",
-                    "Independiente de la dirección de rotación"
-                ],
-                "operatingLimits": [
-                    "Diámetro del Eje d1: 19 mm a 150 mm",
-                    "Presión p: 6 bar (máx.)",
-                    "Temperatura t: -45°C...+120°C",
-                    "Velocidad v: 16 m/seg"
-                ],
-                "applications": [
-                    "Servicios extremadamente corrosivos"
-                ]
-            },
-            "metal-bellow": {
-                "materials": [
-                    "Caras: Carbón, Carburo de Silicio, Carburo de Tungsteno",
-                    "Elastómeros: Grafito, Perfluoro, FEP",
-                    "Componentes: SS-316, AM-350, Hastelloy-C, Aleación-20"
-                ],
-                "operatings": [
-                    "Presión: 25 bar",
-                    "Temperatura: -40°C a 350°C",
-                    "Velocidad: 20 m/s",
-                    "Tamaños: 25 mm a 100mm"
-                ],
-                "application": [
-                    "Alta Temperatura, Hidrocarburos y Servicios Críticos"
-                ]
-            },
-            "boiler-feed": {
-                "standardStyle": [
-                    "Materiales de Cara: Estelita, Carbón, Cerámica, Carburo de Tungsteno, Carburo de Silicio, Lecrolly",
-                    "Partes Metálicas: SS 316, SS 304",
-                    "Sello Secundario: Elastómeros"
-                ],
-                "sealCharacteristics": [
-                    "Simple efecto",
-                    "Equilibrado",
-                    "Montaje interior",
-                    "Dependiente de la dirección de rotación"
-                ],
-                "operatingLimits": [
-                    "Diámetro del Eje d: 65...150 mm",
-                    "Presión p: 50...140 bar (máx.)",
-                    "Temperatura t: -20°C...+250°C (plan API 23)",
-                    "Velocidad v: más de 50 m/seg"
-                ],
-                "application": [
-                    "Bombas de agua de alimentación de calderas",
-                    "Bombas HSD",
-                    "Bombas booster",
-                    "Bombas de goteo",
-                    "Bombas de condensado",
-                    "Bombas de aceite combustible"
-                ]
-            },
-            "split-seals": {
-                "standardStyle": [
-                    "Materiales de Cara: Carbón / Carburo de Silicio / Cerámica",
-                    "Partes Metálicas: SS 316, SS 304",
-                    "Sello Secundario: Elastómeros"
-                ],
-                "sealCharacteristics": [
-                    "Componentes totalmente partidos",
-                    "Facilidad de instalación",
-                    "Caras de sello equilibradas"
-                ],
-                "operatingLimits": [
-                    "Diámetro del Eje d: 50...200 mm",
-                    "Presión p: 15 bar (máx.)",
-                    "Temperatura t: Ambiente...140°C",
-                    "Velocidad del Eje: 3600 rpm(máx.)"
-                ],
-                "applications": [
-                    "Bombas de servicios públicos",
-                    "Bombas de transferencia",
-                    "Agitadores y Vasijas (Como sello de funcionamiento en seco)"
-                ]
-            },
-            "high-pressure": {
-                "standardStyle": [
-                    "Materiales de Cara: Carbón / Carburo de Silicio / Carburo de Tungsteno",
-                    "Partes Metálicas: SS 316, SS 304, Hastelloy-C, Titanio, Aleación-20, Monel",
-                    "Sello Secundario: Elastómeros"
-                ],
-                "operatingLimits": [
-                    "Diámetro del Eje d1: 25...115 mm",
-                    "Presión p: 25...150 bar",
-                    "Temperatura t: 40...180°C",
-                    "Velocidad v: 20 m/seg"
-                ],
-                "sealCharacteristics": [
-                    "Simple efecto",
-                    "Equilibrado",
-                    "Montaje interior",
-                    "Independiente de la dirección de rotación",
-                    "Diseño de resortes múltiples",
-                    "Mecanismo de transmisión robusto"
-                ],
-                "application": [
-                    "Bombas de oleoductos",
-                    "Bombas de agua de alimentación de calderas"
-                ]
-            },
-            "dry-seals": {
-                "materials": [
-                    "Carcasa: Acero inoxidable",
-                    "Partes en contacto con el producto: Acero inoxidable, Hastelloy, Titanio, Materiales especiales",
-                    "Anillos de sello: Carbón, Carburo de Silicio, Carburo de Tungsteno, etc.",
-                    "Anillos O: Viton, EPDM, Elastómeros de perfluoro, materiales elásticos especiales",
-                    "Aprobación FDA: Posible para todas las partes en contacto con el producto"
-                ],
-                "applications": [
-                    "Desulfuración de gases de combustión (FGD)",
-                    "Hidrometalurgia",
-                    "Farmacia",
-                    "Biotecnología"
-                ],
-                "applicationLimits": [
-                    "Presión del recipiente: Vacío …16 bar (abs.)",
-                    "Temperatura del recipiente: -50 … +200°C",
-                    "Tamaño del eje: 40 … 300 mm",
-                    "Velocidad de deslizamiento: 5 m/s"
-                ]
-            },
-            "cartridge-single": {
-                "standardStyle": [
-                    "Materiales de Cara: Carburo de Tungsteno y Cerámica",
-                    "Partes Metálicas: SS 316, SS 304, Hastelloy-C, Hastelloy-B, Monel, Aleación-20",
-                    "Sello Secundario: Elastómeros, TCV, PTFE"
-                ],
-                "sealCharacteristics": [
-                    "Simple efecto",
-                    "Equilibrio inverso",
-                    "Montaje exterior",
-                    "Independiente de la dirección de rotación",
-                    "Funcionamiento en seco"
-                ],
-                "operatingLimits": [
-                    "Diámetro del Eje d: 15...150 mm",
-                    "Presión p: Vacío...8 bar (máx.)",
-                    "Temperatura t: Ambiente...120°C(máx.)",
-                    "Velocidad n: 320 rpm"
-                ],
-                "applications": [
-                    "Productos alimenticios",
-                    "Productos farmacéuticos"
-                ]
-            },
-            "cartridge-double": {
-                "standardStyle": [
-                    "Materiales de Cara: Carbón, Cerámica, Carburo de Silicio, Carburo de Tungsteno, Lecrolly",
-                    "Partes Metálicas: SS 316, SS 304, Acero al Carbono, Hastelloy-B, Hastelloy-C, Monel, Aleación-20",
-                    "Sello Secundario: Interior-PTFE, GFT : Exterior-Elastómeros"
-                ],
-                "sealCharacteristics": [
-                    "Sellos de doble efecto espalda con espalda",
-                    "Equilibrado",
-                    "Unidad de cartucho",
-                    "Independiente de la dirección de rotación",
-                    "Operado con fluido de barrera presurizado"
-                ],
-                "applications": [
-                    "Petroquímicos y sus vapores",
-                    "Productos químicos generales y sus vapores",
-                    "Hidrocarburos ligeros y sus vapores"
-                ],
-                "operatingLimits": [
-                    "Diámetro del Eje d: 25...150 mm*",
-                    "Presión p: Vacío...32 bar (máx.)",
-                    "Temperatura t: Ambiente...200°C (máx.)",
-                    "Velocidad del eje n: 600 rpm (máx.)",
-                    "Presión del fluido de barrera: Presión del recipiente + 1.5 bar"
-                ]
-            },
-            "thermosyphon-seal-support-system": {
-                "highlights": [
-                    "Recomendado: 12 Ltrs/min",
-                    "Valor de Nivel Máx.: 5.5 Ltrs",
-                    "Valor de Nivel Mín.: 3.5 Ltrs"
-                ],
-                "performanceLimits": [
-                    "Capacidad: 7.5 Litros",
-                    "Presión de Prueba Hidráulica: 30 Kg",
-                    "Presión de Trabajo: 20 Kg",
-                    "Temp. máxima de trabajo: 180°C",
-                    "Área de transferencia de calor de la serpentina de enfriamiento: 0.3m²",
-                    "Caudal de agua de enfriamiento"
-                ],
-                "metalParts": [
-                    "Carcasa del Termosifón: Acero al Carbono / SS 316 / SS 304",
-                    "Serpentina de Enfriamiento: SS 304 / SS 316"
-                ],
-                "accessories": [
-                    "Manómetro (0-40 kg/cm²)",
-                    "Para medición de presión del recipiente",
-                    "Indicador de Nivel - Para indicar el nivel de líquido del recipiente",
-                    "Bomba Manual - Para recargar el recipiente con cantidad adicional de fluido de barrera cuando el Termosifón está bajo presión y el nivel de líquido es bajo"
-                ],
-                "connectionSize": [
-                    "Entrada de fluido tampón - A 1\" NPT",
-                    "Salida de fluido tampón - B 1/2\" NPT",
-                    "Salida de agua de enfriamiento - D 3/4\" NPT",
-                    "Conexión de Bomba Manual - E 1/4\" NPT (Conexión de rellenado)",
-                    "Conexión de llenado - F 1/4\" NPT",
-                    "Conexión de gas a presión - G 1/4\" NPT",
-                    "Conexión de manómetro - H 3/8\" NPT",
-                    "Drenaje - 1/2\" NPT",
-                    "Conexión de válvula de seguridad - J 1/2\" NPT"
-                ]
-            }
-        }
+    "industries": {
+      "title": "INDUSTRIAS A LAS QUE SERVIMOS",
+      "subtitle": "Nuestros sellos mecánicos funcionan de manera confiable en algunos de los entornos industriales más exigentes."
     },
-    "servicePage": {
-        "hero": {
-            "title": "Soluciones de Sellado Integrales,<br>Diseñadas para la Confiabilidad.",
-            "description": "Desde el diseño hasta la entrega, ofrecemos servicios de sellado completos que garantizan rendimiento, longevidad y confiabilidad totalmente a prueba de fugas.",
-            "cta": "Solicitar una Consultoría",
-            "viewProducts": "Ver Todos los Productos"
-        },
-        "industries": {
-            "title": "INDUSTRIAS A LAS QUE SERVIMOS",
-            "subtitle": "Ofreciendo excelencia en diversos sectores industriales",
-            "items": {
-                "petrochemical": "PETROQUÍMICA Y REFINERÍAS",
-                "powerPlants": "CENTRALES ELÉCTRICAS Y ENERGÍA",
-                "oilGas": "PETRÓLEO Y GAS",
-                "pharmaceuticals": "FARMACÉUTICA",
-                "waterTreatment": "TRATAMIENTO DE AGUA Y AGUAS RESIDUALES",
-                "foodProcessing": "PROCESAMIENTO DE ALIMENTOS Y BEBIDAS",
-                "textile": "INDUSTRIAS TEXTIL Y DE PULPA",
-                "moreIndustries": "Y MUCHAS MÁS..."
-            }
-        },
-        "reconditioning": {
-            "title": "SERVICIOS DE RECONDICIONAMIENTO Y RESTAURACIÓN",
-            "before": "ANTES",
-            "after": "DESPUÉS",
-            "mainTitle": "RECONDICIONAMIENTO",
-            "paragraph1": "En el entorno industrial actual, consciente de los costos, reducir los gastos de mantenimiento y reemplazo se ha vuelto crítico. Final Maredian Seals ofrece servicios avanzados de Reacondicionamiento de Sellos Mecánicos, ayudando a los clientes a restaurar sellos desgastados a niveles de rendimiento casi nuevos.",
-            "paragraph2": "Respaldados por una sólida experiencia técnica y años de experiencia práctica, reacondicionamos Sellos Mecánicos para Agitadores, Sellos de Fuelle Metálico y varios sellos mecánicos estándar utilizando técnicas especializadas. Nuestros servicios ayudan a los clientes a extender la vida útil del sello, reducir el tiempo de inactividad y lograr ahorros significativos de costos.",
-            "beforeAfterTitle": "ANTES Y DESPUÉS DEL RECONDICIONAMIENTO",
-            "list1": "Los componentes del sello desgastados y dañados se inspeccionan cuidadosamente.",
-            "list2": "Las piezas críticas se restauran, rectifican y vuelven a ensamblar.",
-            "list3": "Se valida el rendimiento para garantizar una confiabilidad similar a la de los sellos nuevos.",
-            "saveTitle": "AHORRE MEDIANTE LA RESTAURACIÓN — SIN COMPROMETER EL RENDIMIENTO",
-            "lappingTitle": "LAPIDACIÓN Y PULIDO",
-            "lappingPara1": "El sellado sin fugas depende de una lapidación y pulido precisos. Utilizamos compuestos de lapidación de alta calidad y productos químicos especializados para lograr un acabado superficial superior.",
-            "lappingPara2": "La planitud de la cara del sello se verifica bajo luz monocromática de helio, lo que garantiza precisión, durabilidad y rendimiento confiable.",
-            "supportTitle": "SOPORTE POST-VENTA",
-            "supportPara": "Nuestros ingenieros de servicio capacitados brindan respuesta rápida, asistencia técnica y repuestos genuinos para resolver problemas de servicio de manera eficiente. También guiamos a los equipos de mantenimiento del cliente para un manejo fluido y situaciones de emergencia.",
-            "packingTitle": "EMPAQUE Y CAPACITACIÓN",
-            "packingPara": "Todos los componentes del sello se empaquetan de forma segura en múltiples capas protectoras para evitar daños durante el tránsito. También ofrecemos capacitación técnica y demostraciones a los equipos del cliente, ayudándoles a mejorar las habilidades de manejo y resolución de problemas de los sellos."
-        }
-    },
-    "contactPage": {
-        "heading": "PONERSE EN CONTACTO",
-        "tagline": "Construyamos Soluciones<br>a Prueba de Fugas Juntos.",
-        "headOffice": {
-            "iconAlt": "Icono de Ubicación",
-            "title": "Oficina Principal",
-            "address": "Gala.No. 6/7 Balaji Industrial Estate 5/B S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208"
-        },
-        "phone": {
-            "iconAlt": "Icono de Teléfono",
-            "title": "Contáctenos",
-            "number": "+91 9561444777"
-        },
-        "email": {
-            "iconAlt": "Icono de Correo Electrónico",
-            "title": "Envíenos un Correo",
-            "address": "info@maredianseals.com"
-        },
-        "workingHours": {
-            "monSatLabel": "Lunes – Sábado:",
-            "monSatTime": "9:00 AM – 7:00 PM",
-            "sunLabel": "Domingo:",
-            "sunTime": "Cerrado"
-        },
-        "social": {
-            "heading": "Siga Nuestras Redes Sociales:",
-            "facebook": "Facebook",
-            "linkedin": "LinkedIn",
-            "whatsapp": "WhatsApp",
-            "instagram": "Instagram"
-        },
-        "form": {
-            "heading": "CONSULTA",
-            "companyNameLabel": "Nombre de la Empresa",
-            "companyNamePlaceholder": "Ingrese el nombre de su empresa",
-            "yourNameLabel": "Nombre Completo",
-            "yourNamePlaceholder": "Ingrese su nombre",
-            "contactDetailsLabel": "Detalles de Contacto",
-            "contactDetailsPlaceholder": "Ingrese el número de teléfono",
-            "emailLabel": "Correo Electrónico",
-            "emailPlaceholder": "Ingrese la dirección de correo electrónico",
-            "productSelectLabel": "Seleccionar Producto",
-            "productSelectPlaceholder": "Seleccione un Producto",
-            "addressLabel": "Dirección / Ciudad / Ubicación",
-            "addressPlaceholder": "Ingrese la dirección",
-            "questionLabel": "Pregunta o Requisito",
-            "questionPlaceholder": "Ingrese su mensaje",
-            "submitBtn": "Enviar"
-        },
-        "map": {
-            "iframeAlt": "Mapa de ubicación de la empresa"
-        }
-    },
-    "footer": {
-        "address": "Gala.No. 6/7 Balaji Industrial Estate 5/B S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208",
-        "follow": "Síganos:",
-        "quickLinks": "ENLACES RÁPIDOS",
-        "productsTitle": "NUESTROS PRODUCTOS",
-        "links": {
-            "home": "Inicio",
-            "about": "Sobre Nosotros",
-            "products": "Productos",
-            "services": "Servicios",
-            "quality": "Calidad",
-            "contact": "Contacto"
-        },
-        "products": {
-            "pusher": "Sellos Tipo Pusher",
-            "single": "Sello de Resorte Simple",
-            "multi": "Sello de Resortes Múltiples",
-            "textile": "Sello Textil",
-            "teflon": "Sellos de Fuelle de Teflón",
-            "metal": "Sello Mecánico de Fuelle Metálico",
-            "splitSeals": "Sellos Partidos",
-            "boilerFeedWaterSeals": "Sellos para Agua de Alimentación de Calderas",
-            "highPressureSeal": "Sello de Alta Presión",
-            "drySeals": "Sellos Secos",
-            "cartridgeSingleActing": "Cartucho de Simple Efecto",
-            "cartridgeDoubleActing": "Cartucho de Doble Efecto",
-            "thermosyphonSealSupportSystem": "Sistema de Soporte de Sello por Termosifón"
-        },
-        "copyright": "© 2026 Maredian Seals. Todos los derechos reservados. | Política de Privacidad | Términos y Condiciones"
+    "whyChoose": {
+      "title": "POR QUÉ ELEGIR MAREDIAN SEALS",
+      "items": {
+        "delivery": "Entrega Rápida\ny Soporte Técnico",
+        "expertise": "Experiencia en\nIngeniería Comprobada",
+        "leakproof": "Garantía de Rendimiento\n100% a Prueba de Fugas",
+        "trusted": "Confiado por Clientes\nen Todas las Industrias",
+        "manufacturing": "Estándares de\nFabricación de Precisión"
+      }
     }
+  },
+  "ticker": {
+    "item1": "Sellos Tipo Pusher",
+    "item2": "Sello de Resorte Simple",
+    "item3": "Sello de Resortes Múltiples",
+    "item4": "Sello Textil",
+    "item5": "Sellos de Fuelle de Teflón",
+    "item6": "Sello Mecánico de Fuelle Metálico"
+  },
+  "aboutHero": {
+    "slide1": {
+      "title": "Excelencia en Ingeniería\nOfreciendo Integridad de Sello",
+      "desc": "En Maredian Seals, diseñamos y fabricamos soluciones de sellado mecánico que definen confiabilidad, precisión y rendimiento para las industrias modernas.",
+      "cta": "Explore Nuestra Experiencia",
+      "dwnldbrchr": "Descargar Folleto"
+    },
+    "aboutUs": {
+      "title": "SOBRE NOSOTROS",
+      "tagline": "CONSTRÚYALO BIEN. CIÉRRELO BIEN.",
+      "paragraph1": "Establecida con la visión de redefinir las soluciones de sellado, Maredian Seals es un fabricante, proveedor e innovador premium en el campo de los sellos mecánicos y sistemas de sellado.",
+      "paragraph2": "Nos especializamos en soluciones de sellado diseñadas a medida para funcionar en las condiciones industriales más exigentes. Nuestros productos están construidos con precisión, garantizando un rendimiento a prueba de fugas, durabilidad y larga vida útil.",
+      "paragraph3": "Con un equipo de ingenieros calificados, prácticas de fabricación avanzadas y un fuerte enfoque en la calidad, ofrecemos soluciones en las que confían industrias que van desde la petroquímica y refinerías hasta la farmacéutica, el procesamiento de alimentos y el tratamiento de agua.",
+      "images": {
+        "image1": "Producto de Sello Mecánico",
+        "image2": "Fabricación",
+        "image3": "Ingeniero",
+        "image4": "Productos de Sellado",
+        "logo": "Logo de Maredian"
+      }
+    },
+    "strengths": {
+      "title": "NUESTRAS FORTALEZAS:",
+      "tagline": "Constrúyalo bien. Ciérrelo bien.",
+      "items": {
+        "precision": {
+          "title": "INGENIERÍA\nDE PRECISIÓN",
+          "alt": "Ingeniería de Precisión"
+        },
+        "delivery": {
+          "title": "ENTREGA\nA TIEMPO",
+          "alt": "Entrega a Tiempo"
+        },
+        "custom": {
+          "title": "SOLUCIONES\nPERSONALIZADAS",
+          "alt": "Soluciones Personalizadas"
+        },
+        "reliability": {
+          "title": "CONFIABILIDAD Y\nRENDIMIENTO",
+          "alt": "Confiabilidad"
+        }
+      }
+    },
+    "coreValues": {
+      "title": "NUESTROS VALORES FUNDAMENTALES:",
+      "items": {
+        "innovation": {
+          "title": "Innovación",
+          "desc": "Avanzando en la tecnología de sellado con I+D continua.",
+          "alt": "Innovación"
+        },
+        "integrity": {
+          "title": "Integridad",
+          "desc": "Relaciones transparentes, compromisos honestos.",
+          "alt": "Integridad"
+        },
+        "precision": {
+          "title": "Precisión",
+          "desc": "Cada sello construido a la perfección.",
+          "alt": "Precisión"
+        },
+        "sustainability": {
+          "title": "Sostenibilidad",
+          "desc": "Materiales ecológicos y prácticas energéticamente conscientes.",
+          "alt": "Sostenibilidad"
+        },
+        "customerFocus": {
+          "title": "Enfoque en el Cliente",
+          "desc": "Soluciones diseñadas en torno a sus necesidades industriales.",
+          "alt": "Enfoque en el Cliente"
+        }
+      }
+    }
+  },
+  "productPage": {
+    "hero": {
+      "slide1": {
+        "title": "Ingeniería para Sellar.<br>Construido para Durar.",
+        "desc": "Descubra nuestra gama completa de sellos mecánicos de ingeniería de precisión, diseñados para brindar durabilidad, eficiencia y un rendimiento totalmente a prueba de fugas en cada aplicación industrial.",
+        "ctaExplore": "Explorar Productos",
+        "ctaView": "Ver Todos los Productos"
+      }
+    },
+    "allProducts": {
+      "title": "Gama de Productos<br>de Maredian Seals",
+      "all": "Todos los Productos"
+    },
+    "categories": {
+      "pusher-seals": "Sellos Tipo Pusher",
+      "single-spring": "Sello de Resorte Simple",
+      "multi-spring": "Sello de Resortes Múltiples",
+      "textile-seal": "Sello Textil",
+      "teflon-bellow": "Sellos de Fuelle de Teflón",
+      "metal-bellow": "Sello Mecánico de Fuelle Metálico",
+      "boiler-feed": "Sellos para Agua de Alimentación de Calderas",
+      "split-seals": "Sellos Partidos",
+      "high-pressure": "Sello de Alta Presión",
+      "dry-seals": "Sellos Secos",
+      "cartridge-single": "Cartucho de Simple Efecto",
+      "cartridge-double": "Cartucho de Doble Efecto",
+      "thermosyphon-seal-support-system": "Sistema de Soporte de Sello por Termosifón"
+    },
+    "products": {
+      "readMore": "LEER MÁS →",
+      "enquiry": "CONSULTAR →"
+    },
+    "details": {
+      "back": "← Volver a Productos",
+      "standardStyle": "⚙ Estilo Estándar",
+      "characteristics": "⚙ Características del Sello",
+      "operatingLimits": "⚙ Límites de Operación",
+      "applications": "⚙ Aplicaciones"
+    },
+    "productDetails": {
+      "pusher-seals": {
+        "standardStyle": [
+          "Materiales de Cara: Estelita, Carbón, Cerámica, Carburo de Tungsteno, Carburo de Silicio, Lecrolly",
+          "Partes Metálicas: SS 316, SS 304",
+          "Sello Secundario: Elastómeros, PTFE"
+        ],
+        "sealCharacteristics": [
+          "Simple efecto",
+          "Desequilibrado",
+          "Montaje interior",
+          "Dependiente de la dirección de rotación"
+        ],
+        "operatingLimits": [
+          "Diámetro del Eje D1: 10 mm a 100 mm",
+          "Presión P: 08 bar (máx.)",
+          "Temperatura t: -20°C a +200°C",
+          "Velocidad V: 20 m/seg"
+        ],
+        "applications": [
+          "Bombas de Agua",
+          "Bombas de Circulación para calefacción central",
+          "Bombas de Procesos Químicos",
+          "Bombas de aguas residuales y sumergibles"
+        ]
+      },
+      "single-spring": {
+        "standardStyle": [
+          "Materiales de Cara: Carbón/Estelita/Lecrolloy/Cerámica/Carburo de Silicio/Cerámica Rociada por Plasma",
+          "Partes Metálicas: SS 316, SS 304",
+          "Sello Secundario: Nitrilo, EPDM, Viton, PTFE"
+        ],
+        "sealCharacteristics": [
+          "Simple efecto",
+          "Equilibrado/Desequilibrado",
+          "Montaje Interior y Exterior",
+          "Independiente de la dirección de rotación",
+          "Transmisión de par por sello secundario"
+        ],
+        "operatingLimits": [
+          "Diámetro del Eje D1: 10...100 mm",
+          "Presión P: 10 bar (máx.)",
+          "Temperatura t: -20°C...+180°C",
+          "Velocidad V: 10 m/seg"
+        ],
+        "applications": [
+          "Industrial",
+          "Marino"
+        ]
+      },
+      "multi-spring": {
+        "features": [
+          "Diseño de sello hidráulicamente equilibrado tipo deslizamiento directo.",
+          "Conceptos revolucionarios en ingeniería de diseño.",
+          "Aplicabilidad casi universal, intercambiable con casi todos los sellos convencionales y empaquetaduras de prensaestopas sin modificación de la bomba o prensaestopas.",
+          "Sin daños en el eje inducidos por el sello, ahorrando costos de mantenimiento ocultos por reparación/reemplazo del eje/camisa.",
+          "Precio más bajo que los sellos convencionales debido al alto grado de estandarización.",
+          "Dimensión de instalación uniforme para todos los tamaños, lo que resulta en facilidad de manejo."
+        ],
+        "applicationDataOfSealType707": [
+          "Caras del Sello: Carbón, Estelita, Cerámica Rociada por Plasma, Carburo de Tungsteno, Carburo de Silicio",
+          "Elastómero: EPDM, Neopreno, Viton, TEV, Kalrez",
+          "Rango de tamaño: 16 a 150mm",
+          "Presión: 35 bar",
+          "Temperatura: 205°C"
+        ],
+        "applications": [
+          "Industrial",
+          "Marino"
+        ],
+        "applicationDataOfSealType808": [
+          "Caras del Sello: Carbón, Estelita, Cerámica Rociada por Plasma, Carburo de Tungsteno, Carburo de Silicio",
+          "Elastómero: Viton®, Neopreno, Kalrez®, EPDM, TEV",
+          "Rango de tamaño: 108mm a 150mm",
+          "Presión: 35 bar",
+          "Temperatura: 205°C"
+        ]
+      },
+      "textile-seal": {
+        "materialOfConstruction": [
+          "Caras de sellado: Carbón, Carburo de Silicio, Carburo de Tungsteno, Acero Fundido al Cromo y materiales adecuados para el fluido.",
+          "Elastómero: Viton, EPDM, Silicona, Aflas, PTFE, Hypalon",
+          "Componentes: SS 316, Hastelloy C, Monel, Aleación 20"
+        ],
+        "toBeUseFor": [
+          "Cáusticos",
+          "Ácidos",
+          "Carbonato de Sodio"
+        ],
+        "operatingLimits": [
+          "Diámetro del Eje: Según requerimiento de la máquina",
+          "Presión: Normal",
+          "Temperatura: Normal"
+        ],
+        "partOfIdentification": [
+          "Cara Rotativa (Anillo de Sello)",
+          "Cara Estacionaria (Anillo de Acoplamiento)",
+          "Elastómero",
+          "Resorte",
+          "Otros Componentes"
+        ]
+      },
+      "teflon-bellow": {
+        "standardStyle": [
+          "Materiales de Cara: GFT / CFT / Carburo de Silicio / Cerámica",
+          "Partes Metálicas: SS 316, SS 304, Hastelloy-C",
+          "Resortes: Acero para resortes recubierto de teflón, S.S.316, S.S.304, Hastelloy-C",
+          "Sello Secundario: Fuelles de PTFE"
+        ],
+        "sealCharacteristics": [
+          "Simple efecto",
+          "Montaje exterior",
+          "Diseño de Resortes Múltiples y Resorte Simple",
+          "Independiente de la dirección de rotación"
+        ],
+        "operatingLimits": [
+          "Diámetro del Eje d1: 19 mm a 150 mm",
+          "Presión p: 6 bar (máx.)",
+          "Temperatura t: -45°C...+120°C",
+          "Velocidad v: 16 m/seg"
+        ],
+        "applications": [
+          "Servicios extremadamente corrosivos"
+        ]
+      },
+      "metal-bellow": {
+        "materials": [
+          "Caras: Carbón, Carburo de Silicio, Carburo de Tungsteno",
+          "Elastómeros: Grafito, Perfluoro, FEP",
+          "Componentes: SS-316, AM-350, Hastelloy-C, Aleación-20"
+        ],
+        "operatings": [
+          "Presión: 25 bar",
+          "Temperatura: -40°C a 350°C",
+          "Velocidad: 20 m/s",
+          "Tamaños: 25 mm a 100mm"
+        ],
+        "application": [
+          "Alta Temperatura, Hidrocarburos y Servicios Críticos"
+        ]
+      },
+      "boiler-feed": {
+        "standardStyle": [
+          "Materiales de Cara: Estelita, Carbón, Cerámica, Carburo de Tungsteno, Carburo de Silicio, Lecrolly",
+          "Partes Metálicas: SS 316, SS 304",
+          "Sello Secundario: Elastómeros"
+        ],
+        "sealCharacteristics": [
+          "Simple efecto",
+          "Equilibrado",
+          "Montaje interior",
+          "Dependiente de la dirección de rotación"
+        ],
+        "operatingLimits": [
+          "Diámetro del Eje d: 65...150 mm",
+          "Presión p: 50...140 bar (máx.)",
+          "Temperatura t: -20°C...+250°C (plan API 23)",
+          "Velocidad v: más de 50 m/seg"
+        ],
+        "application": [
+          "Bombas de agua de alimentación de calderas",
+          "Bombas HSD",
+          "Bombas booster",
+          "Bombas de goteo",
+          "Bombas de condensado",
+          "Bombas de aceite combustible"
+        ]
+      },
+      "split-seals": {
+        "standardStyle": [
+          "Materiales de Cara: Carbón / Carburo de Silicio / Cerámica",
+          "Partes Metálicas: SS 316, SS 304",
+          "Sello Secundario: Elastómeros"
+        ],
+        "sealCharacteristics": [
+          "Componentes totalmente partidos",
+          "Facilidad de instalación",
+          "Caras de sello equilibradas"
+        ],
+        "operatingLimits": [
+          "Diámetro del Eje d: 50...200 mm",
+          "Presión p: 15 bar (máx.)",
+          "Temperatura t: Ambiente...140°C",
+          "Velocidad del Eje: 3600 rpm(máx.)"
+        ],
+        "applications": [
+          "Bombas de servicios públicos",
+          "Bombas de transferencia",
+          "Agitadores y Vasijas (Como sello de funcionamiento en seco)"
+        ]
+      },
+      "high-pressure": {
+        "standardStyle": [
+          "Materiales de Cara: Carbón / Carburo de Silicio / Carburo de Tungsteno",
+          "Partes Metálicas: SS 316, SS 304, Hastelloy-C, Titanio, Aleación-20, Monel",
+          "Sello Secundario: Elastómeros"
+        ],
+        "operatingLimits": [
+          "Diámetro del Eje d1: 25...115 mm",
+          "Presión p: 25...150 bar",
+          "Temperatura t: 40...180°C",
+          "Velocidad v: 20 m/seg"
+        ],
+        "sealCharacteristics": [
+          "Simple efecto",
+          "Equilibrado",
+          "Montaje interior",
+          "Independiente de la dirección de rotación",
+          "Diseño de resortes múltiples",
+          "Mecanismo de transmisión robusto"
+        ],
+        "application": [
+          "Bombas de oleoductos",
+          "Bombas de agua de alimentación de calderas"
+        ]
+      },
+      "dry-seals": {
+        "materials": [
+          "Carcasa: Acero inoxidable",
+          "Partes en contacto con el producto: Acero inoxidable, Hastelloy, Titanio, Materiales especiales",
+          "Anillos de sello: Carbón, Carburo de Silicio, Carburo de Tungsteno, etc.",
+          "Anillos O: Viton, EPDM, Elastómeros de perfluoro, materiales elásticos especiales",
+          "Aprobación FDA: Posible para todas las partes en contacto con el producto"
+        ],
+        "applications": [
+          "Desulfuración de gases de combustión (FGD)",
+          "Hidrometalurgia",
+          "Farmacia",
+          "Biotecnología"
+        ],
+        "applicationLimits": [
+          "Presión del recipiente: Vacío …16 bar (abs.)",
+          "Temperatura del recipiente: -50 … +200°C",
+          "Tamaño del eje: 40 … 300 mm",
+          "Velocidad de deslizamiento: 5 m/s"
+        ]
+      },
+      "cartridge-single": {
+        "standardStyle": [
+          "Materiales de Cara: Carburo de Tungsteno y Cerámica",
+          "Partes Metálicas: SS 316, SS 304, Hastelloy-C, Hastelloy-B, Monel, Aleación-20",
+          "Sello Secundario: Elastómeros, TCV, PTFE"
+        ],
+        "sealCharacteristics": [
+          "Simple efecto",
+          "Equilibrio inverso",
+          "Montaje exterior",
+          "Independiente de la dirección de rotación",
+          "Funcionamiento en seco"
+        ],
+        "operatingLimits": [
+          "Diámetro del Eje d: 15...150 mm",
+          "Presión p: Vacío...8 bar (máx.)",
+          "Temperatura t: Ambiente...120°C(máx.)",
+          "Velocidad n: 320 rpm"
+        ],
+        "applications": [
+          "Productos alimenticios",
+          "Productos farmacéuticos"
+        ]
+      },
+      "cartridge-double": {
+        "standardStyle": [
+          "Materiales de Cara: Carbón, Cerámica, Carburo de Silicio, Carburo de Tungsteno, Lecrolly",
+          "Partes Metálicas: SS 316, SS 304, Acero al Carbono, Hastelloy-B, Hastelloy-C, Monel, Aleación-20",
+          "Sello Secundario: Interior-PTFE, GFT : Exterior-Elastómeros"
+        ],
+        "sealCharacteristics": [
+          "Sellos de doble efecto espalda con espalda",
+          "Equilibrado",
+          "Unidad de cartucho",
+          "Independiente de la dirección de rotación",
+          "Operado con fluido de barrera presurizado"
+        ],
+        "applications": [
+          "Petroquímicos y sus vapores",
+          "Productos químicos generales y sus vapores",
+          "Hidrocarburos ligeros y sus vapores"
+        ],
+        "operatingLimits": [
+          "Diámetro del Eje d: 25...150 mm*",
+          "Presión p: Vacío...32 bar (máx.)",
+          "Temperatura t: Ambiente...200°C (máx.)",
+          "Velocidad del eje n: 600 rpm (máx.)",
+          "Presión del fluido de barrera: Presión del recipiente + 1.5 bar"
+        ]
+      },
+      "thermosyphon-seal-support-system": {
+        "highlights": [
+          "Recomendado: 12 Ltrs/min",
+          "Valor de Nivel Máx.: 5.5 Ltrs",
+          "Valor de Nivel Mín.: 3.5 Ltrs"
+        ],
+        "performanceLimits": [
+          "Capacidad: 7.5 Litros",
+          "Presión de Prueba Hidráulica: 30 Kg",
+          "Presión de Trabajo: 20 Kg",
+          "Temp. máxima de trabajo: 180°C",
+          "Área de transferencia de calor de la serpentina de enfriamiento: 0.3m²",
+          "Caudal de agua de enfriamiento"
+        ],
+        "metalParts": [
+          "Carcasa del Termosifón: Acero al Carbono / SS 316 / SS 304",
+          "Serpentina de Enfriamiento: SS 304 / SS 316"
+        ],
+        "accessories": [
+          "Manómetro (0-40 kg/cm²)",
+          "Para medición de presión del recipiente",
+          "Indicador de Nivel - Para indicar el nivel de líquido del recipiente",
+          "Bomba Manual - Para recargar el recipiente con cantidad adicional de fluido de barrera cuando el Termosifón está bajo presión y el nivel de líquido es bajo"
+        ],
+        "connectionSize": [
+          "Entrada de fluido tampón - A 1\" NPT",
+          "Salida de fluido tampón - B 1/2\" NPT",
+          "Salida de agua de enfriamiento - D 3/4\" NPT",
+          "Conexión de Bomba Manual - E 1/4\" NPT (Conexión de rellenado)",
+          "Conexión de llenado - F 1/4\" NPT",
+          "Conexión de gas a presión - G 1/4\" NPT",
+          "Conexión de manómetro - H 3/8\" NPT",
+          "Drenaje - 1/2\" NPT",
+          "Conexión de válvula de seguridad - J 1/2\" NPT"
+        ]
+      }
+    }
+  },
+  "servicePage": {
+    "hero": {
+      "title": "Soluciones de Sellado Integrales,<br>Diseñadas para la Confiabilidad.",
+      "description": "Desde el diseño hasta la entrega, ofrecemos servicios de sellado completos que garantizan rendimiento, longevidad y confiabilidad totalmente a prueba de fugas.",
+      "cta": "Solicitar una Consultoría",
+      "viewProducts": "Ver Todos los Productos"
+    },
+    "industries": {
+      "title": "INDUSTRIAS A LAS QUE SERVIMOS",
+      "subtitle": "Ofreciendo excelencia en diversos sectores industriales",
+      "items": {
+        "petrochemical": "PETROQUÍMICA Y REFINERÍAS",
+        "powerPlants": "CENTRALES ELÉCTRICAS Y ENERGÍA",
+        "oilGas": "PETRÓLEO Y GAS",
+        "pharmaceuticals": "FARMACÉUTICA",
+        "waterTreatment": "TRATAMIENTO DE AGUA Y AGUAS RESIDUALES",
+        "foodProcessing": "PROCESAMIENTO DE ALIMENTOS Y BEBIDAS",
+        "textile": "INDUSTRIAS TEXTIL Y DE PULPA",
+        "moreIndustries": "Y MUCHAS MÁS..."
+      }
+    },
+    "reconditioning": {
+      "title": "SERVICIOS DE RECONDICIONAMIENTO Y RESTAURACIÓN",
+      "before": "ANTES",
+      "after": "DESPUÉS",
+      "mainTitle": "RECONDICIONAMIENTO",
+      "paragraph1": "En el entorno industrial actual, consciente de los costos, reducir los gastos de mantenimiento y reemplazo se ha vuelto crítico. Final Maredian Seals ofrece servicios avanzados de Reacondicionamiento de Sellos Mecánicos, ayudando a los clientes a restaurar sellos desgastados a niveles de rendimiento casi nuevos.",
+      "paragraph2": "Respaldados por una sólida experiencia técnica y años de experiencia práctica, reacondicionamos Sellos Mecánicos para Agitadores, Sellos de Fuelle Metálico y varios sellos mecánicos estándar utilizando técnicas especializadas. Nuestros servicios ayudan a los clientes a extender la vida útil del sello, reducir el tiempo de inactividad y lograr ahorros significativos de costos.",
+      "beforeAfterTitle": "ANTES Y DESPUÉS DEL RECONDICIONAMIENTO",
+      "list1": "Los componentes del sello desgastados y dañados se inspeccionan cuidadosamente.",
+      "list2": "Las piezas críticas se restauran, rectifican y vuelven a ensamblar.",
+      "list3": "Se valida el rendimiento para garantizar una confiabilidad similar a la de los sellos nuevos.",
+      "saveTitle": "AHORRE MEDIANTE LA RESTAURACIÓN — SIN COMPROMETER EL RENDIMIENTO",
+      "lappingTitle": "LAPIDACIÓN Y PULIDO",
+      "lappingPara1": "El sellado sin fugas depende de una lapidación y pulido precisos. Utilizamos compuestos de lapidación de alta calidad y productos químicos especializados para lograr un acabado superficial superior.",
+      "lappingPara2": "La planitud de la cara del sello se verifica bajo luz monocromática de helio, lo que garantiza precisión, durabilidad y rendimiento confiable.",
+      "supportTitle": "SOPORTE POST-VENTA",
+      "supportPara": "Nuestros ingenieros de servicio capacitados brindan respuesta rápida, asistencia técnica y repuestos genuinos para resolver problemas de servicio de manera eficiente. También guiamos a los equipos de mantenimiento del cliente para un manejo fluido y situaciones de emergencia.",
+      "packingTitle": "EMPAQUE Y CAPACITACIÓN",
+      "packingPara": "Todos los componentes del sello se empaquetan de forma segura en múltiples capas protectoras para evitar daños durante el tránsito. También ofrecemos capacitación técnica y demostraciones a los equipos del cliente, ayudándoles a mejorar las habilidades de manejo y resolución de problemas de los sellos."
+    }
+  },
+  "contactPage": {
+    "heading": "PONERSE EN CONTACTO",
+    "tagline": "Construyamos Soluciones<br>a Prueba de Fugas Juntos.",
+    "headOffice": {
+      "iconAlt": "Icono de Ubicación",
+      "title": "Oficina Principal",
+      "address": "Gala.No. 6/7 Balaji Industrial Estate 5/B S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208"
+    },
+    "phone": {
+      "iconAlt": "Icono de Teléfono",
+      "title": "Contáctenos",
+      "number": "+91 9561444777"
+    },
+    "email": {
+      "iconAlt": "Icono de Correo Electrónico",
+      "title": "Envíenos un Correo",
+      "address": "info@maredianseals.com"
+    },
+    "workingHours": {
+      "monSatLabel": "Lunes – Sábado:",
+      "monSatTime": "9:00 AM – 7:00 PM",
+      "sunLabel": "Domingo:",
+      "sunTime": "Cerrado"
+    },
+    "social": {
+      "heading": "Siga Nuestras Redes Sociales:",
+      "facebook": "Facebook",
+      "linkedin": "LinkedIn",
+      "whatsapp": "WhatsApp",
+      "instagram": "Instagram"
+    },
+    "form": {
+      "heading": "CONSULTA",
+      "companyNameLabel": "Nombre de la Empresa",
+      "companyNamePlaceholder": "Ingrese el nombre de su empresa",
+      "yourNameLabel": "Nombre Completo",
+      "yourNamePlaceholder": "Ingrese su nombre",
+      "contactDetailsLabel": "Detalles de Contacto",
+      "contactDetailsPlaceholder": "Ingrese el número de teléfono",
+      "emailLabel": "Correo Electrónico",
+      "emailPlaceholder": "Ingrese la dirección de correo electrónico",
+      "productSelectLabel": "Seleccionar Producto",
+      "productSelectPlaceholder": "Seleccione un Producto",
+      "addressLabel": "Dirección / Ciudad / Ubicación",
+      "addressPlaceholder": "Ingrese la dirección",
+      "questionLabel": "Pregunta o Requisito",
+      "questionPlaceholder": "Ingrese su mensaje",
+      "submitBtn": "Enviar"
+    },
+    "map": {
+      "iframeAlt": "Mapa de ubicación de la empresa"
+    }
+  },
+  "footer": {
+    "address": "Gala.No. 6/7 Balaji Industrial Estate 5/B S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208",
+    "follow": "Síganos:",
+    "quickLinks": "ENLACES RÁPIDOS",
+    "productsTitle": "NUESTROS PRODUCTOS",
+    "links": {
+      "home": "Inicio",
+      "about": "Sobre Nosotros",
+      "products": "Productos",
+      "services": "Servicios",
+      "quality": "Calidad",
+      "contact": "Contacto"
+    },
+    "products": {
+      "pusher": "Sellos Tipo Pusher",
+      "single": "Sello de Resorte Simple",
+      "multi": "Sello de Resortes Múltiples",
+      "textile": "Sello Textil",
+      "teflon": "Sellos de Fuelle de Teflón",
+      "metal": "Sello Mecánico de Fuelle Metálico",
+      "splitSeals": "Sellos Partidos",
+      "boilerFeedWaterSeals": "Sellos para Agua de Alimentación de Calderas",
+      "highPressureSeal": "Sello de Alta Presión",
+      "drySeals": "Sellos Secos",
+      "cartridgeSingleActing": "Cartucho de Simple Efecto",
+      "cartridgeDoubleActing": "Cartucho de Doble Efecto",
+      "thermosyphonSealSupportSystem": "Sistema de Soporte de Sello por Termosifón"
+    },
+    "copyright": "© 2026 Maredian Seals. Todos los derechos reservados. | Política de Privacidad | Términos y Condiciones"
+  }
 }

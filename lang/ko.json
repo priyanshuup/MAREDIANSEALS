@@ -1,651 +1,658 @@
 {
-    "topBar": {
-        "phone1": "+91 9561444777",
-        "phone2": "+91 9730444777",
-        "email": "info@maredianseals.com",
-        "address": "Gala.No. 6/7 Balaji Industrial Estate 5/B S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208",
-        "follow": "팔로우:"
+  "head": {
+    "titleHome": "홈",
+    "titleAbout": "회사 소개",
+    "titleProducts": "제품",
+    "titleServices": "서비스",
+    "titleContact": "문의하기"
+  },
+  "topBar": {
+    "phone1": "+91 9561444777",
+    "phone2": "+91 9730444777",
+    "email": "info@maredianseals.com",
+    "address": "Gala.No. 6/7 Balaji Industrial Estate 5/B S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208",
+    "follow": "팔로우:"
+  },
+  "nav": {
+    "home": "홈",
+    "about": "회사 소개",
+    "products": "제품",
+    "services": "서비스",
+    "contact": "문의하기"
+  },
+  "hero": {
+    "slide1": {
+      "title": "정밀함과 성능으로 미래를 봉인하다",
+      "desc": "까다로운 응용 분야에서 신뢰성과 효율성을 위해 설계된 업계 최고의 기계식 씰.",
+      "cta": "제품 살펴보기"
     },
-    "nav": {
-        "home": "홈",
-        "about": "회사 소개",
-        "products": "제품",
-        "services": "서비스",
-        "contact": "문의하기"
+    "slide2": {
+      "title": "기계식 밀봉 솔루션의 혁신",
+      "desc": "전 세계 산업 응용 분야에서 최고의 성능을 위해 설계된 프리미엄 품질의 씰.",
+      "cta": "더 알아보기"
     },
-    "hero": {
-        "slide1": {
-            "title": "정밀함과 성능으로 미래를 봉인하다",
-            "desc": "까다로운 응용 분야에서 신뢰성과 효율성을 위해 설계된 업계 최고의 기계식 씰.",
-            "cta": "제품 살펴보기"
+    "products": {
+      "sectionTitle": "고급 밀봉 솔루션",
+      "sectionDesc": "가혹한 조건에서도 일관된 성능을 발휘하도록 제작된 다양한 기계식 씰, 로터리 유니온 및 부품을 만나보세요.",
+      "items": {
+        "pusher": {
+          "title": "푸셔 씰",
+          "desc": "페이스 재질: 스텔라이트, 카본, 세라믹, 텅스텐 카바이드, 실리콘 카바이드, 레크롤로이"
         },
-        "slide2": {
-            "title": "기계식 밀봉 솔루션의 혁신",
-            "desc": "전 세계 산업 응용 분야에서 최고의 성능을 위해 설계된 프리미엄 품질의 씰.",
-            "cta": "더 알아보기"
+        "textile": {
+          "title": "섬유 기계용 씰",
+          "desc": "페이스 재질: 카본, 실리콘 카바이드, 텅스텐 카바이드, 크롬 주강 및 유체에 적합한 재질"
         },
-        "products": {
-            "sectionTitle": "고급 밀봉 솔루션",
-            "sectionDesc": "가혹한 조건에서도 일관된 성능을 발휘하도록 제작된 다양한 기계식 씰, 로터리 유니온 및 부품을 만나보세요.",
-            "items": {
-                "pusher": {
-                    "title": "푸셔 씰",
-                    "desc": "페이스 재질: 스텔라이트, 카본, 세라믹, 텅스텐 카바이드, 실리콘 카바이드, 레크롤로이"
-                },
-                "textile": {
-                    "title": "섬유 기계용 씰",
-                    "desc": "페이스 재질: 카본, 실리콘 카바이드, 텅스텐 카바이드, 크롬 주강 및 유체에 적합한 재질"
-                },
-                "singleSpring": {
-                    "title": "단일 스프링 씰",
-                    "desc": "페이스 재질: 카본, 스텔라이트, 레크롤로이, 세라믹, 실리콘 카바이드, 플라즈마 용사 세라믹"
-                },
-                "multiSpring": {
-                    "title": "다중 스프링 씰",
-                    "desc": "페이스 재질: 카본, 스텔라이트, 플라즈마 용사 세라믹, 세라믹, 텅스텐 카바이드, 실리콘 카바이드"
-                }
-            }
+        "singleSpring": {
+          "title": "단일 스프링 씰",
+          "desc": "페이스 재질: 카본, 스텔라이트, 레크롤로이, 세라믹, 실리콘 카바이드, 플라즈마 용사 세라믹"
         },
-        "common": {
-            "readMore": "자세히 보기",
-            "enquiry": "지금 문의"
-        },
-        "about": {
-            "title": "마레디안 씨얼스 소개",
-            "subtitle": "정밀함. 성능. 완벽함.",
-            "description": "열정적인 엔지니어와 선구적인 기술 관료들에 의해 설립된 Maredian Seals는 기계식 밀봉 기술 분야에서 신뢰할 수 있는 이름이며, 까다로운 조건에서도 누출 방지 성능을 보장하는 프리미엄 밀봉 시스템의 설계 및 제조를 전문으로 합니다. 첨단 기술과 수십 년의 전문 지식을 바탕으로 석유화학, 제약, 섬유, 식품 가공, 발전 및 수처리 산업에 서비스를 제공합니다.",
-            "features": {
-                "precision": "정밀 엔지니어링",
-                "delivery": "정시 납품",
-                "custom": "맞춤형 솔루션",
-                "reliability": "신뢰성 및 성능"
-            },
-            "learnMore": "회사 소개 더 보기"
-        },
-        "industries": {
-            "title": "서비스 산업",
-            "subtitle": "당사의 기계식 씰은 가장 까다로운 산업 환경에서도 안정적으로 작동합니다."
-        },
-        "whyChoose": {
-            "title": "마레디안 씨얼스를 선택해야 하는 이유",
-            "items": {
-                "delivery": "신속한 납품\n및 기술 지원",
-                "expertise": "검증된 엔지니어링\n전문성",
-                "leakproof": "100% 누출 방지\n성능 보장",
-                "trusted": "다양한 산업 분야의\n고객에게 신뢰받는 기업",
-                "manufacturing": "정밀 제조\n표준"
-            }
+        "multiSpring": {
+          "title": "다중 스프링 씰",
+          "desc": "페이스 재질: 카본, 스텔라이트, 플라즈마 용사 세라믹, 세라믹, 텅스텐 카바이드, 실리콘 카바이드"
         }
+      }
     },
-    "ticker": {
-        "item1": "푸셔 씰",
-        "item2": "단일 스프링 씰",
-        "item3": "다중 스프링 씰",
-        "item4": "섬유 기계용 씰",
-        "item5": "테플론 벨로우 씰",
-        "item6": "메탈 벨로우 기계식 씰"
+    "common": {
+      "readMore": "자세히 보기",
+      "enquiry": "지금 문의"
     },
-    "aboutHero": {
-        "slide1": {
-            "title": "엔지니어링 우수성\n씰 무결성 제공",
-            "desc": "Maredian Seals에서는 현대 산업을 위한 신뢰성, 정밀성 및 성능을 정의하는 기계식 밀봉 솔루션을 설계 및 제조합니다.",
-            "cta": "전문성 살펴보기",
-            "dwnldbrchr": "브로셔 다운로드"
-        },
-        "aboutUs": {
-            "title": "회사 소개",
-            "tagline": "올바르게 구축하세요. 단단히 밀봉하세요.",
-            "paragraph1": "밀봉 솔루션을 재정의하려는 비전으로 설립된 Maredian Seals는 기계식 씰 및 밀봉 시스템 분야의 프리미엄 제조업체, 공급업체 및 혁신 기업입니다.",
-            "paragraph2": "당사는 가장 까다로운 산업 조건에서 작동하도록 설계된 맞춤 엔지니어링 밀봉 솔루션을 전문으로 합니다. 당사 제품은 정밀하게 제작되어 누출 방지 성능, 내구성 및 긴 서비스 수명을 보장합니다.",
-            "paragraph3": "숙련된 엔지니어 팀, 고급 제조 방식, 그리고 품질에 대한 강한 집중을 통해 석유화학 및 정유 공장부터 제약, 식품 가공, 수처리에 이르기까지 다양한 산업에서 신뢰하는 솔루션을 제공합니다.",
-            "images": {
-                "image1": "기계식 씰 제품",
-                "image2": "제조 현장",
-                "image3": "엔지니어",
-                "image4": "밀봉 제품",
-                "logo": "마레디안 로고"
-            }
-        },
-        "strengths": {
-            "title": "당사의 강점:",
-            "tagline": "올바르게 구축하세요. 단단히 밀봉하세요.",
-            "items": {
-                "precision": {
-                    "title": "정밀\n엔지니어링",
-                    "alt": "정밀 엔지니어링"
-                },
-                "delivery": {
-                    "title": "정시\n납품",
-                    "alt": "정시 납품"
-                },
-                "custom": {
-                    "title": "맞춤형\n솔루션",
-                    "alt": "맞춤형 솔루션"
-                },
-                "reliability": {
-                    "title": "신뢰성 및\n성능",
-                    "alt": "신뢰성"
-                }
-            }
-        },
-        "coreValues": {
-            "title": "핵심 가치:",
-            "items": {
-                "innovation": {
-                    "title": "혁신",
-                    "desc": "지속적인 R&D를 통한 밀봉 기술 발전.",
-                    "alt": "혁신"
-                },
-                "integrity": {
-                    "title": "청렴",
-                    "desc": "투명한 관계, 정직한 약속.",
-                    "alt": "청렴"
-                },
-                "precision": {
-                    "title": "정밀",
-                    "desc": "완벽하게 제작된 모든 씰.",
-                    "alt": "정밀"
-                },
-                "sustainability": {
-                    "title": "지속 가능성",
-                    "desc": "친환경 소재 및 에너지 효율적인 방식.",
-                    "alt": "지속 가능성"
-                },
-                "customerFocus": {
-                    "title": "고객 중심",
-                    "desc": "귀하의 산업적 필요에 맞춰 설계된 솔루션.",
-                    "alt": "고객 중심"
-                }
-            }
-        }
+    "about": {
+      "title": "마레디안 씨얼스 소개",
+      "subtitle": "정밀함. 성능. 완벽함.",
+      "description": "열정적인 엔지니어와 선구적인 기술 관료들에 의해 설립된 Maredian Seals는 기계식 밀봉 기술 분야에서 신뢰할 수 있는 이름이며, 까다로운 조건에서도 누출 방지 성능을 보장하는 프리미엄 밀봉 시스템의 설계 및 제조를 전문으로 합니다. 첨단 기술과 수십 년의 전문 지식을 바탕으로 석유화학, 제약, 섬유, 식품 가공, 발전 및 수처리 산업에 서비스를 제공합니다.",
+      "features": {
+        "precision": "정밀 엔지니어링",
+        "delivery": "정시 납품",
+        "custom": "맞춤형 솔루션",
+        "reliability": "신뢰성 및 성능"
+      },
+      "learnMore": "회사 소개 더 보기"
     },
-    "productPage": {
-        "hero": {
-            "slide1": {
-                "title": "밀봉하도록 설계되고.<br>오래도록 제작되었습니다.",
-                "desc": "모든 산업 분야에 걸쳐 내구성, 효율성 및 완벽한 누출 방지 성능을 위해 제작된 정밀 엔지니어링 기계식 씰의 전체 제품군을 만나보십시오.",
-                "ctaExplore": "제품 살펴보기",
-                "ctaView": "모든 제품 보기"
-            }
-        },
-        "allProducts": {
-            "title": "마레디안 씨얼스<br>제품군",
-            "all": "모든 제품"
-        },
-        "categories": {
-            "pusher-seals": "푸셔 씰",
-            "single-spring": "단일 스프링 씰",
-            "multi-spring": "다중 스프링 씰",
-            "textile-seal": "섬유 기계용 씰",
-            "teflon-bellow": "테플론 벨로우 씰",
-            "metal-bellow": "메탈 벨로우 기계식 씰",
-            "boiler-feed": "보일러 급수 씰",
-            "split-seals": "스플릿 씰",
-            "high-pressure": "고압 씰",
-            "dry-seals": "드라이 씰",
-            "cartridge-single": "카트리지 단동형",
-            "cartridge-double": "카트리지 복동형",
-            "thermosyphon-seal-support-system": "써모사이폰 씰 서포트 시스템"
-        },
-        "products": {
-            "readMore": "자세히 보기 →",
-            "enquiry": "문의하기 →"
-        },
-        "details": {
-            "back": "← 제품으로 돌아가기",
-            "standardStyle": "⚙ 표준 스타일",
-            "characteristics": "⚙ 씰 특성",
-            "operatingLimits": "⚙ 작동 한계",
-            "applications": "⚙ 적용 분야"
-        },
-        "productDetails": {
-            "pusher-seals": {
-                "standardStyle": [
-                    "페이스 재질: 스텔라이트, 카본, 세라믹, 텅스텐 카바이드, 실리콘 카바이드, 레크롤로이",
-                    "금속 부품: SS 316, SS 304",
-                    "2차 밀봉: 엘라스토머, PTFE"
-                ],
-                "sealCharacteristics": [
-                    "단동형",
-                    "언밸런스형",
-                    "내부 장착형",
-                    "회전 방향에 따라 다름"
-                ],
-                "operatingLimits": [
-                    "샤프트 직경 D1: 10 mm ~ 100 mm",
-                    "압력 P: 08 bar (최대)",
-                    "온도 t: -20°C ~ +200°C",
-                    "속도 V: 20 m/sec"
-                ],
-                "applications": [
-                    "워터 펌프",
-                    "중앙 난방용 순환 펌프",
-                    "화학 공정 펌프",
-                    "하수 및 수중 펌프"
-                ]
-            },
-            "single-spring": {
-                "standardStyle": [
-                    "페이스 재질: 카본/스텔라이트/레크롤로이/세라믹/실리콘 카바이드/플라즈마 용사 세라믹",
-                    "금속 부품: SS 316, SS 304",
-                    "2차 밀봉: 니트릴, EPDM, 비톤, PTFE"
-                ],
-                "sealCharacteristics": [
-                    "단동형",
-                    "밸런스형/언밸런스형",
-                    "내부 및 외부 장착형",
-                    "회전 방향 무관",
-                    "2차 밀봉에 의한 토크 전달"
-                ],
-                "operatingLimits": [
-                    "샤프트 직경 D1: 10...100 mm",
-                    "압력 P: 10 bar (최대)",
-                    "온도 t: -20°C...+180°C",
-                    "속도 V: 10 m/sec"
-                ],
-                "applications": [
-                    "산업용",
-                    "선박용"
-                ]
-            },
-            "multi-spring": {
-                "features": [
-                    "직접 슬립-온 방식의 유압 밸런스드 씰 설계.",
-                    "설계 엔지니어링의 혁신적인 개념.",
-                    "펌프 또는 글랜드 개조 없이 거의 모든 기존 씰 및 글랜드 패킹과 호환 가능한 범용성.",
-                    "씰로 인한 샤프트 손상 없음 - 샤프트/슬리브 수리/교체에 드는 숨겨진 유지보수 비용 절감.",
-                    "높은 표준화로 인해 기존 씰보다 저렴한 가격.",
-                    "모든 크기에 균일한 설치 치수로 취급 용이."
-                ],
-                "applicationDataOfSealType707": [
-                    "씰 페이스: 카본, 스텔라이트, 플라즈마 용사 세라믹, 텅스텐 카바이드, 실리콘 카바이드",
-                    "엘라스토머: EPDM, 네오프렌, 비톤, TEV, 칼레즈",
-                    "크기 범위: 16 ~ 150mm",
-                    "압력: 35 bar",
-                    "온도: 205°C"
-                ],
-                "applications": [
-                    "산업용",
-                    "선박용"
-                ],
-                "applicationDataOfSealType808": [
-                    "씰 페이스: 카본, 스텔라이트, 플라즈마 용사 세라믹, 텅스텐 카바이드, 실리콘 카바이드",
-                    "엘라스토머: 비톤®, 네오프렌, 칼레즈®, EPDM, TEV",
-                    "크기 범위: 108mm ~ 150mm",
-                    "압력: 35 bar",
-                    "온도: 205°C"
-                ]
-            },
-            "textile-seal": {
-                "materialOfConstruction": [
-                    "밀봉면: 카본, 실리콘 카바이드, 텅스텐 카바이드, 크롬 주강 및 유체에 적합한 재질",
-                    "엘라스토머: 비톤, EPDM, 실리콘, 아플라스, PTFE, 하이팔론",
-                    "하드웨어: SS 316, 하스텔로이 C, 모넬, 알로이 20"
-                ],
-                "toBeUseFor": [
-                    "가성소다",
-                    "산성 용액",
-                    "탄산수소나트륨"
-                ],
-                "operatingLimits": [
-                    "샤프트 직경: 기계 요구 사항에 따름",
-                    "압력: 표준",
-                    "온도: 표준"
-                ],
-                "partOfIdentification": [
-                    "회전면 (씰 링)",
-                    "고정면 (메이팅 링)",
-                    "엘라스토머",
-                    "스프링",
-                    "기타 하드웨어"
-                ]
-            },
-            "teflon-bellow": {
-                "standardStyle": [
-                    "페이스 재질: GFT / CFT / 실리콘 카바이드 / 세라믹",
-                    "금속 부품: SS 316, SS 304, 하스텔로이-C",
-                    "스프링: 테플론 코팅 스프링 강, S.S.316, S.S.304, 하스텔로이-C",
-                    "2차 밀봉: PTFE 벨로우즈"
-                ],
-                "sealCharacteristics": [
-                    "단동형",
-                    "외부 장착형",
-                    "다중 스프링 및 단일 스프링 설계",
-                    "회전 방향 무관"
-                ],
-                "operatingLimits": [
-                    "샤프트 직경 d1: 19 mm ~ 150 mm",
-                    "압력 p: 6 bar (최대)",
-                    "온도 t: -45°C ~ +120°C",
-                    "속도 v: 16 m/sec"
-                ],
-                "applications": [
-                    "극도로 부식성이 강한 환경"
-                ]
-            },
-            "metal-bellow": {
-                "materials": [
-                    "페이스: 카본, 실리콘 카바이드, 텅스텐 카바이드",
-                    "엘라스토머: 흑연, 퍼플루오로, FEP",
-                    "하드웨어: SS-316, AM-350, 하스텔로이-C, 알로이-20"
-                ],
-                "operatings": [
-                    "압력: 25 bar",
-                    "온도: -40°C ~ 350°C",
-                    "속도: 20 m/s",
-                    "크기: 25 mm ~ 100mm"
-                ],
-                "application": [
-                    "고온, 탄화수소 및 중요 설비"
-                ]
-            },
-            "boiler-feed": {
-                "standardStyle": [
-                    "페이스 재질: 스텔라이트, 카본, 세라믹, 텅스텐 카바이드, 실리콘 카바이드, 레크롤로이",
-                    "금속 부품: SS 316, SS 304",
-                    "2차 밀봉: 엘라스토머"
-                ],
-                "sealCharacteristics": [
-                    "단동형",
-                    "밸런스형",
-                    "내부 장착형",
-                    "회전 방향에 따라 다름"
-                ],
-                "operatingLimits": [
-                    "샤프트 직경 d: 65...150 mm",
-                    "압력 p: 50...140 bar (최대)",
-                    "온도 t: -20°C...+250°C (API plan 23)",
-                    "속도 v: 50 m/sec 이상"
-                ],
-                "application": [
-                    "보일러 급수 펌프",
-                    "HSD 펌프",
-                    "부스터 펌프",
-                    "드립 펌프",
-                    "응축수 펌프",
-                    "연료유 펌프"
-                ]
-            },
-            "split-seals": {
-                "standardStyle": [
-                    "페이스 재질: 카본 / 실리콘 카바이드 / 세라믹",
-                    "금속 부품: SS 316, SS 304",
-                    "2차 밀봉: 엘라스토머"
-                ],
-                "sealCharacteristics": [
-                    "완전 분할형 부품",
-                    "설치 용이성",
-                    "밸런스드 씰 페이스"
-                ],
-                "operatingLimits": [
-                    "샤프트 직경 d: 50...200 mm",
-                    "압력 p: 15 bar (최대)",
-                    "온도 t: 상온...140°C",
-                    "샤프트 속도: 3600 rpm(최대)"
-                ],
-                "applications": [
-                    "유틸리티 펌프",
-                    "이송 펌프",
-                    "교반기 및 용기 (드라이 러닝 씰)"
-                ]
-            },
-            "high-pressure": {
-                "standardStyle": [
-                    "페이스 재질: 카본 / 실리콘 카바이드 / 텅스텐 카바이드",
-                    "금속 부품: SS 316, SS 304, 하스텔로이-C, 티타늄, 알로이-20, 모넬",
-                    "2차 밀봉: 엘라스토머"
-                ],
-                "operatingLimits": [
-                    "샤프트 직경 d1: 25...115 mm",
-                    "압력 p: 25...150 bar",
-                    "온도 t: 40...180°C",
-                    "속도 v: 20 m/sec"
-                ],
-                "sealCharacteristics": [
-                    "단동형",
-                    "밸런스형",
-                    "내부 장착형",
-                    "회전 방향 무관",
-                    "다중 스프링 설계",
-                    "견고한 구동 메커니즘"
-                ],
-                "application": [
-                    "송유관 펌프",
-                    "보일러 급수 펌프"
-                ]
-            },
-            "dry-seals": {
-                "materials": [
-                    "하우징: 스테인리스 강",
-                    "제품 접촉 부품: 스테인리스 강, 하스텔로이, 티타늄, 특수 재질",
-                    "씰 링: 카본, 실리콘 카바이드, 텅스텐 카바이드 등",
-                    "O-링: 비톤, EPDM, 퍼플루오르 엘라스토머, 특수 탄성 재질",
-                    "FDA 승인: 모든 제품 접촉 부품에 대해 가능"
-                ],
-                "applications": [
-                    "배연 탈황 설비",
-                    "습식 야금",
-                    "제약",
-                    "생명공학"
-                ],
-                "applicationLimits": [
-                    "용기 압력: 진공 … 16 bar (절대압)",
-                    "용기 온도: -50 … +200°C",
-                    "샤프트 크기: 40 … 300 mm",
-                    "슬라이딩 속도: 5 m/s"
-                ]
-            },
-            "cartridge-single": {
-                "standardStyle": [
-                    "페이스 재질: 텅스텐 카바이드 및 세라믹",
-                    "금속 부품: SS 316, SS 304, 하스텔로이-C, 하스텔로이-B, 모넬, 알로이-20",
-                    "2차 밀봉: 엘라스토머, TCV, PTFE"
-                ],
-                "sealCharacteristics": [
-                    "단동형",
-                    "리버스 밸런스형",
-                    "외부 장착형",
-                    "회전 방향 무관",
-                    "드라이 러닝"
-                ],
-                "operatingLimits": [
-                    "샤프트 직경 d: 15...150 mm",
-                    "압력 p: 진공...8 bar (최대)",
-                    "온도 t: 상온...120°C(최대)",
-                    "속도 n: 320 rpm"
-                ],
-                "applications": [
-                    "식품",
-                    "제약 제품"
-                ]
-            },
-            "cartridge-double": {
-                "standardStyle": [
-                    "페이스 재질: 카본, 세라믹, 실리콘 카바이드, 텅스텐 카바이드, 레크롤로이",
-                    "금속 부품: SS 316, SS 304, 탄소강, 하스텔로이-B, 하스텔로이-C, 모넬, 알로이-20",
-                    "2차 밀봉: 내측-PTFE, GFT : 외측-엘라스토머"
-                ],
-                "sealCharacteristics": [
-                    "백 투 백 방식 복동형 씰",
-                    "밸런스형",
-                    "카트리지 유닛",
-                    "회전 방향 무관",
-                    "가압 배리어 유체로 작동"
-                ],
-                "applications": [
-                    "석유화학 제품 및 증기",
-                    "일반 화학 물질 및 증기",
-                    "경질 탄화수소 및 증기"
-                ],
-                "operatingLimits": [
-                    "샤프트 직경 d: 25...150 mm*",
-                    "압력 p: 진공...32 bar (최대)",
-                    "온도 t: 상온...200°C (최대)",
-                    "샤프트 속도 n: 600 rpm (최대)",
-                    "배리어 유체 압력: 용기 압력 + 1.5 bar"
-                ]
-            },
-            "thermosyphon-seal-support-system": {
-                "highlights": [
-                    "권장 유량: 12 Ltrs/min",
-                    "최대 액위: 5.5 Ltrs",
-                    "최소 액위: 3.5 Ltrs"
-                ],
-                "performanceLimits": [
-                    "용량: 7.5 Liter",
-                    "수압 시험 압력: 30 Kg",
-                    "작동 압력: 20 Kg",
-                    "최대 작동 온도: 180°C",
-                    "냉각 코일 열전달 면적: 0.3m²",
-                    "냉각수 유량"
-                ],
-                "metalParts": [
-                    "써모사이폰 쉘: 탄소강 / SS 316 / SS 304",
-                    "냉각 코일: SS 304 / SS 316"
-                ],
-                "accessories": [
-                    "압력 게이지 (0-40 kg/cm²)",
-                    "용기 압력 측정용",
-                    "액위 게이지 - 용기 액위 표시용",
-                    "핸드 펌프 - 써모사이폰이 가압 상태이고 액위가 낮을 때 배리어 유체를 추가로 재충전하기 위한 장치"
-                ],
-                "connectionSize": [
-                    "버퍼 유체 입구 - A 1\" NPT",
-                    "버퍼 유체 출구 - B 1/2\" NPT",
-                    "냉각수 출구 - D 3/4\" NPT",
-                    "핸드 펌프 연결부 - E 1/4\" NPT (재충전 연결부)",
-                    "주입 연결부 - F 1/4\" NPT",
-                    "가압 가스 연결부 - G 1/4\" NPT",
-                    "압력 게이지 연결부 - H 3/8\" NPT",
-                    "드레인 - 1/2\" NPT",
-                    "안전 밸브 연결부 - J 1/2\" NPT"
-                ]
-            }
-        }
+    "industries": {
+      "title": "서비스 산업",
+      "subtitle": "당사의 기계식 씰은 가장 까다로운 산업 환경에서도 안정적으로 작동합니다."
     },
-    "servicePage": {
-        "hero": {
-            "title": "최종 사용자를 위한 밀봉 솔루션,<br>신뢰성을 위해 설계되었습니다.",
-            "description": "설계에서 납품까지, 성능, 수명 및 완벽한 누출 방지 신뢰성을 보장하는 포괄적인 밀봉 서비스를 제공합니다.",
-            "cta": "상담 요청하기",
-            "viewProducts": "모든 제품 보기"
-        },
-        "industries": {
-            "title": "서비스 산업",
-            "subtitle": "다양한 산업 분야에 우수성 제공",
-            "items": {
-                "petrochemical": "석유화학 및 정유 공장",
-                "powerPlants": "발전소 및 에너지",
-                "oilGas": "석유 및 가스",
-                "pharmaceuticals": "제약",
-                "waterTreatment": "상하수도 처리",
-                "foodProcessing": "식품 및 음료 가공",
-                "textile": "섬유 및 펄프 산업",
-                "moreIndustries": "그 외 다수..."
-            }
-        },
-        "reconditioning": {
-            "title": "재조정 및 재생 서비스",
-            "before": "재조정 전",
-            "after": "재조정 후",
-            "mainTitle": "재조정 서비스",
-            "paragraph1": "오늘날의 비용 의식적인 산업 환경에서는 유지보수 및 교체 비용을 줄이는 것이 중요해졌습니다. Final Maredian Seals는 고급 기계식 씰 재조정 서비스를 제공하여 고객이 마모된 씰을 거의 새로운 성능 수준으로 복원할 수 있도록 돕습니다.",
-            "paragraph2": "강력한 기술 전문성과 수년간의 실무 경험을 바탕으로 교반기 기계식 씰, 메탈 벨로우 씰 및 다양한 표준 기계식 씰을 특수 기술을 사용하여 재조정합니다. 당사의 서비스는 고객이 씰 수명을 연장하고, 가동 중단 시간을 줄이며, 상당한 비용을 절감할 수 있도록 돕습니다.",
-            "beforeAfterTitle": "재조정 전후 비교",
-            "list1": "마모되거나 손상된 씰 부품을 주의 깊게 검사합니다.",
-            "list2": "중요 부품은 복원, 재가공 및 재조립됩니다.",
-            "list3": "새 씰과 유사한 신뢰성을 보장하기 위해 성능을 검증합니다.",
-            "saveTitle": "성능 저하 없이 재생을 통해 비용 절감",
-            "lappingTitle": "래핑 및 연마",
-            "lappingPara1": "누출 없는 밀봉은 정확한 래핑과 연마에 달려 있습니다. 당사는 고급 랩핑 컴파운드와 특수 화학약품을 사용하여 우수한 표면 마감을 실현합니다.",
-            "lappingPara2": "씰 면의 평탄도는 단색 헬륨 광 하에서 검사되어 정밀성, 내구성 및 안정적인 성능을 보장합니다.",
-            "supportTitle": "애프터 서비스 지원",
-            "supportPara": "당사의 숙련된 서비스 엔지니어는 신속한 대응, 기술 지원 및 정품 부품을 제공하여 서비스 문제를 효율적으로 해결합니다. 또한 원활한 처리와 비상 상황에 대비하여 고객 유지보수 팀을 지도합니다.",
-            "packingTitle": "포장 및 교육",
-            "packingPara": "모든 씰 부품은 운송 중 손상을 방지하기 위해 다중 보호층으로 안전하게 포장됩니다. 또한 고객 팀에 기술 교육 및 시연을 제공하여 씰 취급 및 문제 해결 능력을 향상시킵니다."
-        }
-    },
-    "contactPage": {
-        "heading": "문의하기",
-        "tagline": "함께 누출 방지<br>솔루션을 구축해 보세요.",
-        "headOffice": {
-            "iconAlt": "위치 아이콘",
-            "title": "본사",
-            "address": "Gala.No. 6/7 Balaji Industrial Estate 5/B S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208"
-        },
-        "phone": {
-            "iconAlt": "전화 아이콘",
-            "title": "연락처",
-            "number": "+91 9561444777"
-        },
-        "email": {
-            "iconAlt": "이메일 아이콘",
-            "title": "이메일",
-            "address": "info@maredianseals.com"
-        },
-        "workingHours": {
-            "monSatLabel": "월요일 – 토요일:",
-            "monSatTime": "오전 9:00 – 오후 7:00",
-            "sunLabel": "일요일:",
-            "sunTime": "휴무"
-        },
-        "social": {
-            "heading": "소셜 미디어 팔로우:",
-            "facebook": "페이스북",
-            "linkedin": "링크드인",
-            "whatsapp": "왓츠앱",
-            "instagram": "인스타그램"
-        },
-        "form": {
-            "heading": "문의",
-            "companyNameLabel": "회사명",
-            "companyNamePlaceholder": "회사명을 입력하세요",
-            "yourNameLabel": "성함",
-            "yourNamePlaceholder": "이름을 입력하세요",
-            "contactDetailsLabel": "연락처",
-            "contactDetailsPlaceholder": "전화번호를 입력하세요",
-            "emailLabel": "이메일",
-            "emailPlaceholder": "이메일 주소를 입력하세요",
-            "productSelectLabel": "제품 선택",
-            "productSelectPlaceholder": "제품을 선택하세요",
-            "addressLabel": "주소 / 도시 / 지역",
-            "addressPlaceholder": "주소를 입력하세요",
-            "questionLabel": "문의 사항 또는 요구 사항",
-            "questionPlaceholder": "메시지를 입력하세요",
-            "submitBtn": "보내기"
-        },
-        "map": {
-            "iframeAlt": "회사 위치 지도"
-        }
-    },
-    "footer": {
-        "address": "Gala.No. 6/7 Balaji Industrial Estate 5/B S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208",
-        "follow": "팔로우:",
-        "quickLinks": "바로가기",
-        "productsTitle": "제품",
-        "links": {
-            "home": "홈",
-            "about": "회사 소개",
-            "products": "제품",
-            "services": "서비스",
-            "quality": "품질",
-            "contact": "문의하기"
-        },
-        "products": {
-            "pusher": "푸셔 씰",
-            "single": "단일 스프링 씰",
-            "multi": "다중 스프링 씰",
-            "textile": "섬유 기계용 씰",
-            "teflon": "테플론 벨로우 씰",
-            "metal": "메탈 벨로우 기계식 씰",
-            "splitSeals": "스플릿 씰",
-            "boilerFeedWaterSeals": "보일러 급수 씰",
-            "highPressureSeal": "고압 씰",
-            "drySeals": "드라이 씰",
-            "cartridgeSingleActing": "카트리지 단동형",
-            "cartridgeDoubleActing": "카트리지 복동형",
-            "thermosyphonSealSupportSystem": "써모사이폰 씰 서포트 시스템"
-        },
-        "copyright": "© 2026 마레디안 씨얼스. 판권 소유. | 개인정보 처리방침 | 이용약관"
+    "whyChoose": {
+      "title": "마레디안 씨얼스를 선택해야 하는 이유",
+      "items": {
+        "delivery": "신속한 납품\n및 기술 지원",
+        "expertise": "검증된 엔지니어링\n전문성",
+        "leakproof": "100% 누출 방지\n성능 보장",
+        "trusted": "다양한 산업 분야의\n고객에게 신뢰받는 기업",
+        "manufacturing": "정밀 제조\n표준"
+      }
     }
+  },
+  "ticker": {
+    "item1": "푸셔 씰",
+    "item2": "단일 스프링 씰",
+    "item3": "다중 스프링 씰",
+    "item4": "섬유 기계용 씰",
+    "item5": "테플론 벨로우 씰",
+    "item6": "메탈 벨로우 기계식 씰"
+  },
+  "aboutHero": {
+    "slide1": {
+      "title": "엔지니어링 우수성\n씰 무결성 제공",
+      "desc": "Maredian Seals에서는 현대 산업을 위한 신뢰성, 정밀성 및 성능을 정의하는 기계식 밀봉 솔루션을 설계 및 제조합니다.",
+      "cta": "전문성 살펴보기",
+      "dwnldbrchr": "브로셔 다운로드"
+    },
+    "aboutUs": {
+      "title": "회사 소개",
+      "tagline": "올바르게 구축하세요. 단단히 밀봉하세요.",
+      "paragraph1": "밀봉 솔루션을 재정의하려는 비전으로 설립된 Maredian Seals는 기계식 씰 및 밀봉 시스템 분야의 프리미엄 제조업체, 공급업체 및 혁신 기업입니다.",
+      "paragraph2": "당사는 가장 까다로운 산업 조건에서 작동하도록 설계된 맞춤 엔지니어링 밀봉 솔루션을 전문으로 합니다. 당사 제품은 정밀하게 제작되어 누출 방지 성능, 내구성 및 긴 서비스 수명을 보장합니다.",
+      "paragraph3": "숙련된 엔지니어 팀, 고급 제조 방식, 그리고 품질에 대한 강한 집중을 통해 석유화학 및 정유 공장부터 제약, 식품 가공, 수처리에 이르기까지 다양한 산업에서 신뢰하는 솔루션을 제공합니다.",
+      "images": {
+        "image1": "기계식 씰 제품",
+        "image2": "제조 현장",
+        "image3": "엔지니어",
+        "image4": "밀봉 제품",
+        "logo": "마레디안 로고"
+      }
+    },
+    "strengths": {
+      "title": "당사의 강점:",
+      "tagline": "올바르게 구축하세요. 단단히 밀봉하세요.",
+      "items": {
+        "precision": {
+          "title": "정밀\n엔지니어링",
+          "alt": "정밀 엔지니어링"
+        },
+        "delivery": {
+          "title": "정시\n납품",
+          "alt": "정시 납품"
+        },
+        "custom": {
+          "title": "맞춤형\n솔루션",
+          "alt": "맞춤형 솔루션"
+        },
+        "reliability": {
+          "title": "신뢰성 및\n성능",
+          "alt": "신뢰성"
+        }
+      }
+    },
+    "coreValues": {
+      "title": "핵심 가치:",
+      "items": {
+        "innovation": {
+          "title": "혁신",
+          "desc": "지속적인 R&D를 통한 밀봉 기술 발전.",
+          "alt": "혁신"
+        },
+        "integrity": {
+          "title": "청렴",
+          "desc": "투명한 관계, 정직한 약속.",
+          "alt": "청렴"
+        },
+        "precision": {
+          "title": "정밀",
+          "desc": "완벽하게 제작된 모든 씰.",
+          "alt": "정밀"
+        },
+        "sustainability": {
+          "title": "지속 가능성",
+          "desc": "친환경 소재 및 에너지 효율적인 방식.",
+          "alt": "지속 가능성"
+        },
+        "customerFocus": {
+          "title": "고객 중심",
+          "desc": "귀하의 산업적 필요에 맞춰 설계된 솔루션.",
+          "alt": "고객 중심"
+        }
+      }
+    }
+  },
+  "productPage": {
+    "hero": {
+      "slide1": {
+        "title": "밀봉하도록 설계되고.<br>오래도록 제작되었습니다.",
+        "desc": "모든 산업 분야에 걸쳐 내구성, 효율성 및 완벽한 누출 방지 성능을 위해 제작된 정밀 엔지니어링 기계식 씰의 전체 제품군을 만나보십시오.",
+        "ctaExplore": "제품 살펴보기",
+        "ctaView": "모든 제품 보기"
+      }
+    },
+    "allProducts": {
+      "title": "마레디안 씨얼스<br>제품군",
+      "all": "모든 제품"
+    },
+    "categories": {
+      "pusher-seals": "푸셔 씰",
+      "single-spring": "단일 스프링 씰",
+      "multi-spring": "다중 스프링 씰",
+      "textile-seal": "섬유 기계용 씰",
+      "teflon-bellow": "테플론 벨로우 씰",
+      "metal-bellow": "메탈 벨로우 기계식 씰",
+      "boiler-feed": "보일러 급수 씰",
+      "split-seals": "스플릿 씰",
+      "high-pressure": "고압 씰",
+      "dry-seals": "드라이 씰",
+      "cartridge-single": "카트리지 단동형",
+      "cartridge-double": "카트리지 복동형",
+      "thermosyphon-seal-support-system": "써모사이폰 씰 서포트 시스템"
+    },
+    "products": {
+      "readMore": "자세히 보기 →",
+      "enquiry": "문의하기 →"
+    },
+    "details": {
+      "back": "← 제품으로 돌아가기",
+      "standardStyle": "⚙ 표준 스타일",
+      "characteristics": "⚙ 씰 특성",
+      "operatingLimits": "⚙ 작동 한계",
+      "applications": "⚙ 적용 분야"
+    },
+    "productDetails": {
+      "pusher-seals": {
+        "standardStyle": [
+          "페이스 재질: 스텔라이트, 카본, 세라믹, 텅스텐 카바이드, 실리콘 카바이드, 레크롤로이",
+          "금속 부품: SS 316, SS 304",
+          "2차 밀봉: 엘라스토머, PTFE"
+        ],
+        "sealCharacteristics": [
+          "단동형",
+          "언밸런스형",
+          "내부 장착형",
+          "회전 방향에 따라 다름"
+        ],
+        "operatingLimits": [
+          "샤프트 직경 D1: 10 mm ~ 100 mm",
+          "압력 P: 08 bar (최대)",
+          "온도 t: -20°C ~ +200°C",
+          "속도 V: 20 m/sec"
+        ],
+        "applications": [
+          "워터 펌프",
+          "중앙 난방용 순환 펌프",
+          "화학 공정 펌프",
+          "하수 및 수중 펌프"
+        ]
+      },
+      "single-spring": {
+        "standardStyle": [
+          "페이스 재질: 카본/스텔라이트/레크롤로이/세라믹/실리콘 카바이드/플라즈마 용사 세라믹",
+          "금속 부품: SS 316, SS 304",
+          "2차 밀봉: 니트릴, EPDM, 비톤, PTFE"
+        ],
+        "sealCharacteristics": [
+          "단동형",
+          "밸런스형/언밸런스형",
+          "내부 및 외부 장착형",
+          "회전 방향 무관",
+          "2차 밀봉에 의한 토크 전달"
+        ],
+        "operatingLimits": [
+          "샤프트 직경 D1: 10...100 mm",
+          "압력 P: 10 bar (최대)",
+          "온도 t: -20°C...+180°C",
+          "속도 V: 10 m/sec"
+        ],
+        "applications": [
+          "산업용",
+          "선박용"
+        ]
+      },
+      "multi-spring": {
+        "features": [
+          "직접 슬립-온 방식의 유압 밸런스드 씰 설계.",
+          "설계 엔지니어링의 혁신적인 개념.",
+          "펌프 또는 글랜드 개조 없이 거의 모든 기존 씰 및 글랜드 패킹과 호환 가능한 범용성.",
+          "씰로 인한 샤프트 손상 없음 - 샤프트/슬리브 수리/교체에 드는 숨겨진 유지보수 비용 절감.",
+          "높은 표준화로 인해 기존 씰보다 저렴한 가격.",
+          "모든 크기에 균일한 설치 치수로 취급 용이."
+        ],
+        "applicationDataOfSealType707": [
+          "씰 페이스: 카본, 스텔라이트, 플라즈마 용사 세라믹, 텅스텐 카바이드, 실리콘 카바이드",
+          "엘라스토머: EPDM, 네오프렌, 비톤, TEV, 칼레즈",
+          "크기 범위: 16 ~ 150mm",
+          "압력: 35 bar",
+          "온도: 205°C"
+        ],
+        "applications": [
+          "산업용",
+          "선박용"
+        ],
+        "applicationDataOfSealType808": [
+          "씰 페이스: 카본, 스텔라이트, 플라즈마 용사 세라믹, 텅스텐 카바이드, 실리콘 카바이드",
+          "엘라스토머: 비톤®, 네오프렌, 칼레즈®, EPDM, TEV",
+          "크기 범위: 108mm ~ 150mm",
+          "압력: 35 bar",
+          "온도: 205°C"
+        ]
+      },
+      "textile-seal": {
+        "materialOfConstruction": [
+          "밀봉면: 카본, 실리콘 카바이드, 텅스텐 카바이드, 크롬 주강 및 유체에 적합한 재질",
+          "엘라스토머: 비톤, EPDM, 실리콘, 아플라스, PTFE, 하이팔론",
+          "하드웨어: SS 316, 하스텔로이 C, 모넬, 알로이 20"
+        ],
+        "toBeUseFor": [
+          "가성소다",
+          "산성 용액",
+          "탄산수소나트륨"
+        ],
+        "operatingLimits": [
+          "샤프트 직경: 기계 요구 사항에 따름",
+          "압력: 표준",
+          "온도: 표준"
+        ],
+        "partOfIdentification": [
+          "회전면 (씰 링)",
+          "고정면 (메이팅 링)",
+          "엘라스토머",
+          "스프링",
+          "기타 하드웨어"
+        ]
+      },
+      "teflon-bellow": {
+        "standardStyle": [
+          "페이스 재질: GFT / CFT / 실리콘 카바이드 / 세라믹",
+          "금속 부품: SS 316, SS 304, 하스텔로이-C",
+          "스프링: 테플론 코팅 스프링 강, S.S.316, S.S.304, 하스텔로이-C",
+          "2차 밀봉: PTFE 벨로우즈"
+        ],
+        "sealCharacteristics": [
+          "단동형",
+          "외부 장착형",
+          "다중 스프링 및 단일 스프링 설계",
+          "회전 방향 무관"
+        ],
+        "operatingLimits": [
+          "샤프트 직경 d1: 19 mm ~ 150 mm",
+          "압력 p: 6 bar (최대)",
+          "온도 t: -45°C ~ +120°C",
+          "속도 v: 16 m/sec"
+        ],
+        "applications": [
+          "극도로 부식성이 강한 환경"
+        ]
+      },
+      "metal-bellow": {
+        "materials": [
+          "페이스: 카본, 실리콘 카바이드, 텅스텐 카바이드",
+          "엘라스토머: 흑연, 퍼플루오로, FEP",
+          "하드웨어: SS-316, AM-350, 하스텔로이-C, 알로이-20"
+        ],
+        "operatings": [
+          "압력: 25 bar",
+          "온도: -40°C ~ 350°C",
+          "속도: 20 m/s",
+          "크기: 25 mm ~ 100mm"
+        ],
+        "application": [
+          "고온, 탄화수소 및 중요 설비"
+        ]
+      },
+      "boiler-feed": {
+        "standardStyle": [
+          "페이스 재질: 스텔라이트, 카본, 세라믹, 텅스텐 카바이드, 실리콘 카바이드, 레크롤로이",
+          "금속 부품: SS 316, SS 304",
+          "2차 밀봉: 엘라스토머"
+        ],
+        "sealCharacteristics": [
+          "단동형",
+          "밸런스형",
+          "내부 장착형",
+          "회전 방향에 따라 다름"
+        ],
+        "operatingLimits": [
+          "샤프트 직경 d: 65...150 mm",
+          "압력 p: 50...140 bar (최대)",
+          "온도 t: -20°C...+250°C (API plan 23)",
+          "속도 v: 50 m/sec 이상"
+        ],
+        "application": [
+          "보일러 급수 펌프",
+          "HSD 펌프",
+          "부스터 펌프",
+          "드립 펌프",
+          "응축수 펌프",
+          "연료유 펌프"
+        ]
+      },
+      "split-seals": {
+        "standardStyle": [
+          "페이스 재질: 카본 / 실리콘 카바이드 / 세라믹",
+          "금속 부품: SS 316, SS 304",
+          "2차 밀봉: 엘라스토머"
+        ],
+        "sealCharacteristics": [
+          "완전 분할형 부품",
+          "설치 용이성",
+          "밸런스드 씰 페이스"
+        ],
+        "operatingLimits": [
+          "샤프트 직경 d: 50...200 mm",
+          "압력 p: 15 bar (최대)",
+          "온도 t: 상온...140°C",
+          "샤프트 속도: 3600 rpm(최대)"
+        ],
+        "applications": [
+          "유틸리티 펌프",
+          "이송 펌프",
+          "교반기 및 용기 (드라이 러닝 씰)"
+        ]
+      },
+      "high-pressure": {
+        "standardStyle": [
+          "페이스 재질: 카본 / 실리콘 카바이드 / 텅스텐 카바이드",
+          "금속 부품: SS 316, SS 304, 하스텔로이-C, 티타늄, 알로이-20, 모넬",
+          "2차 밀봉: 엘라스토머"
+        ],
+        "operatingLimits": [
+          "샤프트 직경 d1: 25...115 mm",
+          "압력 p: 25...150 bar",
+          "온도 t: 40...180°C",
+          "속도 v: 20 m/sec"
+        ],
+        "sealCharacteristics": [
+          "단동형",
+          "밸런스형",
+          "내부 장착형",
+          "회전 방향 무관",
+          "다중 스프링 설계",
+          "견고한 구동 메커니즘"
+        ],
+        "application": [
+          "송유관 펌프",
+          "보일러 급수 펌프"
+        ]
+      },
+      "dry-seals": {
+        "materials": [
+          "하우징: 스테인리스 강",
+          "제품 접촉 부품: 스테인리스 강, 하스텔로이, 티타늄, 특수 재질",
+          "씰 링: 카본, 실리콘 카바이드, 텅스텐 카바이드 등",
+          "O-링: 비톤, EPDM, 퍼플루오르 엘라스토머, 특수 탄성 재질",
+          "FDA 승인: 모든 제품 접촉 부품에 대해 가능"
+        ],
+        "applications": [
+          "배연 탈황 설비",
+          "습식 야금",
+          "제약",
+          "생명공학"
+        ],
+        "applicationLimits": [
+          "용기 압력: 진공 … 16 bar (절대압)",
+          "용기 온도: -50 … +200°C",
+          "샤프트 크기: 40 … 300 mm",
+          "슬라이딩 속도: 5 m/s"
+        ]
+      },
+      "cartridge-single": {
+        "standardStyle": [
+          "페이스 재질: 텅스텐 카바이드 및 세라믹",
+          "금속 부품: SS 316, SS 304, 하스텔로이-C, 하스텔로이-B, 모넬, 알로이-20",
+          "2차 밀봉: 엘라스토머, TCV, PTFE"
+        ],
+        "sealCharacteristics": [
+          "단동형",
+          "리버스 밸런스형",
+          "외부 장착형",
+          "회전 방향 무관",
+          "드라이 러닝"
+        ],
+        "operatingLimits": [
+          "샤프트 직경 d: 15...150 mm",
+          "압력 p: 진공...8 bar (최대)",
+          "온도 t: 상온...120°C(최대)",
+          "속도 n: 320 rpm"
+        ],
+        "applications": [
+          "식품",
+          "제약 제품"
+        ]
+      },
+      "cartridge-double": {
+        "standardStyle": [
+          "페이스 재질: 카본, 세라믹, 실리콘 카바이드, 텅스텐 카바이드, 레크롤로이",
+          "금속 부품: SS 316, SS 304, 탄소강, 하스텔로이-B, 하스텔로이-C, 모넬, 알로이-20",
+          "2차 밀봉: 내측-PTFE, GFT : 외측-엘라스토머"
+        ],
+        "sealCharacteristics": [
+          "백 투 백 방식 복동형 씰",
+          "밸런스형",
+          "카트리지 유닛",
+          "회전 방향 무관",
+          "가압 배리어 유체로 작동"
+        ],
+        "applications": [
+          "석유화학 제품 및 증기",
+          "일반 화학 물질 및 증기",
+          "경질 탄화수소 및 증기"
+        ],
+        "operatingLimits": [
+          "샤프트 직경 d: 25...150 mm*",
+          "압력 p: 진공...32 bar (최대)",
+          "온도 t: 상온...200°C (최대)",
+          "샤프트 속도 n: 600 rpm (최대)",
+          "배리어 유체 압력: 용기 압력 + 1.5 bar"
+        ]
+      },
+      "thermosyphon-seal-support-system": {
+        "highlights": [
+          "권장 유량: 12 Ltrs/min",
+          "최대 액위: 5.5 Ltrs",
+          "최소 액위: 3.5 Ltrs"
+        ],
+        "performanceLimits": [
+          "용량: 7.5 Liter",
+          "수압 시험 압력: 30 Kg",
+          "작동 압력: 20 Kg",
+          "최대 작동 온도: 180°C",
+          "냉각 코일 열전달 면적: 0.3m²",
+          "냉각수 유량"
+        ],
+        "metalParts": [
+          "써모사이폰 쉘: 탄소강 / SS 316 / SS 304",
+          "냉각 코일: SS 304 / SS 316"
+        ],
+        "accessories": [
+          "압력 게이지 (0-40 kg/cm²)",
+          "용기 압력 측정용",
+          "액위 게이지 - 용기 액위 표시용",
+          "핸드 펌프 - 써모사이폰이 가압 상태이고 액위가 낮을 때 배리어 유체를 추가로 재충전하기 위한 장치"
+        ],
+        "connectionSize": [
+          "버퍼 유체 입구 - A 1\" NPT",
+          "버퍼 유체 출구 - B 1/2\" NPT",
+          "냉각수 출구 - D 3/4\" NPT",
+          "핸드 펌프 연결부 - E 1/4\" NPT (재충전 연결부)",
+          "주입 연결부 - F 1/4\" NPT",
+          "가압 가스 연결부 - G 1/4\" NPT",
+          "압력 게이지 연결부 - H 3/8\" NPT",
+          "드레인 - 1/2\" NPT",
+          "안전 밸브 연결부 - J 1/2\" NPT"
+        ]
+      }
+    }
+  },
+  "servicePage": {
+    "hero": {
+      "title": "최종 사용자를 위한 밀봉 솔루션,<br>신뢰성을 위해 설계되었습니다.",
+      "description": "설계에서 납품까지, 성능, 수명 및 완벽한 누출 방지 신뢰성을 보장하는 포괄적인 밀봉 서비스를 제공합니다.",
+      "cta": "상담 요청하기",
+      "viewProducts": "모든 제품 보기"
+    },
+    "industries": {
+      "title": "서비스 산업",
+      "subtitle": "다양한 산업 분야에 우수성 제공",
+      "items": {
+        "petrochemical": "석유화학 및 정유 공장",
+        "powerPlants": "발전소 및 에너지",
+        "oilGas": "석유 및 가스",
+        "pharmaceuticals": "제약",
+        "waterTreatment": "상하수도 처리",
+        "foodProcessing": "식품 및 음료 가공",
+        "textile": "섬유 및 펄프 산업",
+        "moreIndustries": "그 외 다수..."
+      }
+    },
+    "reconditioning": {
+      "title": "재조정 및 재생 서비스",
+      "before": "재조정 전",
+      "after": "재조정 후",
+      "mainTitle": "재조정 서비스",
+      "paragraph1": "오늘날의 비용 의식적인 산업 환경에서는 유지보수 및 교체 비용을 줄이는 것이 중요해졌습니다. Final Maredian Seals는 고급 기계식 씰 재조정 서비스를 제공하여 고객이 마모된 씰을 거의 새로운 성능 수준으로 복원할 수 있도록 돕습니다.",
+      "paragraph2": "강력한 기술 전문성과 수년간의 실무 경험을 바탕으로 교반기 기계식 씰, 메탈 벨로우 씰 및 다양한 표준 기계식 씰을 특수 기술을 사용하여 재조정합니다. 당사의 서비스는 고객이 씰 수명을 연장하고, 가동 중단 시간을 줄이며, 상당한 비용을 절감할 수 있도록 돕습니다.",
+      "beforeAfterTitle": "재조정 전후 비교",
+      "list1": "마모되거나 손상된 씰 부품을 주의 깊게 검사합니다.",
+      "list2": "중요 부품은 복원, 재가공 및 재조립됩니다.",
+      "list3": "새 씰과 유사한 신뢰성을 보장하기 위해 성능을 검증합니다.",
+      "saveTitle": "성능 저하 없이 재생을 통해 비용 절감",
+      "lappingTitle": "래핑 및 연마",
+      "lappingPara1": "누출 없는 밀봉은 정확한 래핑과 연마에 달려 있습니다. 당사는 고급 랩핑 컴파운드와 특수 화학약품을 사용하여 우수한 표면 마감을 실현합니다.",
+      "lappingPara2": "씰 면의 평탄도는 단색 헬륨 광 하에서 검사되어 정밀성, 내구성 및 안정적인 성능을 보장합니다.",
+      "supportTitle": "애프터 서비스 지원",
+      "supportPara": "당사의 숙련된 서비스 엔지니어는 신속한 대응, 기술 지원 및 정품 부품을 제공하여 서비스 문제를 효율적으로 해결합니다. 또한 원활한 처리와 비상 상황에 대비하여 고객 유지보수 팀을 지도합니다.",
+      "packingTitle": "포장 및 교육",
+      "packingPara": "모든 씰 부품은 운송 중 손상을 방지하기 위해 다중 보호층으로 안전하게 포장됩니다. 또한 고객 팀에 기술 교육 및 시연을 제공하여 씰 취급 및 문제 해결 능력을 향상시킵니다."
+    }
+  },
+  "contactPage": {
+    "heading": "문의하기",
+    "tagline": "함께 누출 방지<br>솔루션을 구축해 보세요.",
+    "headOffice": {
+      "iconAlt": "위치 아이콘",
+      "title": "본사",
+      "address": "Gala.No. 6/7 Balaji Industrial Estate 5/B S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208"
+    },
+    "phone": {
+      "iconAlt": "전화 아이콘",
+      "title": "연락처",
+      "number": "+91 9561444777"
+    },
+    "email": {
+      "iconAlt": "이메일 아이콘",
+      "title": "이메일",
+      "address": "info@maredianseals.com"
+    },
+    "workingHours": {
+      "monSatLabel": "월요일 – 토요일:",
+      "monSatTime": "오전 9:00 – 오후 7:00",
+      "sunLabel": "일요일:",
+      "sunTime": "휴무"
+    },
+    "social": {
+      "heading": "소셜 미디어 팔로우:",
+      "facebook": "페이스북",
+      "linkedin": "링크드인",
+      "whatsapp": "왓츠앱",
+      "instagram": "인스타그램"
+    },
+    "form": {
+      "heading": "문의",
+      "companyNameLabel": "회사명",
+      "companyNamePlaceholder": "회사명을 입력하세요",
+      "yourNameLabel": "성함",
+      "yourNamePlaceholder": "이름을 입력하세요",
+      "contactDetailsLabel": "연락처",
+      "contactDetailsPlaceholder": "전화번호를 입력하세요",
+      "emailLabel": "이메일",
+      "emailPlaceholder": "이메일 주소를 입력하세요",
+      "productSelectLabel": "제품 선택",
+      "productSelectPlaceholder": "제품을 선택하세요",
+      "addressLabel": "주소 / 도시 / 지역",
+      "addressPlaceholder": "주소를 입력하세요",
+      "questionLabel": "문의 사항 또는 요구 사항",
+      "questionPlaceholder": "메시지를 입력하세요",
+      "submitBtn": "보내기"
+    },
+    "map": {
+      "iframeAlt": "회사 위치 지도"
+    }
+  },
+  "footer": {
+    "address": "Gala.No. 6/7 Balaji Industrial Estate 5/B S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208",
+    "follow": "팔로우:",
+    "quickLinks": "바로가기",
+    "productsTitle": "제품",
+    "links": {
+      "home": "홈",
+      "about": "회사 소개",
+      "products": "제품",
+      "services": "서비스",
+      "quality": "품질",
+      "contact": "문의하기"
+    },
+    "products": {
+      "pusher": "푸셔 씰",
+      "single": "단일 스프링 씰",
+      "multi": "다중 스프링 씰",
+      "textile": "섬유 기계용 씰",
+      "teflon": "테플론 벨로우 씰",
+      "metal": "메탈 벨로우 기계식 씰",
+      "splitSeals": "스플릿 씰",
+      "boilerFeedWaterSeals": "보일러 급수 씰",
+      "highPressureSeal": "고압 씰",
+      "drySeals": "드라이 씰",
+      "cartridgeSingleActing": "카트리지 단동형",
+      "cartridgeDoubleActing": "카트리지 복동형",
+      "thermosyphonSealSupportSystem": "써모사이폰 씰 서포트 시스템"
+    },
+    "copyright": "© 2026 마레디안 씨얼스. 판권 소유. | 개인정보 처리방침 | 이용약관"
+  }
 }

@@ -1,651 +1,658 @@
 {
-    "topBar": {
-        "phone1": "+91 9561444777",
-        "phone2": "+91 9730444777",
-        "email": "info@maredianseals.com",
-        "address": "Gala.No. 6/7 Balaji Industrial Estate 5/B S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208",
-        "follow": "关注我们:"
+  "head": {
+    "titleHome": "首页",
+    "titleAbout": "关于我们",
+    "titleProducts": "产品中心",
+    "titleServices": "服务",
+    "titleContact": "联系我们"
+  },
+  "topBar": {
+    "phone1": "+91 9561444777",
+    "phone2": "+91 9730444777",
+    "email": "info@maredianseals.com",
+    "address": "Gala.No. 6/7 Balaji Industrial Estate 5/B S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208",
+    "follow": "关注我们:"
+  },
+  "nav": {
+    "home": "首页",
+    "about": "关于我们",
+    "products": "产品中心",
+    "services": "服务",
+    "contact": "联系我们"
+  },
+  "hero": {
+    "slide1": {
+      "title": "以精准与性能密封未来",
+      "desc": "行业领先的机械密封，专为在苛刻应用中实现可靠性和高效率而设计。",
+      "cta": "探索产品"
     },
-    "nav": {
-        "home": "首页",
-        "about": "关于我们",
-        "products": "产品中心",
-        "services": "服务",
-        "contact": "联系我们"
+    "slide2": {
+      "title": "机械密封解决方案的创新",
+      "desc": "优质密封件，旨在为全球工业应用提供卓越性能。",
+      "cta": "了解更多"
     },
-    "hero": {
-        "slide1": {
-            "title": "以精准与性能密封未来",
-            "desc": "行业领先的机械密封，专为在苛刻应用中实现可靠性和高效率而设计。",
-            "cta": "探索产品"
+    "products": {
+      "sectionTitle": "先进密封解决方案",
+      "sectionDesc": "探索我们种类繁多的机械密封、旋转接头和部件，这些产品旨在在最严苛的条件下提供一致的性能。",
+      "items": {
+        "pusher": {
+          "title": "推压式密封",
+          "desc": "端面材料：司太立合金、碳、陶瓷、碳化钨、碳化硅、莱克罗洛伊"
         },
-        "slide2": {
-            "title": "机械密封解决方案的创新",
-            "desc": "优质密封件，旨在为全球工业应用提供卓越性能。",
-            "cta": "了解更多"
+        "textile": {
+          "title": "纺织机械密封",
+          "desc": "端面材料：碳、碳化硅、碳化钨、铬铸钢及适用于流体的材料"
         },
-        "products": {
-            "sectionTitle": "先进密封解决方案",
-            "sectionDesc": "探索我们种类繁多的机械密封、旋转接头和部件，这些产品旨在在最严苛的条件下提供一致的性能。",
-            "items": {
-                "pusher": {
-                    "title": "推压式密封",
-                    "desc": "端面材料：司太立合金、碳、陶瓷、碳化钨、碳化硅、莱克罗洛伊"
-                },
-                "textile": {
-                    "title": "纺织机械密封",
-                    "desc": "端面材料：碳、碳化硅、碳化钨、铬铸钢及适用于流体的材料"
-                },
-                "singleSpring": {
-                    "title": "单弹簧密封",
-                    "desc": "端面材料：碳、司太立合金、莱克罗洛伊、陶瓷、碳化硅、等离子喷涂陶瓷"
-                },
-                "multiSpring": {
-                    "title": "多弹簧密封",
-                    "desc": "端面材料：碳、司太立合金、等离子喷涂陶瓷、陶瓷、碳化钨、碳化硅"
-                }
-            }
+        "singleSpring": {
+          "title": "单弹簧密封",
+          "desc": "端面材料：碳、司太立合金、莱克罗洛伊、陶瓷、碳化硅、等离子喷涂陶瓷"
         },
-        "common": {
-            "readMore": "了解更多",
-            "enquiry": "立即询价"
-        },
-        "about": {
-            "title": "关于马雷迪安密封",
-            "subtitle": "精准. 性能. 完美.",
-            "description": "由充满热情的工程师和有远见的技术专家创立，Maredian Seals 是机械密封技术领域值得信赖的品牌，专注于设计和制造优质密封系统，确保在苛刻条件下实现无泄漏性能。凭借先进技术和数十年经验，我们服务于石油化工、制药、纺织、食品加工、发电和水处理等行业。",
-            "features": {
-                "precision": "精密工程",
-                "delivery": "准时交货",
-                "custom": "定制解决方案",
-                "reliability": "可靠性与性能"
-            },
-            "learnMore": "了解更多关于我们的信息"
-        },
-        "industries": {
-            "title": "我们服务的行业",
-            "subtitle": "我们的机械密封在要求最苛刻的工业环境中也能可靠运行。"
-        },
-        "whyChoose": {
-            "title": "为什么选择马雷迪安密封",
-            "items": {
-                "delivery": "快速交货\n及技术支持",
-                "expertise": "经过验证的\n工程专业知识",
-                "leakproof": "100% 无泄漏\n性能保证",
-                "trusted": "受到跨行业\n客户的信赖",
-                "manufacturing": "精密制造\n标准"
-            }
+        "multiSpring": {
+          "title": "多弹簧密封",
+          "desc": "端面材料：碳、司太立合金、等离子喷涂陶瓷、陶瓷、碳化钨、碳化硅"
         }
+      }
     },
-    "ticker": {
-        "item1": "推压式密封",
-        "item2": "单弹簧密封",
-        "item3": "多弹簧密封",
-        "item4": "纺织机械密封",
-        "item5": "特氟龙波纹管密封",
-        "item6": "金属波纹管机械密封"
+    "common": {
+      "readMore": "了解更多",
+      "enquiry": "立即询价"
     },
-    "aboutHero": {
-        "slide1": {
-            "title": "工程卓越\n提供密封完整性",
-            "desc": "在 Maredian Seals，我们设计和制造为现代工业定义可靠性、精准性和性能的机械密封解决方案。",
-            "cta": "探索我们的专业知识",
-            "dwnldbrchr": "下载手册"
-        },
-        "aboutUs": {
-            "title": "关于我们",
-            "tagline": "正确建造。紧密密封。",
-            "paragraph1": "Maredian Seals 成立于重新定义密封解决方案的愿景，是机械密封和密封系统领域的优质制造商、供应商和创新者。",
-            "paragraph2": "我们专注于设计用于在最苛刻的工业条件下运行的定制工程密封解决方案。我们的产品制造精密，确保无泄漏性能、耐用性和长使用寿命。",
-            "paragraph3": "凭借熟练的工程师团队、先进的制造实践和对质量的高度关注，我们提供的解决方案受到从石油化工和炼油厂到制药、食品加工和水处理等行业的信赖。",
-            "images": {
-                "image1": "机械密封产品",
-                "image2": "制造",
-                "image3": "工程师",
-                "image4": "密封产品",
-                "logo": "马雷迪安标志"
-            }
-        },
-        "strengths": {
-            "title": "我们的优势:",
-            "tagline": "正确建造。紧密密封。",
-            "items": {
-                "precision": {
-                    "title": "精密\n工程",
-                    "alt": "精密工程"
-                },
-                "delivery": {
-                    "title": "准时\n交货",
-                    "alt": "准时交货"
-                },
-                "custom": {
-                    "title": "定制\n解决方案",
-                    "alt": "定制解决方案"
-                },
-                "reliability": {
-                    "title": "可靠性与\n性能",
-                    "alt": "可靠性"
-                }
-            }
-        },
-        "coreValues": {
-            "title": "我们的核心价值观:",
-            "items": {
-                "innovation": {
-                    "title": "创新",
-                    "desc": "通过持续研发推进密封技术。",
-                    "alt": "创新"
-                },
-                "integrity": {
-                    "title": "诚信",
-                    "desc": "透明的关系，诚实的承诺。",
-                    "alt": "诚信"
-                },
-                "precision": {
-                    "title": "精准",
-                    "desc": "每个密封件都制造得完美。",
-                    "alt": "精准"
-                },
-                "sustainability": {
-                    "title": "可持续性",
-                    "desc": "环保材料和节能实践。",
-                    "alt": "可持续性"
-                },
-                "customerFocus": {
-                    "title": "客户至上",
-                    "desc": "围绕您的工业需求设计的解决方案。",
-                    "alt": "客户至上"
-                }
-            }
-        }
+    "about": {
+      "title": "关于马雷迪安密封",
+      "subtitle": "精准. 性能. 完美.",
+      "description": "由充满热情的工程师和有远见的技术专家创立，Maredian Seals 是机械密封技术领域值得信赖的品牌，专注于设计和制造优质密封系统，确保在苛刻条件下实现无泄漏性能。凭借先进技术和数十年经验，我们服务于石油化工、制药、纺织、食品加工、发电和水处理等行业。",
+      "features": {
+        "precision": "精密工程",
+        "delivery": "准时交货",
+        "custom": "定制解决方案",
+        "reliability": "可靠性与性能"
+      },
+      "learnMore": "了解更多关于我们的信息"
     },
-    "productPage": {
-        "hero": {
-            "slide1": {
-                "title": "专为密封而设计。<br>经久耐用。",
-                "desc": "探索我们全系列的精密工程机械密封，专为在每一个工业应用中实现耐用性、效率和完全无泄漏性能而打造。",
-                "ctaExplore": "探索产品",
-                "ctaView": "查看所有产品"
-            }
-        },
-        "allProducts": {
-            "title": "马雷迪安密封<br>产品系列",
-            "all": "所有产品"
-        },
-        "categories": {
-            "pusher-seals": "推压式密封",
-            "single-spring": "单弹簧密封",
-            "multi-spring": "多弹簧密封",
-            "textile-seal": "纺织机械密封",
-            "teflon-bellow": "特氟龙波纹管密封",
-            "metal-bellow": "金属波纹管机械密封",
-            "boiler-feed": "锅炉给水密封",
-            "split-seals": "剖分式密封",
-            "high-pressure": "高压密封",
-            "dry-seals": "干气密封",
-            "cartridge-single": "卡式单作用密封",
-            "cartridge-double": "卡式双作用密封",
-            "thermosyphon-seal-support-system": "热虹吸密封支持系统"
-        },
-        "products": {
-            "readMore": "了解更多 →",
-            "enquiry": "询价 →"
-        },
-        "details": {
-            "back": "← 返回产品列表",
-            "standardStyle": "⚙ 标准样式",
-            "characteristics": "⚙ 密封特性",
-            "operatingLimits": "⚙ 操作限制",
-            "applications": "⚙ 应用领域"
-        },
-        "productDetails": {
-            "pusher-seals": {
-                "standardStyle": [
-                    "端面材料：司太立合金、碳、陶瓷、碳化钨、碳化硅、莱克罗洛伊",
-                    "金属部件：SS 316, SS 304",
-                    "二次密封：弹性体, PTFE"
-                ],
-                "sealCharacteristics": [
-                    "单作用",
-                    "非平衡型",
-                    "内置式",
-                    "依赖于旋转方向"
-                ],
-                "operatingLimits": [
-                    "轴径 D1: 10 mm 至 100 mm",
-                    "压力 P: 08 bar (最大)",
-                    "温度 t: -20°C 至 +200°C",
-                    "速度 V: 20 m/sec"
-                ],
-                "applications": [
-                    "水泵",
-                    "用于中央供暖的循环泵",
-                    "化工流程泵",
-                    "污水和潜水泵"
-                ]
-            },
-            "single-spring": {
-                "standardStyle": [
-                    "端面材料：碳/司太立合金/莱克罗洛伊/陶瓷/碳化硅/等离子喷涂陶瓷",
-                    "金属部件：SS 316, SS 304",
-                    "二次密封：丁腈橡胶, EPDM, 氟橡胶, PTFE"
-                ],
-                "sealCharacteristics": [
-                    "单作用",
-                    "平衡型/非平衡型",
-                    "内置和外置式",
-                    "独立于旋转方向",
-                    "二次密封传递扭矩"
-                ],
-                "operatingLimits": [
-                    "轴径 D1: 10...100 mm",
-                    "压力 P: 10 bar (最大)",
-                    "温度 t: -20°C...+180°C",
-                    "速度 V: 10 m/sec"
-                ],
-                "applications": [
-                    "工业",
-                    "船舶"
-                ]
-            },
-            "multi-spring": {
-                "features": [
-                    "直接滑套式液压平衡密封设计。",
-                    "设计工程中的革命性概念。",
-                    "近乎通用的适用性，可与几乎所有传统密封件和盘根填料互换，无需修改泵或密封腔。",
-                    "无密封引起的轴损伤，节省轴/轴套维修/更换的隐性维护成本。",
-                    "由于高度标准化，价格低于传统密封件。",
-                    "所有尺寸统一的安装尺寸，易于操作。"
-                ],
-                "applicationDataOfSealType707": [
-                    "密封端面：碳, 司太立合金, 等离子喷涂陶瓷, 碳化钨, 碳化硅",
-                    "弹性体：EPDM, 氯丁橡胶, 氟橡胶, TEV, Kalrez",
-                    "尺寸范围：16 至 150mm",
-                    "压力：35 bar",
-                    "温度：205°C"
-                ],
-                "applications": [
-                    "工业",
-                    "船舶"
-                ],
-                "applicationDataOfSealType808": [
-                    "密封端面：碳, 司太立合金, 等离子喷涂陶瓷, 碳化钨, 碳化硅",
-                    "弹性体：氟橡胶®, 氯丁橡胶, Kalrez®, EPDM, TEV",
-                    "尺寸范围：108mm 至 150mm",
-                    "压力：35 bar",
-                    "温度：205°C"
-                ]
-            },
-            "textile-seal": {
-                "materialOfConstruction": [
-                    "密封端面：碳, 碳化硅, 碳化钨, 铬铸钢及适用于流体的材料",
-                    "弹性体：氟橡胶, EPDM, 硅橡胶, Aflas, PTFE, 海帕伦",
-                    "硬件：SS 316, 哈氏合金 C, 蒙乃尔, 合金 20"
-                ],
-                "toBeUseFor": [
-                    "苛性碱",
-                    "酸性",
-                    "碳酸氢钠"
-                ],
-                "operatingLimits": [
-                    "轴径：根据机器要求",
-                    "压力：正常",
-                    "温度：正常"
-                ],
-                "partOfIdentification": [
-                    "旋转环 (密封环)",
-                    "静止环 (配合环)",
-                    "弹性体",
-                    "弹簧",
-                    "其他硬件"
-                ]
-            },
-            "teflon-bellow": {
-                "standardStyle": [
-                    "端面材料：GFT / CFT / 碳化硅 / 陶瓷",
-                    "金属部件：SS 316, SS 304, 哈氏合金-C",
-                    "弹簧：特氟龙涂层弹簧钢, S.S.316, S.S.304, 哈氏合金-C",
-                    "二次密封：PTFE 波纹管"
-                ],
-                "sealCharacteristics": [
-                    "单作用",
-                    "外置式",
-                    "多弹簧和单弹簧设计",
-                    "独立于旋转方向"
-                ],
-                "operatingLimits": [
-                    "轴径 d1: 19 mm 至 150 mm",
-                    "压力 p: 6 bar (最大)",
-                    "温度 t: -45°C 至 +120°C",
-                    "速度 v: 16 m/sec"
-                ],
-                "applications": [
-                    "极度腐蚀性介质"
-                ]
-            },
-            "metal-bellow": {
-                "materials": [
-                    "端面：碳, 碳化硅, 碳化钨",
-                    "弹性体：石墨, 全氟, FEP",
-                    "硬件：SS-316, AM-350, 哈氏合金-C, 合金-20"
-                ],
-                "operatings": [
-                    "压力：25 bar",
-                    "温度：-40°C 至 350°C",
-                    "速度：20 m/s",
-                    "尺寸：25 mm 至 100mm"
-                ],
-                "application": [
-                    "高温, 碳氢化合物及关键工况"
-                ]
-            },
-            "boiler-feed": {
-                "standardStyle": [
-                    "端面材料：司太立合金, 碳, 陶瓷, 碳化钨, 碳化硅, 莱克罗洛伊",
-                    "金属部件：SS 316, SS 304",
-                    "二次密封：弹性体"
-                ],
-                "sealCharacteristics": [
-                    "单作用",
-                    "平衡型",
-                    "内置式",
-                    "依赖于旋转方向"
-                ],
-                "operatingLimits": [
-                    "轴径 d: 65...150 mm",
-                    "压力 p: 50...140 bar (最大)",
-                    "温度 t: -20°C...+250°C (API 23 方案)",
-                    "速度 v: 超过 50 m/sec"
-                ],
-                "application": [
-                    "锅炉给水泵",
-                    "HSD 泵",
-                    "增压泵",
-                    "滴油泵",
-                    "冷凝泵",
-                    "燃油泵"
-                ]
-            },
-            "split-seals": {
-                "standardStyle": [
-                    "端面材料：碳 / 碳化硅 / 陶瓷",
-                    "金属部件：SS 316, SS 304",
-                    "二次密封：弹性体"
-                ],
-                "sealCharacteristics": [
-                    "全剖分部件",
-                    "易于安装",
-                    "平衡型密封端面"
-                ],
-                "operatingLimits": [
-                    "轴径 d: 50...200 mm",
-                    "压力 p: 15 bar (最大)",
-                    "温度 t: 常温...140°C",
-                    "轴转速：3600 rpm(最大)"
-                ],
-                "applications": [
-                    "公用工程泵",
-                    "输送泵",
-                    "搅拌器和容器 (作为干运行密封)"
-                ]
-            },
-            "high-pressure": {
-                "standardStyle": [
-                    "端面材料：碳 / 碳化硅 / 碳化钨",
-                    "金属部件：SS 316, SS 304, 哈氏合金-C, 钛, 合金-20, 蒙乃尔",
-                    "二次密封：弹性体"
-                ],
-                "operatingLimits": [
-                    "轴径 d1: 25...115 mm",
-                    "压力 p: 25...150 bar",
-                    "温度 t: 40...180°C",
-                    "速度 v: 20 m/sec"
-                ],
-                "sealCharacteristics": [
-                    "单作用",
-                    "平衡型",
-                    "内置式",
-                    "独立于旋转方向",
-                    "多弹簧设计",
-                    "坚固的驱动机制"
-                ],
-                "application": [
-                    "输油管线泵",
-                    "锅炉给水泵"
-                ]
-            },
-            "dry-seals": {
-                "materials": [
-                    "壳体：不锈钢",
-                    "与产品接触的部件：不锈钢, 哈氏合金, 钛, 特殊材料",
-                    "密封环：碳, 碳化硅, 碳化钨等",
-                    "O型圈：氟橡胶, EPDM, 全氟弹性体, 特殊弹性材料",
-                    "FDA 认证：所有与产品接触的部件均可提供"
-                ],
-                "applications": [
-                    "烟气脱硫",
-                    "湿法冶金",
-                    "制药",
-                    "生物技术"
-                ],
-                "applicationLimits": [
-                    "容器压力：真空 …16 bar (绝对压力)",
-                    "容器温度：-50 … +200°C",
-                    "轴径尺寸：40 … 300 mm",
-                    "滑动速度：5 m/s"
-                ]
-            },
-            "cartridge-single": {
-                "standardStyle": [
-                    "端面材料：碳化钨和陶瓷",
-                    "金属部件：SS 316, SS 304, 哈氏合金-C, 哈氏合金-B, 蒙乃尔, 合金-20",
-                    "二次密封：弹性体, TCV, PTFE"
-                ],
-                "sealCharacteristics": [
-                    "单作用",
-                    "反向平衡型",
-                    "外置式",
-                    "独立于旋转方向",
-                    "干运行"
-                ],
-                "operatingLimits": [
-                    "轴径 d: 15...150 mm",
-                    "压力 p: 真空...8 bar (最大)",
-                    "温度 t: 常温...120°C(最大)",
-                    "转速 n: 320 rpm"
-                ],
-                "applications": [
-                    "食品",
-                    "药品"
-                ]
-            },
-            "cartridge-double": {
-                "standardStyle": [
-                    "端面材料：碳, 陶瓷, 碳化硅, 碳化钨, 莱克罗洛伊",
-                    "金属部件：SS 316, SS 304, 碳钢, 哈氏合金-B, 哈氏合金-C, 蒙乃尔, 合金-20",
-                    "二次密封：内侧-PTFE, GFT : 外侧-弹性体"
-                ],
-                "sealCharacteristics": [
-                    "背对背双作用密封",
-                    "平衡型",
-                    "卡式单元",
-                    "独立于旋转方向",
-                    "使用加压隔离流体操作"
-                ],
-                "applications": [
-                    "石油化工产品及其蒸汽",
-                    "一般化学品及其蒸汽",
-                    "轻烃及其蒸汽"
-                ],
-                "operatingLimits": [
-                    "轴径 d: 25...150 mm*",
-                    "压力 p: 真空...32 bar (最大)",
-                    "温度 t: 常温...200°C (最大)",
-                    "轴转速 n: 600 rpm (最大)",
-                    "隔离流体压力：容器压力 + 1.5 bar"
-                ]
-            },
-            "thermosyphon-seal-support-system": {
-                "highlights": [
-                    "推荐流量：12 Ltrs/min",
-                    "最高液位：5.5 Ltrs",
-                    "最低液位：3.5 Ltrs"
-                ],
-                "performanceLimits": [
-                    "容量：7.5 升",
-                    "水压测试压力：30 Kg",
-                    "工作压力：20 Kg",
-                    "最高工作温度：180°C",
-                    "冷却盘管换热面积：0.3m²",
-                    "冷却水流量"
-                ],
-                "metalParts": [
-                    "热虹吸罐壳体：碳钢 / SS 316 / SS 304",
-                    "冷却盘管：SS 304 / SS 316"
-                ],
-                "accessories": [
-                    "压力表 (0-40 kg/cm²)",
-                    "用于测量容器压力",
-                    "液位计 - 用于指示容器液位",
-                    "手泵 - 当热虹吸罐处于压力下且液位低时，用于向容器中补充额外的隔离流体"
-                ],
-                "connectionSize": [
-                    "缓冲液入口 - A 1\" NPT",
-                    "缓冲液出口 - B 1/2\" NPT",
-                    "冷却水出口 - D 3/4\" NPT",
-                    "手泵连接 - E 1/4\" NPT (再充填接口)",
-                    "充填接口 - F 1/4\" NPT",
-                    "压力气体接口 - G 1/4\" NPT",
-                    "压力表接口 - H 3/8\" NPT",
-                    "排液口 - 1/2\" NPT",
-                    "安全阀接口 - J 1/2\" NPT"
-                ]
-            }
-        }
+    "industries": {
+      "title": "我们服务的行业",
+      "subtitle": "我们的机械密封在要求最苛刻的工业环境中也能可靠运行。"
     },
-    "servicePage": {
-        "hero": {
-            "title": "端到端密封解决方案，<br>为可靠性而设计。",
-            "description": "从设计到交付，我们提供全面的密封服务，确保性能、使用寿命和完全无泄漏的可靠性。",
-            "cta": "请求咨询",
-            "viewProducts": "查看所有产品"
-        },
-        "industries": {
-            "title": "我们服务的行业",
-            "subtitle": "在多个工业领域提供卓越服务",
-            "items": {
-                "petrochemical": "石油化工与炼油",
-                "powerPlants": "发电厂与能源",
-                "oilGas": "石油与天然气",
-                "pharmaceuticals": "制药",
-                "waterTreatment": "水与废水处理",
-                "foodProcessing": "食品与饮料加工",
-                "textile": "纺织与纸浆工业",
-                "moreIndustries": "更多..."
-            }
-        },
-        "reconditioning": {
-            "title": "翻新与修复服务",
-            "before": "翻新前",
-            "after": "翻新后",
-            "mainTitle": "翻新服务",
-            "paragraph1": "在当今注重成本的工业环境中，降低维护和更换成本变得至关重要。Final Maredian Seals 提供先进的机械密封翻新服务，帮助客户将磨损的密封件恢复到接近新品的性能水平。",
-            "paragraph2": "凭借强大的技术专长和多年的实践经验，我们使用专业技术翻新搅拌器机械密封、金属波纹管密封和各种标准机械密封。我们的服务帮助客户延长密封寿命，减少停机时间，并实现显著的成本节约。",
-            "beforeAfterTitle": "翻新前后对比",
-            "list1": "仔细检查磨损和损坏的密封部件",
-            "list2": "关键部件被修复、再加工和重新组装",
-            "list3": "验证性能以确保与新密封件相当的可靠性",
-            "saveTitle": "通过翻新节省成本 — 不影响性能",
-            "lappingTitle": "研磨与抛光",
-            "lappingPara1": "无泄漏密封取决于精确的研磨和抛光。我们使用高级研磨剂和专用化学品来实现卓越的表面光洁度。",
-            "lappingPara2": "密封端面平面度在单色氦光下检查，确保精度、耐用性和可靠性能。",
-            "supportTitle": "售后服务支持",
-            "supportPara": "我们训练有素的服务工程师提供快速响应、技术支持和正宗备件，以高效解决服务问题。我们还指导客户维护团队进行顺利处理和紧急情况应对。",
-            "packingTitle": "包装与培训",
-            "packingPara": "所有密封部件都经过多层保护包装，以防止在运输过程中损坏。我们还为客户团队提供技术培训和演示，帮助他们提高密封件处理和故障排除技能。"
-        }
-    },
-    "contactPage": {
-        "heading": "取得联系",
-        "tagline": "让我们携手共建<br>无泄漏解决方案。",
-        "headOffice": {
-            "iconAlt": "位置图标",
-            "title": "总部",
-            "address": "Gala.No. 6/7 Balaji Industrial Estate 5/B S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208"
-        },
-        "phone": {
-            "iconAlt": "电话图标",
-            "title": "联系我们",
-            "number": "+91 9561444777"
-        },
-        "email": {
-            "iconAlt": "电子邮件图标",
-            "title": "发送邮件",
-            "address": "info@maredianseals.com"
-        },
-        "workingHours": {
-            "monSatLabel": "周一至周六:",
-            "monSatTime": "上午 9:00 – 下午 7:00",
-            "sunLabel": "周日:",
-            "sunTime": "休息"
-        },
-        "social": {
-            "heading": "关注我们的社交媒体:",
-            "facebook": "脸书",
-            "linkedin": "领英",
-            "whatsapp": "WhatsApp",
-            "instagram": "Instagram"
-        },
-        "form": {
-            "heading": "询价",
-            "companyNameLabel": "公司名称",
-            "companyNamePlaceholder": "输入您的公司名称",
-            "yourNameLabel": "姓名",
-            "yourNamePlaceholder": "输入您的姓名",
-            "contactDetailsLabel": "联系方式",
-            "contactDetailsPlaceholder": "输入电话号码",
-            "emailLabel": "电子邮件",
-            "emailPlaceholder": "输入电子邮件地址",
-            "productSelectLabel": "产品选择",
-            "productSelectPlaceholder": "选择产品",
-            "addressLabel": "地址/城市/地点",
-            "addressPlaceholder": "输入地址",
-            "questionLabel": "问题或要求",
-            "questionPlaceholder": "输入您的信息",
-            "submitBtn": "发送"
-        },
-        "map": {
-            "iframeAlt": "公司位置地图"
-        }
-    },
-    "footer": {
-        "address": "Gala.No. 6/7 Balaji Industrial Estate 5/B S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208",
-        "follow": "关注我们:",
-        "quickLinks": "快速链接",
-        "productsTitle": "我们的产品",
-        "links": {
-            "home": "首页",
-            "about": "关于我们",
-            "products": "产品中心",
-            "services": "服务",
-            "quality": "质量",
-            "contact": "联系我们"
-        },
-        "products": {
-            "pusher": "推压式密封",
-            "single": "单弹簧密封",
-            "multi": "多弹簧密封",
-            "textile": "纺织机械密封",
-            "teflon": "特氟龙波纹管密封",
-            "metal": "金属波纹管机械密封",
-            "splitSeals": "剖分式密封",
-            "boilerFeedWaterSeals": "锅炉给水密封",
-            "highPressureSeal": "高压密封",
-            "drySeals": "干气密封",
-            "cartridgeSingleActing": "卡式单作用密封",
-            "cartridgeDoubleActing": "卡式双作用密封",
-            "thermosyphonSealSupportSystem": "热虹吸密封支持系统"
-        },
-        "copyright": "© 2026 马雷迪安密封. 版权所有. | 隐私政策 | 条款与条件"
+    "whyChoose": {
+      "title": "为什么选择马雷迪安密封",
+      "items": {
+        "delivery": "快速交货\n及技术支持",
+        "expertise": "经过验证的\n工程专业知识",
+        "leakproof": "100% 无泄漏\n性能保证",
+        "trusted": "受到跨行业\n客户的信赖",
+        "manufacturing": "精密制造\n标准"
+      }
     }
+  },
+  "ticker": {
+    "item1": "推压式密封",
+    "item2": "单弹簧密封",
+    "item3": "多弹簧密封",
+    "item4": "纺织机械密封",
+    "item5": "特氟龙波纹管密封",
+    "item6": "金属波纹管机械密封"
+  },
+  "aboutHero": {
+    "slide1": {
+      "title": "工程卓越\n提供密封完整性",
+      "desc": "在 Maredian Seals，我们设计和制造为现代工业定义可靠性、精准性和性能的机械密封解决方案。",
+      "cta": "探索我们的专业知识",
+      "dwnldbrchr": "下载手册"
+    },
+    "aboutUs": {
+      "title": "关于我们",
+      "tagline": "正确建造。紧密密封。",
+      "paragraph1": "Maredian Seals 成立于重新定义密封解决方案的愿景，是机械密封和密封系统领域的优质制造商、供应商和创新者。",
+      "paragraph2": "我们专注于设计用于在最苛刻的工业条件下运行的定制工程密封解决方案。我们的产品制造精密，确保无泄漏性能、耐用性和长使用寿命。",
+      "paragraph3": "凭借熟练的工程师团队、先进的制造实践和对质量的高度关注，我们提供的解决方案受到从石油化工和炼油厂到制药、食品加工和水处理等行业的信赖。",
+      "images": {
+        "image1": "机械密封产品",
+        "image2": "制造",
+        "image3": "工程师",
+        "image4": "密封产品",
+        "logo": "马雷迪安标志"
+      }
+    },
+    "strengths": {
+      "title": "我们的优势:",
+      "tagline": "正确建造。紧密密封。",
+      "items": {
+        "precision": {
+          "title": "精密\n工程",
+          "alt": "精密工程"
+        },
+        "delivery": {
+          "title": "准时\n交货",
+          "alt": "准时交货"
+        },
+        "custom": {
+          "title": "定制\n解决方案",
+          "alt": "定制解决方案"
+        },
+        "reliability": {
+          "title": "可靠性与\n性能",
+          "alt": "可靠性"
+        }
+      }
+    },
+    "coreValues": {
+      "title": "我们的核心价值观:",
+      "items": {
+        "innovation": {
+          "title": "创新",
+          "desc": "通过持续研发推进密封技术。",
+          "alt": "创新"
+        },
+        "integrity": {
+          "title": "诚信",
+          "desc": "透明的关系，诚实的承诺。",
+          "alt": "诚信"
+        },
+        "precision": {
+          "title": "精准",
+          "desc": "每个密封件都制造得完美。",
+          "alt": "精准"
+        },
+        "sustainability": {
+          "title": "可持续性",
+          "desc": "环保材料和节能实践。",
+          "alt": "可持续性"
+        },
+        "customerFocus": {
+          "title": "客户至上",
+          "desc": "围绕您的工业需求设计的解决方案。",
+          "alt": "客户至上"
+        }
+      }
+    }
+  },
+  "productPage": {
+    "hero": {
+      "slide1": {
+        "title": "专为密封而设计。<br>经久耐用。",
+        "desc": "探索我们全系列的精密工程机械密封，专为在每一个工业应用中实现耐用性、效率和完全无泄漏性能而打造。",
+        "ctaExplore": "探索产品",
+        "ctaView": "查看所有产品"
+      }
+    },
+    "allProducts": {
+      "title": "马雷迪安密封<br>产品系列",
+      "all": "所有产品"
+    },
+    "categories": {
+      "pusher-seals": "推压式密封",
+      "single-spring": "单弹簧密封",
+      "multi-spring": "多弹簧密封",
+      "textile-seal": "纺织机械密封",
+      "teflon-bellow": "特氟龙波纹管密封",
+      "metal-bellow": "金属波纹管机械密封",
+      "boiler-feed": "锅炉给水密封",
+      "split-seals": "剖分式密封",
+      "high-pressure": "高压密封",
+      "dry-seals": "干气密封",
+      "cartridge-single": "卡式单作用密封",
+      "cartridge-double": "卡式双作用密封",
+      "thermosyphon-seal-support-system": "热虹吸密封支持系统"
+    },
+    "products": {
+      "readMore": "了解更多 →",
+      "enquiry": "询价 →"
+    },
+    "details": {
+      "back": "← 返回产品列表",
+      "standardStyle": "⚙ 标准样式",
+      "characteristics": "⚙ 密封特性",
+      "operatingLimits": "⚙ 操作限制",
+      "applications": "⚙ 应用领域"
+    },
+    "productDetails": {
+      "pusher-seals": {
+        "standardStyle": [
+          "端面材料：司太立合金、碳、陶瓷、碳化钨、碳化硅、莱克罗洛伊",
+          "金属部件：SS 316, SS 304",
+          "二次密封：弹性体, PTFE"
+        ],
+        "sealCharacteristics": [
+          "单作用",
+          "非平衡型",
+          "内置式",
+          "依赖于旋转方向"
+        ],
+        "operatingLimits": [
+          "轴径 D1: 10 mm 至 100 mm",
+          "压力 P: 08 bar (最大)",
+          "温度 t: -20°C 至 +200°C",
+          "速度 V: 20 m/sec"
+        ],
+        "applications": [
+          "水泵",
+          "用于中央供暖的循环泵",
+          "化工流程泵",
+          "污水和潜水泵"
+        ]
+      },
+      "single-spring": {
+        "standardStyle": [
+          "端面材料：碳/司太立合金/莱克罗洛伊/陶瓷/碳化硅/等离子喷涂陶瓷",
+          "金属部件：SS 316, SS 304",
+          "二次密封：丁腈橡胶, EPDM, 氟橡胶, PTFE"
+        ],
+        "sealCharacteristics": [
+          "单作用",
+          "平衡型/非平衡型",
+          "内置和外置式",
+          "独立于旋转方向",
+          "二次密封传递扭矩"
+        ],
+        "operatingLimits": [
+          "轴径 D1: 10...100 mm",
+          "压力 P: 10 bar (最大)",
+          "温度 t: -20°C...+180°C",
+          "速度 V: 10 m/sec"
+        ],
+        "applications": [
+          "工业",
+          "船舶"
+        ]
+      },
+      "multi-spring": {
+        "features": [
+          "直接滑套式液压平衡密封设计。",
+          "设计工程中的革命性概念。",
+          "近乎通用的适用性，可与几乎所有传统密封件和盘根填料互换，无需修改泵或密封腔。",
+          "无密封引起的轴损伤，节省轴/轴套维修/更换的隐性维护成本。",
+          "由于高度标准化，价格低于传统密封件。",
+          "所有尺寸统一的安装尺寸，易于操作。"
+        ],
+        "applicationDataOfSealType707": [
+          "密封端面：碳, 司太立合金, 等离子喷涂陶瓷, 碳化钨, 碳化硅",
+          "弹性体：EPDM, 氯丁橡胶, 氟橡胶, TEV, Kalrez",
+          "尺寸范围：16 至 150mm",
+          "压力：35 bar",
+          "温度：205°C"
+        ],
+        "applications": [
+          "工业",
+          "船舶"
+        ],
+        "applicationDataOfSealType808": [
+          "密封端面：碳, 司太立合金, 等离子喷涂陶瓷, 碳化钨, 碳化硅",
+          "弹性体：氟橡胶®, 氯丁橡胶, Kalrez®, EPDM, TEV",
+          "尺寸范围：108mm 至 150mm",
+          "压力：35 bar",
+          "温度：205°C"
+        ]
+      },
+      "textile-seal": {
+        "materialOfConstruction": [
+          "密封端面：碳, 碳化硅, 碳化钨, 铬铸钢及适用于流体的材料",
+          "弹性体：氟橡胶, EPDM, 硅橡胶, Aflas, PTFE, 海帕伦",
+          "硬件：SS 316, 哈氏合金 C, 蒙乃尔, 合金 20"
+        ],
+        "toBeUseFor": [
+          "苛性碱",
+          "酸性",
+          "碳酸氢钠"
+        ],
+        "operatingLimits": [
+          "轴径：根据机器要求",
+          "压力：正常",
+          "温度：正常"
+        ],
+        "partOfIdentification": [
+          "旋转环 (密封环)",
+          "静止环 (配合环)",
+          "弹性体",
+          "弹簧",
+          "其他硬件"
+        ]
+      },
+      "teflon-bellow": {
+        "standardStyle": [
+          "端面材料：GFT / CFT / 碳化硅 / 陶瓷",
+          "金属部件：SS 316, SS 304, 哈氏合金-C",
+          "弹簧：特氟龙涂层弹簧钢, S.S.316, S.S.304, 哈氏合金-C",
+          "二次密封：PTFE 波纹管"
+        ],
+        "sealCharacteristics": [
+          "单作用",
+          "外置式",
+          "多弹簧和单弹簧设计",
+          "独立于旋转方向"
+        ],
+        "operatingLimits": [
+          "轴径 d1: 19 mm 至 150 mm",
+          "压力 p: 6 bar (最大)",
+          "温度 t: -45°C 至 +120°C",
+          "速度 v: 16 m/sec"
+        ],
+        "applications": [
+          "极度腐蚀性介质"
+        ]
+      },
+      "metal-bellow": {
+        "materials": [
+          "端面：碳, 碳化硅, 碳化钨",
+          "弹性体：石墨, 全氟, FEP",
+          "硬件：SS-316, AM-350, 哈氏合金-C, 合金-20"
+        ],
+        "operatings": [
+          "压力：25 bar",
+          "温度：-40°C 至 350°C",
+          "速度：20 m/s",
+          "尺寸：25 mm 至 100mm"
+        ],
+        "application": [
+          "高温, 碳氢化合物及关键工况"
+        ]
+      },
+      "boiler-feed": {
+        "standardStyle": [
+          "端面材料：司太立合金, 碳, 陶瓷, 碳化钨, 碳化硅, 莱克罗洛伊",
+          "金属部件：SS 316, SS 304",
+          "二次密封：弹性体"
+        ],
+        "sealCharacteristics": [
+          "单作用",
+          "平衡型",
+          "内置式",
+          "依赖于旋转方向"
+        ],
+        "operatingLimits": [
+          "轴径 d: 65...150 mm",
+          "压力 p: 50...140 bar (最大)",
+          "温度 t: -20°C...+250°C (API 23 方案)",
+          "速度 v: 超过 50 m/sec"
+        ],
+        "application": [
+          "锅炉给水泵",
+          "HSD 泵",
+          "增压泵",
+          "滴油泵",
+          "冷凝泵",
+          "燃油泵"
+        ]
+      },
+      "split-seals": {
+        "standardStyle": [
+          "端面材料：碳 / 碳化硅 / 陶瓷",
+          "金属部件：SS 316, SS 304",
+          "二次密封：弹性体"
+        ],
+        "sealCharacteristics": [
+          "全剖分部件",
+          "易于安装",
+          "平衡型密封端面"
+        ],
+        "operatingLimits": [
+          "轴径 d: 50...200 mm",
+          "压力 p: 15 bar (最大)",
+          "温度 t: 常温...140°C",
+          "轴转速：3600 rpm(最大)"
+        ],
+        "applications": [
+          "公用工程泵",
+          "输送泵",
+          "搅拌器和容器 (作为干运行密封)"
+        ]
+      },
+      "high-pressure": {
+        "standardStyle": [
+          "端面材料：碳 / 碳化硅 / 碳化钨",
+          "金属部件：SS 316, SS 304, 哈氏合金-C, 钛, 合金-20, 蒙乃尔",
+          "二次密封：弹性体"
+        ],
+        "operatingLimits": [
+          "轴径 d1: 25...115 mm",
+          "压力 p: 25...150 bar",
+          "温度 t: 40...180°C",
+          "速度 v: 20 m/sec"
+        ],
+        "sealCharacteristics": [
+          "单作用",
+          "平衡型",
+          "内置式",
+          "独立于旋转方向",
+          "多弹簧设计",
+          "坚固的驱动机制"
+        ],
+        "application": [
+          "输油管线泵",
+          "锅炉给水泵"
+        ]
+      },
+      "dry-seals": {
+        "materials": [
+          "壳体：不锈钢",
+          "与产品接触的部件：不锈钢, 哈氏合金, 钛, 特殊材料",
+          "密封环：碳, 碳化硅, 碳化钨等",
+          "O型圈：氟橡胶, EPDM, 全氟弹性体, 特殊弹性材料",
+          "FDA 认证：所有与产品接触的部件均可提供"
+        ],
+        "applications": [
+          "烟气脱硫",
+          "湿法冶金",
+          "制药",
+          "生物技术"
+        ],
+        "applicationLimits": [
+          "容器压力：真空 …16 bar (绝对压力)",
+          "容器温度：-50 … +200°C",
+          "轴径尺寸：40 … 300 mm",
+          "滑动速度：5 m/s"
+        ]
+      },
+      "cartridge-single": {
+        "standardStyle": [
+          "端面材料：碳化钨和陶瓷",
+          "金属部件：SS 316, SS 304, 哈氏合金-C, 哈氏合金-B, 蒙乃尔, 合金-20",
+          "二次密封：弹性体, TCV, PTFE"
+        ],
+        "sealCharacteristics": [
+          "单作用",
+          "反向平衡型",
+          "外置式",
+          "独立于旋转方向",
+          "干运行"
+        ],
+        "operatingLimits": [
+          "轴径 d: 15...150 mm",
+          "压力 p: 真空...8 bar (最大)",
+          "温度 t: 常温...120°C(最大)",
+          "转速 n: 320 rpm"
+        ],
+        "applications": [
+          "食品",
+          "药品"
+        ]
+      },
+      "cartridge-double": {
+        "standardStyle": [
+          "端面材料：碳, 陶瓷, 碳化硅, 碳化钨, 莱克罗洛伊",
+          "金属部件：SS 316, SS 304, 碳钢, 哈氏合金-B, 哈氏合金-C, 蒙乃尔, 合金-20",
+          "二次密封：内侧-PTFE, GFT : 外侧-弹性体"
+        ],
+        "sealCharacteristics": [
+          "背对背双作用密封",
+          "平衡型",
+          "卡式单元",
+          "独立于旋转方向",
+          "使用加压隔离流体操作"
+        ],
+        "applications": [
+          "石油化工产品及其蒸汽",
+          "一般化学品及其蒸汽",
+          "轻烃及其蒸汽"
+        ],
+        "operatingLimits": [
+          "轴径 d: 25...150 mm*",
+          "压力 p: 真空...32 bar (最大)",
+          "温度 t: 常温...200°C (最大)",
+          "轴转速 n: 600 rpm (最大)",
+          "隔离流体压力：容器压力 + 1.5 bar"
+        ]
+      },
+      "thermosyphon-seal-support-system": {
+        "highlights": [
+          "推荐流量：12 Ltrs/min",
+          "最高液位：5.5 Ltrs",
+          "最低液位：3.5 Ltrs"
+        ],
+        "performanceLimits": [
+          "容量：7.5 升",
+          "水压测试压力：30 Kg",
+          "工作压力：20 Kg",
+          "最高工作温度：180°C",
+          "冷却盘管换热面积：0.3m²",
+          "冷却水流量"
+        ],
+        "metalParts": [
+          "热虹吸罐壳体：碳钢 / SS 316 / SS 304",
+          "冷却盘管：SS 304 / SS 316"
+        ],
+        "accessories": [
+          "压力表 (0-40 kg/cm²)",
+          "用于测量容器压力",
+          "液位计 - 用于指示容器液位",
+          "手泵 - 当热虹吸罐处于压力下且液位低时，用于向容器中补充额外的隔离流体"
+        ],
+        "connectionSize": [
+          "缓冲液入口 - A 1\" NPT",
+          "缓冲液出口 - B 1/2\" NPT",
+          "冷却水出口 - D 3/4\" NPT",
+          "手泵连接 - E 1/4\" NPT (再充填接口)",
+          "充填接口 - F 1/4\" NPT",
+          "压力气体接口 - G 1/4\" NPT",
+          "压力表接口 - H 3/8\" NPT",
+          "排液口 - 1/2\" NPT",
+          "安全阀接口 - J 1/2\" NPT"
+        ]
+      }
+    }
+  },
+  "servicePage": {
+    "hero": {
+      "title": "端到端密封解决方案，<br>为可靠性而设计。",
+      "description": "从设计到交付，我们提供全面的密封服务，确保性能、使用寿命和完全无泄漏的可靠性。",
+      "cta": "请求咨询",
+      "viewProducts": "查看所有产品"
+    },
+    "industries": {
+      "title": "我们服务的行业",
+      "subtitle": "在多个工业领域提供卓越服务",
+      "items": {
+        "petrochemical": "石油化工与炼油",
+        "powerPlants": "发电厂与能源",
+        "oilGas": "石油与天然气",
+        "pharmaceuticals": "制药",
+        "waterTreatment": "水与废水处理",
+        "foodProcessing": "食品与饮料加工",
+        "textile": "纺织与纸浆工业",
+        "moreIndustries": "更多..."
+      }
+    },
+    "reconditioning": {
+      "title": "翻新与修复服务",
+      "before": "翻新前",
+      "after": "翻新后",
+      "mainTitle": "翻新服务",
+      "paragraph1": "在当今注重成本的工业环境中，降低维护和更换成本变得至关重要。Final Maredian Seals 提供先进的机械密封翻新服务，帮助客户将磨损的密封件恢复到接近新品的性能水平。",
+      "paragraph2": "凭借强大的技术专长和多年的实践经验，我们使用专业技术翻新搅拌器机械密封、金属波纹管密封和各种标准机械密封。我们的服务帮助客户延长密封寿命，减少停机时间，并实现显著的成本节约。",
+      "beforeAfterTitle": "翻新前后对比",
+      "list1": "仔细检查磨损和损坏的密封部件",
+      "list2": "关键部件被修复、再加工和重新组装",
+      "list3": "验证性能以确保与新密封件相当的可靠性",
+      "saveTitle": "通过翻新节省成本 — 不影响性能",
+      "lappingTitle": "研磨与抛光",
+      "lappingPara1": "无泄漏密封取决于精确的研磨和抛光。我们使用高级研磨剂和专用化学品来实现卓越的表面光洁度。",
+      "lappingPara2": "密封端面平面度在单色氦光下检查，确保精度、耐用性和可靠性能。",
+      "supportTitle": "售后服务支持",
+      "supportPara": "我们训练有素的服务工程师提供快速响应、技术支持和正宗备件，以高效解决服务问题。我们还指导客户维护团队进行顺利处理和紧急情况应对。",
+      "packingTitle": "包装与培训",
+      "packingPara": "所有密封部件都经过多层保护包装，以防止在运输过程中损坏。我们还为客户团队提供技术培训和演示，帮助他们提高密封件处理和故障排除技能。"
+    }
+  },
+  "contactPage": {
+    "heading": "取得联系",
+    "tagline": "让我们携手共建<br>无泄漏解决方案。",
+    "headOffice": {
+      "iconAlt": "位置图标",
+      "title": "总部",
+      "address": "Gala.No. 6/7 Balaji Industrial Estate 5/B S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208"
+    },
+    "phone": {
+      "iconAlt": "电话图标",
+      "title": "联系我们",
+      "number": "+91 9561444777"
+    },
+    "email": {
+      "iconAlt": "电子邮件图标",
+      "title": "发送邮件",
+      "address": "info@maredianseals.com"
+    },
+    "workingHours": {
+      "monSatLabel": "周一至周六:",
+      "monSatTime": "上午 9:00 – 下午 7:00",
+      "sunLabel": "周日:",
+      "sunTime": "休息"
+    },
+    "social": {
+      "heading": "关注我们的社交媒体:",
+      "facebook": "脸书",
+      "linkedin": "领英",
+      "whatsapp": "WhatsApp",
+      "instagram": "Instagram"
+    },
+    "form": {
+      "heading": "询价",
+      "companyNameLabel": "公司名称",
+      "companyNamePlaceholder": "输入您的公司名称",
+      "yourNameLabel": "姓名",
+      "yourNamePlaceholder": "输入您的姓名",
+      "contactDetailsLabel": "联系方式",
+      "contactDetailsPlaceholder": "输入电话号码",
+      "emailLabel": "电子邮件",
+      "emailPlaceholder": "输入电子邮件地址",
+      "productSelectLabel": "产品选择",
+      "productSelectPlaceholder": "选择产品",
+      "addressLabel": "地址/城市/地点",
+      "addressPlaceholder": "输入地址",
+      "questionLabel": "问题或要求",
+      "questionPlaceholder": "输入您的信息",
+      "submitBtn": "发送"
+    },
+    "map": {
+      "iframeAlt": "公司位置地图"
+    }
+  },
+  "footer": {
+    "address": "Gala.No. 6/7 Balaji Industrial Estate 5/B S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208",
+    "follow": "关注我们:",
+    "quickLinks": "快速链接",
+    "productsTitle": "我们的产品",
+    "links": {
+      "home": "首页",
+      "about": "关于我们",
+      "products": "产品中心",
+      "services": "服务",
+      "quality": "质量",
+      "contact": "联系我们"
+    },
+    "products": {
+      "pusher": "推压式密封",
+      "single": "单弹簧密封",
+      "multi": "多弹簧密封",
+      "textile": "纺织机械密封",
+      "teflon": "特氟龙波纹管密封",
+      "metal": "金属波纹管机械密封",
+      "splitSeals": "剖分式密封",
+      "boilerFeedWaterSeals": "锅炉给水密封",
+      "highPressureSeal": "高压密封",
+      "drySeals": "干气密封",
+      "cartridgeSingleActing": "卡式单作用密封",
+      "cartridgeDoubleActing": "卡式双作用密封",
+      "thermosyphonSealSupportSystem": "热虹吸密封支持系统"
+    },
+    "copyright": "© 2026 马雷迪安密封. 版权所有. | 隐私政策 | 条款与条件"
+  }
 }

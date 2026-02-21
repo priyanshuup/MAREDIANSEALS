@@ -1,651 +1,658 @@
 {
-    "topBar": {
-        "phone1": "+91 9561444777",
-        "phone2": "+91 9730444777",
-        "email": "info@maredianseals.com",
-        "address": "Gala.No. 6/7 Balaji Industrial Estate 5/B S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208",
-        "follow": "Bizi Takip Edin:"
+  "head": {
+    "titleHome": "ANA SAYFA",
+    "titleAbout": "HAKKIMIZDA",
+    "titleProducts": "ÜRÜNLER",
+    "titleServices": "HİZMETLER",
+    "titleContact": "İLETİŞİM"
+  },
+  "topBar": {
+    "phone1": "+91 9561444777",
+    "phone2": "+91 9730444777",
+    "email": "info@maredianseals.com",
+    "address": "Gala.No. 6/7 Balaji Industrial Estate 5/B S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208",
+    "follow": "Bizi Takip Edin:"
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "products": "Ürünler",
+    "services": "Hizmetler",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "slide1": {
+      "title": "Hassasiyet ve Performansla Geleceği Sızdırmaz Hale Getirmek",
+      "desc": "Zorlu uygulamalarda güvenilirlik ve verimlilik için tasarlanmış sektör lideri mekanik salmastralar.",
+      "cta": "Ürünleri Keşfedin"
     },
-    "nav": {
-        "home": "Ana Sayfa",
-        "about": "Hakkımızda",
-        "products": "Ürünler",
-        "services": "Hizmetler",
-        "contact": "İletişim"
+    "slide2": {
+      "title": "Mekanik Sızdırmazlık Çözümlerinde Yenilik",
+      "desc": "Dünya çapında endüstriyel uygulamalarda maksimum performans için tasarlanmış üstün kaliteli salmastralar.",
+      "cta": "Daha Fazla Bilgi"
     },
-    "hero": {
-        "slide1": {
-            "title": "Hassasiyet ve Performansla Geleceği Sızdırmaz Hale Getirmek",
-            "desc": "Zorlu uygulamalarda güvenilirlik ve verimlilik için tasarlanmış sektör lideri mekanik salmastralar.",
-            "cta": "Ürünleri Keşfedin"
+    "products": {
+      "sectionTitle": "GELİŞMİŞ SIZDIRMAZLIK ÇÖZÜMLERİ",
+      "sectionDesc": "En zorlu koşullar altında tutarlı performans sunmak üzere üretilmiş geniş ürün yelpazemizdeki mekanik salmastra, döner rakor ve bileşenleri keşfedin.",
+      "items": {
+        "pusher": {
+          "title": "İtici Tip Salmastralar",
+          "desc": "Yüzey Malzemeleri: Stellit, Karbon, Seramik, Tungsten Karbür, Silisyum Karbür, Lekroloy"
         },
-        "slide2": {
-            "title": "Mekanik Sızdırmazlık Çözümlerinde Yenilik",
-            "desc": "Dünya çapında endüstriyel uygulamalarda maksimum performans için tasarlanmış üstün kaliteli salmastralar.",
-            "cta": "Daha Fazla Bilgi"
+        "textile": {
+          "title": "Tekstil Salmastrası",
+          "desc": "Yüzey Malzemeleri: Karbon, Silisyum Karbür, Tungsten Karbür, Krom Dökme Çelik ve akışkana uygun malzemeler"
         },
-        "products": {
-            "sectionTitle": "GELİŞMİŞ SIZDIRMAZLIK ÇÖZÜMLERİ",
-            "sectionDesc": "En zorlu koşullar altında tutarlı performans sunmak üzere üretilmiş geniş ürün yelpazemizdeki mekanik salmastra, döner rakor ve bileşenleri keşfedin.",
-            "items": {
-                "pusher": {
-                    "title": "İtici Tip Salmastralar",
-                    "desc": "Yüzey Malzemeleri: Stellit, Karbon, Seramik, Tungsten Karbür, Silisyum Karbür, Lekroloy"
-                },
-                "textile": {
-                    "title": "Tekstil Salmastrası",
-                    "desc": "Yüzey Malzemeleri: Karbon, Silisyum Karbür, Tungsten Karbür, Krom Dökme Çelik ve akışkana uygun malzemeler"
-                },
-                "singleSpring": {
-                    "title": "Tek Yaylı Salmastra",
-                    "desc": "Yüzey Malzemeleri: Karbon, Stellit, Lekroloy, Seramik, Silisyum Karbür, Plazma Püskürtmeli Seramik"
-                },
-                "multiSpring": {
-                    "title": "Çok Yaylı Salmastra",
-                    "desc": "Yüzey Malzemeleri: Karbon, Stellit, Plazma Püskürtmeli Seramik, Seramik, Tungsten Karbür, Silisyum Karbür"
-                }
-            }
+        "singleSpring": {
+          "title": "Tek Yaylı Salmastra",
+          "desc": "Yüzey Malzemeleri: Karbon, Stellit, Lekroloy, Seramik, Silisyum Karbür, Plazma Püskürtmeli Seramik"
         },
-        "common": {
-            "readMore": "DAHA FAZLA BİLGİ",
-            "enquiry": "Şimdi Teklif Alın"
-        },
-        "about": {
-            "title": "MAREDIAN SEALS HAKKINDA",
-            "subtitle": "Hassasiyet. Performans. Mükemmellik.",
-            "description": "Tutkulu mühendisler ve vizyoner teknokratlar tarafından kurulan Maredian Seals, zorlu koşullar altında sızdırmaz performansı garanti eden birinci sınıf sızdırmazlık sistemlerinin tasarımı ve imalatında uzmanlaşmış, mekanik salmastra teknolojisinde güvenilir bir isimdir. İleri teknoloji ve onlarca yıllık uzmanlıkla petrokimya, ilaç, tekstil, gıda işleme, enerji üretimi ve su arıtma dahil olmak üzere çeşitli endüstrilere hizmet vermekteyiz.",
-            "features": {
-                "precision": "Hassas Mühendislik",
-                "delivery": "Zamanında Teslimat",
-                "custom": "Özel Çözümler",
-                "reliability": "Güvenilirlik ve Performans"
-            },
-            "learnMore": "Hakkımızda Daha Fazla Bilgi"
-        },
-        "industries": {
-            "title": "HİZMET VERDİĞİMİZ SEKTÖRLER",
-            "subtitle": "Mekanik salmastralarımız, en zorlu endüstriyel ortamların bazılarında güvenilir bir şekilde çalışır."
-        },
-        "whyChoose": {
-            "title": "NEDEN MAREDIAN SEALS'İ SEÇMELİSİNİZ",
-            "items": {
-                "delivery": "Hızlı Teslimat\nve Teknik Destek",
-                "expertise": "Kanıtlanmış Mühendislik\nUzmanlığı",
-                "leakproof": "%100 Sızdırmaz\nPerformans Garantisi",
-                "trusted": "Sektör Genelinde\nMüşterilerin Güveni",
-                "manufacturing": "Hassas Üretim\nStandartları"
-            }
+        "multiSpring": {
+          "title": "Çok Yaylı Salmastra",
+          "desc": "Yüzey Malzemeleri: Karbon, Stellit, Plazma Püskürtmeli Seramik, Seramik, Tungsten Karbür, Silisyum Karbür"
         }
+      }
     },
-    "ticker": {
-        "item1": "İtici Tip Salmastralar",
-        "item2": "Tek Yaylı Salmastra",
-        "item3": "Çok Yaylı Salmastra",
-        "item4": "Tekstil Salmastrası",
-        "item5": "Teflon Körüklü Salmastralar",
-        "item6": "Metal Körüklü Mekanik Salmastra"
+    "common": {
+      "readMore": "DAHA FAZLA BİLGİ",
+      "enquiry": "Şimdi Teklif Alın"
     },
-    "aboutHero": {
-        "slide1": {
-            "title": "Mühendislik Mükemmelliği\nSızdırmazlık Bütünlüğü Sağlar",
-            "desc": "Maredian Seals'de, modern endüstriler için güvenilirlik, hassasiyet ve performansı tanımlayan mekanik sızdırmazlık çözümleri tasarlıyor ve üretiyoruz.",
-            "cta": "Uzmanlığımızı Keşfedin",
-            "dwnldbrchr": "Broşürü İndir"
-        },
-        "aboutUs": {
-            "title": "HAKKIMIZDA",
-            "tagline": "DOĞRU İNŞA ET. SIKI SIZDIR.",
-            "paragraph1": "Sızdırmazlık çözümlerini yeniden tanımlama vizyonuyla kurulan Maredian Seals, mekanik salmastra ve sızdırmazlık sistemleri alanında birinci sınıf bir üretici, tedarikçi ve yenilikçidir.",
-            "paragraph2": "En zorlu endüstriyel koşullar altında çalışmak üzere tasarlanmış, mühendislik ürünü özel sızdırmazlık çözümlerinde uzmanlaşıyoruz. Ürünlerimiz hassasiyetle üretilir, sızdırmaz performans, dayanıklılık ve uzun hizmet ömrü sağlar.",
-            "paragraph3": "Yetenekli mühendislerden oluşan bir ekip, gelişmiş üretim uygulamaları ve kaliteye güçlü bir odaklanma ile petrokimya ve rafinerilerden ilaç, gıda işleme ve su arıtmaya kadar uzanan endüstriler tarafından güvenilen çözümler sunuyoruz.",
-            "images": {
-                "image1": "Mekanik Salmastra Ürünü",
-                "image2": "Üretim",
-                "image3": "Mühendis",
-                "image4": "Sızdırmazlık Ürünleri",
-                "logo": "Maredian Logo"
-            }
-        },
-        "strengths": {
-            "title": "GÜÇLÜ YANLARIMIZ:",
-            "tagline": "Doğru inşa et. Sıkı sızdır.",
-            "items": {
-                "precision": {
-                    "title": "HASSAS\nMÜHENDİSLİK",
-                    "alt": "Hassas Mühendislik"
-                },
-                "delivery": {
-                    "title": "ZAMANINDA\nTESLİMAT",
-                    "alt": "Zamanında Teslimat"
-                },
-                "custom": {
-                    "title": "ÖZEL\nÇÖZÜMLER",
-                    "alt": "Özel Çözümler"
-                },
-                "reliability": {
-                    "title": "GÜVENİLİRLİK VE\nPERFORMANS",
-                    "alt": "Güvenilirlik"
-                }
-            }
-        },
-        "coreValues": {
-            "title": "TEMEL DEĞERLERİMİZ:",
-            "items": {
-                "innovation": {
-                    "title": "Yenilikçilik",
-                    "desc": "Sürekli Ar-Ge ile sızdırmazlık teknolojisini ilerletmek.",
-                    "alt": "Yenilikçilik"
-                },
-                "integrity": {
-                    "title": "Dürüstlük",
-                    "desc": "Şeffaf ilişkiler, dürüst taahhütler.",
-                    "alt": "Dürüstlük"
-                },
-                "precision": {
-                    "title": "Hassasiyet",
-                    "desc": "Her salmastra mükemmel bir şekilde üretilir.",
-                    "alt": "Hassasiyet"
-                },
-                "sustainability": {
-                    "title": "Sürdürülebilirlik",
-                    "desc": "Çevre dostu malzemeler ve enerji bilincine sahip uygulamalar.",
-                    "alt": "Sürdürülebilirlik"
-                },
-                "customerFocus": {
-                    "title": "Müşteri Odaklılık",
-                    "desc": "Endüstriyel ihtiyaçlarınız etrafında tasarlanmış çözümler.",
-                    "alt": "Müşteri Odaklılık"
-                }
-            }
-        }
+    "about": {
+      "title": "MAREDIAN SEALS HAKKINDA",
+      "subtitle": "Hassasiyet. Performans. Mükemmellik.",
+      "description": "Tutkulu mühendisler ve vizyoner teknokratlar tarafından kurulan Maredian Seals, zorlu koşullar altında sızdırmaz performansı garanti eden birinci sınıf sızdırmazlık sistemlerinin tasarımı ve imalatında uzmanlaşmış, mekanik salmastra teknolojisinde güvenilir bir isimdir. İleri teknoloji ve onlarca yıllık uzmanlıkla petrokimya, ilaç, tekstil, gıda işleme, enerji üretimi ve su arıtma dahil olmak üzere çeşitli endüstrilere hizmet vermekteyiz.",
+      "features": {
+        "precision": "Hassas Mühendislik",
+        "delivery": "Zamanında Teslimat",
+        "custom": "Özel Çözümler",
+        "reliability": "Güvenilirlik ve Performans"
+      },
+      "learnMore": "Hakkımızda Daha Fazla Bilgi"
     },
-    "productPage": {
-        "hero": {
-            "slide1": {
-                "title": "Sızdırmazlık İçin Tasarlanmıştır.<br>Uzun Ömürlü Olacak Şekilde Üretilmiştir.",
-                "desc": "Her endüstriyel uygulamada dayanıklılık, verimlilik ve tamamen sızdırmaz performans için üretilmiş, hassas mühendislik ürünü mekanik salmastralarımızın tüm yelpazesini keşfedin.",
-                "ctaExplore": "Ürünleri Keşfedin",
-                "ctaView": "Tüm Ürünleri Görüntüle"
-            }
-        },
-        "allProducts": {
-            "title": "Maredian Seals\nÜrün Yelpazesi",
-            "all": "Tüm Ürünler"
-        },
-        "categories": {
-            "pusher-seals": "İtici Tip Salmastralar",
-            "single-spring": "Tek Yaylı Salmastra",
-            "multi-spring": "Çok Yaylı Salmastra",
-            "textile-seal": "Tekstil Salmastrası",
-            "teflon-bellow": "Teflon Körüklü Salmastralar",
-            "metal-bellow": "Metal Körüklü Mekanik Salmastra",
-            "boiler-feed": "Kazan Besleme Suyu Salmastraları",
-            "split-seals": "Bölünmüş Salmastralar",
-            "high-pressure": "Yüksek Basınç Salmastrası",
-            "dry-seals": "Kuru Çalışan Salmastralar",
-            "cartridge-single": "Kartuş Tek Etkili",
-            "cartridge-double": "Kartuş Çift Etkili",
-            "thermosyphon-seal-support-system": "Termosifon Salmastra Destek Sistemi"
-        },
-        "products": {
-            "readMore": "DAHA FAZLA BİLGİ →",
-            "enquiry": "TEKLİF AL →"
-        },
-        "details": {
-            "back": "← Ürünlere Geri Dön",
-            "standardStyle": "⚙ Standart Tip",
-            "characteristics": "⚙ Salmastra Özellikleri",
-            "operatingLimits": "⚙ Çalışma Limitleri",
-            "applications": "⚙ Uygulamalar"
-        },
-        "productDetails": {
-            "pusher-seals": {
-                "standardStyle": [
-                    "Yüzey Malzemeleri: Stellit, Karbon, Seramik, Tungsten Karbür, Silisyum Karbür, Lekroloy",
-                    "Metal Parçalar: SS 316, SS 304",
-                    "İkincil Sızdırmazlık: Elastomerler, PTFE"
-                ],
-                "sealCharacteristics": [
-                    "Tek etkili",
-                    "Dengesiz tip",
-                    "İçten montajlı",
-                    "Dönüş yönüne bağlı"
-                ],
-                "operatingLimits": [
-                    "Mil Çapı D1: 10 mm - 100 mm",
-                    "Basınç P: 08 bar (maks.)",
-                    "Sıcaklık t: -20°C ila +200°C",
-                    "Hız V: 20 m/sn"
-                ],
-                "applications": [
-                    "Su Pompaları",
-                    "Merkezi ısıtma için Sirkülasyon Pompaları",
-                    "Kimyasal Proses Pompaları",
-                    "Kanalizasyon ve Dalgıç Pompalar"
-                ]
-            },
-            "single-spring": {
-                "standardStyle": [
-                    "Yüzey Malzemeleri: Karbon/Stellit/Lekroloy/Seramik/Silisyum Karbür/Plazma Püskürtmeli Seramik",
-                    "Metal Parçalar: SS 316, SS 304",
-                    "İkincil Sızdırmazlık: Nitril, EPDM, Viton, PTFE"
-                ],
-                "sealCharacteristics": [
-                    "Tek etkili",
-                    "Dengeli/Dengesiz",
-                    "İç ve Dıştan Montajlı",
-                    "Dönüş yönünden bağımsız",
-                    "İkincil sızdırmazlık elemanı ile tork iletimi"
-                ],
-                "operatingLimits": [
-                    "Mil Çapı D1: 10...100 mm",
-                    "Basınç P: 10 bar (maks.)",
-                    "Sıcaklık t: -20°C...+180°C",
-                    "Hız V: 10 m/sn"
-                ],
-                "applications": [
-                    "Endüstriyel",
-                    "Denizcilik"
-                ]
-            },
-            "multi-spring": {
-                "features": [
-                    "Doğrudan geçmeli tip hidrolik dengeli salmastra tasarımı.",
-                    "Tasarım mühendisliğinde devrim niteliğinde konseptler.",
-                    "Pompa veya salmastra kutusu modifikasyonu gerektirmeden neredeyse tüm geleneksel salmastralar ve salmastra bezi ambalajları ile değiştirilebilirlik sağlayan evrensel uygulanabilirlik.",
-                    "Salmastra kaynaklı mil hasarı yok, mil/gömlek onarımı/değişimi için gizli bakım maliyetlerinden tasarruf.",
-                    "Yüksek derecede standardizasyon sayesinde geleneksel salmastralardan daha düşük fiyat.",
-                    "Tüm boyutlar için tek tip montaj boyutu, kullanım kolaylığı sağlar."
-                ],
-                "applicationDataOfSealType707": [
-                    "Salmastra Yüzeyleri: Karbon, Stellit, Plazma Püskürtmeli Seramik, Tungsten Karbür, Silisyum Karbür",
-                    "Elastomer: EPDM, Neopren, Viton, TEV, Kalrez",
-                    "Boyut aralığı: 16 - 150mm",
-                    "Basınç: 35 bar",
-                    "Sıcaklık: 205°C"
-                ],
-                "applications": [
-                    "Endüstriyel",
-                    "Denizcilik"
-                ],
-                "applicationDataOfSealType808": [
-                    "Salmastra Yüzeyleri: Karbon, Stellit, Plazma Püskürtmeli Seramik, Tungsten Karbür, Silisyum Karbür",
-                    "Elastomer: Viton®, Neopren, Kalrez®, EPDM, TEV",
-                    "Boyut aralığı: 108mm - 150mm",
-                    "Basınç: 35 bar",
-                    "Sıcaklık: 205°C"
-                ]
-            },
-            "textile-seal": {
-                "materialOfConstruction": [
-                    "Sızdırmazlık yüzeyleri: Karbon, Silisyum Karbür, Tungsten Karbür, Krom Dökme Çelik ve akışkana uygun malzemeler",
-                    "Elastomer: Viton, EPDM, Silikon, Aflas, PTFE, Hypalon",
-                    "Donanım: SS 316, Hastelloy C, Monel, Alaşım 20"
-                ],
-                "toBeUseFor": [
-                    "Kostik",
-                    "Asidik",
-                    "Sodyum Hidrojen Karbonat"
-                ],
-                "operatingLimits": [
-                    "Mil Çapı: Makine gereksinimine göre",
-                    "Basınç: Normal",
-                    "Sıcaklık: Normal"
-                ],
-                "partOfIdentification": [
-                    "Döner Yüz (Sızdırmazlık Halkası)",
-                    "Sabit Yüz (Eşleşme Halkası)",
-                    "Elastomer",
-                    "Yay",
-                    "Diğer Donanım"
-                ]
-            },
-            "teflon-bellow": {
-                "standardStyle": [
-                    "Yüzey Malzemeleri: GFT / CFT / Silisyum Karbür / Seramik",
-                    "Metal Parçalar: SS 316, SS 304, Hastelloy-C",
-                    "Yaylar: Teflon Kaplı Yay Çeliği, S.S.316, S.S.304, Hastelloy-C",
-                    "İkincil Sızdırmazlık: PTFE Körükler"
-                ],
-                "sealCharacteristics": [
-                    "Tek etkili",
-                    "Dıştan montajlı",
-                    "Çok Yaylı ve Tek Yaylı Tasarım",
-                    "Dönüş yönünden bağımsız"
-                ],
-                "operatingLimits": [
-                    "Mil Çapı d1: 19 mm - 150 mm",
-                    "Basınç p: 6 bar (maks.)",
-                    "Sıcaklık t: -45°C...+120°C",
-                    "Hız v: 16 m/sn"
-                ],
-                "applications": [
-                    "Son derece korozif ortamlar"
-                ]
-            },
-            "metal-bellow": {
-                "materials": [
-                    "Yüzeyler: Karbon, Silisyum Karbür, Tungsten Karbür",
-                    "Elastomerler: Grafit, Perfloro, FEP",
-                    "Donanım: SS-316, AM-350, Hastelloy-C, Alaşım-20"
-                ],
-                "operatings": [
-                    "Basınç: 25 bar",
-                    "Sıcaklık: -40°C ila 350°C",
-                    "Hız: 20 m/s",
-                    "Boyutlar: 25 mm - 100mm"
-                ],
-                "application": [
-                    "Yüksek Sıcaklık, Hidrokarbonlar ve Kritik Hizmetler"
-                ]
-            },
-            "boiler-feed": {
-                "standardStyle": [
-                    "Yüzey Malzemeleri: Stellit, Karbon, Seramik, Tungsten Karbür, Silisyum Karbür, Lekroloy",
-                    "Metal Parçalar: SS 316, SS 304",
-                    "İkincil Sızdırmazlık: Elastomerler"
-                ],
-                "sealCharacteristics": [
-                    "Tek etkili",
-                    "Dengeli",
-                    "İçten montajlı",
-                    "Dönüş yönüne bağlı"
-                ],
-                "operatingLimits": [
-                    "Mil Çapı d: 65...150 mm",
-                    "Basınç p: 50...140 bar (maks.)",
-                    "Sıcaklık t: -20°C...+250°C (API plan 23)",
-                    "Hız v: 50 m/sn'den fazla"
-                ],
-                "application": [
-                    "Kazan besleme suyu pompaları",
-                    "HSD Pompaları",
-                    "Destek Pompaları",
-                    "Damla Pompaları",
-                    "Kondens pompaları",
-                    "Akaryakıt Pompaları"
-                ]
-            },
-            "split-seals": {
-                "standardStyle": [
-                    "Yüzey Malzemeleri: Karbon / Silisyum Karbür / Seramik",
-                    "Metal Parçalar: SS 316, SS 304",
-                    "İkincil Sızdırmazlık: Elastomerler"
-                ],
-                "sealCharacteristics": [
-                    "Tamamen Bölünmüş Bileşenler",
-                    "Kolay Kurulum",
-                    "Dengeli Salmastra Yüzeyleri"
-                ],
-                "operatingLimits": [
-                    "Mil Çapı d: 50...200 mm",
-                    "Basınç p: 15 bar (maks.)",
-                    "Sıcaklık t: Ortam...140°C",
-                    "Mil Hızı: 3600 dev/dak (maks.)"
-                ],
-                "applications": [
-                    "Kullanım Suyu Pompaları",
-                    "Transfer Pompaları",
-                    "Karıştırıcılar ve Kaplar (Kuru Çalışan Salmastra Olarak)"
-                ]
-            },
-            "high-pressure": {
-                "standardStyle": [
-                    "Yüzey Malzemeleri: Karbon / Silisyum Karbür / Tungsten Karbür",
-                    "Metal Parçalar: SS 316, SS 304, Hastelloy-C, Titanyum, Alaşım-20, Monel",
-                    "İkincil Sızdırmazlık: Elastomerler"
-                ],
-                "operatingLimits": [
-                    "Mil Çapı d1: 25...115 mm",
-                    "Basınç p: 25...150 bar",
-                    "Sıcaklık t: 40...180°C",
-                    "Hız v: 20 m/sn"
-                ],
-                "sealCharacteristics": [
-                    "Tek etkili",
-                    "Dengeli",
-                    "İçten montajlı",
-                    "Dönüş yönünden bağımsız",
-                    "Çoklu yay tasarımı",
-                    "Sağlam tahrik mekanizması"
-                ],
-                "application": [
-                    "Petrol Boru Hattı Pompaları",
-                    "Kazan Besleme Suyu Pompaları"
-                ]
-            },
-            "dry-seals": {
-                "materials": [
-                    "Gövde: Paslanmaz çelik",
-                    "Ürünle temas eden parçalar: Paslanmaz çelik, Hastelloy, Titanyum, Özel Malzemeler",
-                    "Sızdırmazlık halkaları: Karbon, Silisyum Karbür, Tungsten Karbür, vb.",
-                    "O-ringler: Viton, EPDM, Perflor elastomerler, özel elastik malzemeler",
-                    "FDA onayı: Ürünle temas eden tüm parçalar için mümkündür"
-                ],
-                "applications": [
-                    "Baca gazı desülfürizasyonu",
-                    "Hidrometalurji",
-                    "Eczacılık",
-                    "Biyoteknoloji"
-                ],
-                "applicationLimits": [
-                    "Kap basıncı: Vakum …16 bar (abs.)",
-                    "Kap sıcaklığı: -50 … +200°C",
-                    "Mil boyutu: 40 … 300 mm",
-                    "Kayma hızı: 5 m/s"
-                ]
-            },
-            "cartridge-single": {
-                "standardStyle": [
-                    "Yüzey Malzemeleri: Tungsten karbür ve Seramik",
-                    "Metal Parçalar: SS 316, SS 304, Hastelloy-C, Hastelloy-B, Monel, Alaşım-20",
-                    "İkincil Sızdırmazlık: Elastomerler, TCV, PTFE"
-                ],
-                "sealCharacteristics": [
-                    "Tek etkili",
-                    "Ters Dengeli",
-                    "Dıştan montajlı",
-                    "Dönüş yönünden bağımsız",
-                    "Kuru Çalışma"
-                ],
-                "operatingLimits": [
-                    "Mil Çapı d: 15...150 mm",
-                    "Basınç p: Vakum...8 bar (maks.)",
-                    "Sıcaklık t: Ortam...120°C(maks.)",
-                    "Hız n: 320 dev/dak"
-                ],
-                "applications": [
-                    "Gıda Ürünleri",
-                    "Farmasötik Ürünler"
-                ]
-            },
-            "cartridge-double": {
-                "standardStyle": [
-                    "Yüzey Malzemeleri: Karbon, Seramik, Silisyum Karbür, Tungsten Karbür, Lekroloy",
-                    "Metal Parçalar: SS 316, SS 304, Karbon Çelik, Hastelloy-B, Hastelloy-C, Monel, Alaşım-20",
-                    "İkincil Sızdırmazlık: İç-PTFE, GFT : Dış-Elastomerler"
-                ],
-                "sealCharacteristics": [
-                    "Sırttan Sırta Çift Etkili Salmastralar",
-                    "Dengeli",
-                    "Kartuş Ünitesi",
-                    "Dönüş yönünden bağımsız",
-                    "Basınçlı Bariyer Akışkanı ile Çalışır"
-                ],
-                "applications": [
-                    "Petrokimyasallar ve buharları",
-                    "Genel Kimyasallar ve buharları",
-                    "Hafif hidrokarbonlar ve buharları"
-                ],
-                "operatingLimits": [
-                    "Mil Çapı d: 25...150 mm*",
-                    "Basınç p: Vakum...32 bar (maks.)",
-                    "Sıcaklık t: Ortam...200°C (maks.)",
-                    "Mil hızı n: 600 dev/dak (maks.)",
-                    "Bariyer akışkan basıncı: Kap basıncı + 1.5 bar"
-                ]
-            },
-            "thermosyphon-seal-support-system": {
-                "highlights": [
-                    "Önerilen: 12 Ltre/dak",
-                    "Maks. Seviye Değeri: 5.5 Ltre",
-                    "Min. Seviye Değeri: 3.5 Ltre"
-                ],
-                "performanceLimits": [
-                    "Kapasite: 7.5 Litre",
-                    "Hid. Test Basıncı: 30 Kg",
-                    "Çalışma Basıncı: 20 Kg",
-                    "Maks. çalışma sıcaklığı: 180°C",
-                    "Soğutma serpantini ısı transfer alanı: 0.3m²",
-                    "Soğutma suyu akış hızı"
-                ],
-                "metalParts": [
-                    "Termosifon Gövdesi: Karbon Çelik / SS 316 / SS 304",
-                    "Soğutma Serpantini: SS 304 / SS 316"
-                ],
-                "accessories": [
-                    "Basınç Göstergesi (0-40 kg/cm²)",
-                    "Kap basıncının ölçülmesi için",
-                    "Seviye Göstergesi - Kabın Sıvı Seviyesini Göstermek İçin",
-                    "El Pompası - Termosifon basınç altındayken ve sıvı seviyesi düşükken kaba ilave miktarda bariyer akışkanı doldurmak için"
-                ],
-                "connectionSize": [
-                    "Tampon Akışkan Girişi - A 1\" NPT",
-                    "Tampon Akışkan Çıkışı - B 1/2\" NPT",
-                    "Soğutma Suyu Çıkışı - D 3/4\" NPT",
-                    "El Pompası Bağlantısı - E 1/4\" NPT (Yeniden Doldurma Bağlantısı)",
-                    "Doldurma Bağlantısı - F 1/4\" NPT",
-                    "Basınçlı Gaz Bağlantısı - G 1/4\" NPT",
-                    "Basınç Göstergesi Bağlantısı - H 3/8\" NPT",
-                    "Tahliye - 1/2\" NPT",
-                    "Emniyet Valfi Bağlantısı - J 1/2\" NPT"
-                ]
-            }
-        }
+    "industries": {
+      "title": "HİZMET VERDİĞİMİZ SEKTÖRLER",
+      "subtitle": "Mekanik salmastralarımız, en zorlu endüstriyel ortamların bazılarında güvenilir bir şekilde çalışır."
     },
-    "servicePage": {
-        "hero": {
-            "title": "Uçtan Uca Sızdırmazlık Çözümleri,\nGüvenilirlik İçin Tasarlanmıştır.",
-            "description": "Tasarımdan teslimata kadar, performans, uzun ömür ve tamamen sızdırmaz güvenilirlik sağlayan kapsamlı sızdırmazlık hizmetleri sunuyoruz.",
-            "cta": "Danışmanlık Talep Edin",
-            "viewProducts": "Tüm Ürünleri Görüntüle"
-        },
-        "industries": {
-            "title": "HİZMET VERDİĞİMİZ SEKTÖRLER",
-            "subtitle": "Farklı endüstriyel sektörlerde mükemmellik sunmak",
-            "items": {
-                "petrochemical": "PETROKİMYA VE RAFİNERİLER",
-                "powerPlants": "ENERJİ SANTRALLERİ VE ENERJİ",
-                "oilGas": "PETROL VE DOĞALGAZ",
-                "pharmaceuticals": "İLAÇ ENDÜSTRİSİ",
-                "waterTreatment": "SU VE ATIK SU ARITMA",
-                "foodProcessing": "GIDA VE İÇECEK İŞLEME",
-                "textile": "TEKSTİL VE KAĞIT HAMURU ENDÜSTRİLERİ",
-                "moreIndustries": "VE DAHA FAZLASI..."
-            }
-        },
-        "reconditioning": {
-            "title": "YENİDEN ŞARTLANDIRMA VE YENİLEME HİZMETLERİ",
-            "before": "ÖNCE",
-            "after": "SONRA",
-            "mainTitle": "YENİDEN ŞARTLANDIRMA",
-            "paragraph1": "Günümüzün maliyet bilincine sahip endüstriyel ortamında, bakım ve değiştirme masraflarını azaltmak kritik hale gelmiştir. Final Maredian Seals, müşterilerin aşınmış salmastraları neredeyse yeni performans seviyelerine geri getirmelerine yardımcı olan gelişmiş Mekanik Salmastra Yeniden Şartlandırma hizmetleri sunmaktadır.",
-            "paragraph2": "Güçlü teknik uzmanlık ve yılların pratik deneyimiyle desteklenen, Karıştırıcı Mekanik Salmastraları, Metal Körüklü Salmastralar ve çeşitli standart mekanik salmastraları özel teknikler kullanarak yeniden şartlandırıyoruz. Hizmetlerimiz, müşterilerin salmastra ömrünü uzatmasına, arıza süresini azaltmasına ve önemli maliyet tasarrufu elde etmesine yardımcı olur.",
-            "beforeAfterTitle": "YENİDEN ŞARTLANDIRMA ÖNCESİ VE SONRASI",
-            "list1": "Aşınmış ve hasar görmüş salmastra bileşenleri dikkatlice incelenir.",
-            "list2": "Kritik parçalar restore edilir, yeniden işlenir ve yeniden monte edilir.",
-            "list3": "Yeni salmastralara benzer güvenilirlik sağlamak için performans doğrulanır.",
-            "saveTitle": "PERFORMANSTAN ÖDÜN VERMEDEN — YENİLEME YOLUYLA TASARRUF EDİN",
-            "lappingTitle": "LAPLAMA VE PARLATMA",
-            "lappingPara1": "Sızdırmazlık, hassas laplama ve parlatmaya bağlıdır. Üstün yüzey kalitesi elde etmek için yüksek kaliteli laplama bileşikleri ve özel kimyasallar kullanıyoruz.",
-            "lappingPara2": "Salmastra yüzey düzlüğü monokromatik helyum ışığı altında kontrol edilerek hassasiyet, dayanıklılık ve güvenilir performans sağlanır.",
-            "supportTitle": "SATIŞ SONRASI DESTEK",
-            "supportPara": "Eğitimli servis mühendislerimiz, servis sorunlarını verimli bir şekilde çözmek için hızlı yanıt, teknik yardım ve orijinal yedek parçalar sağlar. Ayrıca, sorunsuz kullanım ve acil durumlar için müşteri bakım ekiplerine rehberlik ediyoruz.",
-            "packingTitle": "PAKETLEME VE EĞİTİM",
-            "packingPara": "Tüm salmastra bileşenleri, nakliye sırasında hasarı önlemek için çoklu koruyucu katmanlarla güvenli bir şekilde paketlenir. Ayrıca müşteri ekiplerine teknik eğitim ve gösterimler sunarak salmastra kullanımı ve sorun giderme becerilerini geliştirmelerine yardımcı oluyoruz."
-        }
-    },
-    "contactPage": {
-        "heading": "İLETİŞİME GEÇİN",
-        "tagline": "Birlikte Sızdırmaz\nÇözümler İnşa Edelim.",
-        "headOffice": {
-            "iconAlt": "Konum Simgesi",
-            "title": "Merkez Ofis",
-            "address": "Gala.No. 6/7 Balaji Industrial Estate 5/B S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208"
-        },
-        "phone": {
-            "iconAlt": "Telefon Simgesi",
-            "title": "Bize Ulaşın",
-            "number": "+91 9561444777"
-        },
-        "email": {
-            "iconAlt": "E-posta Simgesi",
-            "title": "E-posta Gönderin",
-            "address": "info@maredianseals.com"
-        },
-        "workingHours": {
-            "monSatLabel": "Pazartesi – Cumartesi:",
-            "monSatTime": "09:00 – 19:00",
-            "sunLabel": "Pazar:",
-            "sunTime": "Kapalı"
-        },
-        "social": {
-            "heading": "Sosyal Medyamızı Takip Edin:",
-            "facebook": "Facebook",
-            "linkedin": "LinkedIn",
-            "whatsapp": "WhatsApp",
-            "instagram": "Instagram"
-        },
-        "form": {
-            "heading": "TEKLİF TALEBİ",
-            "companyNameLabel": "Şirket Adı",
-            "companyNamePlaceholder": "Şirket adınızı girin",
-            "yourNameLabel": "Ad Soyad",
-            "yourNamePlaceholder": "Adınızı girin",
-            "contactDetailsLabel": "İletişim Bilgileri",
-            "contactDetailsPlaceholder": "Telefon numarasını girin",
-            "emailLabel": "E-posta",
-            "emailPlaceholder": "E-posta adresini girin",
-            "productSelectLabel": "Ürün Seçimi",
-            "productSelectPlaceholder": "Ürün Seçin",
-            "addressLabel": "Adres / Şehir / Konum",
-            "addressPlaceholder": "Adresi girin",
-            "questionLabel": "Soru veya Gereksinim",
-            "questionPlaceholder": "Mesajınızı girin",
-            "submitBtn": "Gönder"
-        },
-        "map": {
-            "iframeAlt": "Şirket Konum Haritası"
-        }
-    },
-    "footer": {
-        "address": "Gala.No. 6/7 Balaji Industrial Estate 5/B S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208",
-        "follow": "Bizi Takip Edin:",
-        "quickLinks": "HIZLI BAĞLANTILAR",
-        "productsTitle": "ÜRÜNLERİMİZ",
-        "links": {
-            "home": "Ana Sayfa",
-            "about": "Hakkımızda",
-            "products": "Ürünler",
-            "services": "Hizmetler",
-            "quality": "Kalite",
-            "contact": "İletişim"
-        },
-        "products": {
-            "pusher": "İtici Tip Salmastralar",
-            "single": "Tek Yaylı Salmastra",
-            "multi": "Çok Yaylı Salmastra",
-            "textile": "Tekstil Salmastrası",
-            "teflon": "Teflon Körüklü Salmastralar",
-            "metal": "Metal Körüklü Mekanik Salmastra",
-            "splitSeals": "Bölünmüş Salmastralar",
-            "boilerFeedWaterSeals": "Kazan Besleme Suyu Salmastraları",
-            "highPressureSeal": "Yüksek Basınç Salmastrası",
-            "drySeals": "Kuru Çalışan Salmastralar",
-            "cartridgeSingleActing": "Kartuş Tek Etkili",
-            "cartridgeDoubleActing": "Kartuş Çift Etkili",
-            "thermosyphonSealSupportSystem": "Termosifon Salmastra Destek Sistemi"
-        },
-        "copyright": "© 2026 Maredian Seals. Tüm Hakları Saklıdır. | Gizlilik Politikası | Kullanım Koşulları"
+    "whyChoose": {
+      "title": "NEDEN MAREDIAN SEALS'İ SEÇMELİSİNİZ",
+      "items": {
+        "delivery": "Hızlı Teslimat\nve Teknik Destek",
+        "expertise": "Kanıtlanmış Mühendislik\nUzmanlığı",
+        "leakproof": "%100 Sızdırmaz\nPerformans Garantisi",
+        "trusted": "Sektör Genelinde\nMüşterilerin Güveni",
+        "manufacturing": "Hassas Üretim\nStandartları"
+      }
     }
+  },
+  "ticker": {
+    "item1": "İtici Tip Salmastralar",
+    "item2": "Tek Yaylı Salmastra",
+    "item3": "Çok Yaylı Salmastra",
+    "item4": "Tekstil Salmastrası",
+    "item5": "Teflon Körüklü Salmastralar",
+    "item6": "Metal Körüklü Mekanik Salmastra"
+  },
+  "aboutHero": {
+    "slide1": {
+      "title": "Mühendislik Mükemmelliği\nSızdırmazlık Bütünlüğü Sağlar",
+      "desc": "Maredian Seals'de, modern endüstriler için güvenilirlik, hassasiyet ve performansı tanımlayan mekanik sızdırmazlık çözümleri tasarlıyor ve üretiyoruz.",
+      "cta": "Uzmanlığımızı Keşfedin",
+      "dwnldbrchr": "Broşürü İndir"
+    },
+    "aboutUs": {
+      "title": "HAKKIMIZDA",
+      "tagline": "DOĞRU İNŞA ET. SIKI SIZDIR.",
+      "paragraph1": "Sızdırmazlık çözümlerini yeniden tanımlama vizyonuyla kurulan Maredian Seals, mekanik salmastra ve sızdırmazlık sistemleri alanında birinci sınıf bir üretici, tedarikçi ve yenilikçidir.",
+      "paragraph2": "En zorlu endüstriyel koşullar altında çalışmak üzere tasarlanmış, mühendislik ürünü özel sızdırmazlık çözümlerinde uzmanlaşıyoruz. Ürünlerimiz hassasiyetle üretilir, sızdırmaz performans, dayanıklılık ve uzun hizmet ömrü sağlar.",
+      "paragraph3": "Yetenekli mühendislerden oluşan bir ekip, gelişmiş üretim uygulamaları ve kaliteye güçlü bir odaklanma ile petrokimya ve rafinerilerden ilaç, gıda işleme ve su arıtmaya kadar uzanan endüstriler tarafından güvenilen çözümler sunuyoruz.",
+      "images": {
+        "image1": "Mekanik Salmastra Ürünü",
+        "image2": "Üretim",
+        "image3": "Mühendis",
+        "image4": "Sızdırmazlık Ürünleri",
+        "logo": "Maredian Logo"
+      }
+    },
+    "strengths": {
+      "title": "GÜÇLÜ YANLARIMIZ:",
+      "tagline": "Doğru inşa et. Sıkı sızdır.",
+      "items": {
+        "precision": {
+          "title": "HASSAS\nMÜHENDİSLİK",
+          "alt": "Hassas Mühendislik"
+        },
+        "delivery": {
+          "title": "ZAMANINDA\nTESLİMAT",
+          "alt": "Zamanında Teslimat"
+        },
+        "custom": {
+          "title": "ÖZEL\nÇÖZÜMLER",
+          "alt": "Özel Çözümler"
+        },
+        "reliability": {
+          "title": "GÜVENİLİRLİK VE\nPERFORMANS",
+          "alt": "Güvenilirlik"
+        }
+      }
+    },
+    "coreValues": {
+      "title": "TEMEL DEĞERLERİMİZ:",
+      "items": {
+        "innovation": {
+          "title": "Yenilikçilik",
+          "desc": "Sürekli Ar-Ge ile sızdırmazlık teknolojisini ilerletmek.",
+          "alt": "Yenilikçilik"
+        },
+        "integrity": {
+          "title": "Dürüstlük",
+          "desc": "Şeffaf ilişkiler, dürüst taahhütler.",
+          "alt": "Dürüstlük"
+        },
+        "precision": {
+          "title": "Hassasiyet",
+          "desc": "Her salmastra mükemmel bir şekilde üretilir.",
+          "alt": "Hassasiyet"
+        },
+        "sustainability": {
+          "title": "Sürdürülebilirlik",
+          "desc": "Çevre dostu malzemeler ve enerji bilincine sahip uygulamalar.",
+          "alt": "Sürdürülebilirlik"
+        },
+        "customerFocus": {
+          "title": "Müşteri Odaklılık",
+          "desc": "Endüstriyel ihtiyaçlarınız etrafında tasarlanmış çözümler.",
+          "alt": "Müşteri Odaklılık"
+        }
+      }
+    }
+  },
+  "productPage": {
+    "hero": {
+      "slide1": {
+        "title": "Sızdırmazlık İçin Tasarlanmıştır.<br>Uzun Ömürlü Olacak Şekilde Üretilmiştir.",
+        "desc": "Her endüstriyel uygulamada dayanıklılık, verimlilik ve tamamen sızdırmaz performans için üretilmiş, hassas mühendislik ürünü mekanik salmastralarımızın tüm yelpazesini keşfedin.",
+        "ctaExplore": "Ürünleri Keşfedin",
+        "ctaView": "Tüm Ürünleri Görüntüle"
+      }
+    },
+    "allProducts": {
+      "title": "Maredian Seals\nÜrün Yelpazesi",
+      "all": "Tüm Ürünler"
+    },
+    "categories": {
+      "pusher-seals": "İtici Tip Salmastralar",
+      "single-spring": "Tek Yaylı Salmastra",
+      "multi-spring": "Çok Yaylı Salmastra",
+      "textile-seal": "Tekstil Salmastrası",
+      "teflon-bellow": "Teflon Körüklü Salmastralar",
+      "metal-bellow": "Metal Körüklü Mekanik Salmastra",
+      "boiler-feed": "Kazan Besleme Suyu Salmastraları",
+      "split-seals": "Bölünmüş Salmastralar",
+      "high-pressure": "Yüksek Basınç Salmastrası",
+      "dry-seals": "Kuru Çalışan Salmastralar",
+      "cartridge-single": "Kartuş Tek Etkili",
+      "cartridge-double": "Kartuş Çift Etkili",
+      "thermosyphon-seal-support-system": "Termosifon Salmastra Destek Sistemi"
+    },
+    "products": {
+      "readMore": "DAHA FAZLA BİLGİ →",
+      "enquiry": "TEKLİF AL →"
+    },
+    "details": {
+      "back": "← Ürünlere Geri Dön",
+      "standardStyle": "⚙ Standart Tip",
+      "characteristics": "⚙ Salmastra Özellikleri",
+      "operatingLimits": "⚙ Çalışma Limitleri",
+      "applications": "⚙ Uygulamalar"
+    },
+    "productDetails": {
+      "pusher-seals": {
+        "standardStyle": [
+          "Yüzey Malzemeleri: Stellit, Karbon, Seramik, Tungsten Karbür, Silisyum Karbür, Lekroloy",
+          "Metal Parçalar: SS 316, SS 304",
+          "İkincil Sızdırmazlık: Elastomerler, PTFE"
+        ],
+        "sealCharacteristics": [
+          "Tek etkili",
+          "Dengesiz tip",
+          "İçten montajlı",
+          "Dönüş yönüne bağlı"
+        ],
+        "operatingLimits": [
+          "Mil Çapı D1: 10 mm - 100 mm",
+          "Basınç P: 08 bar (maks.)",
+          "Sıcaklık t: -20°C ila +200°C",
+          "Hız V: 20 m/sn"
+        ],
+        "applications": [
+          "Su Pompaları",
+          "Merkezi ısıtma için Sirkülasyon Pompaları",
+          "Kimyasal Proses Pompaları",
+          "Kanalizasyon ve Dalgıç Pompalar"
+        ]
+      },
+      "single-spring": {
+        "standardStyle": [
+          "Yüzey Malzemeleri: Karbon/Stellit/Lekroloy/Seramik/Silisyum Karbür/Plazma Püskürtmeli Seramik",
+          "Metal Parçalar: SS 316, SS 304",
+          "İkincil Sızdırmazlık: Nitril, EPDM, Viton, PTFE"
+        ],
+        "sealCharacteristics": [
+          "Tek etkili",
+          "Dengeli/Dengesiz",
+          "İç ve Dıştan Montajlı",
+          "Dönüş yönünden bağımsız",
+          "İkincil sızdırmazlık elemanı ile tork iletimi"
+        ],
+        "operatingLimits": [
+          "Mil Çapı D1: 10...100 mm",
+          "Basınç P: 10 bar (maks.)",
+          "Sıcaklık t: -20°C...+180°C",
+          "Hız V: 10 m/sn"
+        ],
+        "applications": [
+          "Endüstriyel",
+          "Denizcilik"
+        ]
+      },
+      "multi-spring": {
+        "features": [
+          "Doğrudan geçmeli tip hidrolik dengeli salmastra tasarımı.",
+          "Tasarım mühendisliğinde devrim niteliğinde konseptler.",
+          "Pompa veya salmastra kutusu modifikasyonu gerektirmeden neredeyse tüm geleneksel salmastralar ve salmastra bezi ambalajları ile değiştirilebilirlik sağlayan evrensel uygulanabilirlik.",
+          "Salmastra kaynaklı mil hasarı yok, mil/gömlek onarımı/değişimi için gizli bakım maliyetlerinden tasarruf.",
+          "Yüksek derecede standardizasyon sayesinde geleneksel salmastralardan daha düşük fiyat.",
+          "Tüm boyutlar için tek tip montaj boyutu, kullanım kolaylığı sağlar."
+        ],
+        "applicationDataOfSealType707": [
+          "Salmastra Yüzeyleri: Karbon, Stellit, Plazma Püskürtmeli Seramik, Tungsten Karbür, Silisyum Karbür",
+          "Elastomer: EPDM, Neopren, Viton, TEV, Kalrez",
+          "Boyut aralığı: 16 - 150mm",
+          "Basınç: 35 bar",
+          "Sıcaklık: 205°C"
+        ],
+        "applications": [
+          "Endüstriyel",
+          "Denizcilik"
+        ],
+        "applicationDataOfSealType808": [
+          "Salmastra Yüzeyleri: Karbon, Stellit, Plazma Püskürtmeli Seramik, Tungsten Karbür, Silisyum Karbür",
+          "Elastomer: Viton®, Neopren, Kalrez®, EPDM, TEV",
+          "Boyut aralığı: 108mm - 150mm",
+          "Basınç: 35 bar",
+          "Sıcaklık: 205°C"
+        ]
+      },
+      "textile-seal": {
+        "materialOfConstruction": [
+          "Sızdırmazlık yüzeyleri: Karbon, Silisyum Karbür, Tungsten Karbür, Krom Dökme Çelik ve akışkana uygun malzemeler",
+          "Elastomer: Viton, EPDM, Silikon, Aflas, PTFE, Hypalon",
+          "Donanım: SS 316, Hastelloy C, Monel, Alaşım 20"
+        ],
+        "toBeUseFor": [
+          "Kostik",
+          "Asidik",
+          "Sodyum Hidrojen Karbonat"
+        ],
+        "operatingLimits": [
+          "Mil Çapı: Makine gereksinimine göre",
+          "Basınç: Normal",
+          "Sıcaklık: Normal"
+        ],
+        "partOfIdentification": [
+          "Döner Yüz (Sızdırmazlık Halkası)",
+          "Sabit Yüz (Eşleşme Halkası)",
+          "Elastomer",
+          "Yay",
+          "Diğer Donanım"
+        ]
+      },
+      "teflon-bellow": {
+        "standardStyle": [
+          "Yüzey Malzemeleri: GFT / CFT / Silisyum Karbür / Seramik",
+          "Metal Parçalar: SS 316, SS 304, Hastelloy-C",
+          "Yaylar: Teflon Kaplı Yay Çeliği, S.S.316, S.S.304, Hastelloy-C",
+          "İkincil Sızdırmazlık: PTFE Körükler"
+        ],
+        "sealCharacteristics": [
+          "Tek etkili",
+          "Dıştan montajlı",
+          "Çok Yaylı ve Tek Yaylı Tasarım",
+          "Dönüş yönünden bağımsız"
+        ],
+        "operatingLimits": [
+          "Mil Çapı d1: 19 mm - 150 mm",
+          "Basınç p: 6 bar (maks.)",
+          "Sıcaklık t: -45°C...+120°C",
+          "Hız v: 16 m/sn"
+        ],
+        "applications": [
+          "Son derece korozif ortamlar"
+        ]
+      },
+      "metal-bellow": {
+        "materials": [
+          "Yüzeyler: Karbon, Silisyum Karbür, Tungsten Karbür",
+          "Elastomerler: Grafit, Perfloro, FEP",
+          "Donanım: SS-316, AM-350, Hastelloy-C, Alaşım-20"
+        ],
+        "operatings": [
+          "Basınç: 25 bar",
+          "Sıcaklık: -40°C ila 350°C",
+          "Hız: 20 m/s",
+          "Boyutlar: 25 mm - 100mm"
+        ],
+        "application": [
+          "Yüksek Sıcaklık, Hidrokarbonlar ve Kritik Hizmetler"
+        ]
+      },
+      "boiler-feed": {
+        "standardStyle": [
+          "Yüzey Malzemeleri: Stellit, Karbon, Seramik, Tungsten Karbür, Silisyum Karbür, Lekroloy",
+          "Metal Parçalar: SS 316, SS 304",
+          "İkincil Sızdırmazlık: Elastomerler"
+        ],
+        "sealCharacteristics": [
+          "Tek etkili",
+          "Dengeli",
+          "İçten montajlı",
+          "Dönüş yönüne bağlı"
+        ],
+        "operatingLimits": [
+          "Mil Çapı d: 65...150 mm",
+          "Basınç p: 50...140 bar (maks.)",
+          "Sıcaklık t: -20°C...+250°C (API plan 23)",
+          "Hız v: 50 m/sn'den fazla"
+        ],
+        "application": [
+          "Kazan besleme suyu pompaları",
+          "HSD Pompaları",
+          "Destek Pompaları",
+          "Damla Pompaları",
+          "Kondens pompaları",
+          "Akaryakıt Pompaları"
+        ]
+      },
+      "split-seals": {
+        "standardStyle": [
+          "Yüzey Malzemeleri: Karbon / Silisyum Karbür / Seramik",
+          "Metal Parçalar: SS 316, SS 304",
+          "İkincil Sızdırmazlık: Elastomerler"
+        ],
+        "sealCharacteristics": [
+          "Tamamen Bölünmüş Bileşenler",
+          "Kolay Kurulum",
+          "Dengeli Salmastra Yüzeyleri"
+        ],
+        "operatingLimits": [
+          "Mil Çapı d: 50...200 mm",
+          "Basınç p: 15 bar (maks.)",
+          "Sıcaklık t: Ortam...140°C",
+          "Mil Hızı: 3600 dev/dak (maks.)"
+        ],
+        "applications": [
+          "Kullanım Suyu Pompaları",
+          "Transfer Pompaları",
+          "Karıştırıcılar ve Kaplar (Kuru Çalışan Salmastra Olarak)"
+        ]
+      },
+      "high-pressure": {
+        "standardStyle": [
+          "Yüzey Malzemeleri: Karbon / Silisyum Karbür / Tungsten Karbür",
+          "Metal Parçalar: SS 316, SS 304, Hastelloy-C, Titanyum, Alaşım-20, Monel",
+          "İkincil Sızdırmazlık: Elastomerler"
+        ],
+        "operatingLimits": [
+          "Mil Çapı d1: 25...115 mm",
+          "Basınç p: 25...150 bar",
+          "Sıcaklık t: 40...180°C",
+          "Hız v: 20 m/sn"
+        ],
+        "sealCharacteristics": [
+          "Tek etkili",
+          "Dengeli",
+          "İçten montajlı",
+          "Dönüş yönünden bağımsız",
+          "Çoklu yay tasarımı",
+          "Sağlam tahrik mekanizması"
+        ],
+        "application": [
+          "Petrol Boru Hattı Pompaları",
+          "Kazan Besleme Suyu Pompaları"
+        ]
+      },
+      "dry-seals": {
+        "materials": [
+          "Gövde: Paslanmaz çelik",
+          "Ürünle temas eden parçalar: Paslanmaz çelik, Hastelloy, Titanyum, Özel Malzemeler",
+          "Sızdırmazlık halkaları: Karbon, Silisyum Karbür, Tungsten Karbür, vb.",
+          "O-ringler: Viton, EPDM, Perflor elastomerler, özel elastik malzemeler",
+          "FDA onayı: Ürünle temas eden tüm parçalar için mümkündür"
+        ],
+        "applications": [
+          "Baca gazı desülfürizasyonu",
+          "Hidrometalurji",
+          "Eczacılık",
+          "Biyoteknoloji"
+        ],
+        "applicationLimits": [
+          "Kap basıncı: Vakum …16 bar (abs.)",
+          "Kap sıcaklığı: -50 … +200°C",
+          "Mil boyutu: 40 … 300 mm",
+          "Kayma hızı: 5 m/s"
+        ]
+      },
+      "cartridge-single": {
+        "standardStyle": [
+          "Yüzey Malzemeleri: Tungsten karbür ve Seramik",
+          "Metal Parçalar: SS 316, SS 304, Hastelloy-C, Hastelloy-B, Monel, Alaşım-20",
+          "İkincil Sızdırmazlık: Elastomerler, TCV, PTFE"
+        ],
+        "sealCharacteristics": [
+          "Tek etkili",
+          "Ters Dengeli",
+          "Dıştan montajlı",
+          "Dönüş yönünden bağımsız",
+          "Kuru Çalışma"
+        ],
+        "operatingLimits": [
+          "Mil Çapı d: 15...150 mm",
+          "Basınç p: Vakum...8 bar (maks.)",
+          "Sıcaklık t: Ortam...120°C(maks.)",
+          "Hız n: 320 dev/dak"
+        ],
+        "applications": [
+          "Gıda Ürünleri",
+          "Farmasötik Ürünler"
+        ]
+      },
+      "cartridge-double": {
+        "standardStyle": [
+          "Yüzey Malzemeleri: Karbon, Seramik, Silisyum Karbür, Tungsten Karbür, Lekroloy",
+          "Metal Parçalar: SS 316, SS 304, Karbon Çelik, Hastelloy-B, Hastelloy-C, Monel, Alaşım-20",
+          "İkincil Sızdırmazlık: İç-PTFE, GFT : Dış-Elastomerler"
+        ],
+        "sealCharacteristics": [
+          "Sırttan Sırta Çift Etkili Salmastralar",
+          "Dengeli",
+          "Kartuş Ünitesi",
+          "Dönüş yönünden bağımsız",
+          "Basınçlı Bariyer Akışkanı ile Çalışır"
+        ],
+        "applications": [
+          "Petrokimyasallar ve buharları",
+          "Genel Kimyasallar ve buharları",
+          "Hafif hidrokarbonlar ve buharları"
+        ],
+        "operatingLimits": [
+          "Mil Çapı d: 25...150 mm*",
+          "Basınç p: Vakum...32 bar (maks.)",
+          "Sıcaklık t: Ortam...200°C (maks.)",
+          "Mil hızı n: 600 dev/dak (maks.)",
+          "Bariyer akışkan basıncı: Kap basıncı + 1.5 bar"
+        ]
+      },
+      "thermosyphon-seal-support-system": {
+        "highlights": [
+          "Önerilen: 12 Ltre/dak",
+          "Maks. Seviye Değeri: 5.5 Ltre",
+          "Min. Seviye Değeri: 3.5 Ltre"
+        ],
+        "performanceLimits": [
+          "Kapasite: 7.5 Litre",
+          "Hid. Test Basıncı: 30 Kg",
+          "Çalışma Basıncı: 20 Kg",
+          "Maks. çalışma sıcaklığı: 180°C",
+          "Soğutma serpantini ısı transfer alanı: 0.3m²",
+          "Soğutma suyu akış hızı"
+        ],
+        "metalParts": [
+          "Termosifon Gövdesi: Karbon Çelik / SS 316 / SS 304",
+          "Soğutma Serpantini: SS 304 / SS 316"
+        ],
+        "accessories": [
+          "Basınç Göstergesi (0-40 kg/cm²)",
+          "Kap basıncının ölçülmesi için",
+          "Seviye Göstergesi - Kabın Sıvı Seviyesini Göstermek İçin",
+          "El Pompası - Termosifon basınç altındayken ve sıvı seviyesi düşükken kaba ilave miktarda bariyer akışkanı doldurmak için"
+        ],
+        "connectionSize": [
+          "Tampon Akışkan Girişi - A 1\" NPT",
+          "Tampon Akışkan Çıkışı - B 1/2\" NPT",
+          "Soğutma Suyu Çıkışı - D 3/4\" NPT",
+          "El Pompası Bağlantısı - E 1/4\" NPT (Yeniden Doldurma Bağlantısı)",
+          "Doldurma Bağlantısı - F 1/4\" NPT",
+          "Basınçlı Gaz Bağlantısı - G 1/4\" NPT",
+          "Basınç Göstergesi Bağlantısı - H 3/8\" NPT",
+          "Tahliye - 1/2\" NPT",
+          "Emniyet Valfi Bağlantısı - J 1/2\" NPT"
+        ]
+      }
+    }
+  },
+  "servicePage": {
+    "hero": {
+      "title": "Uçtan Uca Sızdırmazlık Çözümleri,\nGüvenilirlik İçin Tasarlanmıştır.",
+      "description": "Tasarımdan teslimata kadar, performans, uzun ömür ve tamamen sızdırmaz güvenilirlik sağlayan kapsamlı sızdırmazlık hizmetleri sunuyoruz.",
+      "cta": "Danışmanlık Talep Edin",
+      "viewProducts": "Tüm Ürünleri Görüntüle"
+    },
+    "industries": {
+      "title": "HİZMET VERDİĞİMİZ SEKTÖRLER",
+      "subtitle": "Farklı endüstriyel sektörlerde mükemmellik sunmak",
+      "items": {
+        "petrochemical": "PETROKİMYA VE RAFİNERİLER",
+        "powerPlants": "ENERJİ SANTRALLERİ VE ENERJİ",
+        "oilGas": "PETROL VE DOĞALGAZ",
+        "pharmaceuticals": "İLAÇ ENDÜSTRİSİ",
+        "waterTreatment": "SU VE ATIK SU ARITMA",
+        "foodProcessing": "GIDA VE İÇECEK İŞLEME",
+        "textile": "TEKSTİL VE KAĞIT HAMURU ENDÜSTRİLERİ",
+        "moreIndustries": "VE DAHA FAZLASI..."
+      }
+    },
+    "reconditioning": {
+      "title": "YENİDEN ŞARTLANDIRMA VE YENİLEME HİZMETLERİ",
+      "before": "ÖNCE",
+      "after": "SONRA",
+      "mainTitle": "YENİDEN ŞARTLANDIRMA",
+      "paragraph1": "Günümüzün maliyet bilincine sahip endüstriyel ortamında, bakım ve değiştirme masraflarını azaltmak kritik hale gelmiştir. Final Maredian Seals, müşterilerin aşınmış salmastraları neredeyse yeni performans seviyelerine geri getirmelerine yardımcı olan gelişmiş Mekanik Salmastra Yeniden Şartlandırma hizmetleri sunmaktadır.",
+      "paragraph2": "Güçlü teknik uzmanlık ve yılların pratik deneyimiyle desteklenen, Karıştırıcı Mekanik Salmastraları, Metal Körüklü Salmastralar ve çeşitli standart mekanik salmastraları özel teknikler kullanarak yeniden şartlandırıyoruz. Hizmetlerimiz, müşterilerin salmastra ömrünü uzatmasına, arıza süresini azaltmasına ve önemli maliyet tasarrufu elde etmesine yardımcı olur.",
+      "beforeAfterTitle": "YENİDEN ŞARTLANDIRMA ÖNCESİ VE SONRASI",
+      "list1": "Aşınmış ve hasar görmüş salmastra bileşenleri dikkatlice incelenir.",
+      "list2": "Kritik parçalar restore edilir, yeniden işlenir ve yeniden monte edilir.",
+      "list3": "Yeni salmastralara benzer güvenilirlik sağlamak için performans doğrulanır.",
+      "saveTitle": "PERFORMANSTAN ÖDÜN VERMEDEN — YENİLEME YOLUYLA TASARRUF EDİN",
+      "lappingTitle": "LAPLAMA VE PARLATMA",
+      "lappingPara1": "Sızdırmazlık, hassas laplama ve parlatmaya bağlıdır. Üstün yüzey kalitesi elde etmek için yüksek kaliteli laplama bileşikleri ve özel kimyasallar kullanıyoruz.",
+      "lappingPara2": "Salmastra yüzey düzlüğü monokromatik helyum ışığı altında kontrol edilerek hassasiyet, dayanıklılık ve güvenilir performans sağlanır.",
+      "supportTitle": "SATIŞ SONRASI DESTEK",
+      "supportPara": "Eğitimli servis mühendislerimiz, servis sorunlarını verimli bir şekilde çözmek için hızlı yanıt, teknik yardım ve orijinal yedek parçalar sağlar. Ayrıca, sorunsuz kullanım ve acil durumlar için müşteri bakım ekiplerine rehberlik ediyoruz.",
+      "packingTitle": "PAKETLEME VE EĞİTİM",
+      "packingPara": "Tüm salmastra bileşenleri, nakliye sırasında hasarı önlemek için çoklu koruyucu katmanlarla güvenli bir şekilde paketlenir. Ayrıca müşteri ekiplerine teknik eğitim ve gösterimler sunarak salmastra kullanımı ve sorun giderme becerilerini geliştirmelerine yardımcı oluyoruz."
+    }
+  },
+  "contactPage": {
+    "heading": "İLETİŞİME GEÇİN",
+    "tagline": "Birlikte Sızdırmaz\nÇözümler İnşa Edelim.",
+    "headOffice": {
+      "iconAlt": "Konum Simgesi",
+      "title": "Merkez Ofis",
+      "address": "Gala.No. 6/7 Balaji Industrial Estate 5/B S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208"
+    },
+    "phone": {
+      "iconAlt": "Telefon Simgesi",
+      "title": "Bize Ulaşın",
+      "number": "+91 9561444777"
+    },
+    "email": {
+      "iconAlt": "E-posta Simgesi",
+      "title": "E-posta Gönderin",
+      "address": "info@maredianseals.com"
+    },
+    "workingHours": {
+      "monSatLabel": "Pazartesi – Cumartesi:",
+      "monSatTime": "09:00 – 19:00",
+      "sunLabel": "Pazar:",
+      "sunTime": "Kapalı"
+    },
+    "social": {
+      "heading": "Sosyal Medyamızı Takip Edin:",
+      "facebook": "Facebook",
+      "linkedin": "LinkedIn",
+      "whatsapp": "WhatsApp",
+      "instagram": "Instagram"
+    },
+    "form": {
+      "heading": "TEKLİF TALEBİ",
+      "companyNameLabel": "Şirket Adı",
+      "companyNamePlaceholder": "Şirket adınızı girin",
+      "yourNameLabel": "Ad Soyad",
+      "yourNamePlaceholder": "Adınızı girin",
+      "contactDetailsLabel": "İletişim Bilgileri",
+      "contactDetailsPlaceholder": "Telefon numarasını girin",
+      "emailLabel": "E-posta",
+      "emailPlaceholder": "E-posta adresini girin",
+      "productSelectLabel": "Ürün Seçimi",
+      "productSelectPlaceholder": "Ürün Seçin",
+      "addressLabel": "Adres / Şehir / Konum",
+      "addressPlaceholder": "Adresi girin",
+      "questionLabel": "Soru veya Gereksinim",
+      "questionPlaceholder": "Mesajınızı girin",
+      "submitBtn": "Gönder"
+    },
+    "map": {
+      "iframeAlt": "Şirket Konum Haritası"
+    }
+  },
+  "footer": {
+    "address": "Gala.No. 6/7 Balaji Industrial Estate 5/B S.No 46/47 Behind Jayambe Estate Dhumal Nagar Waliv 401208",
+    "follow": "Bizi Takip Edin:",
+    "quickLinks": "HIZLI BAĞLANTILAR",
+    "productsTitle": "ÜRÜNLERİMİZ",
+    "links": {
+      "home": "Ana Sayfa",
+      "about": "Hakkımızda",
+      "products": "Ürünler",
+      "services": "Hizmetler",
+      "quality": "Kalite",
+      "contact": "İletişim"
+    },
+    "products": {
+      "pusher": "İtici Tip Salmastralar",
+      "single": "Tek Yaylı Salmastra",
+      "multi": "Çok Yaylı Salmastra",
+      "textile": "Tekstil Salmastrası",
+      "teflon": "Teflon Körüklü Salmastralar",
+      "metal": "Metal Körüklü Mekanik Salmastra",
+      "splitSeals": "Bölünmüş Salmastralar",
+      "boilerFeedWaterSeals": "Kazan Besleme Suyu Salmastraları",
+      "highPressureSeal": "Yüksek Basınç Salmastrası",
+      "drySeals": "Kuru Çalışan Salmastralar",
+      "cartridgeSingleActing": "Kartuş Tek Etkili",
+      "cartridgeDoubleActing": "Kartuş Çift Etkili",
+      "thermosyphonSealSupportSystem": "Termosifon Salmastra Destek Sistemi"
+    },
+    "copyright": "© 2026 Maredian Seals. Tüm Hakları Saklıdır. | Gizlilik Politikası | Kullanım Koşulları"
+  }
 }
