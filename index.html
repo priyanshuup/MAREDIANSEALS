@@ -5,9 +5,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title data-i18n="head.titleHome">Home</title>
+
+    <!-- Favicon -->
     <link rel="icon" type="image/png" href="./images/about/section2/Icon-1.png">
+
+    <!-- Preconnect for CDN -->
+    <link rel="preconnect" href="https://cdn.jsdelivr.net">
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com">
+
+    <link rel="preload" as="video" href="./images/homepage/Sllde 2.mp4" type="video/mp4">
+    <link rel="preload" as="video" href="./images/homepage/Slider - - 1.mp4" type="video/mp4">
+
+    <!-- Swiper CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+
+    <!-- Font Awesome (consider self-hosting later) -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <!-- Main CSS -->
     <link rel="stylesheet" href="./css/style.css">
 </head>
 
@@ -104,7 +119,9 @@
 
 
                     <div class="hero-bg">
-                        <video src="./images/homepage/Sllde 2.mp4" autoplay muted loop playsinline class="hero-video">
+                        <video class="hero-video" autoplay muted loop playsinline preload="auto"
+                            poster="./images/homepage/video-poster.jpg">
+                            <source src="./images/homepage/Sllde 2.mp4" type="video/mp4">
                         </video>
                     </div>
 
@@ -113,9 +130,11 @@
                         <div class="hero-left">
                             <div class="hero-text-content">
 
-                                <h1 class="hero-title" data-i18n="hero.slide1.title">Sealing the Future with Precision & Performance</h1>
+                                <h1 class="hero-title" data-i18n="hero.slide1.title">Sealing the Future with Precision &
+                                    Performance</h1>
 
-                                <p class="hero-description" data-i18n="hero.slide1.desc">Industry-leading mechanical seals designed for reliability and efficiency in demanding applications.</p>
+                                <p class="hero-description" data-i18n="hero.slide1.desc">Industry-leading mechanical
+                                    seals designed for reliability and efficiency in demanding applications.</p>
 
                                 <a href="#" class="hero-cta" data-i18n="hero.slide1.cta">Explore Products</a>
 
@@ -135,8 +154,9 @@
                 <div class="swiper-slide hero-slide">
 
                     <div class="hero-bg">
-                        <video src="./images/homepage/Slider - - 1.mp4" autoplay muted loop playsinline
-                            class="hero-video">
+                        <video class="hero-video" autoplay muted loop playsinline preload="auto"
+                            poster="./images/homepage/video-poster2.jpg">
+                            <source src="./images/homepage/Slider - - 1.mp4" type="video/mp4">
                         </video>
                     </div>
 
@@ -144,9 +164,11 @@
                         <div class="hero-left">
                             <div class="hero-text-content">
 
-                                <h1 class="hero-title" data-i18n="hero.slide2.title">Innovation in Mechanical Sealing Solutions</h1>
+                                <h1 class="hero-title" data-i18n="hero.slide2.title">Innovation in Mechanical Sealing
+                                    Solutions</h1>
 
-                                <p class="hero-description" data-i18n="hero.slide2.desc">Premium quality seals engineered for maximum performance in industrial applications worldwide.</p>
+                                <p class="hero-description" data-i18n="hero.slide2.desc">Premium quality seals
+                                    engineered for maximum performance in industrial applications worldwide.</p>
 
                                 <a href="#" class="hero-cta" data-i18n="hero.slide2.cta">Learn More</a>
 
@@ -291,7 +313,8 @@
                     <div class="swiper-slide">
                         <div class="product-card">
                             <div class="product-image">
-                                <img src="./images/section2/Pusher-Seals.png" alt="Pusher Seals">
+                                <img src="./images/section2/Pusher-Seals.png" alt="Pusher Seals" loading="lazy"
+                                    decoding="async">
                             </div>
                             <h3 class="product-title" data-i18n="hero.products.items.pusher.title"></h3>
                             <div class="product-divider"></div>
@@ -308,7 +331,8 @@
                     <div class="swiper-slide">
                         <div class="product-card">
                             <div class="product-image">
-                                <img src="./images/section2/Textile-Seal (1).png" alt="Textile Seal">
+                                <img src="./images/section2/Textile-Seal (1).png" alt="Textile Seal" loading="lazy"
+                                    decoding="async">
                             </div>
                             <h3 class="product-title" data-i18n="hero.products.items.textile.title"></h3>
                             <div class="product-divider"></div>
@@ -325,7 +349,8 @@
                     <div class="swiper-slide">
                         <div class="product-card">
                             <div class="product-image">
-                                <img src="./images/section2/Single spring seal 2.png" alt="Single Spring Seal">
+                                <img src="./images/section2/Single spring seal 2.png" alt="Single Spring Seal"
+                                    loading="lazy" decoding="async">
                             </div>
                             <h3 class="product-title" data-i18n="hero.products.items.singleSpring.title"></h3>
                             <div class="product-divider"></div>
@@ -342,7 +367,8 @@
                     <div class="swiper-slide">
                         <div class="product-card">
                             <div class="product-image">
-                                <img src="./images/section2/Multi spring seal1.png" alt="Multi Spring Seal">
+                                <img src="./images/section2/Multi spring seal1.jpg" alt="Multi Spring Seal"
+                                    loading="lazy" decoding="async">
                             </div>
                             <h3 class="product-title" data-i18n="hero.products.items.multiSpring.title"></h3>
                             <div class="product-divider"></div>
@@ -359,7 +385,8 @@
                     <div class="swiper-slide">
                         <div class="product-card">
                             <div class="product-image">
-                                <img src="./images/section2/Multi spring seal1.png" alt="Multi Spring Seal">
+                                <img src="./images/section2/Multi spring seal1.jpg" alt="Multi Spring Seal"
+                                    loading="lazy" decoding="async">
                             </div>
                             <h3 class="product-title" data-i18n="hero.products.items.multiSpring.title"></h3>
                             <div class="product-divider"></div>
@@ -431,15 +458,18 @@
                     <div class="image-group">
                         <div class="main-image-wrapper">
                             <div class="main-image image-1">
-                                <img src="./images/section3/Image-2.png" alt="Industrial Facility">
+                                <img src="./images/section3/Image-2.jpg" alt="Industrial Facility" loading="lazy"
+                                    decoding="async">
                             </div>
                             <div class="sub-image">
-                                <img src="./images/section3/Product-12.png" alt="Mechanical Seal">
+                                <img src="./images/section3/Product-12.png" alt="Mechanical Seal" loading="lazy"
+                                    decoding="async">
                             </div>
                         </div>
 
                         <div class="main-image image-2">
-                            <img src="./images/section3/Image-1.png" alt="Sealing Products">
+                            <img src="./images/section3/Image-1.jpg" alt="Sealing Products" loading="lazy"
+                                decoding="async">
                         </div>
                     </div>
                 </div>
@@ -450,7 +480,7 @@
 
     <section class="industries-section">
         <div class="industries-bg">
-            <img src="./images/section4/Bg6.png" alt="Industrial Background">
+            <img src="./images/section4/Bg6.jpg" alt="Industrial Background" loading="lazy" decoding="async">
         </div>
 
         <div class="container">
@@ -462,19 +492,19 @@
             <div class="industries-grid">
                 <div class="industry-card">
                     <div class="industry-image">
-                        <img src="./images/section4/Image-3.png" alt="Petrochemicals">
+                        <img src="./images/section4/Image-3.png" alt="Petrochemicals" loading="lazy" decoding="async">
                     </div>
                 </div>
 
                 <div class="industry-card">
                     <div class="industry-image">
-                        <img src="./images/section4/Image-4.png" alt="Oil & Gas">
+                        <img src="./images/section4/Image-4.png" alt="Oil & Gas" loading="lazy" decoding="async">
                     </div>
                 </div>
 
                 <div class="industry-card">
                     <div class="industry-image">
-                        <img src="./images/section4/Image-5.png" alt="Power Plants">
+                        <img src="./images/section4/Image-5.png" alt="Power Plants" loading="lazy" decoding="async">
                     </div>
                 </div>
             </div>
@@ -496,13 +526,15 @@
                             <h3 data-i18n="hero.whyChoose.items.delivery"></h3>
                         </div>
                         <div class="hexagon-image">
-                            <img src="./images/section5/Icon-6.png" alt="Quick Delivery">
+                            <img src="./images/section5/Icon-6.png" alt="Quick Delivery" loading="lazy"
+                                decoding="async">
                         </div>
                     </div>
 
                     <div class="hex-wrapper hex-2">
                         <div class="hexagon-image">
-                            <img src="./images/section5/Icon-8.png" alt="Engineering Expertise">
+                            <img src="./images/section5/Icon-8.png" alt="Engineering Expertise" loading="lazy"
+                                decoding="async">
                         </div>
                         <div class="hex-label right-label">
                             <h3 data-i18n="hero.whyChoose.items.expertise"></h3>
@@ -517,13 +549,14 @@
                             <h3 data-i18n="hero.whyChoose.items.leakproof"></h3>
                         </div>
                         <div class="hexagon-image">
-                            <img src="./images/section5/Icon-5.png" alt="Leak-Proof">
+                            <img src="./images/section5/Icon-5.png" alt="Leak-Proof" loading="lazy" decoding="async">
                         </div>
                     </div>
 
                     <div class="hex-wrapper hex-4 center-hex">
                         <div class="hexagon-image">
-                            <img src="./images/section5/Icon-7.png" alt="Trusted by Clients">
+                            <img src="./images/section5/Icon-7.png" alt="Trusted by Clients" loading="lazy"
+                                decoding="async">
                         </div>
                         <div class="hex-label center-label">
                             <h3 data-i18n="hero.whyChoose.items.trusted"></h3>
@@ -532,7 +565,8 @@
 
                     <div class="hex-wrapper hex-5">
                         <div class="hexagon-image">
-                            <img src="./images/section5/Icon-9.png" alt="Manufacturing Standards">
+                            <img src="./images/section5/Icon-9.png" alt="Manufacturing Standards" loading="lazy"
+                                decoding="async">
                         </div>
                         <div class="hex-label right-label">
                             <h3 data-i18n="hero.whyChoose.items.manufacturing"></h3>
