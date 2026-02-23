@@ -75,6 +75,7 @@ brochureBtn.forEach(btn => {
       };
 
       emailjs
+        // .send("service_urdb6qd", "template_q5bfmqs", params)
         .send("service_urdb6qd", "template_q5bfmqs", params)
         .then(() => {
           form.reset();
